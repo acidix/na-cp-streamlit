@@ -1,4 +1,3 @@
-import argparse
 import os
 import time
 import json
@@ -86,11 +85,6 @@ def create_donut(hex_colors, css_colors, percentages, title):
 
 if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser(description='content_pipeline', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument('--image_directory', default=None, type=str)
-    parser.add_argument('--json_directory', default=None, type=str)
-    args = parser.parse_args()
-
     # ----------------------
     # UI SETUP
     # ----------------------
@@ -103,8 +97,9 @@ if __name__ == "__main__":
     """
     st.markdown(custom_title, unsafe_allow_html=True)
     
-    directory_path = args.image_directory
-    json_directory_path = args.json_directory
+    # set directory path relative to current directory
+    directory_path = os.path.join(os.getcwd(), 'images')
+    json_directory_path = os.path.join(os.getcwd(), 'json_files')
     options = get_available_file_paths(directory_path)
     options = sorted(options, key=lambda x: x.split('/')[-1])
 
@@ -119,7 +114,7 @@ if __name__ == "__main__":
         stx.TabBarItemData(id=3, title="Use Case: Image Search", description=""),
     ], default=1)
 
-    args.image_name = sidebar.selectbox('Select an image', [option.split('/')[-1] for option in options])
+    image_name = sidebar.selectbox('Select an image', [option.split('/')[-1] for option in options])
     data_category = ['OCR', 'Image Parts', 'Labels', 'Face Analysis', 'Safe Search', 'Image Properties', 'Logo Detection', 'Landmark Detection', 'Web Detection']
     data_to_visualize = sidebar.selectbox('Select content category to visualize', data_category)
 
@@ -155,7 +150,7 @@ if __name__ == "__main__":
                     st.image(image, caption=st.session_state['images']['filenames'][i], use_column_width=False)
                 
     if chosen_id == '2':
-        image = Image.open(os.path.join(directory_path, args.image_name))
+        image = Image.open(os.path.join(directory_path, image_name))
         columns = st.columns(spec=2, gap='medium')
         columns[0] = columns[0].empty()
 
@@ -165,7 +160,7 @@ if __name__ == "__main__":
         with columns[1]:
             if annotate_button:
                 with st.spinner(f"Annotating the image..."):
-                    json_file = args.image_name.split('/')[-1].split('.')[0] + '.json'
+                    json_file = image_name.split('/')[-1].split('.')[0] + '.json'
                     json_path = os.path.join(json_directory_path, json_file)
                     with open(json_path) as f:
                         data = json.load(f)
@@ -199,7 +194,7 @@ if __name__ == "__main__":
                         st.code(words, language='text')
                 
                     elif data_to_visualize == 'Image Parts':
-                        recognized_parts = [key for key in data.keys() if key.startswith(args.image_name.split('/')[-1].split('.')[0] + '_recognized_part')]
+                        recognized_parts = [key for key in data.keys() if key.startswith(image_name.split('/')[-1].split('.')[0] + '_recognized_part')]
                         for recognized_part in recognized_parts:
                             part = data[recognized_part]
                             box = part['bounding_box']
@@ -216,7 +211,7 @@ if __name__ == "__main__":
                         image.close()
                         st.write(f'Image Parts Output: {len(recognized_parts)} parts found')
                         for recognized_part in recognized_parts:
-                            image = Image.open(os.path.join(directory_path, args.image_name))
+                            image = Image.open(os.path.join(directory_path, image_name))
                             part = data[recognized_part]
                             box = part['bounding_box']
                             width = box[0]
@@ -262,7 +257,7 @@ if __name__ == "__main__":
                                 for bounding_box in bounding_boxes:
                                     container = st.container()
                                     display_cols = container.columns(spec=3, gap='medium')
-                                    image = Image.open(os.path.join(directory_path, args.image_name))
+                                    image = Image.open(os.path.join(directory_path, image_name))
                                     width = bounding_box['Width']
                                     height = bounding_box['Height']
                                     left = bounding_box['Left']
@@ -282,7 +277,7 @@ if __name__ == "__main__":
                                     image.close()     
                                     container.divider()  
 
-                            recognized_parts = [key for key in data.keys() if key.startswith(args.image_name.split('/')[-1].split('.')[0] + '_recognized_part')]
+                            recognized_parts = [key for key in data.keys() if key.startswith(image_name.split('/')[-1].split('.')[0] + '_recognized_part')]
                             for recognized_part in recognized_parts:
                                 container = st.container()
                                 display_cols = container.columns(spec=3, gap='medium')
@@ -295,7 +290,7 @@ if __name__ == "__main__":
                                 left = box[2]
                                 top = box[3]
                                 
-                                image = Image.open(os.path.join(directory_path, args.image_name))
+                                image = Image.open(os.path.join(directory_path, image_name))
                                 image_part = image.crop((width, height, left, top))
                                 
                                 with display_cols[0]:
@@ -334,7 +329,7 @@ if __name__ == "__main__":
                                 y1 = int(top * image_height)
                                 x2 = int((left + width) * image_width)
                                 y2 = int((top + height) * image_height)
-                                image = Image.open(os.path.join(directory_path, args.image_name))
+                                image = Image.open(os.path.join(directory_path, image_name))
                                 image_part = image.crop((x1, y1, x2, y2))
                                 with display_cols[0]:
                                     st.image(image_part, use_column_width=True)
