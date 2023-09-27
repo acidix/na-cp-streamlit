@@ -1,0 +1,490 @@
+{
+    "id": "image_1",
+    "url": "https://media.wpi.navigating.art/aa91e180-ba3d-11ea-b735-6df3b7acb8dd.jpg?signed=true&valid=1688456557&signature=Tw%2FmigjMjfl890qbTHrQC2%2FkHyQ0OQVfBAHZU7uFctqSDhmPYs9NkOwepY9Lkfhkii4E0hHWEP%2FgdSbldO4cnA%3D%3D",
+    "json": "development_test_job/image1/image1.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 100.0,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 100.0,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 99.42257690429688,
+                "label_boundings": [
+                    {
+                        "Width": 0.9881454110145569,
+                        "Height": 0.9049860835075378,
+                        "Left": 0.0015465164324268699,
+                        "Top": 0.08949173241853714
+                    }
+                ]
+            },
+            {
+                "label_name": "Male",
+                "label_confidence": 99.42257690429688,
+                "label_boundings": [
+                    {
+                        "Width": 0.9881454110145569,
+                        "Height": 0.9049860835075378,
+                        "Left": 0.0015465164324268699,
+                        "Top": 0.08949173241853714
+                    }
+                ]
+            },
+            {
+                "label_name": "Man",
+                "label_confidence": 99.42257690429688,
+                "label_boundings": [
+                    {
+                        "Width": 0.9881454110145569,
+                        "Height": 0.9049860835075378,
+                        "Left": 0.0015465164324268699,
+                        "Top": 0.08949173241853714
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.42257690429688,
+                "label_boundings": [
+                    {
+                        "Width": 0.9881454110145569,
+                        "Height": 0.9049860835075378,
+                        "Left": 0.0015465164324268699,
+                        "Top": 0.08949173241853714
+                    },
+                    {
+                        "Width": 0.1624908745288849,
+                        "Height": 0.5311888456344604,
+                        "Left": 0.8329761028289795,
+                        "Top": 0.007099319249391556
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 96.48123168945312,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 96.48123168945312,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Photography",
+                "label_confidence": 91.13986206054688,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 91.13986206054688,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.3801223933696747,
+                    "Height": 0.4269263446331024,
+                    "Left": 0.19264890253543854,
+                    "Top": 0.151332288980484
+                },
+                "face_confidence": 99.99894714355469,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.72987365722656,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.2419662475586,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99652862548828,
+                "face_gender": "Male",
+                "face_gender_confidence": 99.60960388183594,
+                "face_has_beard": false,
+                "face_beard_confidence": 54.720558166503906,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 92.15953063964844,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 99.51548767089844,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 87.86390686035156,
+                "face_pose_roll": -4.672991752624512,
+                "face_pose_yaw": 33.352081298828125,
+                "face_pose_pitch": -4.244376182556152,
+                "face_brightness": 74.5133285522461,
+                "face_sharpness": 99.39799499511719,
+                "emotion_type_calm": 97.73182678222656,
+                "emotion_type_surprised": 6.600739002227783,
+                "emotion_type_fear": 6.148082733154297,
+                "emotion_type_sad": 2.190328598022461,
+                "emotion_type_confused": 0.3065531849861145,
+                "emotion_type_disgusted": 0.23246163129806519,
+                "emotion_type_angry": 0.14139272272586823,
+                "emotion_type_happy": 0.04973285272717476
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.13364365696907043,
+                    "Height": 0.18163904547691345,
+                    "Left": 0.868428111076355,
+                    "Top": 0.05631961673498154
+                },
+                "face_confidence": 94.58507537841797,
+                "face_has_smile": false,
+                "face_smile_confidence": 92.552490234375,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 95.45020294189453,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.9953384399414,
+                "face_gender": "Female",
+                "face_gender_confidence": 65.80964660644531,
+                "face_has_beard": false,
+                "face_beard_confidence": 69.45169067382812,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 91.98162841796875,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 99.4174575805664,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 83.6782455444336,
+                "face_pose_roll": 9.317644119262695,
+                "face_pose_yaw": 13.56165599822998,
+                "face_pose_pitch": -0.26845329999923706,
+                "face_brightness": 66.64244079589844,
+                "face_sharpness": 99.74881744384766,
+                "emotion_type_sad": 80.9193115234375,
+                "emotion_type_calm": 51.17985534667969,
+                "emotion_type_surprised": 7.05743408203125,
+                "emotion_type_fear": 6.203831195831299,
+                "emotion_type_angry": 4.374569416046143,
+                "emotion_type_confused": 2.2991347312927246,
+                "emotion_type_disgusted": 1.9112648963928223,
+                "emotion_type_happy": 1.0124115943908691
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 58.05930709838867,
+                "overall_quality_sharpness": 33.65956497192383,
+                "overall_quality_contrast": 70.38627624511719,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 47.123130798339844,
+                "dominant_color_1_hex": "#696969",
+                "dominant_color_1_css": "dimgrey",
+                "dominant_color_1_pixelpercent": 27.67548942565918,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 12.313003540039062,
+                "dominant_color_3_hex": "#d2b48c",
+                "dominant_color_3_css": "tan",
+                "dominant_color_3_pixelpercent": 4.660529136657715,
+                "dominant_color_4_hex": "#cd853f",
+                "dominant_color_4_css": "peru",
+                "dominant_color_4_pixelpercent": 3.3371691703796387,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 2.9344074726104736,
+                "dominant_color_6_hex": "#a0522d",
+                "dominant_color_6_css": "sienna",
+                "dominant_color_6_pixelpercent": 0.9781357645988464,
+                "dominant_color_7_hex": "#bdb76b",
+                "dominant_color_7_css": "darkkhaki",
+                "dominant_color_7_pixelpercent": 0.9781357645988464,
+                "foreground_quality_brightness": 66.61009979248047,
+                "foreground_quality_sharpness": 43.76921844482422,
+                "foreground_dominant_color_0_hex": "#808080",
+                "foreground_dominant_color_0_css": "gray",
+                "foreground_dominant_color_0_pixelpercent": 36.764705657958984,
+                "foreground_dominant_color_1_hex": "#696969",
+                "foreground_dominant_color_1_css": "dimgrey",
+                "foreground_dominant_color_1_pixelpercent": 26.83823585510254,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 24.264705657958984,
+                "foreground_dominant_color_3_hex": "#d2b48c",
+                "foreground_dominant_color_3_css": "tan",
+                "foreground_dominant_color_3_pixelpercent": 9.558823585510254,
+                "foreground_dominant_color_4_hex": "#bc8f8f",
+                "foreground_dominant_color_4_css": "rosybrown",
+                "foreground_dominant_color_4_pixelpercent": 1.654411792755127,
+                "foreground_dominant_color_5_hex": "#a0522d",
+                "foreground_dominant_color_5_css": "sienna",
+                "foreground_dominant_color_5_pixelpercent": 0.9191176295280457,
+                "background_quality_brightness": 56.91299057006836,
+                "background_quality_sharpness": 31.6295166015625,
+                "background_dominant_color_0_hex": "#2f4f4f",
+                "background_dominant_color_0_css": "darkslategrey",
+                "background_dominant_color_0_pixelpercent": 65.88432312011719,
+                "background_dominant_color_1_hex": "#696969",
+                "background_dominant_color_1_css": "dimgrey",
+                "background_dominant_color_1_pixelpercent": 25.733444213867188,
+                "background_dominant_color_2_hex": "#cd853f",
+                "background_dominant_color_2_css": "peru",
+                "background_dominant_color_2_pixelpercent": 5.0293378829956055,
+                "background_dominant_color_3_hex": "#000000",
+                "background_dominant_color_3_css": "black",
+                "background_dominant_color_3_pixelpercent": 2.095557451248169,
+                "background_dominant_color_4_hex": "#a0522d",
+                "background_dominant_color_4_css": "sienna",
+                "background_dominant_color_4_pixelpercent": 1.2573344707489014
+            }
+        ],
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "OCR": {}
+    },
+    "image1_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.99990844726562,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.99990844726562,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 99.3543472290039,
+                "label_boundings": [
+                    {
+                        "Width": 0.9956067800521851,
+                        "Height": 0.9052435755729675,
+                        "Left": 0.0,
+                        "Top": 0.08890578150749207
+                    }
+                ]
+            },
+            {
+                "label_name": "Male",
+                "label_confidence": 99.3543472290039,
+                "label_boundings": [
+                    {
+                        "Width": 0.9956067800521851,
+                        "Height": 0.9052435755729675,
+                        "Left": 0.0,
+                        "Top": 0.08890578150749207
+                    }
+                ]
+            },
+            {
+                "label_name": "Man",
+                "label_confidence": 99.3543472290039,
+                "label_boundings": [
+                    {
+                        "Width": 0.9956067800521851,
+                        "Height": 0.9052435755729675,
+                        "Left": 0.0,
+                        "Top": 0.08890578150749207
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.3543472290039,
+                "label_boundings": [
+                    {
+                        "Width": 0.9956067800521851,
+                        "Height": 0.9052435755729675,
+                        "Left": 0.0,
+                        "Top": 0.08890578150749207
+                    },
+                    {
+                        "Width": 0.16438893973827362,
+                        "Height": 0.5292229056358337,
+                        "Left": 0.8310980200767517,
+                        "Top": 0.009498046711087227
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 98.42222595214844,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 98.42222595214844,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Photography",
+                "label_confidence": 98.42222595214844,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 98.42222595214844,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.3724418580532074,
+                    "Height": 0.42730119824409485,
+                    "Left": 0.20213200151920319,
+                    "Top": 0.14754125475883484
+                },
+                "face_confidence": 99.99854278564453,
+                "face_has_smile": false,
+                "face_smile_confidence": 93.97525787353516,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.70081329345703,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99616241455078,
+                "face_gender": "Male",
+                "face_gender_confidence": 94.2356185913086,
+                "face_has_beard": false,
+                "face_beard_confidence": 67.3563232421875,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 93.24089050292969,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 99.94825744628906,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 85.8835678100586,
+                "face_pose_roll": -5.212387561798096,
+                "face_pose_yaw": 31.603939056396484,
+                "face_pose_pitch": -1.5840502977371216,
+                "face_brightness": 69.61444091796875,
+                "face_sharpness": 99.39799499511719,
+                "emotion_type_calm": 94.2774658203125,
+                "emotion_type_fear": 6.712250232696533,
+                "emotion_type_surprised": 6.401185512542725,
+                "emotion_type_sad": 2.7259490489959717,
+                "emotion_type_disgusted": 1.1173394918441772,
+                "emotion_type_confused": 0.17532284557819366,
+                "emotion_type_happy": 0.16051173210144043,
+                "emotion_type_angry": 0.1450866311788559
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.12941297888755798,
+                    "Height": 0.18174093961715698,
+                    "Left": 0.8718245625495911,
+                    "Top": 0.055277369916439056
+                },
+                "face_confidence": 95.95299530029297,
+                "face_has_smile": false,
+                "face_smile_confidence": 90.30184173583984,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.20614624023438,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99588775634766,
+                "face_gender": "Female",
+                "face_gender_confidence": 77.89716339111328,
+                "face_has_beard": false,
+                "face_beard_confidence": 68.06404876708984,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 89.57328033447266,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 99.97721099853516,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 72.3643798828125,
+                "face_pose_roll": 12.1312894821167,
+                "face_pose_yaw": 9.110445976257324,
+                "face_pose_pitch": 2.3025593757629395,
+                "face_brightness": 65.82954406738281,
+                "face_sharpness": 99.74881744384766,
+                "emotion_type_sad": 49.5413818359375,
+                "emotion_type_calm": 44.59988021850586,
+                "emotion_type_fear": 11.909063339233398,
+                "emotion_type_surprised": 7.596830368041992,
+                "emotion_type_angry": 5.579254150390625,
+                "emotion_type_disgusted": 3.9706614017486572,
+                "emotion_type_confused": 3.0223066806793213,
+                "emotion_type_happy": 2.2774417400360107
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 57.46830749511719,
+                "overall_quality_sharpness": 32.43536376953125,
+                "overall_quality_contrast": 58.669376373291016,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 40.33290481567383,
+                "dominant_color_1_hex": "#696969",
+                "dominant_color_1_css": "dimgrey",
+                "dominant_color_1_pixelpercent": 37.964149475097656,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 11.011523246765137,
+                "dominant_color_3_hex": "#87ceeb",
+                "dominant_color_3_css": "skyblue",
+                "dominant_color_3_pixelpercent": 7.106274127960205,
+                "dominant_color_4_hex": "#000000",
+                "dominant_color_4_css": "black",
+                "dominant_color_4_pixelpercent": 2.1126761436462402,
+                "dominant_color_5_hex": "#483d8b",
+                "dominant_color_5_css": "darkslateblue",
+                "dominant_color_5_pixelpercent": 1.0243277549743652,
+                "dominant_color_6_hex": "#4682b4",
+                "dominant_color_6_css": "steelblue",
+                "dominant_color_6_pixelpercent": 0.4481433928012848,
+                "foreground_quality_brightness": 66.16632843017578,
+                "foreground_quality_sharpness": 40.24300003051758,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 33.03769302368164,
+                "foreground_dominant_color_1_hex": "#696969",
+                "foreground_dominant_color_1_css": "dimgrey",
+                "foreground_dominant_color_1_pixelpercent": 17.516630172729492,
+                "foreground_dominant_color_2_hex": "#778899",
+                "foreground_dominant_color_2_css": "lightslategrey",
+                "foreground_dominant_color_2_pixelpercent": 12.860310554504395,
+                "foreground_dominant_color_3_hex": "#708090",
+                "foreground_dominant_color_3_css": "slategrey",
+                "foreground_dominant_color_3_pixelpercent": 11.086474418640137,
+                "foreground_dominant_color_4_hex": "#5f9ea0",
+                "foreground_dominant_color_4_css": "cadetblue",
+                "foreground_dominant_color_4_pixelpercent": 10.421285629272461,
+                "foreground_dominant_color_5_hex": "#87ceeb",
+                "foreground_dominant_color_5_css": "skyblue",
+                "foreground_dominant_color_5_pixelpercent": 7.095343589782715,
+                "foreground_dominant_color_6_hex": "#a9a9a9",
+                "foreground_dominant_color_6_css": "darkgrey",
+                "foreground_dominant_color_6_pixelpercent": 7.095343589782715,
+                "foreground_dominant_color_7_hex": "#4682b4",
+                "foreground_dominant_color_7_css": "steelblue",
+                "foreground_dominant_color_7_pixelpercent": 0.8869179487228394,
+                "background_quality_brightness": 56.30198669433594,
+                "background_quality_sharpness": 28.29132652282715,
+                "background_dominant_color_0_hex": "#2f4f4f",
+                "background_dominant_color_0_css": "darkslategrey",
+                "background_dominant_color_0_pixelpercent": 54.70737838745117,
+                "background_dominant_color_1_hex": "#696969",
+                "background_dominant_color_1_css": "dimgrey",
+                "background_dominant_color_1_pixelpercent": 35.87786102294922,
+                "background_dominant_color_2_hex": "#5f9ea0",
+                "background_dominant_color_2_css": "cadetblue",
+                "background_dominant_color_2_pixelpercent": 5.597964286804199,
+                "background_dominant_color_3_hex": "#000000",
+                "background_dominant_color_3_css": "black",
+                "background_dominant_color_3_pixelpercent": 2.5445291996002197,
+                "background_dominant_color_4_hex": "#483d8b",
+                "background_dominant_color_4_css": "darkslateblue",
+                "background_dominant_color_4_pixelpercent": 0.8905852437019348,
+                "background_dominant_color_5_hex": "#4682b4",
+                "background_dominant_color_5_css": "steelblue",
+                "background_dominant_color_5_pixelpercent": 0.38167938590049744
+            }
+        ],
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "bounding_box": [
+            0,
+            0,
+            6285,
+            8397
+        ]
+    }
+}

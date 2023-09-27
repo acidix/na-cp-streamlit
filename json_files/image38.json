@@ -1,0 +1,1702 @@
+{
+    "id": "image_38",
+    "url": "https://media.dv.navigatingart.de/f7db4630-72cc-4694-8d13-8b3ee447e5a1.jpg?signed=true&valid=1695733328&signature=rmM9egYZC%2FtyllliXilyPYYCtnHLKuRvcroUw38lcbGVd1Ikip5c4w0pVf0uOoSD5ZkxBdXqXgnaIYl0AVPR1A%3D%3D",
+    "json": "development_test_job/image38/image38.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.99938201904297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.99938201904297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 97.5565185546875,
+                "label_boundings": [
+                    {
+                        "Width": 0.7230848073959351,
+                        "Height": 0.6603001356124878,
+                        "Left": 0.1552152931690216,
+                        "Top": 0.10188878327608109
+                    },
+                    {
+                        "Width": 0.19449493288993835,
+                        "Height": 0.14592105150222778,
+                        "Left": 0.40997904539108276,
+                        "Top": 0.2237209528684616
+                    }
+                ]
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 96.44194030761719,
+                "label_boundings": [
+                    {
+                        "Width": 0.19449493288993835,
+                        "Height": 0.14592105150222778,
+                        "Left": 0.40997904539108276,
+                        "Top": 0.2237209528684616
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 96.44194030761719,
+                "label_boundings": [
+                    {
+                        "Width": 0.19449493288993835,
+                        "Height": 0.14592105150222778,
+                        "Left": 0.40997904539108276,
+                        "Top": 0.2237209528684616
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 96.44194030761719,
+                "label_boundings": [
+                    {
+                        "Width": 0.19449493288993835,
+                        "Height": 0.14592105150222778,
+                        "Left": 0.40997904539108276,
+                        "Top": 0.2237209528684616
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 91.23194885253906,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 91.23194885253906,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 75.98190307617188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Advertisement",
+                "label_confidence": 63.503761291503906,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.15126419067382812,
+                    "Height": 0.16869482398033142,
+                    "Left": 0.4134477376937866,
+                    "Top": 0.20155176520347595
+                },
+                "face_confidence": 99.9911880493164,
+                "face_has_smile": false,
+                "face_smile_confidence": 95.167724609375,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.49103546142578,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99662780761719,
+                "face_gender": "Female",
+                "face_gender_confidence": 84.14681243896484,
+                "face_has_beard": false,
+                "face_beard_confidence": 80.7481918334961,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.38582611083984,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 97.0074691772461,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 95.2811508178711,
+                "face_pose_roll": -1.119152307510376,
+                "face_pose_yaw": -21.160715103149414,
+                "face_pose_pitch": -1.310767412185669,
+                "face_brightness": 70.27671813964844,
+                "face_sharpness": 73.32209777832031,
+                "emotion_type_calm": 99.80203247070312,
+                "emotion_type_surprised": 6.25446891784668,
+                "emotion_type_fear": 5.875878810882568,
+                "emotion_type_sad": 2.187117576599121,
+                "emotion_type_confused": 0.03155560791492462,
+                "emotion_type_disgusted": 0.01370963267982006,
+                "emotion_type_angry": 0.007401181850582361,
+                "emotion_type_happy": 0.0037435111589729786
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 50.10846710205078,
+                "overall_quality_sharpness": 42.11319351196289,
+                "overall_quality_contrast": 60.577579498291016,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 38.826576232910156,
+                "dominant_color_1_hex": "#000000",
+                "dominant_color_1_css": "black",
+                "dominant_color_1_pixelpercent": 36.58325958251953,
+                "dominant_color_2_hex": "#696969",
+                "dominant_color_2_css": "dimgrey",
+                "dominant_color_2_pixelpercent": 10.526315689086914,
+                "dominant_color_3_hex": "#8b4513",
+                "dominant_color_3_css": "saddlebrown",
+                "dominant_color_3_pixelpercent": 9.749784469604492,
+                "dominant_color_4_hex": "#808080",
+                "dominant_color_4_css": "gray",
+                "dominant_color_4_pixelpercent": 4.314064025878906,
+                "foreground_quality_brightness": 56.81377029418945,
+                "foreground_quality_sharpness": 63.39424514770508,
+                "foreground_dominant_color_0_hex": "#8b4513",
+                "foreground_dominant_color_0_css": "saddlebrown",
+                "foreground_dominant_color_0_pixelpercent": 38.775508880615234,
+                "foreground_dominant_color_1_hex": "#696969",
+                "foreground_dominant_color_1_css": "dimgrey",
+                "foreground_dominant_color_1_pixelpercent": 21.428571701049805,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 11.22449016571045,
+                "foreground_dominant_color_3_hex": "#800000",
+                "foreground_dominant_color_3_css": "maroon",
+                "foreground_dominant_color_3_pixelpercent": 10.714285850524902,
+                "foreground_dominant_color_4_hex": "#000000",
+                "foreground_dominant_color_4_css": "black",
+                "foreground_dominant_color_4_pixelpercent": 8.418367385864258,
+                "foreground_dominant_color_5_hex": "#cd853f",
+                "foreground_dominant_color_5_css": "peru",
+                "foreground_dominant_color_5_pixelpercent": 6.63265323638916,
+                "foreground_dominant_color_6_hex": "#2f4f4f",
+                "foreground_dominant_color_6_css": "darkslategrey",
+                "foreground_dominant_color_6_pixelpercent": 2.8061225414276123,
+                "background_quality_brightness": 47.30070495605469,
+                "background_quality_sharpness": 36.26154327392578,
+                "background_dominant_color_0_hex": "#000000",
+                "background_dominant_color_0_css": "black",
+                "background_dominant_color_0_pixelpercent": 46.1588134765625,
+                "background_dominant_color_1_hex": "#2f4f4f",
+                "background_dominant_color_1_css": "darkslategrey",
+                "background_dominant_color_1_pixelpercent": 40.606842041015625,
+                "background_dominant_color_2_hex": "#696969",
+                "background_dominant_color_2_css": "dimgrey",
+                "background_dominant_color_2_pixelpercent": 9.231762886047363,
+                "background_dominant_color_3_hex": "#800000",
+                "background_dominant_color_3_css": "maroon",
+                "background_dominant_color_3_pixelpercent": 4.00258207321167
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "National Portrait Gallery",
+                    "web_entity_confidence": 1.17216
+                },
+                {
+                    "web_entity_description": "Portrait",
+                    "web_entity_confidence": 1.0824
+                },
+                {
+                    "web_entity_description": "Pocahontas",
+                    "web_entity_confidence": 1.01355
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.6884
+                },
+                {
+                    "web_entity_description": "National Portrait Gallery",
+                    "web_entity_confidence": 0.65385
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.6437
+                },
+                {
+                    "web_entity_description": "Image",
+                    "web_entity_confidence": 0.617
+                },
+                {
+                    "web_entity_description": "Portrait painting",
+                    "web_entity_confidence": 0.5889
+                },
+                {
+                    "web_entity_description": "Original",
+                    "web_entity_confidence": 0.414
+                },
+                {
+                    "web_entity_description": "Pocahontas",
+                    "web_entity_confidence": 0.14949
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://ids.si.edu/ids/download?id=NPG-NPG_65_61Pocahontas_d1.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Unidentified_Artist_-_Pocahontas_-_Google_Art_Project.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Unidentified_Artist_-_Pocahontas_-_Google_Art_Project.jpg/1700px-Unidentified_Artist_-_Pocahontas_-_Google_Art_Project.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://ids.si.edu/ids/deliveryService?id=NPG-NPG_65_61Pocahontas_d1"
+                },
+                {
+                    "web_full_matching_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10220833709245133"
+                },
+                {
+                    "web_full_matching_image_url": "https://i0.wp.com/olumuse.org/wp-content/uploads/2021/03/image.png?fit=1351%2C1600&ssl=1"
+                },
+                {
+                    "web_full_matching_image_url": "https://cdn.britannica.com/52/187152-050-FE6545C4/Pocahontas-engraving-Simon-van-de-Passe.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://preview.redd.it/ghd0vlbz8g941.png?width=1334&format=png&auto=webp&s=404c52dcf4236c9f3ad1e7d9e05cdc9f03341d50"
+                },
+                {
+                    "web_full_matching_image_url": "https://theshowmeproject.com/wp-content/uploads/2020/06/Pocahontas.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.gilderlehrman.org/sites/default/files/essay-images/pocahontas_portrait_nprg.jpg"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://npg.si.edu/object/npg_NPG.65.61"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/story/who-is-pocahontas-national-portrait-gallery/JgVxSdC-wWCx5w?hl=en"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://npg.si.edu/podcasts/pondering-pocahontas"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.pocahontaslives.com/portraits.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.si.edu/object/pocahontas%3Anpg_NPG.65.61"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://npg.si.edu/blog/legends-pocahontas"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.journals.uchicago.edu/doi/pdfplus/10.1086/681656"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://commons.wikimedia.org/wiki/Category:Pocahontas_(after_Simon_van_de_Passe_-_National_Portrait_Gallery,_Washington)"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.dailyartmagazine.com/true-story-pocahontas/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.britannica.com/summary/Pocahontas-Powhatan-princess"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://www.1st-art-gallery.com/media/catalog/product/cache/9bad95616889b8b60a4bb85fbf2f33f9/b/a/base_20572525.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzIwMjEvMDkvMTgvcG9jYWhvbnRhcy1ieS11bmtub3duLWFmdGVyLXRoZS0xNjE2LWVuZ3JhdmluZy1ieS1zaW1vbi12YW4tZGUtcGFzc2UtMzdmNzZiLTY0MC5qcGc%3D/320/383/jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://l450v.alamy.com/450v/2fn8wtd/pocahontas-after-1616-2fn8wtd.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://l450v.alamy.com/450v/2ewp7a2/pocahontas-c1595-1617-native-american-woman-of-the-powhatan-people-portrait-painting-by-copy-after-simon-van-de-passe-1700-1799-possibly-18th-century-2ewp7a2.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "x-raw-image:///485a53443b99a5ae082d553fa9dcce7bd17fe3740cd56d7cf1e30df445ed42b4"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.lva.virginia.gov/exhibits/destiny/destiny_images/notable/Pocahontassm.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://nupocahontasproject.files.wordpress.com/2013/03/new-picture.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.VAH.5116230.7055475/322936.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.executivemansion.virginia.gov/media/governorvirginiagov/executive-mansion/new-q4-site/art-experience/rooms/1006.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://mdl.artvee.com/ft/217209fg.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "pocahontas portrait"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 90.14643859863281,
+                "text": "Wife to the wor.\" Mr Tho: Rolff.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.6312970519065857,
+                        "Height": 0.04484042897820473,
+                        "Left": 0.06637882441282272,
+                        "Top": 0.9519156813621521
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.06694038957357407,
+                            "Y": 0.9519156813621521
+                        },
+                        {
+                            "X": 0.697675883769989,
+                            "Y": 0.9634947180747986
+                        },
+                        {
+                            "X": 0.6971129775047302,
+                            "Y": 0.9967561364173889
+                        },
+                        {
+                            "X": 0.06637882441282272,
+                            "Y": 0.985206127166748
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 75.91993713378906,
+                "text": "Atatis",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1009649708867073,
+                        "Height": 0.029616227373480797,
+                        "Left": 0.3190072774887085,
+                        "Top": 0.7700680494308472
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3194759786128998,
+                            "Y": 0.7700680494308472
+                        },
+                        {
+                            "X": 0.4199722707271576,
+                            "Y": 0.7719388604164124
+                        },
+                        {
+                            "X": 0.419503390789032,
+                            "Y": 0.7996842861175537
+                        },
+                        {
+                            "X": 0.3190072774887085,
+                            "Y": 0.7978173494338989
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 79.90931701660156,
+                "text": "sua",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05819366127252579,
+                        "Height": 0.02007128857076168,
+                        "Left": 0.43256843090057373,
+                        "Top": 0.7810642123222351
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.43288949131965637,
+                            "Y": 0.7810642123222351
+                        },
+                        {
+                            "X": 0.4907621145248413,
+                            "Y": 0.782140851020813
+                        },
+                        {
+                            "X": 0.4904409945011139,
+                            "Y": 0.8011355400085449
+                        },
+                        {
+                            "X": 0.43256843090057373,
+                            "Y": 0.8000604510307312
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 98.88249969482422,
+                "text": "21.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03766598552465439,
+                        "Height": 0.017394594848155975,
+                        "Left": 0.5003229975700378,
+                        "Top": 0.7838231325149536
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5006053447723389,
+                            "Y": 0.7838231325149536
+                        },
+                        {
+                            "X": 0.5379890203475952,
+                            "Y": 0.7845184803009033
+                        },
+                        {
+                            "X": 0.5377066135406494,
+                            "Y": 0.8012177348136902
+                        },
+                        {
+                            "X": 0.5003229975700378,
+                            "Y": 0.8005232214927673
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 38.315895080566406,
+                "text": "A .1616.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.119055837392807,
+                        "Height": 0.03031710907816887,
+                        "Left": 0.5411193370819092,
+                        "Top": 0.7730931043624878
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5415947437286377,
+                            "Y": 0.7730931043624878
+                        },
+                        {
+                            "X": 0.6601752042770386,
+                            "Y": 0.7753007411956787
+                        },
+                        {
+                            "X": 0.659699559211731,
+                            "Y": 0.8034102320671082
+                        },
+                        {
+                            "X": 0.5411193370819092,
+                            "Y": 0.8012071847915649
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 99.46936798095703,
+                "text": "Matoaks",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.13450726866722107,
+                        "Height": 0.032921284437179565,
+                        "Left": 0.014074909500777721,
+                        "Top": 0.867084801197052
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.01458844542503357,
+                            "Y": 0.867084801197052
+                        },
+                        {
+                            "X": 0.14858217537403107,
+                            "Y": 0.8695601224899292
+                        },
+                        {
+                            "X": 0.1480683833360672,
+                            "Y": 0.9000060558319092
+                        },
+                        {
+                            "X": 0.014074909500777721,
+                            "Y": 0.8975363373756409
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 78.58867645263672,
+                "text": "ats",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.046264469623565674,
+                        "Height": 0.028101112693548203,
+                        "Left": 0.16873112320899963,
+                        "Top": 0.8678025007247925
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.1691911518573761,
+                            "Y": 0.8678025007247925
+                        },
+                        {
+                            "X": 0.2149956077337265,
+                            "Y": 0.8686488270759583
+                        },
+                        {
+                            "X": 0.21453550457954407,
+                            "Y": 0.8959035873413086
+                        },
+                        {
+                            "X": 0.16873112320899963,
+                            "Y": 0.8950589895248413
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_7": {
+                "confidence": 99.83507537841797,
+                "text": "Rebecka",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.12672112882137299,
+                        "Height": 0.028813036158680916,
+                        "Left": 0.228889599442482,
+                        "Top": 0.8678796887397766
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.22933673858642578,
+                            "Y": 0.8678796887397766
+                        },
+                        {
+                            "X": 0.355610728263855,
+                            "Y": 0.870212972164154
+                        },
+                        {
+                            "X": 0.3551633954048157,
+                            "Y": 0.8966927528381348
+                        },
+                        {
+                            "X": 0.228889599442482,
+                            "Y": 0.894364058971405
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_8": {
+                "confidence": 99.89000701904297,
+                "text": "daughter",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.14990998804569244,
+                        "Height": 0.03435268998146057,
+                        "Left": 0.37271207571029663,
+                        "Top": 0.8693904280662537
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3732459545135498,
+                            "Y": 0.8693904280662537
+                        },
+                        {
+                            "X": 0.5226220488548279,
+                            "Y": 0.8721508979797363
+                        },
+                        {
+                            "X": 0.5220878720283508,
+                            "Y": 0.9037431478500366
+                        },
+                        {
+                            "X": 0.37271207571029663,
+                            "Y": 0.9009892344474792
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_9": {
+                "confidence": 99.9757080078125,
+                "text": "to",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.027856290340423584,
+                        "Height": 0.02107909508049488,
+                        "Left": 0.5312957763671875,
+                        "Top": 0.8764351606369019
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5316436290740967,
+                            "Y": 0.8764351606369019
+                        },
+                        {
+                            "X": 0.5591520667076111,
+                            "Y": 0.8769433498382568
+                        },
+                        {
+                            "X": 0.5588042140007019,
+                            "Y": 0.8975142240524292
+                        },
+                        {
+                            "X": 0.5312957763671875,
+                            "Y": 0.8970068097114563
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_10": {
+                "confidence": 99.98377990722656,
+                "text": "the",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04978004842996597,
+                        "Height": 0.02572404220700264,
+                        "Left": 0.571540892124176,
+                        "Top": 0.8726203441619873
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5719605684280396,
+                            "Y": 0.8726203441619873
+                        },
+                        {
+                            "X": 0.6213209629058838,
+                            "Y": 0.8735325932502747
+                        },
+                        {
+                            "X": 0.6209011673927307,
+                            "Y": 0.8983443975448608
+                        },
+                        {
+                            "X": 0.571540892124176,
+                            "Y": 0.8974339365959167
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_11": {
+                "confidence": 99.84881591796875,
+                "text": "mighty",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.11829908937215805,
+                        "Height": 0.033951498568058014,
+                        "Left": 0.6323730945587158,
+                        "Top": 0.8708791136741638
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6329107284545898,
+                            "Y": 0.8708791136741638
+                        },
+                        {
+                            "X": 0.7506721615791321,
+                            "Y": 0.8730558156967163
+                        },
+                        {
+                            "X": 0.750134289264679,
+                            "Y": 0.9048305749893188
+                        },
+                        {
+                            "X": 0.6323730945587158,
+                            "Y": 0.9026590585708618
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_12": {
+                "confidence": 99.89069366455078,
+                "text": "Prince",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.11517386883497238,
+                        "Height": 0.03016311302781105,
+                        "Left": 0.7720423340797424,
+                        "Top": 0.871073305606842
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.772517204284668,
+                            "Y": 0.871073305606842
+                        },
+                        {
+                            "X": 0.8872162103652954,
+                            "Y": 0.8731938004493713
+                        },
+                        {
+                            "X": 0.8867411613464355,
+                            "Y": 0.9012364149093628
+                        },
+                        {
+                            "X": 0.7720423340797424,
+                            "Y": 0.8991203308105469
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 87.2970199584961,
+                "text": "Powhatan",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.16882352530956268,
+                        "Height": 0.031042464077472687,
+                        "Left": 0.010621343739330769,
+                        "Top": 0.8986832499504089
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.011092621833086014,
+                            "Y": 0.8986832499504089
+                        },
+                        {
+                            "X": 0.17944486439228058,
+                            "Y": 0.9017859697341919
+                        },
+                        {
+                            "X": 0.17897328734397888,
+                            "Y": 0.929725706577301
+                        },
+                        {
+                            "X": 0.010621343739330769,
+                            "Y": 0.9266294836997986
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_14": {
+                "confidence": 98.44544219970703,
+                "text": "Emperour",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.16352717578411102,
+                        "Height": 0.031802158802747726,
+                        "Left": 0.19674067199230194,
+                        "Top": 0.8995315432548523
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.1972268670797348,
+                            "Y": 0.8995315432548523
+                        },
+                        {
+                            "X": 0.36026784777641296,
+                            "Y": 0.902536928653717
+                        },
+                        {
+                            "X": 0.3597813546657562,
+                            "Y": 0.9313336610794067
+                        },
+                        {
+                            "X": 0.19674067199230194,
+                            "Y": 0.9283347129821777
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_15": {
+                "confidence": 99.94133758544922,
+                "text": "of",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03429335355758667,
+                        "Height": 0.026761051267385483,
+                        "Left": 0.37177684903144836,
+                        "Top": 0.899806797504425
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.37221845984458923,
+                            "Y": 0.899806797504425
+                        },
+                        {
+                            "X": 0.40607020258903503,
+                            "Y": 0.9004309177398682
+                        },
+                        {
+                            "X": 0.4056285321712494,
+                            "Y": 0.9265678524971008
+                        },
+                        {
+                            "X": 0.37177684903144836,
+                            "Y": 0.9259449243545532
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_16": {
+                "confidence": 52.11924743652344,
+                "text": "Attonoughkomouck",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.33812835812568665,
+                        "Height": 0.03823721781373024,
+                        "Left": 0.4060937166213989,
+                        "Top": 0.8974846005439758
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4066349267959595,
+                            "Y": 0.8974846005439758
+                        },
+                        {
+                            "X": 0.744222104549408,
+                            "Y": 0.9037102460861206
+                        },
+                        {
+                            "X": 0.7436801791191101,
+                            "Y": 0.9357218146324158
+                        },
+                        {
+                            "X": 0.4060937166213989,
+                            "Y": 0.9295110106468201
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_17": {
+                "confidence": 68.55429077148438,
+                "text": "at's",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04623479023575783,
+                        "Height": 0.027597060427069664,
+                        "Left": 0.7595708966255188,
+                        "Top": 0.9025418758392334
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.760023832321167,
+                            "Y": 0.9025418758392334
+                        },
+                        {
+                            "X": 0.8058056831359863,
+                            "Y": 0.9033862352371216
+                        },
+                        {
+                            "X": 0.8053526878356934,
+                            "Y": 0.9301389455795288
+                        },
+                        {
+                            "X": 0.7595708966255188,
+                            "Y": 0.9292962551116943
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_18": {
+                "confidence": 91.78093719482422,
+                "text": "Virginia",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.12489476054906845,
+                        "Height": 0.035483069717884064,
+                        "Left": 0.8123614192008972,
+                        "Top": 0.9028010368347168
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8129235506057739,
+                            "Y": 0.9028010368347168
+                        },
+                        {
+                            "X": 0.9372562170028687,
+                            "Y": 0.90509432554245
+                        },
+                        {
+                            "X": 0.9366937875747681,
+                            "Y": 0.9382840991020203
+                        },
+                        {
+                            "X": 0.8123614192008972,
+                            "Y": 0.9359965324401855
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_19": {
+                "confidence": 99.87584686279297,
+                "text": "converted",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1812865287065506,
+                        "Height": 0.032897792756557465,
+                        "Left": 0.014456680044531822,
+                        "Top": 0.9274577498435974
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.01495552808046341,
+                            "Y": 0.9274577498435974
+                        },
+                        {
+                            "X": 0.19574320316314697,
+                            "Y": 0.9307824969291687
+                        },
+                        {
+                            "X": 0.19524401426315308,
+                            "Y": 0.9603555798530579
+                        },
+                        {
+                            "X": 0.014456680044531822,
+                            "Y": 0.957038164138794
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_20": {
+                "confidence": 99.92955780029297,
+                "text": "and",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07070587575435638,
+                        "Height": 0.02762197144329548,
+                        "Left": 0.2112993448972702,
+                        "Top": 0.9282718300819397
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.21174387633800507,
+                            "Y": 0.9282718300819397
+                        },
+                        {
+                            "X": 0.2820052206516266,
+                            "Y": 0.9295642375946045
+                        },
+                        {
+                            "X": 0.2815605700016022,
+                            "Y": 0.9558938145637512
+                        },
+                        {
+                            "X": 0.2112993448972702,
+                            "Y": 0.9546039700508118
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_21": {
+                "confidence": 98.7134780883789,
+                "text": "baptized",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.16961950063705444,
+                        "Height": 0.040725402534008026,
+                        "Left": 0.2941633462905884,
+                        "Top": 0.9269418716430664
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2947987914085388,
+                            "Y": 0.9269418716430664
+                        },
+                        {
+                            "X": 0.4637828469276428,
+                            "Y": 0.9300509095191956
+                        },
+                        {
+                            "X": 0.46314701437950134,
+                            "Y": 0.967667281627655
+                        },
+                        {
+                            "X": 0.2941633462905884,
+                            "Y": 0.9645670652389526
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_22": {
+                "confidence": 99.8585205078125,
+                "text": "in",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03934754803776741,
+                        "Height": 0.030162975192070007,
+                        "Left": 0.4801420271396637,
+                        "Top": 0.928399920463562
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.48063987493515015,
+                            "Y": 0.928399920463562
+                        },
+                        {
+                            "X": 0.519489586353302,
+                            "Y": 0.929114818572998
+                        },
+                        {
+                            "X": 0.5189916491508484,
+                            "Y": 0.9585629105567932
+                        },
+                        {
+                            "X": 0.4801420271396637,
+                            "Y": 0.9578496217727661
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_23": {
+                "confidence": 99.9804458618164,
+                "text": "the",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05553417652845383,
+                        "Height": 0.027719955891370773,
+                        "Left": 0.5337873697280884,
+                        "Top": 0.9320167303085327
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5342389941215515,
+                            "Y": 0.9320167303085327
+                        },
+                        {
+                            "X": 0.589321494102478,
+                            "Y": 0.9330301284790039
+                        },
+                        {
+                            "X": 0.5888698101043701,
+                            "Y": 0.959736704826355
+                        },
+                        {
+                            "X": 0.5337873697280884,
+                            "Y": 0.9587253332138062
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_24": {
+                "confidence": 79.07194519042969,
+                "text": "Chriftian",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.16166214644908905,
+                        "Height": 0.03296804055571556,
+                        "Left": 0.6041475534439087,
+                        "Top": 0.9295247793197632
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6046551465988159,
+                            "Y": 0.9295247793197632
+                        },
+                        {
+                            "X": 0.7658097147941589,
+                            "Y": 0.9324904680252075
+                        },
+                        {
+                            "X": 0.7653017640113831,
+                            "Y": 0.962492823600769
+                        },
+                        {
+                            "X": 0.6041475534439087,
+                            "Y": 0.9595338702201843
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_25": {
+                "confidence": 77.43183135986328,
+                "text": "faith,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08328689634799957,
+                        "Height": 0.03824131563305855,
+                        "Left": 0.778028666973114,
+                        "Top": 0.929801881313324
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7786504626274109,
+                            "Y": 0.929801881313324
+                        },
+                        {
+                            "X": 0.8613156080245972,
+                            "Y": 0.9313234686851501
+                        },
+                        {
+                            "X": 0.860693633556366,
+                            "Y": 0.9680432081222534
+                        },
+                        {
+                            "X": 0.778028666973114,
+                            "Y": 0.9665258526802063
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_26": {
+                "confidence": 99.93633270263672,
+                "text": "and",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06957992911338806,
+                        "Height": 0.030300872400403023,
+                        "Left": 0.8668085932731628,
+                        "Top": 0.9342620372772217
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8673003315925598,
+                            "Y": 0.9342620372772217
+                        },
+                        {
+                            "X": 0.9363884925842285,
+                            "Y": 0.9355334639549255
+                        },
+                        {
+                            "X": 0.935896635055542,
+                            "Y": 0.9645629525184631
+                        },
+                        {
+                            "X": 0.8668085932731628,
+                            "Y": 0.9632943272590637
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_27": {
+                "confidence": 92.5444564819336,
+                "text": "Wife",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.10184266418218613,
+                        "Height": 0.03200574964284897,
+                        "Left": 0.06637882441282272,
+                        "Top": 0.9550560116767883
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.06688741594552994,
+                            "Y": 0.9550560116767883
+                        },
+                        {
+                            "X": 0.16822148859500885,
+                            "Y": 0.9569158554077148
+                        },
+                        {
+                            "X": 0.16771270334720612,
+                            "Y": 0.9870617389678955
+                        },
+                        {
+                            "X": 0.06637882441282272,
+                            "Y": 0.985206127166748
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_28": {
+                "confidence": 99.95301818847656,
+                "text": "to",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03378571197390556,
+                        "Height": 0.024033162742853165,
+                        "Left": 0.18587630987167358,
+                        "Top": 0.9626199007034302
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.18627165257930756,
+                            "Y": 0.9626199007034302
+                        },
+                        {
+                            "X": 0.21966202557086945,
+                            "Y": 0.9632325172424316
+                        },
+                        {
+                            "X": 0.2192666381597519,
+                            "Y": 0.9866530895233154
+                        },
+                        {
+                            "X": 0.18587630987167358,
+                            "Y": 0.9860416054725647
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_29": {
+                "confidence": 99.97962951660156,
+                "text": "the",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.052726756781339645,
+                        "Height": 0.027770409360527992,
+                        "Left": 0.24170845746994019,
+                        "Top": 0.9586816430091858
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.24216116964817047,
+                            "Y": 0.9586816430091858
+                        },
+                        {
+                            "X": 0.2944352328777313,
+                            "Y": 0.9596410393714905
+                        },
+                        {
+                            "X": 0.2939824163913727,
+                            "Y": 0.986452043056488
+                        },
+                        {
+                            "X": 0.24170845746994019,
+                            "Y": 0.9854945540428162
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_30": {
+                "confidence": 46.79236602783203,
+                "text": "wor.\"",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.11190829426050186,
+                        "Height": 0.03188090771436691,
+                        "Left": 0.3043167293071747,
+                        "Top": 0.9574674963951111
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3048207461833954,
+                            "Y": 0.9574674963951111
+                        },
+                        {
+                            "X": 0.41622504591941833,
+                            "Y": 0.95951247215271
+                        },
+                        {
+                            "X": 0.4157208204269409,
+                            "Y": 0.9893484115600586
+                        },
+                        {
+                            "X": 0.3043167293071747,
+                            "Y": 0.9873080253601074
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_31": {
+                "confidence": 96.24000549316406,
+                "text": "Mr",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.047647684812545776,
+                        "Height": 0.026747416704893112,
+                        "Left": 0.42197126150131226,
+                        "Top": 0.9586074948310852
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.42240867018699646,
+                            "Y": 0.9586074948310852
+                        },
+                        {
+                            "X": 0.46961894631385803,
+                            "Y": 0.9594742059707642
+                        },
+                        {
+                            "X": 0.46918147802352905,
+                            "Y": 0.9853549599647522
+                        },
+                        {
+                            "X": 0.42197126150131226,
+                            "Y": 0.984489917755127
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_32": {
+                "confidence": 99.48995208740234,
+                "text": "Tho:",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09484691917896271,
+                        "Height": 0.027550583705306053,
+                        "Left": 0.4834730327129364,
+                        "Top": 0.9625263810157776
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.483909547328949,
+                            "Y": 0.9625263810157776
+                        },
+                        {
+                            "X": 0.5783199667930603,
+                            "Y": 0.9642592072486877
+                        },
+                        {
+                            "X": 0.5778833031654358,
+                            "Y": 0.9900769591331482
+                        },
+                        {
+                            "X": 0.4834730327129364,
+                            "Y": 0.9883475303649902
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_33": {
+                "confidence": 96.02567291259766,
+                "text": "Rolff.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.10587698966264725,
+                        "Height": 0.03100557252764702,
+                        "Left": 0.5917989015579224,
+                        "Top": 0.961560070514679
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5922906994819641,
+                            "Y": 0.961560070514679
+                        },
+                        {
+                            "X": 0.697675883769989,
+                            "Y": 0.9634947180747986
+                        },
+                        {
+                            "X": 0.6971839070320129,
+                            "Y": 0.9925656318664551
+                        },
+                        {
+                            "X": 0.5917989015579224,
+                            "Y": 0.9906352162361145
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image38_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.91576385498047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.91576385498047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 96.61927032470703,
+                "label_boundings": [
+                    {
+                        "Width": 0.7228049635887146,
+                        "Height": 0.6930261850357056,
+                        "Left": 0.15379168093204498,
+                        "Top": 0.07014390081167221
+                    },
+                    {
+                        "Width": 0.19974760711193085,
+                        "Height": 0.15382306277751923,
+                        "Left": 0.40458324551582336,
+                        "Top": 0.21560730040073395
+                    }
+                ]
+            },
+            {
+                "label_name": "Glove",
+                "label_confidence": 96.05879211425781,
+                "label_boundings": [
+                    {
+                        "Width": 0.1845535933971405,
+                        "Height": 0.09288354218006134,
+                        "Left": 0.2987539768218994,
+                        "Top": 0.61055588722229
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 94.18262481689453,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 94.18262481689453,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Tape",
+                "label_confidence": 80.1615982055664,
+                "label_boundings": [
+                    {
+                        "Width": 0.4290585517883301,
+                        "Height": 0.37257832288742065,
+                        "Left": 0.45176008343696594,
+                        "Top": 0.3922300934791565
+                    }
+                ]
+            },
+            {
+                "label_name": "Advertisement",
+                "label_confidence": 78.78736877441406,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 74.33399963378906,
+                "label_boundings": [
+                    {
+                        "Width": 0.19974760711193085,
+                        "Height": 0.15382306277751923,
+                        "Left": 0.40458324551582336,
+                        "Top": 0.21560730040073395
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 74.33399963378906,
+                "label_boundings": [
+                    {
+                        "Width": 0.19974760711193085,
+                        "Height": 0.15382306277751923,
+                        "Left": 0.40458324551582336,
+                        "Top": 0.21560730040073395
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.15059472620487213,
+                    "Height": 0.17147843539714813,
+                    "Left": 0.4134390652179718,
+                    "Top": 0.1999889314174652
+                },
+                "face_confidence": 99.9909896850586,
+                "face_has_smile": false,
+                "face_smile_confidence": 95.13162994384766,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.57588195800781,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99665832519531,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.7419204711914,
+                "face_has_beard": false,
+                "face_beard_confidence": 88.7898178100586,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.50067901611328,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 50.768375396728516,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 94.941162109375,
+                "face_pose_roll": -0.9232402443885803,
+                "face_pose_yaw": -21.422069549560547,
+                "face_pose_pitch": -1.334364652633667,
+                "face_brightness": 61.040008544921875,
+                "face_sharpness": 78.64350128173828,
+                "emotion_type_calm": 99.9250259399414,
+                "emotion_type_surprised": 6.2514729499816895,
+                "emotion_type_fear": 5.875621318817139,
+                "emotion_type_sad": 2.164879560470581,
+                "emotion_type_confused": 0.006589364726096392,
+                "emotion_type_angry": 0.002441063988953829,
+                "emotion_type_happy": 0.002301242435351014,
+                "emotion_type_disgusted": 0.0018343955744057894
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 46.778324127197266,
+                "overall_quality_sharpness": 36.915374755859375,
+                "overall_quality_contrast": 50.96128845214844,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 39.98044967651367,
+                "dominant_color_1_hex": "#000000",
+                "dominant_color_1_css": "black",
+                "dominant_color_1_pixelpercent": 37.73215866088867,
+                "dominant_color_2_hex": "#191970",
+                "dominant_color_2_css": "midnightblue",
+                "dominant_color_2_pixelpercent": 10.459432601928711,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 8.211143493652344,
+                "dominant_color_4_hex": "#4682b4",
+                "dominant_color_4_css": "steelblue",
+                "dominant_color_4_pixelpercent": 2.052785873413086,
+                "dominant_color_5_hex": "#778899",
+                "dominant_color_5_css": "lightslategrey",
+                "dominant_color_5_pixelpercent": 1.5640274286270142,
+                "foreground_quality_brightness": 50.90385437011719,
+                "foreground_quality_sharpness": 47.71421432495117,
+                "foreground_dominant_color_0_hex": "#191970",
+                "foreground_dominant_color_0_css": "midnightblue",
+                "foreground_dominant_color_0_pixelpercent": 20.754716873168945,
+                "foreground_dominant_color_1_hex": "#2f4f4f",
+                "foreground_dominant_color_1_css": "darkslategrey",
+                "foreground_dominant_color_1_pixelpercent": 20.0,
+                "foreground_dominant_color_2_hex": "#000000",
+                "foreground_dominant_color_2_css": "black",
+                "foreground_dominant_color_2_pixelpercent": 19.811321258544922,
+                "foreground_dominant_color_3_hex": "#696969",
+                "foreground_dominant_color_3_css": "dimgrey",
+                "foreground_dominant_color_3_pixelpercent": 12.641509056091309,
+                "foreground_dominant_color_4_hex": "#483d8b",
+                "foreground_dominant_color_4_css": "darkslateblue",
+                "foreground_dominant_color_4_pixelpercent": 9.811320304870605,
+                "foreground_dominant_color_5_hex": "#708090",
+                "foreground_dominant_color_5_css": "slategrey",
+                "foreground_dominant_color_5_pixelpercent": 6.415094375610352,
+                "foreground_dominant_color_6_hex": "#4682b4",
+                "foreground_dominant_color_6_css": "steelblue",
+                "foreground_dominant_color_6_pixelpercent": 5.660377502441406,
+                "foreground_dominant_color_7_hex": "#778899",
+                "foreground_dominant_color_7_css": "lightslategrey",
+                "foreground_dominant_color_7_pixelpercent": 4.905660152435303,
+                "background_quality_brightness": 45.42543029785156,
+                "background_quality_sharpness": 32.961585998535156,
+                "background_dominant_color_0_hex": "#2f4f4f",
+                "background_dominant_color_0_css": "darkslategrey",
+                "background_dominant_color_0_pixelpercent": 49.773170471191406,
+                "background_dominant_color_1_hex": "#000000",
+                "background_dominant_color_1_css": "black",
+                "background_dominant_color_1_pixelpercent": 43.35709762573242,
+                "background_dominant_color_2_hex": "#696969",
+                "background_dominant_color_2_css": "dimgrey",
+                "background_dominant_color_2_pixelpercent": 6.675307750701904,
+                "background_dominant_color_3_hex": "#191970",
+                "background_dominant_color_3_css": "midnightblue",
+                "background_dominant_color_3_pixelpercent": 0.19442644715309143
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Poster",
+                    "web_entity_confidence": 0.40014413
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.35677785
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.35274976
+                },
+                {
+                    "web_entity_description": "Oil painting",
+                    "web_entity_confidence": 0.3388
+                },
+                {
+                    "web_entity_description": "Oil",
+                    "web_entity_confidence": 0.2974
+                },
+                {
+                    "web_entity_description": "1929",
+                    "web_entity_confidence": 0.2842
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2823
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2496
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2474
+                },
+                {
+                    "web_entity_description": "Canvas",
+                    "web_entity_confidence": 0.2369
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "http://www.j-archive.com/media/2001-10-02_DJ_14.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/originals/67/38/46/673846a0d1cdabed607f4c52d02c8f8c.gif"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cartoonresearch.com/wp-content/uploads/2019/07/pocahontas-poster3.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ytimg.com/vi/IfGZTpIZ2I0/hqdefault.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/26d0918e54ca46e59fac0f9e148510d8_1678248466~tplv-dmt-logom:tos-useast5-i-0068-tx/ca61c942bab44f4b9eda3df5f1cf810f.image?x-expires=1690887600&x-signature=%2FJ%2BoPSBlMlPlPMuv3MHbSaTgPZs%3D"
+                },
+                {
+                    "web_visually_similar_image_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o8eolrrlCA1hD1RADZn2kRaBSOLbIYf5Ep5gEn~tplv-photomode-video-share-card:630:630:20.jpeg?x-expires=1696021200&x-signature=Z8XKLL5qW%2B13vdQlTh%2Fw794KMYw%3D"
+                },
+                {
+                    "web_visually_similar_image_url": "https://24.media.tumblr.com/798ff5032778e383c26c4f8eb2dc2652/tumblr_mrreq6DLQ61sg2u4ko1_400.gif"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i1.sndcdn.com/avatars-fDS9g5n8WwYBFg2K-ZAFUKw-t500x500.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://static.demilked.com/wp-content/uploads/2019/06/5d088c6f373a8-real-life-disney-dads-characters-jirka-vinse-jonatan-vaatainen-11-5d0760973a5bd__700.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cf3.ppt-online.org/files3/slide/q/qMXnjaty2fForlS3OhpNGWQ4IJdkT0zRmZ6C1K/slide-0.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "real pocahontas"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            3378,
+            4000
+        ]
+    }
+}

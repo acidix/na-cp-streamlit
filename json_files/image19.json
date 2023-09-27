@@ -1,0 +1,1869 @@
+{
+    "id": "image_19",
+    "url": "https://media.dv.navigatingart.de/ad24900a-5fd7-4fa9-a2af-27ef849ac5fe.jpg?signed=true&valid=1695733328&signature=KS1FPFRzsihxQCBVCqr6uM8uSfOxX7dgPkEkHS5n%2BO8bnUtG0Yt2EX8zsjBHCaB%2F53IPW8%2FGd5MuLJNHtaovdg%3D%3D",
+    "json": "development_test_job/image19/image19.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.9810791015625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.9810791015625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.34342193603516,
+                "label_boundings": [
+                    {
+                        "Width": 0.4923054873943329,
+                        "Height": 0.37851259112358093,
+                        "Left": 0.2548297345638275,
+                        "Top": 0.052442215383052826
+                    },
+                    {
+                        "Width": 0.1594921201467514,
+                        "Height": 0.24761316180229187,
+                        "Left": 0.38213682174682617,
+                        "Top": 0.5193799138069153
+                    },
+                    {
+                        "Width": 0.05832301080226898,
+                        "Height": 0.0624864436686039,
+                        "Left": 0.1254868060350418,
+                        "Top": 0.7175264954566956
+                    },
+                    {
+                        "Width": 0.023398201912641525,
+                        "Height": 0.04655957221984863,
+                        "Left": 0.17061208188533783,
+                        "Top": 0.7289958596229553
+                    },
+                    {
+                        "Width": 0.03779415041208267,
+                        "Height": 0.04873457923531532,
+                        "Left": 0.18684448301792145,
+                        "Top": 0.729145884513855
+                    }
+                ]
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 92.62474060058594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Horse",
+                "label_confidence": 92.62474060058594,
+                "label_boundings": [
+                    {
+                        "Width": 0.5199768543243408,
+                        "Height": 0.2325056940317154,
+                        "Left": 0.20866893231868744,
+                        "Top": 0.6230706572532654
+                    }
+                ]
+            },
+            {
+                "label_name": "Mammal",
+                "label_confidence": 92.62474060058594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 89.9546127319336,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 89.9546127319336,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 81.03529357910156,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.6048355102539,
+                "overall_quality_sharpness": 76.71746826171875,
+                "overall_quality_contrast": 78.0493392944336,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 52.25080490112305,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 15.675241470336914,
+                "dominant_color_2_hex": "#ffffff",
+                "dominant_color_2_css": "white",
+                "dominant_color_2_pixelpercent": 15.112540245056152,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 5.225080490112305,
+                "dominant_color_4_hex": "#696969",
+                "dominant_color_4_css": "dimgrey",
+                "dominant_color_4_pixelpercent": 5.0643086433410645,
+                "dominant_color_5_hex": "#808080",
+                "dominant_color_5_css": "gray",
+                "dominant_color_5_pixelpercent": 3.938906669616699,
+                "dominant_color_6_hex": "#2f4f4f",
+                "dominant_color_6_css": "darkslategrey",
+                "dominant_color_6_pixelpercent": 2.5723471641540527,
+                "dominant_color_7_hex": "#ffebcd",
+                "dominant_color_7_css": "blanchedalmond",
+                "dominant_color_7_pixelpercent": 0.1607716977596283,
+                "foreground_quality_brightness": 83.46708679199219,
+                "foreground_quality_sharpness": 86.52487182617188,
+                "foreground_dominant_color_0_hex": "#c0c0c0",
+                "foreground_dominant_color_0_css": "silver",
+                "foreground_dominant_color_0_pixelpercent": 24.820144653320312,
+                "foreground_dominant_color_1_hex": "#a9a9a9",
+                "foreground_dominant_color_1_css": "darkgrey",
+                "foreground_dominant_color_1_pixelpercent": 20.143884658813477,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 15.467625617980957,
+                "foreground_dominant_color_3_hex": "#2f4f4f",
+                "foreground_dominant_color_3_css": "darkslategrey",
+                "foreground_dominant_color_3_pixelpercent": 15.107913970947266,
+                "foreground_dominant_color_4_hex": "#dcdcdc",
+                "foreground_dominant_color_4_css": "gainsboro",
+                "foreground_dominant_color_4_pixelpercent": 14.748201370239258,
+                "foreground_dominant_color_5_hex": "#696969",
+                "foreground_dominant_color_5_css": "dimgrey",
+                "foreground_dominant_color_5_pixelpercent": 9.712230682373047,
+                "background_quality_brightness": 97.24170684814453,
+                "background_quality_sharpness": 34.406314849853516,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 60.859554290771484,
+                "background_dominant_color_1_hex": "#ffffff",
+                "background_dominant_color_1_css": "white",
+                "background_dominant_color_1_pixelpercent": 18.64927101135254,
+                "background_dominant_color_2_hex": "#c0c0c0",
+                "background_dominant_color_2_css": "silver",
+                "background_dominant_color_2_pixelpercent": 13.660782814025879,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 2.9930927753448486,
+                "background_dominant_color_4_hex": "#696969",
+                "background_dominant_color_4_css": "dimgrey",
+                "background_dominant_color_4_pixelpercent": 2.3023791313171387,
+                "background_dominant_color_5_hex": "#808080",
+                "background_dominant_color_5_css": "gray",
+                "background_dominant_color_5_pixelpercent": 1.458173394203186,
+                "background_dominant_color_6_hex": "#ffebcd",
+                "background_dominant_color_6_css": "blanchedalmond",
+                "background_dominant_color_6_pixelpercent": 0.07674597203731537
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 4
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.70301145
+                },
+                {
+                    "web_entity_description": "Human",
+                    "web_entity_confidence": 0.561
+                },
+                {
+                    "web_entity_description": "Figure drawing",
+                    "web_entity_confidence": 0.5007091
+                },
+                {
+                    "web_entity_description": "Drawing",
+                    "web_entity_confidence": 0.4815
+                },
+                {
+                    "web_entity_description": "Human behavior",
+                    "web_entity_confidence": 0.46780053
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.43470183
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.40392625
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3885
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3757
+                },
+                {
+                    "web_entity_description": "Behavior",
+                    "web_entity_confidence": 0.3718
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://vitruvius.museumseven.com/render/600-600@2/dp-281636-22.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://d2skn5554g4boz.cloudfront.net/2020-website/637/3459845/large/3459845_1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://tile.loc.gov/storage-services/service/pnp/ppmsc/05800/05887v.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://framemark.vam.ac.uk/collections/2015HU7319/full/!600,/0/default.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images-medium-large-5/2-jean-auguste-dominique-ingres-french-1780-1867-quint-lox.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.sciencephoto.com/c0/21/29/32/c0212932-800px-wm.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/236x/29/5d/61/295d61e24042598d761271cf80a7a326.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://tile.loc.gov/storage-services/service/pnp/ppmsca/34400/34495r.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images-medium-large/child-labour-vivek-gangwani.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://artmakespeople.com/wp-content/uploads/2023/01/studyofhands-durer-drawings-699x1024.jpeg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "figure drawing"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 73.8781509399414,
+                "text": "http://digi.ub.uni-heidelberg.de/diglit/ball_graupe1932_03_21/0013",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.43265214562416077,
+                        "Height": 0.015062293969094753,
+                        "Left": 0.2764050364494324,
+                        "Top": 0.9849377274513245
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2764050364494324,
+                            "Y": 0.9849377274513245
+                        },
+                        {
+                            "X": 0.7088798880577087,
+                            "Y": 0.9897170066833496
+                        },
+                        {
+                            "X": 0.7090571522712708,
+                            "Y": 1.0
+                        },
+                        {
+                            "X": 0.2765342593193054,
+                            "Y": 0.9988491535186768
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 99.7193374633789,
+                "text": "13",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.014313644729554653,
+                        "Height": 0.00796439591795206,
+                        "Left": 0.4078906774520874,
+                        "Top": 0.44865426421165466
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4078906774520874,
+                            "Y": 0.44865426421165466
+                        },
+                        {
+                            "X": 0.4221222698688507,
+                            "Y": 0.44879966974258423
+                        },
+                        {
+                            "X": 0.42220431566238403,
+                            "Y": 0.45661863684654236
+                        },
+                        {
+                            "X": 0.4079718589782715,
+                            "Y": 0.45647305250167847
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 99.78824615478516,
+                "text": "EDGAR",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06286627054214478,
+                        "Height": 0.009243802167475224,
+                        "Left": 0.4309535622596741,
+                        "Top": 0.4473526179790497
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4309535622596741,
+                            "Y": 0.4473526179790497
+                        },
+                        {
+                            "X": 0.49372461438179016,
+                            "Y": 0.4479939043521881
+                        },
+                        {
+                            "X": 0.49381983280181885,
+                            "Y": 0.4565964341163635
+                        },
+                        {
+                            "X": 0.43104442954063416,
+                            "Y": 0.45595425367355347
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 99.51270294189453,
+                "text": "DEGAS",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05917621776461601,
+                        "Height": 0.008907773531973362,
+                        "Left": 0.5022614002227783,
+                        "Top": 0.44720563292503357
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5022614002227783,
+                            "Y": 0.44720563292503357
+                        },
+                        {
+                            "X": 0.5613411664962769,
+                            "Y": 0.447809100151062
+                        },
+                        {
+                            "X": 0.5614376068115234,
+                            "Y": 0.45611339807510376
+                        },
+                        {
+                            "X": 0.502353847026825,
+                            "Y": 0.45550909638404846
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 99.90347290039062,
+                "text": "16",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.01589159667491913,
+                        "Height": 0.00852434802800417,
+                        "Left": 0.3860413730144501,
+                        "Top": 0.8716465830802917
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3860413730144501,
+                            "Y": 0.8716465830802917
+                        },
+                        {
+                            "X": 0.4018469452857971,
+                            "Y": 0.8718184232711792
+                        },
+                        {
+                            "X": 0.401932954788208,
+                            "Y": 0.8801709413528442
+                        },
+                        {
+                            "X": 0.386126309633255,
+                            "Y": 0.8799988627433777
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 74.15431213378906,
+                "text": "EUG\u00c8NE",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07552246004343033,
+                        "Height": 0.011148846708238125,
+                        "Left": 0.40855148434638977,
+                        "Top": 0.8692113757133484
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.40855148434638977,
+                            "Y": 0.8692113757133484
+                        },
+                        {
+                            "X": 0.4839608073234558,
+                            "Y": 0.8700310587882996
+                        },
+                        {
+                            "X": 0.4840739369392395,
+                            "Y": 0.8803601861000061
+                        },
+                        {
+                            "X": 0.40865838527679443,
+                            "Y": 0.8795392513275146
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 98.85491180419922,
+                "text": "DELACROIX",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.10178007185459137,
+                        "Height": 0.010684247128665447,
+                        "Left": 0.4910131096839905,
+                        "Top": 0.8693485260009766
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4910131096839905,
+                            "Y": 0.8693485260009766
+                        },
+                        {
+                            "X": 0.5926799774169922,
+                            "Y": 0.8704534769058228
+                        },
+                        {
+                            "X": 0.5927931666374207,
+                            "Y": 0.8800327777862549
+                        },
+                        {
+                            "X": 0.49111855030059814,
+                            "Y": 0.8789262175559998
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_7": {
+                "confidence": 83.08406829833984,
+                "text": "SM",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.01751568540930748,
+                        "Height": 0.006160495337098837,
+                        "Left": 0.4700508713722229,
+                        "Top": 0.958890974521637
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4700508713722229,
+                            "Y": 0.958890974521637
+                        },
+                        {
+                            "X": 0.4875010848045349,
+                            "Y": 0.9590830206871033
+                        },
+                        {
+                            "X": 0.4875665605068207,
+                            "Y": 0.9650514721870422
+                        },
+                        {
+                            "X": 0.4701155424118042,
+                            "Y": 0.9648591876029968
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_8": {
+                "confidence": 60.97285842895508,
+                "text": "UNIVERSITATS",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07260936498641968,
+                        "Height": 0.007348562125116587,
+                        "Left": 0.014678290113806725,
+                        "Top": 0.9626628160476685
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.014678290113806725,
+                            "Y": 0.9626628160476685
+                        },
+                        {
+                            "X": 0.0872366726398468,
+                            "Y": 0.9634624719619751
+                        },
+                        {
+                            "X": 0.08728765696287155,
+                            "Y": 0.9700113534927368
+                        },
+                        {
+                            "X": 0.014725483022630215,
+                            "Y": 0.9692109227180481
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_9": {
+                "confidence": 98.03083801269531,
+                "text": "B",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.006955003831535578,
+                        "Height": 0.006005795206874609,
+                        "Left": 0.4699136018753052,
+                        "Top": 0.9664201140403748
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4699136018753052,
+                            "Y": 0.9664201140403748
+                        },
+                        {
+                            "X": 0.47680404782295227,
+                            "Y": 0.9664960503578186
+                        },
+                        {
+                            "X": 0.4768686294555664,
+                            "Y": 0.9724258780479431
+                        },
+                        {
+                            "X": 0.46997785568237305,
+                            "Y": 0.9723498821258545
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_10": {
+                "confidence": 97.3521499633789,
+                "text": "Kunstbibliothek",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06630212068557739,
+                        "Height": 0.006567605305463076,
+                        "Left": 0.4799339175224304,
+                        "Top": 0.9661379456520081
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4799339175224304,
+                            "Y": 0.9661379456520081
+                        },
+                        {
+                            "X": 0.5461692214012146,
+                            "Y": 0.9668678045272827
+                        },
+                        {
+                            "X": 0.5462360382080078,
+                            "Y": 0.9727055430412292
+                        },
+                        {
+                            "X": 0.4799976050853729,
+                            "Y": 0.9719751477241516
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_11": {
+                "confidence": 99.07527160644531,
+                "text": "BIBLIOTHEK",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05762069672346115,
+                        "Height": 0.006237207446247339,
+                        "Left": 0.014506503008306026,
+                        "Top": 0.9703062176704407
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.014506503008306026,
+                            "Y": 0.9703062176704407
+                        },
+                        {
+                            "X": 0.07208426296710968,
+                            "Y": 0.9709414839744568
+                        },
+                        {
+                            "X": 0.07212720066308975,
+                            "Y": 0.9765434265136719
+                        },
+                        {
+                            "X": 0.014546862803399563,
+                            "Y": 0.9759076833724976
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_12": {
+                "confidence": 94.74334716796875,
+                "text": "Staatliche",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04155365377664566,
+                        "Height": 0.006310350727289915,
+                        "Left": 0.47934702038764954,
+                        "Top": 0.9729924201965332
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.47934702038764954,
+                            "Y": 0.9729924201965332
+                        },
+                        {
+                            "X": 0.5208349227905273,
+                            "Y": 0.9734500050544739
+                        },
+                        {
+                            "X": 0.5209006667137146,
+                            "Y": 0.9793027639389038
+                        },
+                        {
+                            "X": 0.479410856962204,
+                            "Y": 0.9788448214530945
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 99.84886932373047,
+                "text": "Museen",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03174954652786255,
+                        "Height": 0.0057729328982532024,
+                        "Left": 0.5235135555267334,
+                        "Top": 0.9733572006225586
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5235135555267334,
+                            "Y": 0.9733572006225586
+                        },
+                        {
+                            "X": 0.5552006363868713,
+                            "Y": 0.9737066626548767
+                        },
+                        {
+                            "X": 0.555263102054596,
+                            "Y": 0.9791301488876343
+                        },
+                        {
+                            "X": 0.5235745906829834,
+                            "Y": 0.9787803888320923
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_14": {
+                "confidence": 99.93527221679688,
+                "text": "DFG",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09799353033304214,
+                        "Height": 0.026118556037545204,
+                        "Left": 0.8880248069763184,
+                        "Top": 0.9614562392234802
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8880248069763184,
+                            "Y": 0.9614562392234802
+                        },
+                        {
+                            "X": 0.9856442213058472,
+                            "Y": 0.9625304937362671
+                        },
+                        {
+                            "X": 0.9860183596611023,
+                            "Y": 0.9875748157501221
+                        },
+                        {
+                            "X": 0.8883794546127319,
+                            "Y": 0.9864965677261353
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_15": {
+                "confidence": 99.55443572998047,
+                "text": "HEIDELBERG",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05851556360721588,
+                        "Height": 0.00648563401773572,
+                        "Left": 0.014849977567791939,
+                        "Top": 0.9768834710121155
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.014849977567791939,
+                            "Y": 0.9768834710121155
+                        },
+                        {
+                            "X": 0.07332073152065277,
+                            "Y": 0.9775291681289673
+                        },
+                        {
+                            "X": 0.07336553931236267,
+                            "Y": 0.9833691120147705
+                        },
+                        {
+                            "X": 0.014892065897583961,
+                            "Y": 0.982722818851471
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_16": {
+                "confidence": 99.2013168334961,
+                "text": "zu",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.010230470448732376,
+                        "Height": 0.0049053155817091465,
+                        "Left": 0.47919023036956787,
+                        "Top": 0.9811899065971375
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.47919023036956787,
+                            "Y": 0.9811899065971375
+                        },
+                        {
+                            "X": 0.4893680512905121,
+                            "Y": 0.9813022613525391
+                        },
+                        {
+                            "X": 0.48942071199417114,
+                            "Y": 0.9860951900482178
+                        },
+                        {
+                            "X": 0.4792425036430359,
+                            "Y": 0.9859827160835266
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_17": {
+                "confidence": 99.82610321044922,
+                "text": "Berlin",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.025851281359791756,
+                        "Height": 0.006035164929926395,
+                        "Left": 0.49167680740356445,
+                        "Top": 0.9800878763198853
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.49167680740356445,
+                            "Y": 0.9800878763198853
+                        },
+                        {
+                            "X": 0.5174636244773865,
+                            "Y": 0.9803725481033325
+                        },
+                        {
+                            "X": 0.5175280570983887,
+                            "Y": 0.9861230254173279
+                        },
+                        {
+                            "X": 0.49174007773399353,
+                            "Y": 0.9858381152153015
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_18": {
+                "confidence": 73.8781509399414,
+                "text": "http://digi.ub.uni-heidelberg.de/diglit/ball_graupe1932_03_21/0013",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.43265214562416077,
+                        "Height": 0.015062293969094753,
+                        "Left": 0.2764050364494324,
+                        "Top": 0.9849377274513245
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2764050364494324,
+                            "Y": 0.9849377274513245
+                        },
+                        {
+                            "X": 0.7088798880577087,
+                            "Y": 0.9897170066833496
+                        },
+                        {
+                            "X": 0.7090571522712708,
+                            "Y": 1.0
+                        },
+                        {
+                            "X": 0.2765342593193054,
+                            "Y": 0.9988491535186768
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image19_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Number",
+                "label_confidence": 96.8154296875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Symbol",
+                "label_confidence": 96.8154296875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 96.8154296875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Logo",
+                "label_confidence": 96.34577941894531,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Disk",
+                "label_confidence": 62.633602142333984,
+                "label_boundings": [
+                    {
+                        "Width": 0.32890942692756653,
+                        "Height": 0.9380668997764587,
+                        "Left": 0.6634796857833862,
+                        "Top": 0.039982035756111145
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 31.62339973449707,
+                "overall_quality_sharpness": 77.65068054199219,
+                "overall_quality_contrast": 96.99678039550781,
+                "dominant_color_0_hex": "#000000",
+                "dominant_color_0_css": "black",
+                "dominant_color_0_pixelpercent": 51.5625,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 37.5,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 6.25,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 4.6875,
+                "foreground_quality_brightness": 21.016016006469727,
+                "foreground_quality_sharpness": 77.74986267089844,
+                "foreground_dominant_color_0_hex": "#000000",
+                "foreground_dominant_color_0_css": "black",
+                "foreground_dominant_color_0_pixelpercent": 77.69230651855469,
+                "foreground_dominant_color_1_hex": "#c0c0c0",
+                "foreground_dominant_color_1_css": "silver",
+                "foreground_dominant_color_1_pixelpercent": 14.615385055541992,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 3.846153736114502,
+                "foreground_dominant_color_3_hex": "#808080",
+                "foreground_dominant_color_3_css": "gray",
+                "foreground_dominant_color_3_pixelpercent": 3.846153736114502,
+                "background_quality_brightness": 84.33951568603516,
+                "background_quality_sharpness": 77.60094451904297,
+                "background_dominant_color_0_hex": "#000000",
+                "background_dominant_color_0_css": "black",
+                "background_dominant_color_0_pixelpercent": 41.07143020629883,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 39.28571319580078,
+                "background_dominant_color_2_hex": "#dcdcdc",
+                "background_dominant_color_2_css": "gainsboro",
+                "background_dominant_color_2_pixelpercent": 8.928571701049805,
+                "background_dominant_color_3_hex": "#2f4f4f",
+                "background_dominant_color_3_css": "darkslategrey",
+                "background_dominant_color_3_pixelpercent": 3.5714285373687744,
+                "background_dominant_color_4_hex": "#808080",
+                "background_dominant_color_4_css": "gray",
+                "background_dominant_color_4_pixelpercent": 3.5714285373687744,
+                "background_dominant_color_5_hex": "#a9a9a9",
+                "background_dominant_color_5_css": "darkgrey",
+                "background_dominant_color_5_pixelpercent": 3.5714285373687744
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Deutsche Forschungsgemeinschaft",
+                "logo_confidence": 0.88552415,
+                "logo_vertices": [
+                    {
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "x": 159,
+                        "y": 0
+                    },
+                    {
+                        "x": 159,
+                        "y": 58
+                    },
+                    {
+                        "y": 58,
+                        "x": 0
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.6073782
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.5595737
+                },
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.5228333
+                },
+                {
+                    "web_entity_description": "Logo",
+                    "web_entity_confidence": 0.46936145
+                },
+                {
+                    "web_entity_description": "Brand",
+                    "web_entity_confidence": 0.45257887
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.422376
+                },
+                {
+                    "web_entity_description": "Square",
+                    "web_entity_confidence": 0.3738395
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.35226902
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.3046
+                },
+                {
+                    "web_entity_description": "Square meter",
+                    "web_entity_confidence": 0.2728
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/61sqrUNwcOL._AC_UF894,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thelockshop.com.au/cdn/shop/products/ROSSEYES_394x.JPG?v=1584057110"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/61rK481xmmL._AC_UF894,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.gizmochina.com/wp-content/uploads/2023/07/Screenshot-2023-07-04-143323.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2023/07/04/2597666-nothing-phone-2.jpg?im=Resize=(640,360)"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/418N6pxKn0L._AC_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://one2world.com.sg/cdn/shop/products/ringke-fusion-x-design-case-for-samsung-galaxy-s23s23-plus-s23-ultracamo-black-one2world-s23-168800.jpg?v=1675520961"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/hac/h7e/47918002634782/480Wx480H_8809919620611_main"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.ringkestore.com/cdn/shop/products/GS21_ONXD_Main_11cut_2048x.jpg?v=1611697833"
+                },
+                {
+                    "web_visually_similar_image_url": "http://one2world.com.sg/cdn/shop/products/vrs-design-terra-guard-modern-pro-case-for-samsung-galaxy-z-fold-4-samsung-case-vrs-design-matte-black-831994.jpg?v=1660388143"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "design"
+                }
+            ]
+        },
+        "bounding_box": [
+            1505,
+            2419,
+            1664,
+            2478
+        ]
+    },
+    "image19_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 96.73694610595703,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 92.13841247558594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 89.46489715576172,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 88.95894622802734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 84.66201782226562,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Rug",
+                "label_confidence": 82.18834686279297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow",
+                "label_confidence": 74.14966583251953,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Winter",
+                "label_confidence": 66.58851623535156,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.45584869384766,
+                "overall_quality_sharpness": 46.78424072265625,
+                "overall_quality_contrast": 39.375633239746094,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 42.81345748901367,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 38.532108306884766,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 12.538226127624512,
+                "dominant_color_3_hex": "#808080",
+                "dominant_color_3_css": "gray",
+                "dominant_color_3_pixelpercent": 6.116208076477051
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "South Sydney Rabbitohs",
+                "logo_confidence": 0.63284576,
+                "logo_vertices": [
+                    {
+                        "x": 8,
+                        "y": 4
+                    },
+                    {
+                        "x": 197,
+                        "y": 4
+                    },
+                    {
+                        "x": 197,
+                        "y": 157
+                    },
+                    {
+                        "x": 8,
+                        "y": 157
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.56829137
+                },
+                {
+                    "web_entity_description": "Jean Sport Aviation Center",
+                    "web_entity_confidence": 0.3843
+                },
+                {
+                    "web_entity_description": "Floor",
+                    "web_entity_confidence": 0.3407199
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2976
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.295
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://masterclean.hk/wp-content/uploads/2021/09/0014-scaled-1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzIwMDUvMDIvMDgvc2VkaW1lbnRhcnktcm9jay1pbi1jYW5kb3ItZDMxZmRiLTEwMjQuanBn/320/577/jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.burkedecor.com/cdn/shop/products/R8546-1-Dalmation-Simple-Marble-Wallpaper_985e0ce6-3550-4fd6-aae8-47ac09310053_1024x1024.jpg?v=1694525003"
+                },
+                {
+                    "web_visually_similar_image_url": "http://www.work-tops.com/cdn/shop/products/1n90X05A0A.jpg?v=1623671059"
+                },
+                {
+                    "web_visually_similar_image_url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/216853/1.jpg?4033"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/marble-white-black-abstract-background-texture_1962-974.jpg?w=2000"
+                },
+                {
+                    "web_visually_similar_image_url": "https://azmemory.azlibrary.gov/assets/display/1514020-max?u=2022-09-08+20%3A07%3A41"
+                },
+                {
+                    "web_visually_similar_image_url": "http://ceramicahomes.com.au/cdn/shop/products/Atlantic-Grey-Paver-External-610x406x30mm-2_c855004f-1649-4e9f-93dc-3530a4554a85.jpg?v=1669281409"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2932143438361382259"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.veeforu.com/wp-content/uploads/2023/09/Marbal-texture-insta-story-background-free-download-576x1024.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "monochrome photography"
+                }
+            ]
+        },
+        "bounding_box": [
+            1243,
+            1305,
+            1445,
+            1900
+        ]
+    },
+    "image19_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Person",
+                "label_confidence": 97.31181335449219,
+                "label_boundings": [
+                    {
+                        "Width": 0.24021831154823303,
+                        "Height": 0.6703320741653442,
+                        "Left": 0.3534635305404663,
+                        "Top": 0.09303238242864609
+                    },
+                    {
+                        "Width": 0.07582658529281616,
+                        "Height": 0.16507796943187714,
+                        "Left": 0.007240151520818472,
+                        "Top": 0.6242129802703857
+                    },
+                    {
+                        "Width": 0.022778451442718506,
+                        "Height": 0.15164685249328613,
+                        "Left": 0.0,
+                        "Top": 0.6237583160400391
+                    },
+                    {
+                        "Width": 0.028963394463062286,
+                        "Height": 0.08204029500484467,
+                        "Left": 0.06564585864543915,
+                        "Top": 0.6545544266700745
+                    },
+                    {
+                        "Width": 0.03275361284613609,
+                        "Height": 0.12568829953670502,
+                        "Left": 0.08819583803415298,
+                        "Top": 0.656345546245575
+                    }
+                ]
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 92.60813903808594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 91.46515655517578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Horse",
+                "label_confidence": 91.46515655517578,
+                "label_boundings": [
+                    {
+                        "Width": 0.7000972032546997,
+                        "Height": 0.6167750954627991,
+                        "Left": 0.12212062627077103,
+                        "Top": 0.3728380799293518
+                    }
+                ]
+            },
+            {
+                "label_name": "Mammal",
+                "label_confidence": 91.46515655517578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 85.76769256591797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 85.76769256591797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 71.901611328125,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.05202491953969002,
+                    "Height": 0.08747540414333344,
+                    "Left": 0.44682273268699646,
+                    "Top": 0.12472439557313919
+                },
+                "face_confidence": 98.56291198730469,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.10082244873047,
+                "face_has_eyeglasses": true,
+                "face_eyeglasses_confidence": 99.96717834472656,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 94.49840545654297,
+                "face_gender": "Male",
+                "face_gender_confidence": 99.85240936279297,
+                "face_has_beard": true,
+                "face_beard_confidence": 83.69734954833984,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 91.31071472167969,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 98.5657958984375,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 87.6563949584961,
+                "face_pose_roll": -3.256757974624634,
+                "face_pose_yaw": 14.475857734680176,
+                "face_pose_pitch": 6.447193145751953,
+                "face_brightness": 73.02922058105469,
+                "face_sharpness": 32.20803451538086,
+                "emotion_type_calm": 92.11813354492188,
+                "emotion_type_surprised": 8.04781436920166,
+                "emotion_type_fear": 5.939718246459961,
+                "emotion_type_angry": 2.5245168209075928,
+                "emotion_type_sad": 2.2566909790039062,
+                "emotion_type_happy": 0.846978485584259,
+                "emotion_type_disgusted": 0.44699594378471375,
+                "emotion_type_confused": 0.37637025117874146
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 90.19867706298828,
+                "overall_quality_sharpness": 79.74105072021484,
+                "overall_quality_contrast": 83.61576080322266,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 40.0406494140625,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 17.47967529296875,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 13.617886543273926,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 11.382113456726074,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 10.060976028442383,
+                "dominant_color_5_hex": "#696969",
+                "dominant_color_5_css": "dimgrey",
+                "dominant_color_5_pixelpercent": 7.317073345184326,
+                "dominant_color_6_hex": "#ffffff",
+                "dominant_color_6_css": "white",
+                "dominant_color_6_pixelpercent": 0.10162601619958878,
+                "foreground_quality_brightness": 64.34864807128906,
+                "foreground_quality_sharpness": 85.71461486816406,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 35.135135650634766,
+                "foreground_dominant_color_1_hex": "#808080",
+                "foreground_dominant_color_1_css": "gray",
+                "foreground_dominant_color_1_pixelpercent": 24.324323654174805,
+                "foreground_dominant_color_2_hex": "#696969",
+                "foreground_dominant_color_2_css": "dimgrey",
+                "foreground_dominant_color_2_pixelpercent": 18.91891860961914,
+                "foreground_dominant_color_3_hex": "#a9a9a9",
+                "foreground_dominant_color_3_css": "darkgrey",
+                "foreground_dominant_color_3_pixelpercent": 10.810811042785645,
+                "foreground_dominant_color_4_hex": "#c0c0c0",
+                "foreground_dominant_color_4_css": "silver",
+                "foreground_dominant_color_4_pixelpercent": 10.810811042785645,
+                "background_quality_brightness": 93.80268096923828,
+                "background_quality_sharpness": 65.02999114990234,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 54.507041931152344,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 20.985916137695312,
+                "background_dominant_color_2_hex": "#a9a9a9",
+                "background_dominant_color_2_css": "darkgrey",
+                "background_dominant_color_2_pixelpercent": 10.14084529876709,
+                "background_dominant_color_3_hex": "#696969",
+                "background_dominant_color_3_css": "dimgrey",
+                "background_dominant_color_3_pixelpercent": 8.732394218444824,
+                "background_dominant_color_4_hex": "#808080",
+                "background_dominant_color_4_css": "gray",
+                "background_dominant_color_4_pixelpercent": 5.492957592010498,
+                "background_dominant_color_5_hex": "#ffffff",
+                "background_dominant_color_5_css": "white",
+                "background_dominant_color_5_pixelpercent": 0.14084507524967194
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Horse",
+                    "web_entity_confidence": 0.9958519
+                },
+                {
+                    "web_entity_description": "Middle Ages",
+                    "web_entity_confidence": 0.61036074
+                },
+                {
+                    "web_entity_description": "Horse harness",
+                    "web_entity_confidence": 0.5499789
+                },
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.46259904
+                },
+                {
+                    "web_entity_description": "Mammal",
+                    "web_entity_confidence": 0.43962935
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.43430355
+                },
+                {
+                    "web_entity_description": "Knight",
+                    "web_entity_confidence": 0.35348028
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3459
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2896
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.2862
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzE4OTgvMTIvMzEvYmVzc2UtdGlsdGFsZXItZ3JhYS1mNWFkY2MtMTAyNC5qcGc%3D/320/346/jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/1200x/e2/3f/02/e23f02676f56c95a051c9978e5701264.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/540600292/vector/horatio-gates-american-general-during-the-revolutionary-war.jpg?s=612x612&w=gi&k=20&c=pc3afSsYM8omqpjTAjrnSGGHQnR4qUTtQc2esLcftSg="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/173548797/vector/old-english-war-horse.jpg?s=612x612&w=0&k=20&c=gThdCFKKs-gAKmb5AXnL7zw4jh6tDXIF-Qv5Djov9mM="
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.mediastorehouse.co.uk/p/629/knight-armour-11802100.jpg.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://previews.agefotostock.com/previewimage/medibigoff/cff9f56622216f1605e40bfe6b79ffc3/mev-10923808.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1500904002/vector/antique-image-from-british-magazine-man-riding-horse.jpg?s=170667a&w=is&k=20&c=S6UMPHusMpe8B0wUXAxVKX0QKFDj1FyYnt9N10SpNFI="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1593842795/vector/charles-i-king-of-england-scotland-and-ireland-vintage-engraved-illustration.jpg?s=612x612&w=is&k=20&c=9gM7n-RuPU0-R1HvsWmOQiP81YjcvZ-EBai9pQW6xzg="
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Horse_Warrior.gif"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/925466256/vector/cowboy-on-bucking-horse.jpg?s=612x612&w=gi&k=20&c=acvp5keXXlNTdb6eUcSuOkXq4WAhsmDW-qp42VfMOpg="
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "horse"
+                }
+            ]
+        },
+        "bounding_box": [
+            207,
+            1218,
+            1448,
+            2156
+        ]
+    },
+    "image19_recognized_part_3": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Texture",
+                "label_confidence": 99.99573516845703,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 98.67414855957031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Linen",
+                "label_confidence": 98.67414855957031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Paper",
+                "label_confidence": 75.83747100830078,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Rock",
+                "label_confidence": 71.23355865478516,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 67.18111419677734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 64.32898712158203,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow",
+                "label_confidence": 64.32898712158203,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 91.61454772949219,
+                "overall_quality_sharpness": 37.79071044921875,
+                "overall_quality_contrast": 16.953882217407227,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 79.4117660522461,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 17.647058486938477,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 2.941176414489746
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.5780629
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.42811018
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.41120294
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.37692547
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.35514933
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34837174
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.3474195
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2988
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.2962
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/gray-wall-texture-background_320929-605.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/originals/76/10/d6/7610d60239ad2d90a41ea7e3d2b2642a.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/236x/c4/ab/38/c4ab38c6d2dcca84e4b7bb4249a6a48a.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/background-sand-desert-abstract-empty-background-texture-desert-sand-waves-sand-dunes_548821-13781.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://holdendecor.co.uk/wp-content/uploads/36171-Linen-Texture-Grey-Product-300x300.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/free-photo/wood-texture-with-damaged-areas_1154-672.jpg?w=2000"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as2.ftcdn.net/v2/jpg/01/42/20/17/1000_F_142201771_frYux5QdjIgmbAjqpljdC8hklxxn0EoW.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img1.exportersindia.com/product_images/bc-full/2021/7/9088331/rustic-texture-paint-1626679012-5903129.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.creativefabrica.com/wp-content/uploads/2022/03/15/Cement-Concrete-Wall-Texture-Graphics-27184437-1-580x387.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/SELLER/Default/2021/8/BF/YH/OB/108158621/concrete-wall-finished-texture.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "monochrome"
+                }
+            ]
+        },
+        "bounding_box": [
+            446,
+            111,
+            632,
+            144
+        ]
+    },
+    "image19_recognized_part_4": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.9994125366211,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 99.74899291992188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.6008529663086,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.46929931640625,
+                "label_boundings": [
+                    {
+                        "Width": 0.9759641289710999,
+                        "Height": 0.9610066413879395,
+                        "Left": 0.01147102378308773,
+                        "Top": 0.03048018552362919
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 95.16134643554688,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 95.16134643554688,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.11356353759766,
+                "overall_quality_sharpness": 62.86869812011719,
+                "overall_quality_contrast": 67.87590789794922,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 39.64285659790039,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 36.07143020629883,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 11.428571701049805,
+                "dominant_color_3_hex": "#808080",
+                "dominant_color_3_css": "gray",
+                "dominant_color_3_pixelpercent": 10.0,
+                "dominant_color_4_hex": "#2f4f4f",
+                "dominant_color_4_css": "darkslategrey",
+                "dominant_color_4_pixelpercent": 2.857142925262451,
+                "foreground_quality_brightness": 82.51451110839844,
+                "foreground_quality_sharpness": 80.02165222167969,
+                "foreground_dominant_color_0_hex": "#808080",
+                "foreground_dominant_color_0_css": "gray",
+                "foreground_dominant_color_0_pixelpercent": 32.69230651855469,
+                "foreground_dominant_color_1_hex": "#a9a9a9",
+                "foreground_dominant_color_1_css": "darkgrey",
+                "foreground_dominant_color_1_pixelpercent": 30.769229888916016,
+                "foreground_dominant_color_2_hex": "#c0c0c0",
+                "foreground_dominant_color_2_css": "silver",
+                "foreground_dominant_color_2_pixelpercent": 25.0,
+                "foreground_dominant_color_3_hex": "#2f4f4f",
+                "foreground_dominant_color_3_css": "darkslategrey",
+                "foreground_dominant_color_3_pixelpercent": 11.538461685180664,
+                "background_quality_brightness": 92.88479614257812,
+                "background_quality_sharpness": 41.27434539794922,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 43.59430694580078,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 43.06049728393555,
+                "background_dominant_color_2_hex": "#a9a9a9",
+                "background_dominant_color_2_css": "darkgrey",
+                "background_dominant_color_2_pixelpercent": 7.651245594024658,
+                "background_dominant_color_3_hex": "#808080",
+                "background_dominant_color_3_css": "gray",
+                "background_dominant_color_3_pixelpercent": 3.736654758453369,
+                "background_dominant_color_4_hex": "#696969",
+                "background_dominant_color_4_css": "dimgrey",
+                "background_dominant_color_4_pixelpercent": 1.9572954177856445
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 3,
+            "racy": 4
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.7543589
+                },
+                {
+                    "web_entity_description": "Figure drawing",
+                    "web_entity_confidence": 0.5811404
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.5688
+                },
+                {
+                    "web_entity_description": "Sketch",
+                    "web_entity_confidence": 0.5425054
+                },
+                {
+                    "web_entity_description": "Art Model",
+                    "web_entity_confidence": 0.53124255
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.50179964
+                },
+                {
+                    "web_entity_description": "Drawing",
+                    "web_entity_confidence": 0.5003
+                },
+                {
+                    "web_entity_description": "Self-portrait",
+                    "web_entity_confidence": 0.45253748
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.4202
+                },
+                {
+                    "web_entity_description": "Thorax",
+                    "web_entity_confidence": 0.36396712
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i0.wp.com/celiavanniekerk.co.za/wp-content/uploads/2023/04/pencil-sketch-artist-south-africa-1.jpg?resize=717%2C1024&ssl=1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images/2014_03/01/14/142311325/7b827ddc-bbca-47bc-bb67-b614bb068615_570.Jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.tiktok.com/api/img/?itemId=7209523188395576622&location=0&aid=1988"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/173566537/vector/sketch.jpg?s=612x612&w=0&k=20&c=nEvvC79wMpRhREGq6nRwMkD15uGWExImrfjm1pqnfZI="
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdnb.artstation.com/p/assets/images/images/009/042/221/large/ravleen-syal-img-20170831-191423-01.jpg?1516802155"
+                },
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/ANDROID/Default/2022/6/MY/JI/IP/154615863/product-jpeg-500x500.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images/2013_11/20/13/135147973/76f07e01-8c69-4c73-939b-839f94b965d6.Jpeg?w=480"
+                },
+                {
+                    "web_visually_similar_image_url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/322818239/original/3a90be5f1465a137a73bbecd7e9373f2ceed3a53/do-a-pencil-sketch-of-people-and-character.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdna.artstation.com/p/assets/images/images/030/102/350/large/luis-gomez-img-1514.jpg?1599608529"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/173566537/vector/sketch.jpg?s=1024x1024&w=is&k=20&c=fh4Ihd5F9S_0Qy5rCT99Exn4x_OazFhAJNRr85hmjAg="
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "figure drawing"
+                }
+            ]
+        },
+        "bounding_box": [
+            416,
+            104,
+            1272,
+            1058
+        ]
+    }
+}

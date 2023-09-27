@@ -1,0 +1,1042 @@
+{
+    "id": "image_31",
+    "url": "https://media.dv.navigatingart.de/6899f096-36bd-4b7d-9c5c-5bca7b855c34.jpg?signed=true&valid=1695733328&signature=OZ4Lzugj8Cf65tsLZ0C4Q8Sgu7Xg1ZjNhR9sL4SPa0KnO%2BUqLvlpTBrJCA7s6SwWxZXVmoTQsezILkd%2FKz8UOQ%3D%3D",
+    "json": "development_test_job/image31/image31.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Person",
+                "label_confidence": 99.10057830810547,
+                "label_boundings": [
+                    {
+                        "Width": 0.08742700517177582,
+                        "Height": 0.3451150357723236,
+                        "Left": 0.7199212312698364,
+                        "Top": 0.4877595901489258
+                    },
+                    {
+                        "Width": 0.0863087996840477,
+                        "Height": 0.3429689109325409,
+                        "Left": 0.3518756628036499,
+                        "Top": 0.4875720739364624
+                    },
+                    {
+                        "Width": 0.061335042119026184,
+                        "Height": 0.3167949914932251,
+                        "Left": 0.5360243916511536,
+                        "Top": 0.4748835861682892
+                    },
+                    {
+                        "Width": 0.06587931513786316,
+                        "Height": 0.2144513577222824,
+                        "Left": 0.25945666432380676,
+                        "Top": 0.5290936827659607
+                    },
+                    {
+                        "Width": 0.06580357998609543,
+                        "Height": 0.3249480426311493,
+                        "Left": 0.16129489243030548,
+                        "Top": 0.46683865785598755
+                    },
+                    {
+                        "Width": 0.08329756557941437,
+                        "Height": 0.22100727260112762,
+                        "Left": 0.6139483451843262,
+                        "Top": 0.5231679081916809
+                    },
+                    {
+                        "Width": 0.050224773585796356,
+                        "Height": 0.22215166687965393,
+                        "Left": 0.4525788426399231,
+                        "Top": 0.4193348288536072
+                    },
+                    {
+                        "Width": 0.044712647795677185,
+                        "Height": 0.21625293791294098,
+                        "Left": 0.8286193609237671,
+                        "Top": 0.4221518039703369
+                    },
+                    {
+                        "Width": 0.0745089128613472,
+                        "Height": 0.1811259239912033,
+                        "Left": 0.42703670263290405,
+                        "Top": 0.5927329063415527
+                    }
+                ]
+            },
+            {
+                "label_name": "People",
+                "label_confidence": 81.7174301147461,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 75.84902954101562,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Clothing",
+                "label_confidence": 75.34371948242188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Coat",
+                "label_confidence": 75.34371948242188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Hat",
+                "label_confidence": 75.25105285644531,
+                "label_boundings": [
+                    {
+                        "Width": 0.03292569890618324,
+                        "Height": 0.029783720150589943,
+                        "Left": 0.6455667018890381,
+                        "Top": 0.52921062707901
+                    },
+                    {
+                        "Width": 0.03231534734368324,
+                        "Height": 0.03063027746975422,
+                        "Left": 0.2726854979991913,
+                        "Top": 0.5283374190330505
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 65.41343688964844,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 65.41343688964844,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.02048315480351448,
+                    "Height": 0.03753390163183212,
+                    "Left": 0.7456963062286377,
+                    "Top": 0.5078771114349365
+                },
+                "face_confidence": 99.94161987304688,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.33052825927734,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.34124755859375,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99647521972656,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.98097229003906,
+                "face_has_beard": false,
+                "face_beard_confidence": 93.37902069091797,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.95269012451172,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 73.75729370117188,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 91.9379653930664,
+                "face_pose_roll": 0.8888282179832458,
+                "face_pose_yaw": -14.511861801147461,
+                "face_pose_pitch": -3.6403255462646484,
+                "face_brightness": 61.67273712158203,
+                "face_sharpness": 2.485198736190796,
+                "emotion_type_sad": 99.92803192138672,
+                "emotion_type_calm": 18.173938751220703,
+                "emotion_type_fear": 6.752658843994141,
+                "emotion_type_surprised": 6.307815074920654,
+                "emotion_type_angry": 0.9229215979576111,
+                "emotion_type_confused": 0.49240440130233765,
+                "emotion_type_disgusted": 0.38952377438545227,
+                "emotion_type_happy": 0.3043484091758728
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.020316101610660553,
+                    "Height": 0.03758973255753517,
+                    "Left": 0.37703001499176025,
+                    "Top": 0.5063642263412476
+                },
+                "face_confidence": 99.9688720703125,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.2482681274414,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.99945068359375,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99629974365234,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.9891357421875,
+                "face_has_beard": false,
+                "face_beard_confidence": 92.68233489990234,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.60124206542969,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 71.74673461914062,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 91.18716430664062,
+                "face_pose_roll": 0.8516361713409424,
+                "face_pose_yaw": -14.082191467285156,
+                "face_pose_pitch": -2.6569018363952637,
+                "face_brightness": 61.83472442626953,
+                "face_sharpness": 2.485198736190796,
+                "emotion_type_sad": 70.20820617675781,
+                "emotion_type_calm": 50.15848159790039,
+                "emotion_type_fear": 10.228638648986816,
+                "emotion_type_surprised": 6.41884708404541,
+                "emotion_type_disgusted": 3.4919333457946777,
+                "emotion_type_confused": 2.665067195892334,
+                "emotion_type_angry": 1.206134557723999,
+                "emotion_type_happy": 0.4481655955314636
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.01726536639034748,
+                    "Height": 0.03072459064424038,
+                    "Left": 0.18610918521881104,
+                    "Top": 0.5119894742965698
+                },
+                "face_confidence": 99.82821655273438,
+                "face_has_smile": false,
+                "face_smile_confidence": 93.97846984863281,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.9870376586914,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99629974365234,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.27093505859375,
+                "face_has_beard": false,
+                "face_beard_confidence": 79.38150024414062,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.22294616699219,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 82.12452697753906,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 89.89871978759766,
+                "face_pose_roll": -3.184889078140259,
+                "face_pose_yaw": 2.7882449626922607,
+                "face_pose_pitch": -5.962374687194824,
+                "face_brightness": 59.9161262512207,
+                "face_sharpness": 1.399810552597046,
+                "emotion_type_angry": 51.80870819091797,
+                "emotion_type_sad": 42.78211975097656,
+                "emotion_type_calm": 14.475390434265137,
+                "emotion_type_surprised": 6.568075180053711,
+                "emotion_type_fear": 6.146184921264648,
+                "emotion_type_confused": 4.867404460906982,
+                "emotion_type_disgusted": 2.1038551330566406,
+                "emotion_type_happy": 0.7143242955207825
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.017767608165740967,
+                    "Height": 0.029198992997407913,
+                    "Left": 0.27766352891921997,
+                    "Top": 0.5474894046783447
+                },
+                "face_confidence": 98.3749008178711,
+                "face_has_smile": false,
+                "face_smile_confidence": 90.55120086669922,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.7416000366211,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.9959945678711,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.72467041015625,
+                "face_has_beard": false,
+                "face_beard_confidence": 85.53868103027344,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.2906723022461,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 61.52839660644531,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 69.12393951416016,
+                "face_pose_roll": 6.560366153717041,
+                "face_pose_yaw": -8.75497817993164,
+                "face_pose_pitch": -32.65578842163086,
+                "face_brightness": 56.22514343261719,
+                "face_sharpness": 1.399810552597046,
+                "emotion_type_surprised": 87.87142944335938,
+                "emotion_type_calm": 33.78874969482422,
+                "emotion_type_happy": 7.246629238128662,
+                "emotion_type_fear": 6.171710968017578,
+                "emotion_type_sad": 2.5902271270751953,
+                "emotion_type_angry": 1.2934409379959106,
+                "emotion_type_disgusted": 0.7204171419143677,
+                "emotion_type_confused": 0.4118732213973999
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.01700732484459877,
+                    "Height": 0.03003867156803608,
+                    "Left": 0.6502404808998108,
+                    "Top": 0.5477278828620911
+                },
+                "face_confidence": 98.53933715820312,
+                "face_has_smile": false,
+                "face_smile_confidence": 87.7132568359375,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.79959106445312,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99626922607422,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.87821960449219,
+                "face_has_beard": false,
+                "face_beard_confidence": 86.82479858398438,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.21669006347656,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 51.197181701660156,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 77.70923614501953,
+                "face_pose_roll": 14.893587112426758,
+                "face_pose_yaw": -0.03426129370927811,
+                "face_pose_pitch": -39.99213790893555,
+                "face_brightness": 62.9251594543457,
+                "face_sharpness": 1.399810552597046,
+                "emotion_type_calm": 76.04153442382812,
+                "emotion_type_happy": 12.912434577941895,
+                "emotion_type_surprised": 9.395657539367676,
+                "emotion_type_fear": 6.039767742156982,
+                "emotion_type_sad": 3.3517374992370605,
+                "emotion_type_angry": 1.0845893621444702,
+                "emotion_type_confused": 0.6073122620582581,
+                "emotion_type_disgusted": 0.5858472585678101
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.016387939453125,
+                    "Height": 0.030385194346308708,
+                    "Left": 0.5580450296401978,
+                    "Top": 0.5130654573440552
+                },
+                "face_confidence": 99.53567504882812,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.23966217041016,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.42890167236328,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99654388427734,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.97698974609375,
+                "face_has_beard": false,
+                "face_beard_confidence": 90.69286346435547,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.6556625366211,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 90.4934310913086,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 92.42064666748047,
+                "face_pose_roll": -4.012808322906494,
+                "face_pose_yaw": 4.235708713531494,
+                "face_pose_pitch": -10.465729713439941,
+                "face_brightness": 64.18550872802734,
+                "face_sharpness": 1.399810552597046,
+                "emotion_type_calm": 51.0711784362793,
+                "emotion_type_angry": 23.852928161621094,
+                "emotion_type_sad": 14.255860328674316,
+                "emotion_type_surprised": 6.641808986663818,
+                "emotion_type_confused": 6.267156600952148,
+                "emotion_type_fear": 6.082291126251221,
+                "emotion_type_disgusted": 2.286952257156372,
+                "emotion_type_happy": 1.0432212352752686
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 80.33375549316406,
+                "overall_quality_sharpness": 78.77149200439453,
+                "overall_quality_contrast": 79.2118911743164,
+                "dominant_color_0_hex": "#808080",
+                "dominant_color_0_css": "gray",
+                "dominant_color_0_pixelpercent": 31.03217124938965,
+                "dominant_color_1_hex": "#2f4f4f",
+                "dominant_color_1_css": "darkslategrey",
+                "dominant_color_1_pixelpercent": 19.168901443481445,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 15.54959774017334,
+                "dominant_color_3_hex": "#daa520",
+                "dominant_color_3_css": "goldenrod",
+                "dominant_color_3_pixelpercent": 12.131367683410645,
+                "dominant_color_4_hex": "#ffebcd",
+                "dominant_color_4_css": "blanchedalmond",
+                "dominant_color_4_pixelpercent": 7.439678192138672,
+                "dominant_color_5_hex": "#d2b48c",
+                "dominant_color_5_css": "tan",
+                "dominant_color_5_pixelpercent": 6.6353888511657715,
+                "dominant_color_6_hex": "#c0c0c0",
+                "dominant_color_6_css": "silver",
+                "dominant_color_6_pixelpercent": 6.367292404174805,
+                "dominant_color_7_hex": "#808000",
+                "dominant_color_7_css": "olive",
+                "dominant_color_7_pixelpercent": 1.273458480834961,
+                "dominant_color_8_hex": "#a0522d",
+                "dominant_color_8_css": "sienna",
+                "dominant_color_8_pixelpercent": 0.40214475989341736
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Eadweard Muybridge",
+                    "web_entity_confidence": 1.06845
+                },
+                {
+                    "web_entity_description": "Stock photography",
+                    "web_entity_confidence": 0.7238
+                },
+                {
+                    "web_entity_description": "Image",
+                    "web_entity_confidence": 0.7151
+                },
+                {
+                    "web_entity_description": "Photography",
+                    "web_entity_confidence": 0.7079
+                },
+                {
+                    "web_entity_description": "Illustration",
+                    "web_entity_confidence": 0.5768
+                },
+                {
+                    "web_entity_description": "Alamy",
+                    "web_entity_confidence": 0.5755
+                },
+                {
+                    "web_entity_description": "Film frame",
+                    "web_entity_confidence": 0.542
+                },
+                {
+                    "web_entity_description": "Photograph",
+                    "web_entity_confidence": 0.535
+                },
+                {
+                    "web_entity_description": "Vector graphics",
+                    "web_entity_confidence": 0.4072
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.4006
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [
+                {
+                    "web_partial_matching_image_url": "https://c8.alamy.com/compes/2f5mmtd/panama-lavanderia-eadweard-j-muybridge-americano-nacido-inglaterra-1830-1904-2f5mmtd.jpg"
+                }
+            ],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/panama-england.html?page=3"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/1830---1904.html?page=12"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/muybridge.html?page=14"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/muybridge%2C-eadweard%2C-1830-1904.html?page=9"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.es/imagenes/panam%C3%A1-e-inglaterra.html?page=3"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.es/imagenes/eadweard-j-muybridge-panama.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.es/imagenes/panama-eadweard-muybridge.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.es/imagenes/muybridge%2C-eadweard%2C-1830-1904.html?page=9"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://thumbor.ixchosted.com/atLX7aNSu_-1hzoCRsXxXOFfBPY=/adaptive-fit-in/1200x1200/https://agsa-prod.s3.amazonaws.com/media/dd/images/32862-WR-20041RJN172_nThdSdE.8f803db.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.meisterdrucke.ie/kunstwerke/1200w/Benedict_-_Willow_Tree_Planted_by_Com_Perry_and_other_survivors_of_the_battle_of_Lake_Erie_-_(MeisterDrucke-878596).jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.lookandlearn.com/history-images/preview/YG/YG0/YG0080/YG0080925_Big-Tree-felled-in-Frezno-sic-Grove-78-ft-Circum-Frezno-sic-Co.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/61fNE9YHArL._AC_UF894,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lh3.googleusercontent.com/ci/AA1T9HLCAEhrUukvSIg5rMXOBC7-KzMJ0--Xw8ycIaWxAC-VPiL1GaTFCIjg5d-x7d5GotptvmCwM8Js"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn25.picryl.com/photo/1860/01/01/auger-holes-through-original-big-tree-showing-means-by-which-it-was-felled-e6a791-1024.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.artgallery.nsw.gov.au/media/thumbnails/collection_images/2/291.2014%23%23S.jpg.1400x681_q85.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/1404428859/photo/.jpg?s=612x612&w=gi&k=20&c=l8x5O_R6VeBEjy_ixNyA7E8KRnk3ssWVtHPIDz0nj3M="
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.picclickimg.com/vpUAAOSwP3FgjHRq/Vintage-Australian-Folk-Tree-Bark-Artwork-Framed.webp"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "picture frame"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 67.55756378173828,
+                "text": "PANAMA. I. 1888. Laundry,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.15481872856616974,
+                        "Height": 0.02018241584300995,
+                        "Left": 0.5225412845611572,
+                        "Top": 0.8860172629356384
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5228156447410583,
+                            "Y": 0.8860172629356384
+                        },
+                        {
+                            "X": 0.6773600578308105,
+                            "Y": 0.8871842622756958
+                        },
+                        {
+                            "X": 0.6770951151847839,
+                            "Y": 0.9061996936798096
+                        },
+                        {
+                            "X": 0.5225412845611572,
+                            "Y": 0.9050617218017578
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 85.98318481445312,
+                "text": "PANAMA.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.049671322107315063,
+                        "Height": 0.016574744135141373,
+                        "Left": 0.5225664973258972,
+                        "Top": 0.8871015906333923
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5228000283241272,
+                            "Y": 0.8871015906333923
+                        },
+                        {
+                            "X": 0.5722378492355347,
+                            "Y": 0.8874744176864624
+                        },
+                        {
+                            "X": 0.57200688123703,
+                            "Y": 0.9036763310432434
+                        },
+                        {
+                            "X": 0.5225664973258972,
+                            "Y": 0.9033114910125732
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 24.49590492248535,
+                "text": "I.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.012139830738306046,
+                        "Height": 0.017910821363329887,
+                        "Left": 0.5749680995941162,
+                        "Top": 0.8864129781723022
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5752220153808594,
+                            "Y": 0.8864129781723022
+                        },
+                        {
+                            "X": 0.5871079564094543,
+                            "Y": 0.886502742767334
+                        },
+                        {
+                            "X": 0.5868547558784485,
+                            "Y": 0.9043238162994385
+                        },
+                        {
+                            "X": 0.5749680995941162,
+                            "Y": 0.9042361378669739
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 92.17243957519531,
+                "text": "1888.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.02759855054318905,
+                        "Height": 0.01688576489686966,
+                        "Left": 0.591486930847168,
+                        "Top": 0.8875212669372559
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5917237401008606,
+                            "Y": 0.8875212669372559
+                        },
+                        {
+                            "X": 0.619085431098938,
+                            "Y": 0.8877276182174683
+                        },
+                        {
+                            "X": 0.6188501119613647,
+                            "Y": 0.9044070243835449
+                        },
+                        {
+                            "X": 0.591486930847168,
+                            "Y": 0.9042052030563354
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 67.57874298095703,
+                "text": "Laundry,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05339353159070015,
+                        "Height": 0.019072160124778748,
+                        "Left": 0.6239616870880127,
+                        "Top": 0.8871275186538696
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6242250204086304,
+                            "Y": 0.8871275186538696
+                        },
+                        {
+                            "X": 0.6773552298545837,
+                            "Y": 0.8875285387039185
+                        },
+                        {
+                            "X": 0.6770951151847839,
+                            "Y": 0.9061996936798096
+                        },
+                        {
+                            "X": 0.6239616870880127,
+                            "Y": 0.9058084487915039
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image31_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Person",
+                "label_confidence": 99.09455871582031,
+                "label_boundings": [
+                    {
+                        "Width": 0.09027652442455292,
+                        "Height": 0.36098557710647583,
+                        "Left": 0.3480587303638458,
+                        "Top": 0.4888860285282135
+                    },
+                    {
+                        "Width": 0.08936163038015366,
+                        "Height": 0.3625117838382721,
+                        "Left": 0.7297631502151489,
+                        "Top": 0.49043044447898865
+                    },
+                    {
+                        "Width": 0.06535416096448898,
+                        "Height": 0.3200027644634247,
+                        "Left": 0.5369131565093994,
+                        "Top": 0.48878762125968933
+                    },
+                    {
+                        "Width": 0.06773248314857483,
+                        "Height": 0.2251429259777069,
+                        "Left": 0.25224146246910095,
+                        "Top": 0.5311648845672607
+                    },
+                    {
+                        "Width": 0.06525868922472,
+                        "Height": 0.31658706068992615,
+                        "Left": 0.15148457884788513,
+                        "Top": 0.49107468128204346
+                    },
+                    {
+                        "Width": 0.06767994910478592,
+                        "Height": 0.22552813589572906,
+                        "Left": 0.6367926001548767,
+                        "Top": 0.5302825570106506
+                    },
+                    {
+                        "Width": 0.0523531436920166,
+                        "Height": 0.22657932341098785,
+                        "Left": 0.4525250792503357,
+                        "Top": 0.41567620635032654
+                    },
+                    {
+                        "Width": 0.047177452594041824,
+                        "Height": 0.23879559338092804,
+                        "Left": 0.8417890071868896,
+                        "Top": 0.4168049991130829
+                    },
+                    {
+                        "Width": 0.07873758673667908,
+                        "Height": 0.330762654542923,
+                        "Left": 0.4237367808818817,
+                        "Top": 0.5982667207717896
+                    }
+                ]
+            },
+            {
+                "label_name": "Plant",
+                "label_confidence": 93.2304458618164,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Tree",
+                "label_confidence": 93.2304458618164,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 90.95094299316406,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 78.89198303222656,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 70.82786560058594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 70.08934783935547,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Clothing",
+                "label_confidence": 65.05005645751953,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Coat",
+                "label_confidence": 65.05005645751953,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Hat",
+                "label_confidence": 64.9092025756836,
+                "label_boundings": [
+                    {
+                        "Width": 0.034552186727523804,
+                        "Height": 0.03223791345953941,
+                        "Left": 0.26410478353500366,
+                        "Top": 0.5304670929908752
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.021499939262866974,
+                    "Height": 0.039704084396362305,
+                    "Left": 0.755394458770752,
+                    "Top": 0.5102720260620117
+                },
+                "face_confidence": 99.96189880371094,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.68480682373047,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.2678451538086,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99647521972656,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.6225357055664,
+                "face_has_beard": false,
+                "face_beard_confidence": 91.07376098632812,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.30921936035156,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 67.20018005371094,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 92.14244842529297,
+                "face_pose_roll": 4.048309326171875,
+                "face_pose_yaw": -14.029072761535645,
+                "face_pose_pitch": -4.596753120422363,
+                "face_brightness": 56.68741989135742,
+                "face_sharpness": 2.485198736190796,
+                "emotion_type_sad": 87.8817138671875,
+                "emotion_type_calm": 55.11708068847656,
+                "emotion_type_surprised": 6.33405065536499,
+                "emotion_type_fear": 6.148263454437256,
+                "emotion_type_confused": 1.8471131324768066,
+                "emotion_type_angry": 1.0994166135787964,
+                "emotion_type_disgusted": 0.2562204599380493,
+                "emotion_type_happy": 0.18965405225753784
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.021155791357159615,
+                    "Height": 0.03866123408079147,
+                    "Left": 0.37380990386009216,
+                    "Top": 0.5092820525169373
+                },
+                "face_confidence": 99.95899963378906,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.20562744140625,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.35978698730469,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99605560302734,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.7628402709961,
+                "face_has_beard": false,
+                "face_beard_confidence": 90.35653686523438,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.908935546875,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 69.41265106201172,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 88.44409942626953,
+                "face_pose_roll": 1.51605224609375,
+                "face_pose_yaw": -13.621627807617188,
+                "face_pose_pitch": -2.5078542232513428,
+                "face_brightness": 57.49545669555664,
+                "face_sharpness": 2.485198736190796,
+                "emotion_type_calm": 39.231895446777344,
+                "emotion_type_fear": 32.84624099731445,
+                "emotion_type_sad": 30.427461624145508,
+                "emotion_type_surprised": 6.568426132202148,
+                "emotion_type_confused": 5.519509792327881,
+                "emotion_type_disgusted": 1.3647178411483765,
+                "emotion_type_angry": 1.2119413614273071,
+                "emotion_type_happy": 0.44634002447128296
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.017516419291496277,
+                    "Height": 0.03302861750125885,
+                    "Left": 0.5610413551330566,
+                    "Top": 0.5147466063499451
+                },
+                "face_confidence": 99.87260437011719,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.02025604248047,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 95.87329864501953,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99594116210938,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.8305892944336,
+                "face_has_beard": false,
+                "face_beard_confidence": 79.78729248046875,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 95.40387725830078,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 73.26457214355469,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 91.48046112060547,
+                "face_pose_roll": -2.201913833618164,
+                "face_pose_yaw": 2.635307550430298,
+                "face_pose_pitch": -3.756760597229004,
+                "face_brightness": 58.266639709472656,
+                "face_sharpness": 1.8666280508041382,
+                "emotion_type_sad": 99.99474334716797,
+                "emotion_type_surprised": 6.295687675476074,
+                "emotion_type_fear": 5.932025909423828,
+                "emotion_type_calm": 1.9864485263824463,
+                "emotion_type_angry": 1.0125855207443237,
+                "emotion_type_confused": 0.8379902839660645,
+                "emotion_type_disgusted": 0.15124621987342834,
+                "emotion_type_happy": 0.06075486168265343
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.01861923187971115,
+                    "Height": 0.030972762033343315,
+                    "Left": 0.27056869864463806,
+                    "Top": 0.5542119145393372
+                },
+                "face_confidence": 97.0727767944336,
+                "face_has_smile": false,
+                "face_smile_confidence": 91.34871673583984,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.87474060058594,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99597930908203,
+                "face_gender": "Male",
+                "face_gender_confidence": 63.186336517333984,
+                "face_has_beard": false,
+                "face_beard_confidence": 82.5414810180664,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.80101776123047,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 87.97928619384766,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 83.74430084228516,
+                "face_pose_roll": 4.254838943481445,
+                "face_pose_yaw": -9.024114608764648,
+                "face_pose_pitch": -16.06569480895996,
+                "face_brightness": 43.108070373535156,
+                "face_sharpness": 1.8666280508041382,
+                "emotion_type_calm": 94.49849700927734,
+                "emotion_type_surprised": 7.077773094177246,
+                "emotion_type_fear": 5.91077995300293,
+                "emotion_type_happy": 3.1701371669769287,
+                "emotion_type_sad": 2.2406821250915527,
+                "emotion_type_angry": 0.17014026641845703,
+                "emotion_type_disgusted": 0.1240486428141594,
+                "emotion_type_confused": 0.09101512283086777
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.016672257333993912,
+                    "Height": 0.033751677721738815,
+                    "Left": 0.17627322673797607,
+                    "Top": 0.5138042569160461
+                },
+                "face_confidence": 99.89505767822266,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.13272857666016,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.86077880859375,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99623107910156,
+                "face_gender": "Female",
+                "face_gender_confidence": 78.37732696533203,
+                "face_has_beard": false,
+                "face_beard_confidence": 86.31348419189453,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.31160736083984,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 95.8297119140625,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 90.23045349121094,
+                "face_pose_roll": -3.680283546447754,
+                "face_pose_yaw": 3.775522470474243,
+                "face_pose_pitch": -4.519628047943115,
+                "face_brightness": 53.81747055053711,
+                "face_sharpness": 1.8666280508041382,
+                "emotion_type_sad": 93.83140563964844,
+                "emotion_type_calm": 25.72077178955078,
+                "emotion_type_confused": 12.877455711364746,
+                "emotion_type_surprised": 8.328341484069824,
+                "emotion_type_fear": 6.8931684494018555,
+                "emotion_type_angry": 5.984696388244629,
+                "emotion_type_disgusted": 1.8112493753433228,
+                "emotion_type_happy": 1.6810741424560547
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.017757324501872063,
+                    "Height": 0.030589835718274117,
+                    "Left": 0.657502293586731,
+                    "Top": 0.5535861849784851
+                },
+                "face_confidence": 99.51296997070312,
+                "face_has_smile": false,
+                "face_smile_confidence": 93.68742370605469,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.13059997558594,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99633026123047,
+                "face_gender": "Female",
+                "face_gender_confidence": 62.77613067626953,
+                "face_has_beard": false,
+                "face_beard_confidence": 80.01705169677734,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.41313934326172,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 73.39026641845703,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 88.01966094970703,
+                "face_pose_roll": 8.956117630004883,
+                "face_pose_yaw": -1.1974138021469116,
+                "face_pose_pitch": -18.84920883178711,
+                "face_brightness": 55.45671463012695,
+                "face_sharpness": 1.399810552597046,
+                "emotion_type_calm": 97.0391845703125,
+                "emotion_type_surprised": 6.540318012237549,
+                "emotion_type_fear": 5.9133453369140625,
+                "emotion_type_sad": 2.6026294231414795,
+                "emotion_type_happy": 0.5251081585884094,
+                "emotion_type_angry": 0.20379555225372314,
+                "emotion_type_disgusted": 0.10024058818817139,
+                "emotion_type_confused": 0.08795004338026047
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 77.18639373779297,
+                "overall_quality_sharpness": 78.4329833984375,
+                "overall_quality_contrast": 75.0284423828125,
+                "dominant_color_0_hex": "#778899",
+                "dominant_color_0_css": "lightslategrey",
+                "dominant_color_0_pixelpercent": 19.696969985961914,
+                "dominant_color_1_hex": "#00bfff",
+                "dominant_color_1_css": "deepskyblue",
+                "dominant_color_1_pixelpercent": 17.984189987182617,
+                "dominant_color_2_hex": "#708090",
+                "dominant_color_2_css": "slategrey",
+                "dominant_color_2_pixelpercent": 17.654808044433594,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 16.534914016723633,
+                "dominant_color_4_hex": "#2f4f4f",
+                "dominant_color_4_css": "darkslategrey",
+                "dominant_color_4_pixelpercent": 13.043478012084961,
+                "dominant_color_5_hex": "#696969",
+                "dominant_color_5_css": "dimgrey",
+                "dominant_color_5_pixelpercent": 12.055335998535156,
+                "dominant_color_6_hex": "#b0c4de",
+                "dominant_color_6_css": "lightsteelblue",
+                "dominant_color_6_pixelpercent": 1.9762846231460571,
+                "dominant_color_7_hex": "#4682b4",
+                "dominant_color_7_css": "steelblue",
+                "dominant_color_7_pixelpercent": 1.054018497467041
+            }
+        ],
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "bounding_box": [
+            50,
+            49,
+            2943,
+            1899
+        ]
+    }
+}

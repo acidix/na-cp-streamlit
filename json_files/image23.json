@@ -1,0 +1,1644 @@
+{
+    "id": "image_23",
+    "url": "https://media.dv.navigatingart.de/15404515-1dcd-489a-ba91-0f01b539175c.jpg?signed=true&valid=1695733328&signature=O3a6nSkm9%2BSPo8aj5Ehzsnv0orGkwd%2B%2F2IATIy6wRpIQs4860bi75%2BPE%2FE%2Frr5BCVRpsC%2FWEGL8%2FOY2TDovC%2Bg%3D%3D",
+    "json": "development_test_job/image23/image23.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.46162414550781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.46162414550781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 99.19783782958984,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.19783782958984,
+                "label_boundings": [
+                    {
+                        "Width": 0.32869142293930054,
+                        "Height": 0.5044435858726501,
+                        "Left": 0.28981274366378784,
+                        "Top": 0.2180343121290207
+                    }
+                ]
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 99.19783782958984,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 98.38612365722656,
+                "label_boundings": [
+                    {
+                        "Width": 0.32869142293930054,
+                        "Height": 0.5044435858726501,
+                        "Left": 0.28981274366378784,
+                        "Top": 0.2180343121290207
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 98.38612365722656,
+                "label_boundings": [
+                    {
+                        "Width": 0.32869142293930054,
+                        "Height": 0.5044435858726501,
+                        "Left": 0.28981274366378784,
+                        "Top": 0.2180343121290207
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 98.38612365722656,
+                "label_boundings": [
+                    {
+                        "Width": 0.32869142293930054,
+                        "Height": 0.5044435858726501,
+                        "Left": 0.28981274366378784,
+                        "Top": 0.2180343121290207
+                    }
+                ]
+            },
+            {
+                "label_name": "Hat",
+                "label_confidence": 98.20181274414062,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 82.34017181396484,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.8968276977539,
+                "overall_quality_sharpness": 37.8642692565918,
+                "overall_quality_contrast": 78.14613342285156,
+                "dominant_color_0_hex": "#ffebcd",
+                "dominant_color_0_css": "blanchedalmond",
+                "dominant_color_0_pixelpercent": 65.78947448730469,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 14.035087585449219,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 7.602339267730713,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 7.017543792724609,
+                "dominant_color_4_hex": "#808080",
+                "dominant_color_4_css": "gray",
+                "dominant_color_4_pixelpercent": 3.216374158859253,
+                "dominant_color_5_hex": "#2f4f4f",
+                "dominant_color_5_css": "darkslategrey",
+                "dominant_color_5_pixelpercent": 2.3391811847686768,
+                "foreground_quality_brightness": 64.34967041015625,
+                "foreground_quality_sharpness": 77.7653579711914,
+                "foreground_dominant_color_0_hex": "#808080",
+                "foreground_dominant_color_0_css": "gray",
+                "foreground_dominant_color_0_pixelpercent": 38.14432907104492,
+                "foreground_dominant_color_1_hex": "#696969",
+                "foreground_dominant_color_1_css": "dimgrey",
+                "foreground_dominant_color_1_pixelpercent": 35.05154800415039,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 22.68041229248047,
+                "foreground_dominant_color_3_hex": "#a9a9a9",
+                "foreground_dominant_color_3_css": "darkgrey",
+                "foreground_dominant_color_3_pixelpercent": 4.123711109161377,
+                "background_quality_brightness": 96.20439147949219,
+                "background_quality_sharpness": 27.293010711669922,
+                "background_dominant_color_0_hex": "#ffebcd",
+                "background_dominant_color_0_css": "blanchedalmond",
+                "background_dominant_color_0_pixelpercent": 73.46089935302734,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 15.474209785461426,
+                "background_dominant_color_2_hex": "#a9a9a9",
+                "background_dominant_color_2_css": "darkgrey",
+                "background_dominant_color_2_pixelpercent": 8.069883346557617,
+                "background_dominant_color_3_hex": "#808080",
+                "background_dominant_color_3_css": "gray",
+                "background_dominant_color_3_pixelpercent": 2.9950082302093506
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Stock photography",
+                    "web_entity_confidence": 0.4416652
+                },
+                {
+                    "web_entity_description": "Photography",
+                    "web_entity_confidence": 0.417
+                },
+                {
+                    "web_entity_description": "Vintage clothing",
+                    "web_entity_confidence": 0.4094947
+                },
+                {
+                    "web_entity_description": "Clothing",
+                    "web_entity_confidence": 0.4072
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3614544
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.35533193
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.35462078
+                },
+                {
+                    "web_entity_description": "LON:0JJW",
+                    "web_entity_confidence": 0.3071
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2823
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2511
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/333977/767517/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.cnn.com/api/v1/images/stellar/prod/180228121754-nazi-and-child-auschwitz-1940-41-by-waldemar-nowakowski.jpg?q=w_1711,h_2274,x_0,y_0,c_fill"
+                },
+                {
+                    "web_visually_similar_image_url": "https://d2ujpqfu85jxzw.cloudfront.net/website/panth-live/styles/card_no_crop/s3/artwork/1982-58/carter_1982-58_o2_16.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cache.getarchive.net/Prod/thumb/cdn6/L3Bob3RvLzE4MjAvMTIvMzEvYWxleGFuZGVyLWhhbWlsdG9uLWRjYjFkYi0xMDI0LmpwZw%3D%3D/320/413/jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://sothebys-com.brightspotcdn.com/f4/4d/a2e4ef804715b5c1f335579e1b74/kubin-l19007-b7m99.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://ih1.redbubble.net/image.2985378909.5069/farp,small,wall_texture,product,750x1000.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.cmsmax.com/zoizsowtrssedyncafsvc/screen-shot-2018-04-21-at-91426-pm-57026.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.nga.gov/iiif/c9b1555c-ab4f-4183-ae7a-81d43f7331e9/full/!740,560/0/default.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.saam.media/Ygo7RgID1-B7hUFlkSZMIfyiva4/960/0/center/cover/jpg/https%3A%2F%2Fd3ec1vt3scx7rr.cloudfront.net%2Ffiles%2Fbios%2Fimages%2Fimage%2F1679424674%2FNPG-NPG_81_8.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://realismtoday.com/wp-content/uploads/2022/03/anatomical-drawings-gri_84-B2835_c1_ANT042_386635ds_2000x2000.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "vintage clothing"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 76.88068389892578,
+                "text": "http://digi.ub.uni-heidelberg.de/diglit/schlaefli_dreyfus_fils1924_11_27/0011",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.47936972975730896,
+                        "Height": 0.012217354960739613,
+                        "Left": 0.24902257323265076,
+                        "Top": 0.9877826571464539
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.24906878173351288,
+                            "Y": 0.9877826571464539
+                        },
+                        {
+                            "X": 0.7283923029899597,
+                            "Y": 0.9903625845909119
+                        },
+                        {
+                            "X": 0.728350043296814,
+                            "Y": 1.0
+                        },
+                        {
+                            "X": 0.24902257323265076,
+                            "Y": 0.9976174831390381
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 70.79109954833984,
+                "text": "N\u00b0",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.02345595881342888,
+                        "Height": 0.010464036837220192,
+                        "Left": 0.17479731142520905,
+                        "Top": 0.7372536063194275
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.17484651505947113,
+                            "Y": 0.7372536063194275
+                        },
+                        {
+                            "X": 0.19825325906276703,
+                            "Y": 0.7373843789100647
+                        },
+                        {
+                            "X": 0.19820426404476166,
+                            "Y": 0.7477176189422607
+                        },
+                        {
+                            "X": 0.17479731142520905,
+                            "Y": 0.7475870251655579
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 99.234619140625,
+                "text": "19",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.01543596014380455,
+                        "Height": 0.00887815561145544,
+                        "Left": 0.20523284375667572,
+                        "Top": 0.7409999966621399
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.20527449250221252,
+                            "Y": 0.7409999966621399
+                        },
+                        {
+                            "X": 0.22066880762577057,
+                            "Y": 0.7410860061645508
+                        },
+                        {
+                            "X": 0.22062727808952332,
+                            "Y": 0.7498781681060791
+                        },
+                        {
+                            "X": 0.20523284375667572,
+                            "Y": 0.7497922778129578
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 99.49158477783203,
+                "text": "E.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.01817817986011505,
+                        "Height": 0.01076077576726675,
+                        "Left": 0.42816469073295593,
+                        "Top": 0.7369144558906555
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4282132089138031,
+                            "Y": 0.7369144558906555
+                        },
+                        {
+                            "X": 0.4463428854942322,
+                            "Y": 0.7370157837867737
+                        },
+                        {
+                            "X": 0.44629454612731934,
+                            "Y": 0.7476751804351807
+                        },
+                        {
+                            "X": 0.42816469073295593,
+                            "Y": 0.7475740313529968
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 99.6281967163086,
+                "text": "DEGAS",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08024346828460693,
+                        "Height": 0.01092260330915451,
+                        "Left": 0.4553004503250122,
+                        "Top": 0.7368531227111816
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4553478956222534,
+                            "Y": 0.7368531227111816
+                        },
+                        {
+                            "X": 0.5355439186096191,
+                            "Y": 0.7373014092445374
+                        },
+                        {
+                            "X": 0.5354971885681152,
+                            "Y": 0.7477757334709167
+                        },
+                        {
+                            "X": 0.4553004503250122,
+                            "Y": 0.7473281621932983
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 96.085693359375,
+                "text": "Kunstbibliothek",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0671825185418129,
+                        "Height": 0.006040864158421755,
+                        "Left": 0.46304941177368164,
+                        "Top": 0.9603103995323181
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.46307510137557983,
+                            "Y": 0.9603103995323181
+                        },
+                        {
+                            "X": 0.5302319526672363,
+                            "Y": 0.960673451423645
+                        },
+                        {
+                            "X": 0.530206561088562,
+                            "Y": 0.9663512110710144
+                        },
+                        {
+                            "X": 0.46304941177368164,
+                            "Y": 0.9659885168075562
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 64.5882339477539,
+                "text": "UNIVERSIT\u00c4TS-",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08370926231145859,
+                        "Height": 0.008744722232222557,
+                        "Left": 0.013699550181627274,
+                        "Top": 0.9640243053436279
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.013740147463977337,
+                            "Y": 0.9640243053436279
+                        },
+                        {
+                            "X": 0.09740880876779556,
+                            "Y": 0.9644762277603149
+                        },
+                        {
+                            "X": 0.09736879169940948,
+                            "Y": 0.972769021987915
+                        },
+                        {
+                            "X": 0.013699550181627274,
+                            "Y": 0.9723176956176758
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_7": {
+                "confidence": 98.8525161743164,
+                "text": "Staatliche",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03896287456154823,
+                        "Height": 0.005640167277306318,
+                        "Left": 0.46361881494522095,
+                        "Top": 0.9681159257888794
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4636433720588684,
+                            "Y": 0.9681159257888794
+                        },
+                        {
+                            "X": 0.5025817155838013,
+                            "Y": 0.9683261513710022
+                        },
+                        {
+                            "X": 0.5025573372840881,
+                            "Y": 0.9737560749053955
+                        },
+                        {
+                            "X": 0.46361881494522095,
+                            "Y": 0.9735459685325623
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_8": {
+                "confidence": 99.77694702148438,
+                "text": "Museen",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03034284897148609,
+                        "Height": 0.0052114324644207954,
+                        "Left": 0.5050126910209656,
+                        "Top": 0.9684655666351318
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5050353407859802,
+                            "Y": 0.9684655666351318
+                        },
+                        {
+                            "X": 0.5353555679321289,
+                            "Y": 0.9686293005943298
+                        },
+                        {
+                            "X": 0.5353330373764038,
+                            "Y": 0.9736769795417786
+                        },
+                        {
+                            "X": 0.5050126910209656,
+                            "Y": 0.9735134243965149
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_9": {
+                "confidence": 98.70950317382812,
+                "text": "zu",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.009257682599127293,
+                        "Height": 0.004223231691867113,
+                        "Left": 0.5374590754508972,
+                        "Top": 0.9692487120628357
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5374776721000671,
+                            "Y": 0.9692487120628357
+                        },
+                        {
+                            "X": 0.5467167496681213,
+                            "Y": 0.9692986011505127
+                        },
+                        {
+                            "X": 0.5466981530189514,
+                            "Y": 0.9734719395637512
+                        },
+                        {
+                            "X": 0.5374590754508972,
+                            "Y": 0.9734220504760742
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_10": {
+                "confidence": 99.8504638671875,
+                "text": "Berlin",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.023834919556975365,
+                        "Height": 0.0050985850393772125,
+                        "Left": 0.5489610433578491,
+                        "Top": 0.9684758186340332
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5489831566810608,
+                            "Y": 0.9684758186340332
+                        },
+                        {
+                            "X": 0.5727959871292114,
+                            "Y": 0.9686043858528137
+                        },
+                        {
+                            "X": 0.5727739930152893,
+                            "Y": 0.9735743999481201
+                        },
+                        {
+                            "X": 0.5489610433578491,
+                            "Y": 0.9734459519386292
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_11": {
+                "confidence": 99.2347183227539,
+                "text": "BIBLIOTHEK",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06758935749530792,
+                        "Height": 0.007648383267223835,
+                        "Left": 0.014250407926738262,
+                        "Top": 0.9739115834236145
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.014286062680184841,
+                            "Y": 0.9739115834236145
+                        },
+                        {
+                            "X": 0.08183976262807846,
+                            "Y": 0.9742758870124817
+                        },
+                        {
+                            "X": 0.08180452138185501,
+                            "Y": 0.9815599322319031
+                        },
+                        {
+                            "X": 0.014250407926738262,
+                            "Y": 0.9811960458755493
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_12": {
+                "confidence": 99.69865417480469,
+                "text": "DFG",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09920237958431244,
+                        "Height": 0.02408139780163765,
+                        "Left": 0.8886334300041199,
+                        "Top": 0.9635142087936401
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8887315392494202,
+                            "Y": 0.9635142087936401
+                        },
+                        {
+                            "X": 0.9878358244895935,
+                            "Y": 0.9640498757362366
+                        },
+                        {
+                            "X": 0.9877396821975708,
+                            "Y": 0.9875956177711487
+                        },
+                        {
+                            "X": 0.8886334300041199,
+                            "Y": 0.9870618581771851
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 99.2686538696289,
+                "text": "HEIDELBERG",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06928099691867828,
+                        "Height": 0.007510545663535595,
+                        "Left": 0.014064055867493153,
+                        "Top": 0.98291015625
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.014098995365202427,
+                            "Y": 0.98291015625
+                        },
+                        {
+                            "X": 0.08334504812955856,
+                            "Y": 0.9832831025123596
+                        },
+                        {
+                            "X": 0.08331052958965302,
+                            "Y": 0.9904207587242126
+                        },
+                        {
+                            "X": 0.014064055867493153,
+                            "Y": 0.9900482296943665
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_14": {
+                "confidence": 76.88068389892578,
+                "text": "http://digi.ub.uni-heidelberg.de/diglit/schlaefli_dreyfus_fils1924_11_27/0011",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.47936972975730896,
+                        "Height": 0.012217354960739613,
+                        "Left": 0.24902257323265076,
+                        "Top": 0.9877826571464539
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.24906878173351288,
+                            "Y": 0.9877826571464539
+                        },
+                        {
+                            "X": 0.7283923029899597,
+                            "Y": 0.9903625845909119
+                        },
+                        {
+                            "X": 0.728350043296814,
+                            "Y": 1.0
+                        },
+                        {
+                            "X": 0.24902257323265076,
+                            "Y": 0.9976174831390381
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image23_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Fireplace",
+                "label_confidence": 98.77595520019531,
+                "label_boundings": [
+                    {
+                        "Width": 0.33573901653289795,
+                        "Height": 0.493541955947876,
+                        "Left": 0.6531193256378174,
+                        "Top": 0.020417463034391403
+                    }
+                ]
+            },
+            {
+                "label_name": "Indoors",
+                "label_confidence": 98.77595520019531,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 97.93489074707031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Bird",
+                "label_confidence": 97.93489074707031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Eagle",
+                "label_confidence": 97.93489074707031,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.41986083984375,
+                "overall_quality_sharpness": 40.58665084838867,
+                "overall_quality_contrast": 89.48033142089844,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 72.82608795166016,
+                "dominant_color_1_hex": "#000000",
+                "dominant_color_1_css": "black",
+                "dominant_color_1_pixelpercent": 11.956521987915039,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 4.34782600402832,
+                "dominant_color_3_hex": "#dcdcdc",
+                "dominant_color_3_css": "gainsboro",
+                "dominant_color_3_pixelpercent": 4.34782600402832,
+                "dominant_color_4_hex": "#2f4f4f",
+                "dominant_color_4_css": "darkslategrey",
+                "dominant_color_4_pixelpercent": 3.2608695030212402,
+                "dominant_color_5_hex": "#a9a9a9",
+                "dominant_color_5_css": "darkgrey",
+                "dominant_color_5_pixelpercent": 3.2608695030212402
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Blue Startups",
+                "logo_confidence": 0.5723552,
+                "logo_vertices": [
+                    {
+                        "x": 1,
+                        "y": 3
+                    },
+                    {
+                        "x": 135,
+                        "y": 3
+                    },
+                    {
+                        "x": 135,
+                        "y": 90
+                    },
+                    {
+                        "x": 1,
+                        "y": 90
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Logo",
+                    "web_entity_confidence": 0.4591397
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.43495345
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.42040548
+                },
+                {
+                    "web_entity_description": "Brand",
+                    "web_entity_confidence": 0.4121302
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3560288
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2581
+                },
+                {
+                    "web_entity_description": "Black M",
+                    "web_entity_confidence": 0.048
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://a-desk.org/wp-content/uploads/2022/05/Raimund-Kummer-Montagehalle-07-rechte-Seite-546x400.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ytimg.com/vi/B3DMpXyz3Rs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLALpr0kWIO_H4kwJmJT-gyZrN0xfg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://kpopmusictownla.com/cdn/shop/products/COVER_Deluxever._1_grande.jpg?v=1677113099"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/578427b6b8a79b20f43439d5/1652930287711-Q52L4VYEW0EB890LI0AX/Trauma+and+Addiction+Treatment"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.pitchfork.com/photos/5929fc66d7a71d1ea569b865/16:9/w_1280,c_limit/829d2bdc.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.sorrystaterecords.com/cdn/shop/products/rotw-brain-tourniquet_1024x1024@2x.jpg?v=1678408981"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ytimg.com/vi/gyrivRA71b4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTauTnUNekSbrMP2xJC6zNwoMXdQ"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.dribbble.com/users/584216/screenshots/15708361/media/9513cb134836de5403f7fc2cac1666dc.png?resize=400x300&vertical=center"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/61VCy+8YOZL._AC_UF1000,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://pptmon.com/wp-content/uploads/2021/10/Monochrome-Portfolio-Free-PowerPoint-Templates-and-Google-Slides-Themes.png"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "monochrome"
+                }
+            ]
+        },
+        "bounding_box": [
+            572,
+            2286,
+            707,
+            2378
+        ]
+    },
+    "image23_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Scoreboard",
+                "label_confidence": 98.64195251464844,
+                "label_boundings": [
+                    {
+                        "Width": 0.9915997385978699,
+                        "Height": 0.9886808395385742,
+                        "Left": 0.0037150399293750525,
+                        "Top": 0.00771261565387249
+                    }
+                ]
+            },
+            {
+                "label_name": "Sign",
+                "label_confidence": 97.8403091430664,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Symbol",
+                "label_confidence": 97.8403091430664,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sticker",
+                "label_confidence": 96.93365478515625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 94.06594848632812,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Electronics",
+                "label_confidence": 88.02412414550781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Mobile Phone",
+                "label_confidence": 88.02412414550781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Phone",
+                "label_confidence": 88.02412414550781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Road Sign",
+                "label_confidence": 76.89618682861328,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Logo",
+                "label_confidence": 71.66869354248047,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 89.6519546508789,
+                "overall_quality_sharpness": 77.81109619140625,
+                "overall_quality_contrast": 83.36176300048828,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 50.50505065917969,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 19.191919326782227,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 11.11111068725586,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 8.08080768585205,
+                "dominant_color_4_hex": "#dcdcdc",
+                "dominant_color_4_css": "gainsboro",
+                "dominant_color_4_pixelpercent": 7.070706844329834,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 4.040403842926025
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "",
+                    "web_entity_confidence": 0.5953
+                },
+                {
+                    "web_entity_description": "Teekay",
+                    "web_entity_confidence": 0.5953
+                },
+                {
+                    "web_entity_description": "Logo",
+                    "web_entity_confidence": 0.48015046
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.45245832
+                },
+                {
+                    "web_entity_description": "Teekay",
+                    "web_entity_confidence": 0.441
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.4254023
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.41403866
+                },
+                {
+                    "web_entity_description": "Brand",
+                    "web_entity_confidence": 0.41306993
+                },
+                {
+                    "web_entity_description": "Banner",
+                    "web_entity_confidence": 0.40506327
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.38544455
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "teekay offshore"
+                }
+            ]
+        },
+        "bounding_box": [
+            22,
+            2295,
+            153,
+            2358
+        ]
+    },
+    "image23_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Logo",
+                "label_confidence": 97.70819854736328,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Number",
+                "label_confidence": 95.81158447265625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Symbol",
+                "label_confidence": 95.81158447265625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 95.81158447265625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Smoke Pipe",
+                "label_confidence": 64.02215576171875,
+                "label_boundings": [
+                    {
+                        "Width": 0.3398485481739044,
+                        "Height": 0.9076045751571655,
+                        "Left": 0.007610690779983997,
+                        "Top": 0.03816632181406021
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 45.40357208251953,
+                "overall_quality_sharpness": 58.616573333740234,
+                "overall_quality_contrast": 95.68783569335938,
+                "dominant_color_0_hex": "#000000",
+                "dominant_color_0_css": "black",
+                "dominant_color_0_pixelpercent": 47.826087951660156,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 36.956520080566406,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 6.5217390060424805,
+                "dominant_color_3_hex": "#808080",
+                "dominant_color_3_css": "gray",
+                "dominant_color_3_pixelpercent": 4.34782600402832,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 4.34782600402832,
+                "foreground_quality_brightness": 24.265419006347656,
+                "foreground_quality_sharpness": 73.60196685791016,
+                "foreground_dominant_color_0_hex": "#000000",
+                "foreground_dominant_color_0_css": "black",
+                "foreground_dominant_color_0_pixelpercent": 65.67163848876953,
+                "foreground_dominant_color_1_hex": "#c0c0c0",
+                "foreground_dominant_color_1_css": "silver",
+                "foreground_dominant_color_1_pixelpercent": 23.880596160888672,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 5.970149040222168,
+                "foreground_dominant_color_3_hex": "#808080",
+                "foreground_dominant_color_3_css": "gray",
+                "foreground_dominant_color_3_pixelpercent": 4.477612018585205,
+                "background_quality_brightness": 67.7998046875,
+                "background_quality_sharpness": 51.46426010131836,
+                "background_dominant_color_0_hex": "#000000",
+                "background_dominant_color_0_css": "black",
+                "background_dominant_color_0_pixelpercent": 40.90909194946289,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 36.3636360168457,
+                "background_dominant_color_2_hex": "#2f4f4f",
+                "background_dominant_color_2_css": "darkslategrey",
+                "background_dominant_color_2_pixelpercent": 4.545454502105713,
+                "background_dominant_color_3_hex": "#696969",
+                "background_dominant_color_3_css": "dimgrey",
+                "background_dominant_color_3_pixelpercent": 4.545454502105713,
+                "background_dominant_color_4_hex": "#808080",
+                "background_dominant_color_4_css": "gray",
+                "background_dominant_color_4_pixelpercent": 4.545454502105713,
+                "background_dominant_color_5_hex": "#a9a9a9",
+                "background_dominant_color_5_css": "darkgrey",
+                "background_dominant_color_5_pixelpercent": 4.545454502105713,
+                "background_dominant_color_6_hex": "#dcdcdc",
+                "background_dominant_color_6_css": "gainsboro",
+                "background_dominant_color_6_pixelpercent": 4.545454502105713
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Deutsche Forschungsgemeinschaft",
+                "logo_confidence": 0.919614,
+                "logo_vertices": [
+                    {
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "x": 149,
+                        "y": 0
+                    },
+                    {
+                        "x": 149,
+                        "y": 52
+                    },
+                    {
+                        "y": 52,
+                        "x": 0
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.56377923
+                },
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.50697935
+                },
+                {
+                    "web_entity_description": "Logo",
+                    "web_entity_confidence": 0.475812
+                },
+                {
+                    "web_entity_description": "Brand",
+                    "web_entity_confidence": 0.46027973
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.42882633
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.4057
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.39296457
+                },
+                {
+                    "web_entity_description": "Symbol",
+                    "web_entity_confidence": 0.3833436
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3503059
+                },
+                {
+                    "web_entity_description": "Activewear",
+                    "web_entity_confidence": 0.3260139
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://image.spreadshirtmedia.net/image-server/v1/mp/products/T20A2PA5099PT17X35Y0D169310808W31489H31489/views/2,width=1200,height=630,appearanceId=2,backgroundColor=F2F2F2,modelId=175,crop=design/10-shirt-number-college-style-football-soccer-number-mens-premium-hoodie.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://shopslickstreet.com/cdn/shop/products/Sde7394bf5fd64ce293334884eeaf0dfeT.jpg?v=1674132209"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.vintageclothesua.com/cdn/shop/products/il_fullxfull.3018359550_pye4_1024x1024@2x.jpg?v=1622458192"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.denverautographs.com/wp-content/uploads/image-1006.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://image.spreadshirtmedia.net/image-server/v1/mp/products/T916A2PA6199PT17X31Y50D195077349W28602H28602/views/1,width=1200,height=630,appearanceId=2,backgroundColor=F2F2F2,modelId=139,crop=design/17-years-old-jersey-number-17-mens-premium-tank-top.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.hummel.pl/dw/image/v2/BDWL_PRD/on/demandware.static/-/Sites-hummel-master-catalog/default/dw51fbe2b1/images/packshot/208937-1009_3.png?sw=514&sh=685&sm=fit&q=80"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ytimg.com/vi/g4BLDI5RpAc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGcgZyhnMA8=&rs=AOn4CLBj_3DrnoP-fO_mMJNKIyNdhx3Rrg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://strong-magazine.com/wp-content/uploads/2015/02/chanel-sportswear-11.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.meesho.com/images/products/185390544/smi4m_512.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/600x315/2a/54/3e/2a543ecb7e8d6e946f8043eaa86d148c.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sportswear"
+                }
+            ]
+        },
+        "bounding_box": [
+            1379,
+            2295,
+            1528,
+            2348
+        ]
+    },
+    "image23_recognized_part_3": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Blade",
+                "label_confidence": 88.28921508789062,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Razor",
+                "label_confidence": 88.28921508789062,
+                "label_boundings": [
+                    {
+                        "Width": 0.9629629254341125,
+                        "Height": 0.9628278017044067,
+                        "Left": 0.02227298729121685,
+                        "Top": 0.015027182176709175
+                    }
+                ]
+            },
+            {
+                "label_name": "Weapon",
+                "label_confidence": 88.28921508789062,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sign",
+                "label_confidence": 88.0892562866211,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Symbol",
+                "label_confidence": 88.0892562866211,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 91.21021270751953,
+                "overall_quality_sharpness": 19.530893325805664,
+                "overall_quality_contrast": 83.71920776367188,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 41.34727096557617,
+                "dominant_color_1_hex": "#dda0dd",
+                "dominant_color_1_css": "plum",
+                "dominant_color_1_pixelpercent": 25.958189010620117,
+                "dominant_color_2_hex": "#191970",
+                "dominant_color_2_css": "midnightblue",
+                "dominant_color_2_pixelpercent": 10.569106101989746,
+                "dominant_color_3_hex": "#6495ed",
+                "dominant_color_3_css": "cornflowerblue",
+                "dominant_color_3_pixelpercent": 7.781649112701416,
+                "dominant_color_4_hex": "#483d8b",
+                "dominant_color_4_css": "darkslateblue",
+                "dominant_color_4_pixelpercent": 7.317073345184326,
+                "dominant_color_5_hex": "#4682b4",
+                "dominant_color_5_css": "steelblue",
+                "dominant_color_5_pixelpercent": 3.948896646499634,
+                "dominant_color_6_hex": "#dcdcdc",
+                "dominant_color_6_css": "gainsboro",
+                "dominant_color_6_pixelpercent": 3.0778164863586426
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Calhoun Community College",
+                "logo_confidence": 0.56226367,
+                "logo_vertices": [
+                    {
+                        "y": 1,
+                        "x": 0
+                    },
+                    {
+                        "x": 59,
+                        "y": 1
+                    },
+                    {
+                        "x": 59,
+                        "y": 83
+                    },
+                    {
+                        "y": 83,
+                        "x": 0
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.550261
+                },
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.5163261
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.417
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.40280724
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.345051
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/vektoren-kostenlos/offenes-blaues-buch-auf-weiss_1308-69339.jpg?w=360"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/vektoren-kostenlos/aufgeschlagenes-buch-isoliert-auf-weissem-hintergrund_1308-87860.jpg?q=10&h=200"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/ti/gratis-vektor/p1/10426501-blau-offenes-buch-kostenlos-vektor.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.baamboozle.com/uploads/images/260055/1644165110_16491_url.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.weltbild.de/p/das-buch-moin-na-denn-man-tau-341739924.jpg?v=1&wp=_max"
+                },
+                {
+                    "web_visually_similar_image_url": "https://icon2.cleanpng.com/20180418/ode/kisspng-book-reading-clip-art-5ad7be7defb6b2.1106182615240884459819.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/vektoren-premium/blaues-buch_91756-87.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.geschenkidee.ch/cf-resize/product-main-xs/5/5/2/8/4/1/56d6f6b3/buch-tresor-woerterbuch-safe.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.thalia.media/00/-/200d845dc0974ef1b18d32bce30d42fb/verbrenn-das-buch-danach-ein-ausfuellbuch-fuer-erwachsene-hardcover-gebundene-ausgabe-david-tripolina.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://shop.lemken.com/media/image/10/90/37/LEMKEN-Buch4_web_600x600.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "buch"
+                }
+            ]
+        },
+        "bounding_box": [
+            156,
+            2278,
+            216,
+            2362
+        ]
+    },
+    "image23_recognized_part_4": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.9990005493164,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.9990005493164,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.06281280517578,
+                "label_boundings": [
+                    {
+                        "Width": 0.5112245082855225,
+                        "Height": 0.8828228712081909,
+                        "Left": 0.20201341807842255,
+                        "Top": 0.09759721159934998
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 97.65524291992188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 97.65524291992188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Photography",
+                "label_confidence": 97.65524291992188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 97.65524291992188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Clothing",
+                "label_confidence": 90.87337493896484,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Coat",
+                "label_confidence": 90.87337493896484,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Hat",
+                "label_confidence": 61.40312576293945,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 85.89585876464844,
+                "overall_quality_sharpness": 43.152374267578125,
+                "overall_quality_contrast": 78.75383758544922,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 40.32366943359375,
+                "dominant_color_1_hex": "#a9a9a9",
+                "dominant_color_1_css": "darkgrey",
+                "dominant_color_1_pixelpercent": 22.656776428222656,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 18.071475982666016,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 17.936614990234375,
+                "dominant_color_4_hex": "#dcdcdc",
+                "dominant_color_4_css": "gainsboro",
+                "dominant_color_4_pixelpercent": 0.8091706037521362,
+                "dominant_color_5_hex": "#b0c4de",
+                "dominant_color_5_css": "lightsteelblue",
+                "dominant_color_5_pixelpercent": 0.20229265093803406,
+                "foreground_quality_brightness": 64.3836441040039,
+                "foreground_quality_sharpness": 62.82617950439453,
+                "foreground_dominant_color_0_hex": "#808080",
+                "foreground_dominant_color_0_css": "gray",
+                "foreground_dominant_color_0_pixelpercent": 38.709678649902344,
+                "foreground_dominant_color_1_hex": "#696969",
+                "foreground_dominant_color_1_css": "dimgrey",
+                "foreground_dominant_color_1_pixelpercent": 32.25806427001953,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 24.731182098388672,
+                "foreground_dominant_color_3_hex": "#a9a9a9",
+                "foreground_dominant_color_3_css": "darkgrey",
+                "foreground_dominant_color_3_pixelpercent": 4.301075458526611,
+                "background_quality_brightness": 87.63150787353516,
+                "background_quality_sharpness": 38.750553131103516,
+                "background_dominant_color_0_hex": "#c0c0c0",
+                "background_dominant_color_0_css": "silver",
+                "background_dominant_color_0_pixelpercent": 52.05959701538086,
+                "background_dominant_color_1_hex": "#a9a9a9",
+                "background_dominant_color_1_css": "darkgrey",
+                "background_dominant_color_1_pixelpercent": 28.48378562927246,
+                "background_dominant_color_2_hex": "#808080",
+                "background_dominant_color_2_css": "gray",
+                "background_dominant_color_2_pixelpercent": 12.007011413574219,
+                "background_dominant_color_3_hex": "#696969",
+                "background_dominant_color_3_css": "dimgrey",
+                "background_dominant_color_3_pixelpercent": 3.593339204788208,
+                "background_dominant_color_4_hex": "#2f4f4f",
+                "background_dominant_color_4_css": "darkslategrey",
+                "background_dominant_color_4_pixelpercent": 2.541630268096924,
+                "background_dominant_color_5_hex": "#dcdcdc",
+                "background_dominant_color_5_css": "gainsboro",
+                "background_dominant_color_5_pixelpercent": 1.0517090559005737,
+                "background_dominant_color_6_hex": "#b0c4de",
+                "background_dominant_color_6_css": "lightsteelblue",
+                "background_dominant_color_6_pixelpercent": 0.26292726397514343
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 2,
+            "violence": 3,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.6885864
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.5155242
+                },
+                {
+                    "web_entity_description": "Ancient history",
+                    "web_entity_confidence": 0.50596935
+                },
+                {
+                    "web_entity_description": "History",
+                    "web_entity_confidence": 0.4125
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3933
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3709
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2976
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.295
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images/2022_11/09/19/193615041/-B91OC.Jpeg?w=768"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images//2013_03/07/05/050025134/3df93b1c-d069-4f36-9517-24ef768b6c65.Jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images/2009_07/05/0082/458431/585bd6aa-ff08-4d09-b2fa-ecb03c600a36_g.Jpeg?w=480"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images/2011_06/28/14/141057928/21ee1cdc-cef3-4c0e-9518-346edf14e3f6.Jpeg?w=480"
+                },
+                {
+                    "web_visually_similar_image_url": "https://preview.redd.it/galarian-bonaparte-decided-to-do-a-lil-throwback-and-v0-oq8ks11io4ib1.jpg?width=640&crop=smart&auto=webp&s=1e4151a00e2b5603e9a738acdb529189898d07d8"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.saatchiart.com/saatchi/436778/art/10610801/9673291-UKMXSXDW-7.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/470419352/photo/self-portrait-by-vincenzo-gemito-20th-century-pencil-on-vellum-64-x-51-cm-italy-campania.jpg?s=612x612&w=gi&k=20&c=IaerxkLR5ZXMprRQnp8kMjkvvq0yIf1IhUfBc4rZKmQ="
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.artmajeur.com/medias/standard/m/o/mohan/artwork/5292697_Swamiji.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.artworksapp.com/scaled/750x/574eaa05a935c2891123861f/Tomas_Lundgren1430.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.artmajeur.com/medias/hd/x/a/xavier-auffret/artwork/16922473_autoportrait-nb.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "monochrome"
+                }
+            ]
+        },
+        "bounding_box": [
+            262,
+            393,
+            1233,
+            1723
+        ]
+    }
+}

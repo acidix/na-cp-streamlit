@@ -1,0 +1,1576 @@
+{
+    "id": "image_7",
+    "url": "https://media.dv.navigatingart.de/6cb04c87-2fe3-454b-bfdf-8b4f46823df3.jpg?signed=true&valid=1695733328&signature=pcyiuLnDZ16KfGyeArccUWYAjjrVaBxmKGR269v7cdVlUZ1OtWsUKTCtZNmjjBo%2FsiVqPhRputzOclskJCGZ2g%3D%3D",
+    "json": "development_test_job/image7/image7.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Page",
+                "label_confidence": 99.91561126708984,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.91561126708984,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Diary",
+                "label_confidence": 94.52040100097656,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Document",
+                "label_confidence": 68.30709075927734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Id Cards",
+                "label_confidence": 68.30709075927734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Passport",
+                "label_confidence": 68.30709075927734,
+                "label_boundings": [
+                    {
+                        "Width": 0.9159343838691711,
+                        "Height": 0.8222270011901855,
+                        "Left": 0.030078545212745667,
+                        "Top": 0.0216851644217968
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 88.57670593261719,
+                "overall_quality_sharpness": 86.0892105102539,
+                "overall_quality_contrast": 86.1115493774414,
+                "dominant_color_0_hex": "#ffebcd",
+                "dominant_color_0_css": "blanchedalmond",
+                "dominant_color_0_pixelpercent": 31.2934627532959,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 19.888734817504883,
+                "dominant_color_2_hex": "#bc8f8f",
+                "dominant_color_2_css": "rosybrown",
+                "dominant_color_2_pixelpercent": 19.054241180419922,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 18.7065372467041,
+                "dominant_color_4_hex": "#000000",
+                "dominant_color_4_css": "black",
+                "dominant_color_4_pixelpercent": 7.927677154541016,
+                "dominant_color_5_hex": "#2f4f4f",
+                "dominant_color_5_css": "darkslategrey",
+                "dominant_color_5_pixelpercent": 2.712100028991699,
+                "dominant_color_6_hex": "#4682b4",
+                "dominant_color_6_css": "steelblue",
+                "dominant_color_6_pixelpercent": 0.41724616289138794,
+                "foreground_quality_brightness": 89.11885070800781,
+                "foreground_quality_sharpness": 84.82768249511719,
+                "foreground_dominant_color_0_hex": "#ffebcd",
+                "foreground_dominant_color_0_css": "blanchedalmond",
+                "foreground_dominant_color_0_pixelpercent": 31.013216018676758,
+                "foreground_dominant_color_1_hex": "#bc8f8f",
+                "foreground_dominant_color_1_css": "rosybrown",
+                "foreground_dominant_color_1_pixelpercent": 21.8502197265625,
+                "foreground_dominant_color_2_hex": "#c0c0c0",
+                "foreground_dominant_color_2_css": "silver",
+                "foreground_dominant_color_2_pixelpercent": 21.8502197265625,
+                "foreground_dominant_color_3_hex": "#a9a9a9",
+                "foreground_dominant_color_3_css": "darkgrey",
+                "foreground_dominant_color_3_pixelpercent": 16.91629981994629,
+                "foreground_dominant_color_4_hex": "#deb887",
+                "foreground_dominant_color_4_css": "burlywood",
+                "foreground_dominant_color_4_pixelpercent": 5.903083801269531,
+                "foreground_dominant_color_5_hex": "#556b2f",
+                "foreground_dominant_color_5_css": "darkolivegreen",
+                "foreground_dominant_color_5_pixelpercent": 1.9383260011672974,
+                "foreground_dominant_color_6_hex": "#4682b4",
+                "foreground_dominant_color_6_css": "steelblue",
+                "foreground_dominant_color_6_pixelpercent": 0.5286343693733215,
+                "background_quality_brightness": 86.21107482910156,
+                "background_quality_sharpness": 90.68663024902344,
+                "background_dominant_color_0_hex": "#000000",
+                "background_dominant_color_0_css": "black",
+                "background_dominant_color_0_pixelpercent": 37.966102600097656,
+                "background_dominant_color_1_hex": "#ffebcd",
+                "background_dominant_color_1_css": "blanchedalmond",
+                "background_dominant_color_1_pixelpercent": 32.54237365722656,
+                "background_dominant_color_2_hex": "#deb887",
+                "background_dominant_color_2_css": "burlywood",
+                "background_dominant_color_2_pixelpercent": 9.152542114257812,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 8.474575996398926,
+                "background_dominant_color_4_hex": "#c0c0c0",
+                "background_dominant_color_4_css": "silver",
+                "background_dominant_color_4_pixelpercent": 7.1186442375183105,
+                "background_dominant_color_5_hex": "#a0522d",
+                "background_dominant_color_5_css": "sienna",
+                "background_dominant_color_5_pixelpercent": 3.728813648223877,
+                "background_dominant_color_6_hex": "#2f4f4f",
+                "background_dominant_color_6_css": "darkslategrey",
+                "background_dominant_color_6_pixelpercent": 1.01694917678833
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.50303924
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.47108272
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.44418144
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.40100154
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.34374198
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2831
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2505
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Personification_of_%27Art%27_from_Cesare_Ripa%27s_%27Iconologia...%27_Wellcome_L0035389.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Art-de-peter.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.bl.uk/britishlibrary/~/media/bl/global/dl%20shakespeare/shakespeare%20collection%20items/the-noble-art-of-g_2372_2_tp.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/356702/739570/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://api.europeana.eu/thumbnail/v2/url.json?size=w400&type=IMAGE&uri=https%3A%2F%2Fmedia.jhn.ngo%2Fproxy%3Furl%3Dhttps%3A%2F%2Fmedia.jhn.ngo%2FNLI%2FIIIFv21%2FFL7071592%2Ffull%2Fmax%2F0%2Fdefault.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://gallaudet.edu/images/History-Through-Deaf-Eyes/Formation%20of%20a%20Community/1.15.03.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://smarthistory.org/wp-content/uploads/2019/05/vasari-sm.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-gQ404MzVGquAWDh68HflU8CdWDmeH9duoMUZ4oi4n5Ta8zLOxxCKKvNFtpCJPynb2Ei-URKjBm9KEvx8WmeWYoB6LSxUXHrXppindrB08RGUkYtXmjUMCYmKjtcnfa5Xcl3-c3CUHgbOnFB-THNmUvYEVGMbUW6XNRIdhDv0lHXt1dqely7DzKSERA/w434-h640/1653741564872_M4_height.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/vintage-french-wine-label-jp3973-jean-plout.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/e8/fd/a5/e8fda5347fb75291a02a0d4869231f52.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "art"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 78.6146011352539,
+                "text": "are Redword with Egg KB",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.8470374345779419,
+                        "Height": 0.066342294216156,
+                        "Left": 0.06749990582466125,
+                        "Top": 0.907594621181488
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.06749990582466125,
+                            "Y": 0.907594621181488
+                        },
+                        {
+                            "X": 0.9145373106002808,
+                            "Y": 0.9095548391342163
+                        },
+                        {
+                            "X": 0.9144119620323181,
+                            "Y": 0.973936915397644
+                        },
+                        {
+                            "X": 0.06757386028766632,
+                            "Y": 0.9718570113182068
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 48.15878677368164,
+                "text": "x3",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0467008501291275,
+                        "Height": 0.021918730810284615,
+                        "Left": 0.07396666705608368,
+                        "Top": 0.03189912438392639
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.07396666705608368,
+                            "Y": 0.03189912438392639
+                        },
+                        {
+                            "X": 0.1206466406583786,
+                            "Y": 0.031916841864585876
+                        },
+                        {
+                            "X": 0.12066751718521118,
+                            "Y": 0.053817857056856155
+                        },
+                        {
+                            "X": 0.07399126887321472,
+                            "Y": 0.0537978820502758
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_2": {
+                "confidence": 10.337446212768555,
+                "text": "the",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.34687340259552,
+                        "Height": 0.1372179239988327,
+                        "Left": 0.08374399691820145,
+                        "Top": 0.09629801660776138
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.08374399691820145,
+                            "Y": 0.09629801660776138
+                        },
+                        {
+                            "X": 0.43061739206314087,
+                            "Y": 0.09647902101278305
+                        },
+                        {
+                            "X": 0.4305931329727173,
+                            "Y": 0.23351594805717468
+                        },
+                        {
+                            "X": 0.08389299362897873,
+                            "Y": 0.23323015868663788
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 86.71623992919922,
+                "text": "48",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0899447426199913,
+                        "Height": 0.03414018079638481,
+                        "Left": 0.05839445814490318,
+                        "Top": 0.21817724406719208
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.05839445814490318,
+                            "Y": 0.21817724406719208
+                        },
+                        {
+                            "X": 0.14831013977527618,
+                            "Y": 0.2182483822107315
+                        },
+                        {
+                            "X": 0.14833921194076538,
+                            "Y": 0.2523174285888672
+                        },
+                        {
+                            "X": 0.05843469128012657,
+                            "Y": 0.25223955512046814
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_4": {
+                "confidence": 98.56977844238281,
+                "text": "Brown",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.17002876102924347,
+                        "Height": 0.018767548725008965,
+                        "Left": 0.2510303258895874,
+                        "Top": 0.22680510580539703
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2510303258895874,
+                            "Y": 0.22680510580539703
+                        },
+                        {
+                            "X": 0.4210590720176697,
+                            "Y": 0.22694279253482819
+                        },
+                        {
+                            "X": 0.4210564196109772,
+                            "Y": 0.24557265639305115
+                        },
+                        {
+                            "X": 0.25103920698165894,
+                            "Y": 0.24542798101902008
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_5": {
+                "confidence": 99.92263793945312,
+                "text": "10",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06620492041110992,
+                        "Height": 0.022570382803678513,
+                        "Left": 0.472507506608963,
+                        "Top": 0.22508977353572845
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.47251495718955994,
+                            "Y": 0.22508977353572845
+                        },
+                        {
+                            "X": 0.5387124419212341,
+                            "Y": 0.22514310479164124
+                        },
+                        {
+                            "X": 0.5386995673179626,
+                            "Y": 0.24766014516353607
+                        },
+                        {
+                            "X": 0.472507506608963,
+                            "Y": 0.24760353565216064
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_6": {
+                "confidence": 67.77596282958984,
+                "text": "steamed",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.4033443033695221,
+                        "Height": 0.048770722001791,
+                        "Left": 0.2860634922981262,
+                        "Top": 0.44882407784461975
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2860634922981262,
+                            "Y": 0.44882407784461975
+                        },
+                        {
+                            "X": 0.6894077658653259,
+                            "Y": 0.44934841990470886
+                        },
+                        {
+                            "X": 0.6893536448478699,
+                            "Y": 0.49759480357170105
+                        },
+                        {
+                            "X": 0.28608039021492004,
+                            "Y": 0.49702760577201843
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_7": {
+                "confidence": 32.8382682800293,
+                "text": "1Brown",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2641682028770447,
+                        "Height": 0.030475009232759476,
+                        "Left": 0.03958744928240776,
+                        "Top": 0.6406784057617188
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.03958744928240776,
+                            "Y": 0.6406784057617188
+                        },
+                        {
+                            "X": 0.3037470579147339,
+                            "Y": 0.6411340236663818
+                        },
+                        {
+                            "X": 0.30375567078590393,
+                            "Y": 0.6711534261703491
+                        },
+                        {
+                            "X": 0.03962500020861626,
+                            "Y": 0.6706804037094116
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_8": {
+                "confidence": 51.46976089477539,
+                "text": "Exchoe",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2529195547103882,
+                        "Height": 0.05589691549539566,
+                        "Left": 0.3293289840221405,
+                        "Top": 0.6397813558578491
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3293289840221405,
+                            "Y": 0.6397813558578491
+                        },
+                        {
+                            "X": 0.5822485089302063,
+                            "Y": 0.6402167677879333
+                        },
+                        {
+                            "X": 0.582207977771759,
+                            "Y": 0.6956782937049866
+                        },
+                        {
+                            "X": 0.3293396532535553,
+                            "Y": 0.6952120065689087
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_9": {
+                "confidence": 99.06763458251953,
+                "text": "24",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1200781762599945,
+                        "Height": 0.03265506401658058,
+                        "Left": 0.5973443984985352,
+                        "Top": 0.6440154910087585
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.597369909286499,
+                            "Y": 0.6440154910087585
+                        },
+                        {
+                            "X": 0.7174225449562073,
+                            "Y": 0.644223153591156
+                        },
+                        {
+                            "X": 0.7173827886581421,
+                            "Y": 0.6766705513000488
+                        },
+                        {
+                            "X": 0.5973443984985352,
+                            "Y": 0.6764543056488037
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_10": {
+                "confidence": 98.56525421142578,
+                "text": "2",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0427556112408638,
+                        "Height": 0.017030395567417145,
+                        "Left": 0.6261114478111267,
+                        "Top": 0.6731867790222168
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6261265873908997,
+                            "Y": 0.6731867790222168
+                        },
+                        {
+                            "X": 0.6688670516014099,
+                            "Y": 0.6732634902000427
+                        },
+                        {
+                            "X": 0.6688492894172668,
+                            "Y": 0.6902171969413757
+                        },
+                        {
+                            "X": 0.6261114478111267,
+                            "Y": 0.6901388764381409
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_11": {
+                "confidence": 31.99944496154785,
+                "text": "scale",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.16400884091854095,
+                        "Height": 0.03211045637726784,
+                        "Left": 0.6936138272285461,
+                        "Top": 0.6546173691749573
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6936500072479248,
+                            "Y": 0.6546173691749573
+                        },
+                        {
+                            "X": 0.8576226234436035,
+                            "Y": 0.654904842376709
+                        },
+                        {
+                            "X": 0.8575673699378967,
+                            "Y": 0.6867278814315796
+                        },
+                        {
+                            "X": 0.6936138272285461,
+                            "Y": 0.686428964138031
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_12": {
+                "confidence": 96.09837341308594,
+                "text": "2.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.061044663190841675,
+                        "Height": 0.03143012896180153,
+                        "Left": 0.07813556492328644,
+                        "Top": 0.7071256637573242
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.07813556492328644,
+                            "Y": 0.7071256637573242
+                        },
+                        {
+                            "X": 0.1391524225473404,
+                            "Y": 0.7072398662567139
+                        },
+                        {
+                            "X": 0.1391802281141281,
+                            "Y": 0.7385557889938354
+                        },
+                        {
+                            "X": 0.07817035168409348,
+                            "Y": 0.7384374141693115
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 58.25307846069336,
+                "text": "trab",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2259073555469513,
+                        "Height": 0.04731378331780434,
+                        "Left": 0.15108491480350494,
+                        "Top": 0.693280041217804
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.15108491480350494,
+                            "Y": 0.693280041217804
+                        },
+                        {
+                            "X": 0.3769913911819458,
+                            "Y": 0.6936957836151123
+                        },
+                        {
+                            "X": 0.37699228525161743,
+                            "Y": 0.7405938506126404
+                        },
+                        {
+                            "X": 0.1511244922876358,
+                            "Y": 0.7401548027992249
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_14": {
+                "confidence": 88.48201751708984,
+                "text": "for",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.14075392484664917,
+                        "Height": 0.06604379415512085,
+                        "Left": 0.40569013357162476,
+                        "Top": 0.6962928771972656
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4056957960128784,
+                            "Y": 0.6962928771972656
+                        },
+                        {
+                            "X": 0.5464440584182739,
+                            "Y": 0.6965526938438416
+                        },
+                        {
+                            "X": 0.5464045405387878,
+                            "Y": 0.7623366713523865
+                        },
+                        {
+                            "X": 0.40569013357162476,
+                            "Y": 0.7620564699172974
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_15": {
+                "confidence": 41.8875732421875,
+                "text": "choc",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.14825654029846191,
+                        "Height": 0.05593133717775345,
+                        "Left": 0.5566019415855408,
+                        "Top": 0.6951167583465576
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5566374659538269,
+                            "Y": 0.6951167583465576
+                        },
+                        {
+                            "X": 0.7048584818840027,
+                            "Y": 0.6953898668289185
+                        },
+                        {
+                            "X": 0.7047927975654602,
+                            "Y": 0.7510480880737305
+                        },
+                        {
+                            "X": 0.5566019415855408,
+                            "Y": 0.7507568001747131
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_16": {
+                "confidence": 87.29077911376953,
+                "text": "only",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.19063204526901245,
+                        "Height": 0.04028003662824631,
+                        "Left": 0.7317119836807251,
+                        "Top": 0.7246645092964172
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7317629456520081,
+                            "Y": 0.7246645092964172
+                        },
+                        {
+                            "X": 0.9223440289497375,
+                            "Y": 0.7250280380249023
+                        },
+                        {
+                            "X": 0.9222651720046997,
+                            "Y": 0.7649445533752441
+                        },
+                        {
+                            "X": 0.7317119836807251,
+                            "Y": 0.7645643949508667
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_17": {
+                "confidence": 98.8399429321289,
+                "text": "3.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04197370260953903,
+                        "Height": 0.02609371393918991,
+                        "Left": 0.13809989392757416,
+                        "Top": 0.7467266321182251
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.13809989392757416,
+                            "Y": 0.7467266321182251
+                        },
+                        {
+                            "X": 0.18005439639091492,
+                            "Y": 0.7468087673187256
+                        },
+                        {
+                            "X": 0.1800736039876938,
+                            "Y": 0.7728203535079956
+                        },
+                        {
+                            "X": 0.13812309503555298,
+                            "Y": 0.7727357745170593
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_18": {
+                "confidence": 98.58938598632812,
+                "text": "/",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04431203380227089,
+                        "Height": 0.03106190450489521,
+                        "Left": 0.13881047070026398,
+                        "Top": 0.776976466178894
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.13881047070026398,
+                            "Y": 0.776976466178894
+                        },
+                        {
+                            "X": 0.18309997022151947,
+                            "Y": 0.777066171169281
+                        },
+                        {
+                            "X": 0.18312251567840576,
+                            "Y": 0.8080383539199829
+                        },
+                        {
+                            "X": 0.1388380229473114,
+                            "Y": 0.8079456090927124
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_19": {
+                "confidence": 99.95989227294922,
+                "text": "of",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.11519206315279007,
+                        "Height": 0.06914640218019485,
+                        "Left": 0.19939568638801575,
+                        "Top": 0.7410105466842651
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.19939568638801575,
+                            "Y": 0.7410105466842651
+                        },
+                        {
+                            "X": 0.31457075476646423,
+                            "Y": 0.7412346005439758
+                        },
+                        {
+                            "X": 0.3145877420902252,
+                            "Y": 0.8101569414138794
+                        },
+                        {
+                            "X": 0.19944171607494354,
+                            "Y": 0.8099154233932495
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_20": {
+                "confidence": 67.62388610839844,
+                "text": "O.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05609938129782677,
+                        "Height": 0.027424011379480362,
+                        "Left": 0.34729644656181335,
+                        "Top": 0.7501234412193298
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.34729644656181335,
+                            "Y": 0.7501234412193298
+                        },
+                        {
+                            "X": 0.4033958315849304,
+                            "Y": 0.7502336502075195
+                        },
+                        {
+                            "X": 0.4033936858177185,
+                            "Y": 0.7775474190711975
+                        },
+                        {
+                            "X": 0.3472999036312103,
+                            "Y": 0.7774338126182556
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_21": {
+                "confidence": 49.3054084777832,
+                "text": "Deal",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1778932362794876,
+                        "Height": 0.03158233314752579,
+                        "Left": 0.4229133725166321,
+                        "Top": 0.7470195293426514
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.42291802167892456,
+                            "Y": 0.7470195293426514
+                        },
+                        {
+                            "X": 0.6008065938949585,
+                            "Y": 0.747367799282074
+                        },
+                        {
+                            "X": 0.6007816195487976,
+                            "Y": 0.778601884841919
+                        },
+                        {
+                            "X": 0.4229133725166321,
+                            "Y": 0.7782413959503174
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_22": {
+                "confidence": 93.09581756591797,
+                "text": "\"",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03576437011361122,
+                        "Height": 0.015303518623113632,
+                        "Left": 0.23327524960041046,
+                        "Top": 0.7966533303260803
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.23327524960041046,
+                            "Y": 0.7966533303260803
+                        },
+                        {
+                            "X": 0.2690333127975464,
+                            "Y": 0.7967272996902466
+                        },
+                        {
+                            "X": 0.2690396308898926,
+                            "Y": 0.8119568824768066
+                        },
+                        {
+                            "X": 0.23328353464603424,
+                            "Y": 0.8118817210197449
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_23": {
+                "confidence": 99.90103912353516,
+                "text": "32",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06641032546758652,
+                        "Height": 0.022489726543426514,
+                        "Left": 0.3688664734363556,
+                        "Top": 0.787343442440033
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3688664734363556,
+                            "Y": 0.787343442440033
+                        },
+                        {
+                            "X": 0.4352768063545227,
+                            "Y": 0.7874794006347656
+                        },
+                        {
+                            "X": 0.4352724552154541,
+                            "Y": 0.8098331689834595
+                        },
+                        {
+                            "X": 0.36886754631996155,
+                            "Y": 0.8096939921379089
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_24": {
+                "confidence": 96.04395294189453,
+                "text": "Blue",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.17263109982013702,
+                        "Height": 0.035886943340301514,
+                        "Left": 0.4428611397743225,
+                        "Top": 0.7779380083084106
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.44286903738975525,
+                            "Y": 0.7779380083084106
+                        },
+                        {
+                            "X": 0.6154922246932983,
+                            "Y": 0.7782877683639526
+                        },
+                        {
+                            "X": 0.6154618859291077,
+                            "Y": 0.8138249516487122
+                        },
+                        {
+                            "X": 0.4428611397743225,
+                            "Y": 0.8134617209434509
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_25": {
+                "confidence": 26.31692886352539,
+                "text": "fal,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2107619047164917,
+                        "Height": 0.07132913172245026,
+                        "Left": 0.4433150887489319,
+                        "Top": 0.8096564412117004
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.44333094358444214,
+                            "Y": 0.8096564412117004
+                        },
+                        {
+                            "X": 0.6540769934654236,
+                            "Y": 0.8100981712341309
+                        },
+                        {
+                            "X": 0.6540064811706543,
+                            "Y": 0.8809856176376343
+                        },
+                        {
+                            "X": 0.4433150887489319,
+                            "Y": 0.8805110454559326
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_26": {
+                "confidence": 60.458045959472656,
+                "text": "1879.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1307048350572586,
+                        "Height": 0.044462401419878006,
+                        "Left": 0.7135443091392517,
+                        "Top": 0.8250747323036194
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.71359783411026,
+                            "Y": 0.8250747323036194
+                        },
+                        {
+                            "X": 0.8442491292953491,
+                            "Y": 0.8253528475761414
+                        },
+                        {
+                            "X": 0.8441744446754456,
+                            "Y": 0.8695371150970459
+                        },
+                        {
+                            "X": 0.7135443091392517,
+                            "Y": 0.8692463040351868
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_27": {
+                "confidence": 95.63863372802734,
+                "text": "th",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0968780592083931,
+                        "Height": 0.031714070588350296,
+                        "Left": 0.6680012345314026,
+                        "Top": 0.8018655776977539
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6680341958999634,
+                            "Y": 0.8018655776977539
+                        },
+                        {
+                            "X": 0.7648792862892151,
+                            "Y": 0.8020668029785156
+                        },
+                        {
+                            "X": 0.7648351788520813,
+                            "Y": 0.8335796594619751
+                        },
+                        {
+                            "X": 0.6680012345314026,
+                            "Y": 0.8333716988563538
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_28": {
+                "confidence": 99.90735626220703,
+                "text": "all",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1270350068807602,
+                        "Height": 0.047414422035217285,
+                        "Left": 0.06397505849599838,
+                        "Top": 0.8641957640647888
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.06397505849599838,
+                            "Y": 0.8641957640647888
+                        },
+                        {
+                            "X": 0.19097711145877838,
+                            "Y": 0.8644775152206421
+                        },
+                        {
+                            "X": 0.19101005792617798,
+                            "Y": 0.9116101861000061
+                        },
+                        {
+                            "X": 0.06402987986803055,
+                            "Y": 0.9113153219223022
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_29": {
+                "confidence": 65.4250259399414,
+                "text": "these",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1708102971315384,
+                        "Height": 0.064080148935318,
+                        "Left": 0.17378313839435577,
+                        "Top": 0.8520926833152771
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.17378313839435577,
+                            "Y": 0.8520926833152771
+                        },
+                        {
+                            "X": 0.3445846736431122,
+                            "Y": 0.8524669408798218
+                        },
+                        {
+                            "X": 0.34459343552589417,
+                            "Y": 0.9161728620529175
+                        },
+                        {
+                            "X": 0.17383164167404175,
+                            "Y": 0.9157747030258179
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_30": {
+                "confidence": 97.04288482666016,
+                "text": "Light",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2015039473772049,
+                        "Height": 0.07225062698125839,
+                        "Left": 0.36484259366989136,
+                        "Top": 0.8647652268409729
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.36484259366989136,
+                            "Y": 0.8647652268409729
+                        },
+                        {
+                            "X": 0.5663465261459351,
+                            "Y": 0.8652122020721436
+                        },
+                        {
+                            "X": 0.5662981271743774,
+                            "Y": 0.9370158314704895
+                        },
+                        {
+                            "X": 0.3648471236228943,
+                            "Y": 0.9365370869636536
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_31": {
+                "confidence": 66.70690155029297,
+                "text": "shades",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2732745409011841,
+                        "Height": 0.056755710393190384,
+                        "Left": 0.5644078850746155,
+                        "Top": 0.868344247341156
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5644453167915344,
+                            "Y": 0.868344247341156
+                        },
+                        {
+                            "X": 0.8376824259757996,
+                            "Y": 0.868952214717865
+                        },
+                        {
+                            "X": 0.8375888466835022,
+                            "Y": 0.9250999689102173
+                        },
+                        {
+                            "X": 0.5644078850746155,
+                            "Y": 0.9244583249092102
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_32": {
+                "confidence": 99.9815444946289,
+                "text": "are",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.10715288668870926,
+                        "Height": 0.027209851890802383,
+                        "Left": 0.06751302629709244,
+                        "Top": 0.9189958572387695
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.06751302629709244,
+                            "Y": 0.9189958572387695
+                        },
+                        {
+                            "X": 0.17464545369148254,
+                            "Y": 0.91924649477005
+                        },
+                        {
+                            "X": 0.1746659129858017,
+                            "Y": 0.946205735206604
+                        },
+                        {
+                            "X": 0.06754404306411743,
+                            "Y": 0.9459487795829773
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_33": {
+                "confidence": 67.51374053955078,
+                "text": "Redword",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.29722166061401367,
+                        "Height": 0.041800711303949356,
+                        "Left": 0.19289204478263855,
+                        "Top": 0.9078848361968994
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.19289204478263855,
+                            "Y": 0.9078848361968994
+                        },
+                        {
+                            "X": 0.4901137053966522,
+                            "Y": 0.9085726737976074
+                        },
+                        {
+                            "X": 0.4900974631309509,
+                            "Y": 0.9496855139732361
+                        },
+                        {
+                            "X": 0.1929204761981964,
+                            "Y": 0.9489708542823792
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_34": {
+                "confidence": 99.9031982421875,
+                "text": "with",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1736285388469696,
+                        "Height": 0.03744920343160629,
+                        "Left": 0.47474774718284607,
+                        "Top": 0.9156498312950134
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4747602939605713,
+                            "Y": 0.9156498312950134
+                        },
+                        {
+                            "X": 0.6483762860298157,
+                            "Y": 0.9160543084144592
+                        },
+                        {
+                            "X": 0.6483401656150818,
+                            "Y": 0.9530990123748779
+                        },
+                        {
+                            "X": 0.47474774718284607,
+                            "Y": 0.9526804089546204
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_35": {
+                "confidence": 98.3843765258789,
+                "text": "Egg",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.10743321478366852,
+                        "Height": 0.0494939424097538,
+                        "Left": 0.6568357944488525,
+                        "Top": 0.9240740537643433
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6568852663040161,
+                            "Y": 0.9240740537643433
+                        },
+                        {
+                            "X": 0.7642689943313599,
+                            "Y": 0.9243261218070984
+                        },
+                        {
+                            "X": 0.7642001509666443,
+                            "Y": 0.9735680222511292
+                        },
+                        {
+                            "X": 0.6568357944488525,
+                            "Y": 0.9733043313026428
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_36": {
+                "confidence": 27.290138244628906,
+                "text": "KB",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.14569248259067535,
+                        "Height": 0.049030568450689316,
+                        "Left": 0.7688242197036743,
+                        "Top": 0.9198038578033447
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7688931226730347,
+                            "Y": 0.9198038578033447
+                        },
+                        {
+                            "X": 0.9145166873931885,
+                            "Y": 0.920144259929657
+                        },
+                        {
+                            "X": 0.9144218564033508,
+                            "Y": 0.968834400177002
+                        },
+                        {
+                            "X": 0.7688242197036743,
+                            "Y": 0.9684784412384033
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            }
+        }
+    },
+    "image7_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Text",
+                "label_confidence": 88.74723052978516,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Pattern",
+                "label_confidence": 82.60281372070312,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Document",
+                "label_confidence": 69.89442443847656,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Id Cards",
+                "label_confidence": 69.89442443847656,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Passport",
+                "label_confidence": 69.89442443847656,
+                "label_boundings": [
+                    {
+                        "Width": 0.9628500938415527,
+                        "Height": 0.9692452549934387,
+                        "Left": 0.02283317595720291,
+                        "Top": 0.017753474414348602
+                    }
+                ]
+            },
+            {
+                "label_name": "White Board",
+                "label_confidence": 66.9408187866211,
+                "label_boundings": [
+                    {
+                        "Width": 0.9552773833274841,
+                        "Height": 0.7867408990859985,
+                        "Left": 0.020863838493824005,
+                        "Top": 0.19790968298912048
+                    }
+                ]
+            },
+            {
+                "label_name": "Diary",
+                "label_confidence": 66.07202911376953,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 86.92009735107422,
+                "overall_quality_sharpness": 85.46517181396484,
+                "overall_quality_contrast": 85.1841812133789,
+                "dominant_color_0_hex": "#b0c4de",
+                "dominant_color_0_css": "lightsteelblue",
+                "dominant_color_0_pixelpercent": 23.996789932250977,
+                "dominant_color_1_hex": "#e6e6fa",
+                "dominant_color_1_css": "lavender",
+                "dominant_color_1_pixelpercent": 21.1075439453125,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 20.064205169677734,
+                "dominant_color_3_hex": "#778899",
+                "dominant_color_3_css": "lightslategrey",
+                "dominant_color_3_pixelpercent": 11.556982040405273,
+                "dominant_color_4_hex": "#708090",
+                "dominant_color_4_css": "slategrey",
+                "dominant_color_4_pixelpercent": 10.593900680541992,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 7.945425510406494,
+                "dominant_color_6_hex": "#483d8b",
+                "dominant_color_6_css": "darkslateblue",
+                "dominant_color_6_pixelpercent": 4.01284122467041,
+                "dominant_color_7_hex": "#bc8f8f",
+                "dominant_color_7_css": "rosybrown",
+                "dominant_color_7_pixelpercent": 0.7223113775253296,
+                "foreground_quality_brightness": 87.52050018310547,
+                "foreground_quality_sharpness": 84.37672424316406,
+                "foreground_dominant_color_0_hex": "#b0c4de",
+                "foreground_dominant_color_0_css": "lightsteelblue",
+                "foreground_dominant_color_0_pixelpercent": 26.453489303588867,
+                "foreground_dominant_color_1_hex": "#a9a9a9",
+                "foreground_dominant_color_1_css": "darkgrey",
+                "foreground_dominant_color_1_pixelpercent": 21.220930099487305,
+                "foreground_dominant_color_2_hex": "#e6e6fa",
+                "foreground_dominant_color_2_css": "lavender",
+                "foreground_dominant_color_2_pixelpercent": 20.930233001708984,
+                "foreground_dominant_color_3_hex": "#778899",
+                "foreground_dominant_color_3_css": "lightslategrey",
+                "foreground_dominant_color_3_pixelpercent": 13.372093200683594,
+                "foreground_dominant_color_4_hex": "#708090",
+                "foreground_dominant_color_4_css": "slategrey",
+                "foreground_dominant_color_4_pixelpercent": 12.5,
+                "foreground_dominant_color_5_hex": "#483d8b",
+                "foreground_dominant_color_5_css": "darkslateblue",
+                "foreground_dominant_color_5_pixelpercent": 4.554263591766357,
+                "foreground_dominant_color_6_hex": "#bc8f8f",
+                "foreground_dominant_color_6_css": "rosybrown",
+                "foreground_dominant_color_6_pixelpercent": 0.8720930218696594,
+                "foreground_dominant_color_7_hex": "#c0c0c0",
+                "foreground_dominant_color_7_css": "silver",
+                "foreground_dominant_color_7_pixelpercent": 0.09689922630786896,
+                "background_quality_brightness": 84.24324035644531,
+                "background_quality_sharpness": 89.35465240478516,
+                "background_dominant_color_0_hex": "#000000",
+                "background_dominant_color_0_css": "black",
+                "background_dominant_color_0_pixelpercent": 38.13229751586914,
+                "background_dominant_color_1_hex": "#e6e6fa",
+                "background_dominant_color_1_css": "lavender",
+                "background_dominant_color_1_pixelpercent": 21.78988265991211,
+                "background_dominant_color_2_hex": "#a9a9a9",
+                "background_dominant_color_2_css": "darkgrey",
+                "background_dominant_color_2_pixelpercent": 15.175097465515137,
+                "background_dominant_color_3_hex": "#b0c4de",
+                "background_dominant_color_3_css": "lightsteelblue",
+                "background_dominant_color_3_pixelpercent": 15.175097465515137,
+                "background_dominant_color_4_hex": "#778899",
+                "background_dominant_color_4_css": "lightslategrey",
+                "background_dominant_color_4_pixelpercent": 5.447470664978027,
+                "background_dominant_color_5_hex": "#4682b4",
+                "background_dominant_color_5_css": "steelblue",
+                "background_dominant_color_5_pixelpercent": 3.112840414047241,
+                "background_dominant_color_6_hex": "#2f4f4f",
+                "background_dominant_color_6_css": "darkslategrey",
+                "background_dominant_color_6_pixelpercent": 1.167315125465393
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.595804
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.44271716
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.43888465
+                },
+                {
+                    "web_entity_description": "Sketch",
+                    "web_entity_confidence": 0.4014345
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.35903755
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.348
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2823
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2505
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/qiUAAOSwZU9jcqay/s-l1600.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:4742bj01m/image_thumbnail_300.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cards.scryfall.io/png/front/9/2/92debe15-70c2-4d91-9fdc-f85c05ceef1d.png?1562929590"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/U0gAAOSw6LVj7-hO/s-l1200.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/AEUAAOSw9GhYbtQ2/s-l1200.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/85/25/d9/8525d94103aa100cc98383e9a7a5565b.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://rukminim2.flixcart.com/image/1100/1300/kppt47k0/regionalbooks/e/0/o/surah-yaseen-and-tabarak-with-metal-box-art-paper-big-font-41-ps-original-imag3vtwnfw39v4e.jpeg?q=90"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/BesAAOSwcRZii9Iq/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/5d/bf/f9/5dbff900a9462bcdf5b8ddc4d915106c.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/513sNjo9EcL._AC_SX148_SY213_QL70_.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "art"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            3087,
+            5101
+        ]
+    }
+}

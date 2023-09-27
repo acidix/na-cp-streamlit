@@ -1,0 +1,491 @@
+{
+    "id": "image_9",
+    "url": "https://media.dv.navigatingart.de/699dc063-5798-4d5e-a098-d03a435456cd.jpg?signed=true&valid=1695733328&signature=iIiUtgctMAd7YBmyYNxyHKaRlfmekQbTbL05DE1VEmjrNImPp6Xm5ESlvyng0OqlBH5AyyScFDfap%2FArxDfbsA%3D%3D",
+    "json": "development_test_job/image9/image9.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.9783706665039,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 99.01948547363281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 91.25364685058594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 90.2854232788086,
+                "label_boundings": [
+                    {
+                        "Width": 0.7235841751098633,
+                        "Height": 0.8737404942512512,
+                        "Left": 0.02635864168405533,
+                        "Top": 0.09956251084804535
+                    }
+                ]
+            },
+            {
+                "label_name": "Bride",
+                "label_confidence": 90.2854232788086,
+                "label_boundings": [
+                    {
+                        "Width": 0.7235841751098633,
+                        "Height": 0.8737404942512512,
+                        "Left": 0.02635864168405533,
+                        "Top": 0.09956251084804535
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 90.2854232788086,
+                "label_boundings": [
+                    {
+                        "Width": 0.7235841751098633,
+                        "Height": 0.8737404942512512,
+                        "Left": 0.02635864168405533,
+                        "Top": 0.09956251084804535
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 90.2854232788086,
+                "label_boundings": [
+                    {
+                        "Width": 0.7235841751098633,
+                        "Height": 0.8737404942512512,
+                        "Left": 0.02635864168405533,
+                        "Top": 0.09956251084804535
+                    },
+                    {
+                        "Width": 0.5457935333251953,
+                        "Height": 0.89059978723526,
+                        "Left": 0.4246344268321991,
+                        "Top": 0.0449216365814209
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 90.2854232788086,
+                "label_boundings": [
+                    {
+                        "Width": 0.7235841751098633,
+                        "Height": 0.8737404942512512,
+                        "Left": 0.02635864168405533,
+                        "Top": 0.09956251084804535
+                    }
+                ]
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 65.31229400634766,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Fashion",
+                "label_confidence": 64.99407196044922,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 85.32530975341797,
+                "overall_quality_sharpness": 45.729591369628906,
+                "overall_quality_contrast": 76.56523895263672,
+                "dominant_color_0_hex": "#a9a9a9",
+                "dominant_color_0_css": "darkgrey",
+                "dominant_color_0_pixelpercent": 86.3013687133789,
+                "dominant_color_1_hex": "#2f4f4f",
+                "dominant_color_1_css": "darkslategrey",
+                "dominant_color_1_pixelpercent": 8.219178199768066,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 5.022830963134766,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 0.456620991230011
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 3
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.6261948
+                },
+                {
+                    "web_entity_description": "Sketch",
+                    "web_entity_confidence": 0.52260184
+                },
+                {
+                    "web_entity_description": "Costume design",
+                    "web_entity_confidence": 0.4942874
+                },
+                {
+                    "web_entity_description": "Drawing",
+                    "web_entity_confidence": 0.4808
+                },
+                {
+                    "web_entity_description": "Figure drawing",
+                    "web_entity_confidence": 0.46859848
+                },
+                {
+                    "web_entity_description": "Costume",
+                    "web_entity_confidence": 0.4034
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.39808664
+                },
+                {
+                    "web_entity_description": "Dress",
+                    "web_entity_confidence": 0.39588094
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.33483976
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3262
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://art.ngfiles.com/images/3432000/3432893_oceanview56_tormentor-and-manifesto-rough-sketch.jpg?f1693588024"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/7EUAAOSwoLRjqX~T/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e70357bc-d73f-4fbb-b731-4e86949250aa/dg7wh9a-b8055923-f365-4b0d-b6c2-06288e6434fb.jpg/v1/fill/w_772,h_1036,q_70,strp/elena_tomo__sketch__by_sleepyheadmangaka_dg7wh9a-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyNCIsInBhdGgiOiJcL2ZcL2U3MDM1N2JjLWQ3M2YtNGZiYi1iNzMxLTRlODY5NDkyNTBhYVwvZGc3d2g5YS1iODA1NTkyMy1mMzY1LTRiMGQtYjZjMi0wNjI4OGU2NDM0ZmIuanBnIiwid2lkdGgiOiI8PTkxMiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rt3ZSMgdv9jP4jRF60iSsV9bxg3Ji3eDgOSQ8dZoDy8"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bebafbf8-0a2b-4c55-8f5a-81452ab12769/d6gntl1-fe4bc8cf-f262-4529-9129-f874c1a006fa.jpg/v1/fill/w_1024,h_768,q_75,strp/jewel_diamond___sketch__by_bigboy4025_d6gntl1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvYmViYWZiZjgtMGEyYi00YzU1LThmNWEtODE0NTJhYjEyNzY5XC9kNmdudGwxLWZlNGJjOGNmLWYyNjItNDUyOS05MTI5LWY4NzRjMWEwMDZmYS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.IF-Xz0hef764_VzK18Rx9LB8FviRez0TA4223FxcWxU"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/OEsAAOSw0TNgkMAZ/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "http://www.ichenartacademy.com/uploads/9/1/6/7/9167260/2673535_orig.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://storage.ko-fi.com/cdn/useruploads/display/7eec49e4-93cf-48b8-920e-976b174092aa_hinataogsketch.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2862a4f3-4373-4b15-83d7-bd7c09a7472c/dg14v98-fb44041f-904a-4e2f-8588-cb58488f2ed8.jpg/v1/fill/w_1280,h_1707,q_75,strp/spider_man_sketch_2__mayday_parker__by_billymj04_dg14v98-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwNyIsInBhdGgiOiJcL2ZcLzI4NjJhNGYzLTQzNzMtNGIxNS04M2Q3LWJkN2MwOWE3NDcyY1wvZGcxNHY5OC1mYjQ0MDQxZi05MDRhLTRlMmYtODU4OC1jYjU4NDg4ZjJlZDguanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.WDzHfmNNPxxV08wilP49IGehSVUKgfnxAGae6UwG94g"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7641011c-0c81-4f7f-a2bd-61cd52f0570d/ddyww4i-f1c0d186-241b-4857-a342-67bfc0f9efbe.jpg/v1/fill/w_1280,h_960,q_75,strp/leviathan_melvillei__sketch__by_jonassaurothedragon_ddyww4i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvNzY0MTAxMWMtMGM4MS00ZjdmLWEyYmQtNjFjZDUyZjA1NzBkXC9kZHl3dzRpLWYxYzBkMTg2LTI0MWItNDg1Ny1hMzQyLTY3YmZjMGY5ZWZiZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3o6EMQA9QKFB23eNFyDfmG91C7G-RnZAsZze5Q1WdPU"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.researchgate.net/publication/330105153/figure/fig5/AS:710912239484929@1546506094599/Wassily-Kandinsky-Pencil-sketch-for-Improvisation-6-of-1909-c-1908-1910-possibly.ppm"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "dress"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 81.27159118652344,
+                "text": "120",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0915369838476181,
+                        "Height": 0.09257712960243225,
+                        "Left": 0.8547609448432922,
+                        "Top": 0.07165032625198364
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8993931412696838,
+                            "Y": 0.07165032625198364
+                        },
+                        {
+                            "X": 0.9462979435920715,
+                            "Y": 0.11851253360509872
+                        },
+                        {
+                            "X": 0.9016269445419312,
+                            "Y": 0.1642274558544159
+                        },
+                        {
+                            "X": 0.8547609448432922,
+                            "Y": 0.11737944185733795
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 81.27159118652344,
+                "text": "120",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0915369838476181,
+                        "Height": 0.09257712960243225,
+                        "Left": 0.8547609448432922,
+                        "Top": 0.07165032625198364
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8993931412696838,
+                            "Y": 0.07165032625198364
+                        },
+                        {
+                            "X": 0.9462979435920715,
+                            "Y": 0.11851253360509872
+                        },
+                        {
+                            "X": 0.9016269445419312,
+                            "Y": 0.1642274558544159
+                        },
+                        {
+                            "X": 0.8547609448432922,
+                            "Y": 0.11737944185733795
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image9_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.99272918701172,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 99.58232879638672,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 93.59503173828125,
+                "label_boundings": [
+                    {
+                        "Width": 0.6847918629646301,
+                        "Height": 0.7882814407348633,
+                        "Left": 0.026928404346108437,
+                        "Top": 0.18367750942707062
+                    }
+                ]
+            },
+            {
+                "label_name": "Bride",
+                "label_confidence": 93.59503173828125,
+                "label_boundings": [
+                    {
+                        "Width": 0.6847918629646301,
+                        "Height": 0.7882814407348633,
+                        "Left": 0.026928404346108437,
+                        "Top": 0.18367750942707062
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 93.59503173828125,
+                "label_boundings": [
+                    {
+                        "Width": 0.6847918629646301,
+                        "Height": 0.7882814407348633,
+                        "Left": 0.026928404346108437,
+                        "Top": 0.18367750942707062
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 93.59503173828125,
+                "label_boundings": [
+                    {
+                        "Width": 0.6847918629646301,
+                        "Height": 0.7882814407348633,
+                        "Left": 0.026928404346108437,
+                        "Top": 0.18367750942707062
+                    },
+                    {
+                        "Width": 0.47115612030029297,
+                        "Height": 0.6498342156410217,
+                        "Left": 0.4965559244155884,
+                        "Top": 0.04350525885820389
+                    }
+                ]
+            },
+            {
+                "label_name": "Wedding",
+                "label_confidence": 93.59503173828125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 93.59503173828125,
+                "label_boundings": [
+                    {
+                        "Width": 0.6847918629646301,
+                        "Height": 0.7882814407348633,
+                        "Left": 0.026928404346108437,
+                        "Top": 0.18367750942707062
+                    }
+                ]
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 85.77062225341797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 60.921226501464844,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 85.32530975341797,
+                "overall_quality_sharpness": 45.37318420410156,
+                "overall_quality_contrast": 76.47782135009766,
+                "dominant_color_0_hex": "#a9a9a9",
+                "dominant_color_0_css": "darkgrey",
+                "dominant_color_0_pixelpercent": 86.13138580322266,
+                "dominant_color_1_hex": "#2f4f4f",
+                "dominant_color_1_css": "darkslategrey",
+                "dominant_color_1_pixelpercent": 8.272505760192871,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 5.1094889640808105,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 0.4866180121898651
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 3
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.62929094
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.55922425
+                },
+                {
+                    "web_entity_description": "Sketch",
+                    "web_entity_confidence": 0.5295453
+                },
+                {
+                    "web_entity_description": "Costume design",
+                    "web_entity_confidence": 0.49947447
+                },
+                {
+                    "web_entity_description": "Drawing",
+                    "web_entity_confidence": 0.4897
+                },
+                {
+                    "web_entity_description": "Figure drawing",
+                    "web_entity_confidence": 0.4723675
+                },
+                {
+                    "web_entity_description": "Costume",
+                    "web_entity_confidence": 0.4014
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.39704543
+                },
+                {
+                    "web_entity_description": "Dress",
+                    "web_entity_confidence": 0.38842517
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3653
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://art.ngfiles.com/images/3432000/3432893_oceanview56_tormentor-and-manifesto-rough-sketch.jpg?f1693588024"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/7EUAAOSwoLRjqX~T/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e70357bc-d73f-4fbb-b731-4e86949250aa/dg7wh9a-b8055923-f365-4b0d-b6c2-06288e6434fb.jpg/v1/fill/w_772,h_1036,q_70,strp/elena_tomo__sketch__by_sleepyheadmangaka_dg7wh9a-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyNCIsInBhdGgiOiJcL2ZcL2U3MDM1N2JjLWQ3M2YtNGZiYi1iNzMxLTRlODY5NDkyNTBhYVwvZGc3d2g5YS1iODA1NTkyMy1mMzY1LTRiMGQtYjZjMi0wNjI4OGU2NDM0ZmIuanBnIiwid2lkdGgiOiI8PTkxMiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rt3ZSMgdv9jP4jRF60iSsV9bxg3Ji3eDgOSQ8dZoDy8"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bebafbf8-0a2b-4c55-8f5a-81452ab12769/d6gntl1-fe4bc8cf-f262-4529-9129-f874c1a006fa.jpg/v1/fill/w_1024,h_768,q_75,strp/jewel_diamond___sketch__by_bigboy4025_d6gntl1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvYmViYWZiZjgtMGEyYi00YzU1LThmNWEtODE0NTJhYjEyNzY5XC9kNmdudGwxLWZlNGJjOGNmLWYyNjItNDUyOS05MTI5LWY4NzRjMWEwMDZmYS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.IF-Xz0hef764_VzK18Rx9LB8FviRez0TA4223FxcWxU"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/OEsAAOSw0TNgkMAZ/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://storage.ko-fi.com/cdn/useruploads/display/7eec49e4-93cf-48b8-920e-976b174092aa_hinataogsketch.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2862a4f3-4373-4b15-83d7-bd7c09a7472c/dg14v98-fb44041f-904a-4e2f-8588-cb58488f2ed8.jpg/v1/fill/w_1280,h_1707,q_75,strp/spider_man_sketch_2__mayday_parker__by_billymj04_dg14v98-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwNyIsInBhdGgiOiJcL2ZcLzI4NjJhNGYzLTQzNzMtNGIxNS04M2Q3LWJkN2MwOWE3NDcyY1wvZGcxNHY5OC1mYjQ0MDQxZi05MDRhLTRlMmYtODU4OC1jYjU4NDg4ZjJlZDguanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.WDzHfmNNPxxV08wilP49IGehSVUKgfnxAGae6UwG94g"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7641011c-0c81-4f7f-a2bd-61cd52f0570d/ddyww4i-f1c0d186-241b-4857-a342-67bfc0f9efbe.jpg/v1/fill/w_1280,h_960,q_75,strp/leviathan_melvillei__sketch__by_jonassaurothedragon_ddyww4i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvNzY0MTAxMWMtMGM4MS00ZjdmLWEyYmQtNjFjZDUyZjA1NzBkXC9kZHl3dzRpLWYxYzBkMTg2LTI0MWItNDg1Ny1hMzQyLTY3YmZjMGY5ZWZiZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3o6EMQA9QKFB23eNFyDfmG91C7G-RnZAsZze5Q1WdPU"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.researchgate.net/publication/330105153/figure/fig5/AS:710912239484929@1546506094599/Wassily-Kandinsky-Pencil-sketch-for-Improvisation-6-of-1909-c-1908-1910-possibly.ppm"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdna.artstation.com/p/assets/images/images/031/032/856/large/rahul-p-img-20201001-151735.jpg?1602397055"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "dress"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            2338,
+            3000
+        ]
+    }
+}

@@ -1,0 +1,1163 @@
+{
+    "id": "image_27",
+    "url": "https://media.dv.navigatingart.de/2d2dda4c-4ad2-4d05-a309-58b72b454eb7.jpg?signed=true&valid=1695733328&signature=BJybaIZ1k7XJ2Sk00duK7CLV%2FODFGWSorpQX6H0Ret4jZ0SomljwzY%2BuOvKwAy8sdlC%2Far3VH6ySg%2B04vPLzLA%3D%3D",
+    "json": "development_test_job/image27/image27.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Weapon",
+                "label_confidence": 96.41775512695312,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Ammunition",
+                "label_confidence": 78.99969482421875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Grenade",
+                "label_confidence": 78.99969482421875,
+                "label_boundings": [
+                    {
+                        "Width": 0.46200716495513916,
+                        "Height": 0.8049560785293579,
+                        "Left": 0.45762136578559875,
+                        "Top": 0.17040401697158813
+                    }
+                ]
+            },
+            {
+                "label_name": "Dynamite",
+                "label_confidence": 67.87212371826172,
+                "label_boundings": [
+                    {
+                        "Width": 0.794867992401123,
+                        "Height": 0.8080617785453796,
+                        "Left": 0.11653479188680649,
+                        "Top": 0.1626214236021042
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 89.04410552978516,
+                "overall_quality_sharpness": 80.03389739990234,
+                "overall_quality_contrast": 92.2631607055664,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 32.67924499511719,
+                "dominant_color_1_hex": "#000000",
+                "dominant_color_1_css": "black",
+                "dominant_color_1_pixelpercent": 18.188678741455078,
+                "dominant_color_2_hex": "#c0c0c0",
+                "dominant_color_2_css": "silver",
+                "dominant_color_2_pixelpercent": 17.056604385375977,
+                "dominant_color_3_hex": "#808080",
+                "dominant_color_3_css": "gray",
+                "dominant_color_3_pixelpercent": 15.169811248779297,
+                "dominant_color_4_hex": "#2f4f4f",
+                "dominant_color_4_css": "darkslategrey",
+                "dominant_color_4_pixelpercent": 7.5471696853637695,
+                "dominant_color_5_hex": "#696969",
+                "dominant_color_5_css": "dimgrey",
+                "dominant_color_5_pixelpercent": 7.396226406097412,
+                "dominant_color_6_hex": "#ffffff",
+                "dominant_color_6_css": "white",
+                "dominant_color_6_pixelpercent": 1.9622641801834106,
+                "foreground_quality_brightness": 55.16581726074219,
+                "foreground_quality_sharpness": 82.98531341552734,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 32.62839889526367,
+                "foreground_dominant_color_1_hex": "#000000",
+                "foreground_dominant_color_1_css": "black",
+                "foreground_dominant_color_1_pixelpercent": 20.996978759765625,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 20.69486427307129,
+                "foreground_dominant_color_3_hex": "#696969",
+                "foreground_dominant_color_3_css": "dimgrey",
+                "foreground_dominant_color_3_pixelpercent": 13.746223449707031,
+                "foreground_dominant_color_4_hex": "#ffebcd",
+                "foreground_dominant_color_4_css": "blanchedalmond",
+                "foreground_dominant_color_4_pixelpercent": 6.193353652954102,
+                "foreground_dominant_color_5_hex": "#a9a9a9",
+                "foreground_dominant_color_5_css": "darkgrey",
+                "foreground_dominant_color_5_pixelpercent": 2.8700907230377197,
+                "foreground_dominant_color_6_hex": "#c0c0c0",
+                "foreground_dominant_color_6_css": "silver",
+                "foreground_dominant_color_6_pixelpercent": 2.8700907230377197,
+                "background_quality_brightness": 94.76441955566406,
+                "background_quality_sharpness": 25.480731964111328,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 61.05769348144531,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 25.0,
+                "background_dominant_color_2_hex": "#808080",
+                "background_dominant_color_2_css": "gray",
+                "background_dominant_color_2_pixelpercent": 10.576923370361328,
+                "background_dominant_color_3_hex": "#ffffff",
+                "background_dominant_color_3_css": "white",
+                "background_dominant_color_3_pixelpercent": 3.365384578704834
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Norbert Rillieux",
+                    "web_entity_confidence": 1.07265
+                },
+                {
+                    "web_entity_description": "Invention",
+                    "web_entity_confidence": 0.7207
+                },
+                {
+                    "web_entity_description": "Inventor",
+                    "web_entity_confidence": 0.6152
+                },
+                {
+                    "web_entity_description": "Patent model",
+                    "web_entity_confidence": 0.5384
+                },
+                {
+                    "web_entity_description": "Anacostia Community Museum",
+                    "web_entity_confidence": 0.5195851
+                },
+                {
+                    "web_entity_description": "National Museum of African American History and Culture",
+                    "web_entity_confidence": 0.44814003
+                },
+                {
+                    "web_entity_description": "Patent",
+                    "web_entity_confidence": 0.4371
+                },
+                {
+                    "web_entity_description": "Museum",
+                    "web_entity_confidence": 0.4344
+                },
+                {
+                    "web_entity_description": "Smithsonian Open Access",
+                    "web_entity_confidence": 0.4301
+                },
+                {
+                    "web_entity_description": "African Americans",
+                    "web_entity_confidence": 0.4043
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://ids.si.edu/ids/deliveryService?id=ACM-acmobj-199400010001-r1"
+                },
+                {
+                    "web_full_matching_image_url": "https://ids.si.edu/ids/deliveryService?max_w=800&id=ACM-acmobj-199400010001-r1"
+                },
+                {
+                    "web_full_matching_image_url": "https://ids.si.edu/ids/deliveryService?id=ACM-acmobj-199400010001-r1&max=980"
+                },
+                {
+                    "web_full_matching_image_url": "https://ids.si.edu/ids/deliveryService?max_w=550&id=ACM-acmobj-199400010001-r1"
+                },
+                {
+                    "web_full_matching_image_url": "https://ids.si.edu/ids/deliveryService?max_w=300&id=ACM-acmobj-199400010001-r1"
+                }
+            ],
+            "web_partial_matching_images": [
+                {
+                    "web_partial_matching_image_url": "http://www.si.edu/Content/img/Exhibitions/db/ACM-Patent-Rillieux.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://ids.si.edu/ids/deliveryService?id=https://www.si.edu/Content/img/Exhibitions/db/ACM-Patent-Rillieux.jpg&max_w=600"
+                }
+            ],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://www.si.edu/openaccess"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.si.edu/museums/anacostia-community-museum"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.si.edu/spotlight/acm-collection-sampler"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.si.edu/spotlight/open-access"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://anacostia.si.edu/collection/object/acm_1994.0001.0001"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.si.edu/exhibitions/real-mccoy-african-american-invention-and-innovation-1619-1930-event-exhib-1270"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.si.edu/object/patent-model-multiple-effect-vacuum-evaporator%3Aacm_1994.0001.0001"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.mvz-scharnweberstrasse.de/anfahrt/?k=elijah-mccoy-black-inventors-collection-womens-t-shirts-warren-zz-0xy3emca"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://m.smarcland.com/openaccess"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://m.soonceramics.com/openaccess"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://ids.si.edu/ids/deliveryService?id=ACM-acmobj-199400010001-r1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3056829042193772191"
+                },
+                {
+                    "web_visually_similar_image_url": "https://d4yxl4pe8dqlj.cloudfront.net/images/64fdab67-9789-4d89-bfa4-42a4cef5e5d8/15062f3b-5038-4850-9330-9f3486079c62_full_size.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.nite.go.jp/data/000089956.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://www.vuronyxtech.com/img/slides/IMG_1272.JPG"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/919Tcy1dqtL._AC_UF1000,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.faz.net/kaufkompass/wp-content/uploads/2020/03/heissluftfriteusen-gruppenfoto_02.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cpimg.tistatic.com/08158207/b/4/Stainless-Steel-316Ti-Coil.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.wipo.int/export/sites/www/ipadvantage/images/article_0152_4.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://s.err.ee/photo/crop/2015/02/11/482399h8fc9t2.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": ""
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 91.62480926513672,
+                "text": "orks",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08369752764701843,
+                        "Height": 0.04110810160636902,
+                        "Left": 0.4558107852935791,
+                        "Top": 0.35004496574401855
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4558107852935791,
+                            "Y": 0.35004496574401855
+                        },
+                        {
+                            "X": 0.5395083427429199,
+                            "Y": 0.35004496574401855
+                        },
+                        {
+                            "X": 0.5395083427429199,
+                            "Y": 0.39115309715270996
+                        },
+                        {
+                            "X": 0.4558107852935791,
+                            "Y": 0.39115309715270996
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 91.62480926513672,
+                "text": "orks",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08369752764701843,
+                        "Height": 0.04110810160636902,
+                        "Left": 0.4558107852935791,
+                        "Top": 0.35004496574401855
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4558107852935791,
+                            "Y": 0.35004496574401855
+                        },
+                        {
+                            "X": 0.5395083427429199,
+                            "Y": 0.35004496574401855
+                        },
+                        {
+                            "X": 0.5395083427429199,
+                            "Y": 0.39115309715270996
+                        },
+                        {
+                            "X": 0.4558107852935791,
+                            "Y": 0.39115309715270996
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image27_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 99.8602066040039,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Linen",
+                "label_confidence": 99.8602066040039,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sport",
+                "label_confidence": 71.3591079711914,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Tennis",
+                "label_confidence": 71.3591079711914,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Tennis Ball",
+                "label_confidence": 71.3591079711914,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Clothing",
+                "label_confidence": 61.91088104248047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Undershirt",
+                "label_confidence": 61.91088104248047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 61.46048355102539,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Invertebrate",
+                "label_confidence": 61.46048355102539,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Spider",
+                "label_confidence": 61.46048355102539,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 90.95989227294922,
+                "overall_quality_sharpness": 3.778852701187134,
+                "overall_quality_contrast": 3.996168851852417,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 100.0
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Blanchon",
+                    "web_entity_confidence": 0.7726
+                },
+                {
+                    "web_entity_description": "Blanchon Oil 5 L",
+                    "web_entity_confidence": 0.7105
+                },
+                {
+                    "web_entity_description": "Furniture",
+                    "web_entity_confidence": 0.5306
+                },
+                {
+                    "web_entity_description": "Siding",
+                    "web_entity_confidence": 0.5089
+                },
+                {
+                    "web_entity_description": "Oil",
+                    "web_entity_confidence": 0.4752
+                },
+                {
+                    "web_entity_description": "perfect",
+                    "web_entity_confidence": 0.4735
+                },
+                {
+                    "web_entity_description": "Color",
+                    "web_entity_confidence": 0.4705
+                },
+                {
+                    "web_entity_description": "Cladding",
+                    "web_entity_confidence": 0.4246
+                },
+                {
+                    "web_entity_description": "Building",
+                    "web_entity_confidence": 0.4109
+                },
+                {
+                    "web_entity_description": "Wood",
+                    "web_entity_confidence": 0.3881
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://evofinition.ca/wp-content/uploads/2021/11/blanchon_huilebardage_blanc-3.jpg"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://evofinition.ca/en/huile-bardage-opaque-exterieur-blanchon/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://evofinition.ca/huile-bardage-opaque-exterieur-blanchon/"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i0.wp.com/stepbysteppainting.net/wp-content/uploads/2022/04/IMG_1213.jpg?resize=675%2C519&ssl=1"
+                },
+                {
+                    "web_visually_similar_image_url": "x-raw-image:///42b581e90d76f1e0600d8db75f9156252c4f84f0a4b4f088e66c4f5913ff5007"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.equipeceramicas.com/wp-content/uploads/2018/03/evolution_bas7-560x560.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.msisurfaces.com/images/quartz-countertops/products/closeup/large/frost-white-quartz.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://revelarekitchens.com/wp-content/uploads/2022/04/Calacatta-Ultra-close-up-326x326.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://w0.peakpx.com/wallpaper/602/757/HD-wallpaper-gray-texture-wall-monochrome-thumbnail.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.msisurfaces.com/images/quartz-countertops/products/closeup/large/calacatta-botanica-quartz.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/close-up-white-grey-color-cement-background-texture-mockup-design_42708-436.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1612201396224561153/pu/img/gtQdgBt5RKSZtGMN.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.ilovewallpaper.co.uk/images/moonlit-sky-matt-emulsion-paint-p7050-34735_related.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sky"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            2923,
+            43,
+            3000
+        ]
+    },
+    "image27_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Nature",
+                "label_confidence": 98.91584777832031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 98.91584777832031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sky",
+                "label_confidence": 98.91584777832031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Beak",
+                "label_confidence": 95.47727966308594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Bird",
+                "label_confidence": 95.47727966308594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Balloon",
+                "label_confidence": 74.4039535522461,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sailboat",
+                "label_confidence": 65.59395599365234,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Vehicle",
+                "label_confidence": 65.59395599365234,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Aircraft",
+                "label_confidence": 62.14702606201172,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Meal",
+                "label_confidence": 61.981529235839844,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 90.74386596679688,
+                "overall_quality_sharpness": 3.709014654159546,
+                "overall_quality_contrast": 8.905370712280273,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 90.90908813476562,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 9.090909004211426
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.50068617
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.49058312
+                },
+                {
+                    "web_entity_description": "Light",
+                    "web_entity_confidence": 0.46007022
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.4083
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.39720422
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.38771495
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.36909536
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34616444
+                },
+                {
+                    "web_entity_description": "Close-up",
+                    "web_entity_confidence": 0.34033608
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2941
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://thepowdercoatstore.com/cdn/shop/products/ral7035lightgray_960x.jpg?v=1590244990"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.jswpaints.in/themes/custom/jsw_theme/gallery/4111__main.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://e0.pxfuel.com/wallpapers/524/234/desktop-wallpaper-solid-light-grey-background-solid-light-grey-background-for-your-mobile-tablet-explore-solid-gray-gray-fox-solid-for-walls-solid-red.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://wallpapers.com/images/hd/light-grey-background-8zms77z84lo6krim.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/5b7fcdb28ab722e3da4af3cc/1592214224497-BA2L6ILI920Y3L9XH81A/Light+Grey.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://wallpaperaccess.com/full/1091554.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.richelieu.com/documents/docsGr/123/229/5/1232295/1585217_700.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://t3.ftcdn.net/jpg/02/44/88/04/360_F_244880466_VVA5aOuyS9NvW72Ln2ePHQHpOrbIfum0.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://files.ekmcdn.com/theflockingshop/images/light-grey-422c-0.7mm-1.5-dtex-1206-p.jpg?v=7899735a-768c-4022-8ce9-19265bc5b286"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/9a/29/b8/9a29b8fc8f5c17cba48320c765d69135.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "light"
+                }
+            ]
+        },
+        "bounding_box": [
+            24,
+            1886,
+            120,
+            1914
+        ]
+    },
+    "image27_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 99.89030456542969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Linen",
+                "label_confidence": 99.89030456542969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "White Board",
+                "label_confidence": 79.9305419921875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Gray",
+                "label_confidence": 78.92496490478516,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 91.06267547607422,
+                "overall_quality_sharpness": 3.968872308731079,
+                "overall_quality_contrast": 9.070357322692871,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 96.42857360839844,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 3.5714285373687744
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://cdn.teachertube.com//uploads/videos/2021/10/08/507451/how-to-assemble-the-sky-goodies-mini-hot-air-balloon-lamp-shade000.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://optimise2.assets-servd.host/thick-groundhog/production/assets/material-images/Amber_Sky_Visualiser.jpg?w=1500&h=750&auto=compress%2Cformat&fit=crop&dm=1645712077&s=679eb1bf5c755300226e3df987752fcc"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.stoneambassador.com.au/wp-content/uploads/2021/08/VANILLA-SKY.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.bonotti.com/wp-content/uploads/2019/02/Sky-Gold-Use.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.caesarstoneus.com/wp-content/uploads/2020/12/5130_Cosmopolitan-White_Full_Slab-1920X616-1536x493.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://image.architonic.com/pro1-3/20034090/sky-sky-bge-45x120-1-sq-arcit18.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/previews/004/703/900/non_2x/white-sky-with-white-clouds-sunshine-day-with-rainbow-sky-in-morning-background-free-photo.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/SELLER/Default/2023/4/297605782/QW/YH/YI/3226433/centurylaminates-243-sky-blue-sf-1-mm-decorative-laminate.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://e3.365dm.com/19/05/768x432/skynews-russia-plane-crash_4660123.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.dreamstime.com/b/sky-black-grey-skies-texture-clouds-summer-day-colorful-beautiful-light-background-white-sunrise-textu-twilight-174140364.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sky"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            1024,
+            176,
+            1736
+        ]
+    },
+    "image27_recognized_part_3": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Ammunition",
+                "label_confidence": 79.22332763671875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Grenade",
+                "label_confidence": 79.22332763671875,
+                "label_boundings": [
+                    {
+                        "Width": 0.5401978492736816,
+                        "Height": 0.9862270355224609,
+                        "Left": 0.38198122382164,
+                        "Top": 0.013772967271506786
+                    }
+                ]
+            },
+            {
+                "label_name": "Weapon",
+                "label_confidence": 79.22332763671875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Business Card",
+                "label_confidence": 67.18977355957031,
+                "label_boundings": [
+                    {
+                        "Width": 0.4108521044254303,
+                        "Height": 0.28319209814071655,
+                        "Left": 0.14569222927093506,
+                        "Top": 0.07831242680549622
+                    }
+                ]
+            },
+            {
+                "label_name": "Paper",
+                "label_confidence": 67.18977355957031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 67.18977355957031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Cricket",
+                "label_confidence": 63.19181823730469,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Cricket Bat",
+                "label_confidence": 63.19181823730469,
+                "label_boundings": [
+                    {
+                        "Width": 0.5079547166824341,
+                        "Height": 0.9007148146629333,
+                        "Left": 0.025261133909225464,
+                        "Top": 0.07892285287380219
+                    }
+                ]
+            },
+            {
+                "label_name": "Sport",
+                "label_confidence": 63.19181823730469,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Water",
+                "label_confidence": 61.70644760131836,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 70.31396484375,
+                "overall_quality_sharpness": 80.94723510742188,
+                "overall_quality_contrast": 92.7011489868164,
+                "dominant_color_0_hex": "#000000",
+                "dominant_color_0_css": "black",
+                "dominant_color_0_pixelpercent": 25.139318466186523,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 23.157894134521484,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 18.080495834350586,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 10.650155067443848,
+                "dominant_color_4_hex": "#696969",
+                "dominant_color_4_css": "dimgrey",
+                "dominant_color_4_pixelpercent": 9.969039916992188,
+                "dominant_color_5_hex": "#ffffff",
+                "dominant_color_5_css": "white",
+                "dominant_color_5_pixelpercent": 4.582043170928955,
+                "dominant_color_6_hex": "#c0c0c0",
+                "dominant_color_6_css": "silver",
+                "dominant_color_6_pixelpercent": 3.1578948497772217,
+                "dominant_color_7_hex": "#e6e6fa",
+                "dominant_color_7_css": "lavender",
+                "dominant_color_7_pixelpercent": 2.4767801761627197,
+                "dominant_color_8_hex": "#a9a9a9",
+                "dominant_color_8_css": "darkgrey",
+                "dominant_color_8_pixelpercent": 2.2910215854644775,
+                "dominant_color_9_hex": "#483d8b",
+                "dominant_color_9_css": "darkslateblue",
+                "dominant_color_9_pixelpercent": 0.495356023311615,
+                "foreground_quality_brightness": 54.19533920288086,
+                "foreground_quality_sharpness": 82.52769470214844,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 32.79677963256836,
+                "foreground_dominant_color_1_hex": "#000000",
+                "foreground_dominant_color_1_css": "black",
+                "foreground_dominant_color_1_pixelpercent": 22.132797241210938,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 17.303823471069336,
+                "foreground_dominant_color_3_hex": "#696969",
+                "foreground_dominant_color_3_css": "dimgrey",
+                "foreground_dominant_color_3_pixelpercent": 9.85915470123291,
+                "foreground_dominant_color_4_hex": "#dcdcdc",
+                "foreground_dominant_color_4_css": "gainsboro",
+                "foreground_dominant_color_4_pixelpercent": 7.243460655212402,
+                "foreground_dominant_color_5_hex": "#c0c0c0",
+                "foreground_dominant_color_5_css": "silver",
+                "foreground_dominant_color_5_pixelpercent": 6.237424373626709,
+                "foreground_dominant_color_6_hex": "#a9a9a9",
+                "foreground_dominant_color_6_css": "darkgrey",
+                "foreground_dominant_color_6_pixelpercent": 4.4265594482421875,
+                "background_quality_brightness": 77.366455078125,
+                "background_quality_sharpness": 79.73805236816406,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 33.05439376831055,
+                "background_dominant_color_1_hex": "#696969",
+                "background_dominant_color_1_css": "dimgrey",
+                "background_dominant_color_1_pixelpercent": 20.920501708984375,
+                "background_dominant_color_2_hex": "#2f4f4f",
+                "background_dominant_color_2_css": "darkslategrey",
+                "background_dominant_color_2_pixelpercent": 16.42259407043457,
+                "background_dominant_color_3_hex": "#000000",
+                "background_dominant_color_3_css": "black",
+                "background_dominant_color_3_pixelpercent": 8.57740592956543,
+                "background_dominant_color_4_hex": "#808080",
+                "background_dominant_color_4_css": "gray",
+                "background_dominant_color_4_pixelpercent": 7.740585803985596,
+                "background_dominant_color_5_hex": "#ffffff",
+                "background_dominant_color_5_css": "white",
+                "background_dominant_color_5_pixelpercent": 7.008368015289307,
+                "background_dominant_color_6_hex": "#c0c0c0",
+                "background_dominant_color_6_css": "silver",
+                "background_dominant_color_6_pixelpercent": 4.079497814178467,
+                "background_dominant_color_7_hex": "#a9a9a9",
+                "background_dominant_color_7_css": "darkgrey",
+                "background_dominant_color_7_pixelpercent": 2.19665265083313
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Invention",
+                    "web_entity_confidence": 0.9852
+                },
+                {
+                    "web_entity_description": "Inventor",
+                    "web_entity_confidence": 0.5588
+                },
+                {
+                    "web_entity_description": "Patent model",
+                    "web_entity_confidence": 0.5557
+                },
+                {
+                    "web_entity_description": "National Museum of African American History and Culture",
+                    "web_entity_confidence": 0.5523
+                },
+                {
+                    "web_entity_description": "create",
+                    "web_entity_confidence": 0.5216
+                },
+                {
+                    "web_entity_description": "African Americans",
+                    "web_entity_confidence": 0.5094
+                },
+                {
+                    "web_entity_description": "Patent",
+                    "web_entity_confidence": 0.4946
+                },
+                {
+                    "web_entity_description": "Innovation",
+                    "web_entity_confidence": 0.3941
+                },
+                {
+                    "web_entity_description": "The real McCoy",
+                    "web_entity_confidence": 0.3796
+                },
+                {
+                    "web_entity_description": "Americans",
+                    "web_entity_confidence": 0.3501
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [
+                {
+                    "web_partial_matching_image_url": "http://www.si.edu/Content/img/Exhibitions/db/ACM-Patent-Rillieux.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://ids.si.edu/ids/deliveryService?id=ACM-acmobj-199400010001-r1&max=980"
+                },
+                {
+                    "web_partial_matching_image_url": "https://ids.si.edu/ids/deliveryService?id=https://www.si.edu/Content/img/Exhibitions/db/ACM-Patent-Rillieux.jpg&max_w=600"
+                }
+            ],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://anacostia.si.edu/collection/object/acm_1994.0001.0001"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.si.edu/exhibitions/real-mccoy-african-american-invention-and-innovation-1619-1930-event-exhib-1270"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.mvz-scharnweberstrasse.de/anfahrt/?k=elijah-mccoy-black-inventors-collection-womens-t-shirts-warren-zz-0xy3emca"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.tippersvintageplates.co.uk/http/hor.happyvalentinesday2020.online/inventions-made-by-african-americans-986c.html"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/GT/WR/RW/SELLER-3706144/industrial-nitrogen-gas-250x250.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.jdmagicbox.com/quickquotes/images_main/b-type-10-litre-medical-oxygen-gas-cylinder-2211004095-xqoq0eid.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/SELLER/Default/2023/5/304708685/BL/AU/QE/108564675/argon-gas-cylinder-250x250.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/SELLER/Default/2022/8/UW/NH/BH/22024179/7mm-rotogravure-printing-cylinder-250x250.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.bbc.co.uk/staticarchive/d28bf1259fb4592e68bc34e9c8de399e8fd005ed"
+                },
+                {
+                    "web_visually_similar_image_url": "https://image.made-in-china.com/202f0j00UCiTKlGqZFVs/Acetylene-Gas-Cylinder-C2h2-40L-50L.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://5.imimg.com/data5/RJ/UU/DK/SELLER-61375586/carbon-dioxide-gas-cylinder-500x500.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/EFIAAOSwbYZibd2u/s-l400.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/SELLER/Default/2023/1/CB/OL/BH/3380661/15-kg-co2-gas-cylinder-capacity-15kg.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://vbindustrialsupply.com/cdn/shop/products/2944488_79d119f9-931c-4a04-a872-6f6bcda4703f0_1024x1024.jpg?v=1680226334"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "cylinder"
+                }
+            ]
+        },
+        "bounding_box": [
+            185,
+            489,
+            1776,
+            2919
+        ]
+    },
+    "image27_recognized_part_4": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Animal",
+                "label_confidence": 80.76036834716797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Cat",
+                "label_confidence": 80.76036834716797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Mammal",
+                "label_confidence": 80.76036834716797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Pet",
+                "label_confidence": 80.76036834716797,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 91.21730041503906,
+                "overall_quality_sharpness": 10.786277770996094,
+                "overall_quality_contrast": 41.692298889160156,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 77.16702270507812,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 16.913318634033203,
+                "dominant_color_2_hex": "#696969",
+                "dominant_color_2_css": "dimgrey",
+                "dominant_color_2_pixelpercent": 2.9598307609558105,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 1.4799153804779053,
+                "dominant_color_4_hex": "#2f4f4f",
+                "dominant_color_4_css": "darkslategrey",
+                "dominant_color_4_pixelpercent": 0.8456659913063049,
+                "dominant_color_5_hex": "#808080",
+                "dominant_color_5_css": "gray",
+                "dominant_color_5_pixelpercent": 0.6342494487762451
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.47666246
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.4112
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.3135
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://images.unsplash.com/photo-1609870531670-f0fc150a889d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/previews/004/703/900/non_2x/white-sky-with-white-clouds-sunshine-day-with-rainbow-sky-in-morning-background-free-photo.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://assets.pbimgs.com/pbimgs/ab/images/dp/wcm/202330/0096/sky-white-wood-swatch-l.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.stoneambassador.com.au/wp-content/uploads/2021/08/VANILLA-SKY.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://c0.wallpaperflare.com/preview/902/103/802/bridge-sky-white-iceland.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.lovepik.com/background/20211021/large/lovepik-real-beat-of-the-sky-background-image_500081908.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://c1.wallpaperflare.com/preview/710/189/286/moon-sky-blue-nature.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.missouriquiltco.com/cdn/shop/products/kona_cotton_sky_yardage-k001-1513-robert_kaufman-robert_kaufman_fabrics-1420fe_800x.jpg?v=1654636803"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.empressmills.co.uk/media/catalog/product/cache/a1bef50f9ffb0e9b68c20cfc7a6e87c1/E/1/E107673-177-1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/floating-on-sky-and-sea-alan-poon.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sky"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            312,
+            784
+        ]
+    }
+}

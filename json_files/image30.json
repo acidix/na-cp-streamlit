@@ -1,0 +1,704 @@
+{
+    "id": "image_30",
+    "url": "https://media.dv.navigatingart.de/2e752f3f-a9d8-470b-915c-6a06149bae50.jpg?signed=true&valid=1695733328&signature=RrhM0%2BNXqchZe%2FyffYWnCRdqgQ9RTF6K60knzNYJFnvT6PZ8qmEXW1rNfUWJQ%2FYKIjh%2BZyEmMUPwOHzkvcfUtg%3D%3D",
+    "json": "development_test_job/image30/image30.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Text",
+                "label_confidence": 98.9227294921875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 96.38964080810547,
+                "label_boundings": [
+                    {
+                        "Width": 0.05446777492761612,
+                        "Height": 0.10236550122499466,
+                        "Left": 0.47870951890945435,
+                        "Top": 0.575030505657196
+                    },
+                    {
+                        "Width": 0.04360971972346306,
+                        "Height": 0.0857442244887352,
+                        "Left": 0.10952499508857727,
+                        "Top": 0.6585551500320435
+                    },
+                    {
+                        "Width": 0.041586995124816895,
+                        "Height": 0.11071017384529114,
+                        "Left": 0.7212244272232056,
+                        "Top": 0.5707476735115051
+                    },
+                    {
+                        "Width": 0.05119669437408447,
+                        "Height": 0.1546401083469391,
+                        "Left": 0.5663377642631531,
+                        "Top": 0.6532387733459473
+                    },
+                    {
+                        "Width": 0.054068826138973236,
+                        "Height": 0.08187583833932877,
+                        "Left": 0.16482946276664734,
+                        "Top": 0.6301686763763428
+                    },
+                    {
+                        "Width": 0.048557210713624954,
+                        "Height": 0.12982572615146637,
+                        "Left": 0.74672931432724,
+                        "Top": 0.7123867273330688
+                    },
+                    {
+                        "Width": 0.050939369946718216,
+                        "Height": 0.14604581892490387,
+                        "Left": 0.6829940676689148,
+                        "Top": 0.719219446182251
+                    },
+                    {
+                        "Width": 0.041035644710063934,
+                        "Height": 0.14401766657829285,
+                        "Left": 0.7298833131790161,
+                        "Top": 0.6870969533920288
+                    },
+                    {
+                        "Width": 0.03435209020972252,
+                        "Height": 0.1172604039311409,
+                        "Left": 0.6521094441413879,
+                        "Top": 0.6744176745414734
+                    },
+                    {
+                        "Width": 0.04407946765422821,
+                        "Height": 0.08815586566925049,
+                        "Left": 0.46097782254219055,
+                        "Top": 0.5528301000595093
+                    },
+                    {
+                        "Width": 0.04894653335213661,
+                        "Height": 0.08066856861114502,
+                        "Left": 0.42063671350479126,
+                        "Top": 0.5473189353942871
+                    },
+                    {
+                        "Width": 0.048087604343891144,
+                        "Height": 0.12125977873802185,
+                        "Left": 0.5547536015510559,
+                        "Top": 0.6877354979515076
+                    },
+                    {
+                        "Width": 0.03665165230631828,
+                        "Height": 0.10461287945508957,
+                        "Left": 0.6196065545082092,
+                        "Top": 0.7029445171356201
+                    },
+                    {
+                        "Width": 0.0363549180328846,
+                        "Height": 0.06516312807798386,
+                        "Left": 0.22629567980766296,
+                        "Top": 0.6983400583267212
+                    },
+                    {
+                        "Width": 0.05204750597476959,
+                        "Height": 0.06108551472425461,
+                        "Left": 0.17306363582611084,
+                        "Top": 0.762480616569519
+                    },
+                    {
+                        "Width": 0.029850585386157036,
+                        "Height": 0.11194230616092682,
+                        "Left": 0.6324295997619629,
+                        "Top": 0.6899323463439941
+                    },
+                    {
+                        "Width": 0.03410278260707855,
+                        "Height": 0.08881212025880814,
+                        "Left": 0.8404747843742371,
+                        "Top": 0.7431135177612305
+                    },
+                    {
+                        "Width": 0.043114542961120605,
+                        "Height": 0.06869751960039139,
+                        "Left": 0.26554080843925476,
+                        "Top": 0.7711877226829529
+                    },
+                    {
+                        "Width": 0.04107427969574928,
+                        "Height": 0.05519361421465874,
+                        "Left": 0.21097521483898163,
+                        "Top": 0.7327588796615601
+                    }
+                ]
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 95.2458724975586,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 95.2458724975586,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 77.66815185546875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 77.66815185546875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Document",
+                "label_confidence": 69.68636322021484,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 89.77327728271484,
+                "overall_quality_sharpness": 48.05012512207031,
+                "overall_quality_contrast": 76.29241180419922,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 57.718631744384766,
+                "dominant_color_1_hex": "#a0522d",
+                "dominant_color_1_css": "sienna",
+                "dominant_color_1_pixelpercent": 21.36882209777832,
+                "dominant_color_2_hex": "#cd853f",
+                "dominant_color_2_css": "peru",
+                "dominant_color_2_pixelpercent": 10.87452507019043,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 7.756653785705566,
+                "dominant_color_4_hex": "#ffebcd",
+                "dominant_color_4_css": "blanchedalmond",
+                "dominant_color_4_pixelpercent": 1.3688212633132935,
+                "dominant_color_5_hex": "#808080",
+                "dominant_color_5_css": "gray",
+                "dominant_color_5_pixelpercent": 0.9125475287437439,
+                "foreground_quality_brightness": 91.4714584350586,
+                "foreground_quality_sharpness": 52.84458541870117,
+                "foreground_dominant_color_0_hex": "#c0c0c0",
+                "foreground_dominant_color_0_css": "silver",
+                "foreground_dominant_color_0_pixelpercent": 92.13483428955078,
+                "foreground_dominant_color_1_hex": "#a9a9a9",
+                "foreground_dominant_color_1_css": "darkgrey",
+                "foreground_dominant_color_1_pixelpercent": 6.741572856903076,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 1.1235954761505127,
+                "background_quality_brightness": 89.33859252929688,
+                "background_quality_sharpness": 45.671844482421875,
+                "background_dominant_color_0_hex": "#c0c0c0",
+                "background_dominant_color_0_css": "silver",
+                "background_dominant_color_0_pixelpercent": 54.673282623291016,
+                "background_dominant_color_1_hex": "#a0522d",
+                "background_dominant_color_1_css": "sienna",
+                "background_dominant_color_1_pixelpercent": 23.24234962463379,
+                "background_dominant_color_2_hex": "#a9a9a9",
+                "background_dominant_color_2_css": "darkgrey",
+                "background_dominant_color_2_pixelpercent": 7.775020599365234,
+                "background_dominant_color_3_hex": "#cd853f",
+                "background_dominant_color_3_css": "peru",
+                "background_dominant_color_3_pixelpercent": 6.947890758514404,
+                "background_dominant_color_4_hex": "#556b2f",
+                "background_dominant_color_4_css": "darkolivegreen",
+                "background_dominant_color_4_pixelpercent": 4.880066394805908,
+                "background_dominant_color_5_hex": "#ffebcd",
+                "background_dominant_color_5_css": "blanchedalmond",
+                "background_dominant_color_5_pixelpercent": 1.4888337850570679,
+                "background_dominant_color_6_hex": "#808080",
+                "background_dominant_color_6_css": "gray",
+                "background_dominant_color_6_pixelpercent": 0.9925558567047119
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "The Pilgrim's Progress",
+                    "web_entity_confidence": 1.06965
+                },
+                {
+                    "web_entity_description": "The Art Institute of Chicago",
+                    "web_entity_confidence": 0.80041504
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.75945324
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.5979702
+                },
+                {
+                    "web_entity_description": "Drawing",
+                    "web_entity_confidence": 0.5772242
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.4417
+                },
+                {
+                    "web_entity_description": "Scroll",
+                    "web_entity_confidence": 0.4373
+                },
+                {
+                    "web_entity_description": "Ink",
+                    "web_entity_confidence": 0.3991
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.3814
+                },
+                {
+                    "web_entity_description": "Religious Practice",
+                    "web_entity_confidence": 0.3732
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://www.artic.edu/iiif/2/637a65fa-a6f2-8a9f-a6f4-98fcffe2ec92/full/843,/0/default.jpg"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://www.artic.edu/artworks/185222/group-pilgrimage-to-the-jizo-nun"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://blackshirts.info/collection/what-does-the-scroll-represent-in-pilgrim%27s-progress"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/53788/53788-1628872407-1782654498.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45621/169872/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339840/757930/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.metmuseum.org/CRDImages/is/original/DP231358.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/334642/771384/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45815/150386/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://th-thumbnailer.cdn-si-edu.com/TNf3jCU_Ztmalb_deVr_Dqn7JKI=/fit-in/1600x0/filters:focal(410x301:411x302)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/bf/05bf4182-80f3-447d-87a5-9813e4ca5b14/higher_qual.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/338272/2177822/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/341703/1454648/restricted"
+                },
+                {
+                    "web_visually_similar_image_url": "https://c8.alamy.com/comp/KGJMPW/vintage-old-paper-texture-with-vector-vignette-with-medieval-ornament-KGJMPW.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "paper"
+                }
+            ]
+        }
+    },
+    "image30_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Text",
+                "label_confidence": 99.12242889404297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 95.739501953125,
+                "label_boundings": [
+                    {
+                        "Width": 0.04374958202242851,
+                        "Height": 0.0861697718501091,
+                        "Left": 0.1095212921500206,
+                        "Top": 0.6584177613258362
+                    },
+                    {
+                        "Width": 0.053862184286117554,
+                        "Height": 0.10244851559400558,
+                        "Left": 0.47893038392066956,
+                        "Top": 0.5749401450157166
+                    },
+                    {
+                        "Width": 0.04160498082637787,
+                        "Height": 0.11071620136499405,
+                        "Left": 0.7211324572563171,
+                        "Top": 0.5707312226295471
+                    },
+                    {
+                        "Width": 0.039215657860040665,
+                        "Height": 0.14493821561336517,
+                        "Left": 0.6835901141166687,
+                        "Top": 0.7209219336509705
+                    },
+                    {
+                        "Width": 0.04732295870780945,
+                        "Height": 0.15432952344417572,
+                        "Left": 0.5703659057617188,
+                        "Top": 0.6531888842582703
+                    },
+                    {
+                        "Width": 0.03574259579181671,
+                        "Height": 0.1175096333026886,
+                        "Left": 0.6509439945220947,
+                        "Top": 0.6744102835655212
+                    },
+                    {
+                        "Width": 0.056254975497722626,
+                        "Height": 0.08331675827503204,
+                        "Left": 0.16478699445724487,
+                        "Top": 0.6301817893981934
+                    },
+                    {
+                        "Width": 0.0367012545466423,
+                        "Height": 0.10378877818584442,
+                        "Left": 0.6197466850280762,
+                        "Top": 0.703511655330658
+                    },
+                    {
+                        "Width": 0.04406925290822983,
+                        "Height": 0.14432542026042938,
+                        "Left": 0.7297791242599487,
+                        "Top": 0.6872704029083252
+                    },
+                    {
+                        "Width": 0.047087524086236954,
+                        "Height": 0.12238208204507828,
+                        "Left": 0.5548703670501709,
+                        "Top": 0.6862466335296631
+                    },
+                    {
+                        "Width": 0.048162028193473816,
+                        "Height": 0.13146300613880157,
+                        "Left": 0.7470378279685974,
+                        "Top": 0.7107237577438354
+                    },
+                    {
+                        "Width": 0.04425252228975296,
+                        "Height": 0.08985737711191177,
+                        "Left": 0.46051350235939026,
+                        "Top": 0.5523399710655212
+                    },
+                    {
+                        "Width": 0.047993775457143784,
+                        "Height": 0.08127113431692123,
+                        "Left": 0.420522004365921,
+                        "Top": 0.5468659996986389
+                    },
+                    {
+                        "Width": 0.050475239753723145,
+                        "Height": 0.062231432646512985,
+                        "Left": 0.17441637814044952,
+                        "Top": 0.7625440955162048
+                    },
+                    {
+                        "Width": 0.03585723787546158,
+                        "Height": 0.06659481674432755,
+                        "Left": 0.2264689803123474,
+                        "Top": 0.6980805993080139
+                    },
+                    {
+                        "Width": 0.0342915840446949,
+                        "Height": 0.08872175961732864,
+                        "Left": 0.840280294418335,
+                        "Top": 0.7430574893951416
+                    },
+                    {
+                        "Width": 0.04340893402695656,
+                        "Height": 0.0696500912308693,
+                        "Left": 0.26548662781715393,
+                        "Top": 0.7707142233848572
+                    },
+                    {
+                        "Width": 0.04983573406934738,
+                        "Height": 0.05767320096492767,
+                        "Left": 0.20331254601478577,
+                        "Top": 0.7347365021705627
+                    }
+                ]
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 77.57760620117188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Document",
+                "label_confidence": 74.39859771728516,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 74.210205078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Clothing",
+                "label_confidence": 66.44979858398438,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Hat",
+                "label_confidence": 66.44979858398438,
+                "label_boundings": [
+                    {
+                        "Width": 0.008125650696456432,
+                        "Height": 0.012891856022179127,
+                        "Left": 0.6607409715652466,
+                        "Top": 0.6752492189407349
+                    }
+                ]
+            },
+            {
+                "label_name": "White Board",
+                "label_confidence": 66.28882598876953,
+                "label_boundings": [
+                    {
+                        "Width": 0.9884750247001648,
+                        "Height": 0.6959217190742493,
+                        "Left": 0.005204297602176666,
+                        "Top": 0.1992899477481842
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.01194014772772789,
+                    "Height": 0.022639473900198936,
+                    "Left": 0.12121444195508957,
+                    "Top": 0.6648008227348328
+                },
+                "face_confidence": 70.86494445800781,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.39099884033203,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.13285827636719,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99641418457031,
+                "face_gender": "Male",
+                "face_gender_confidence": 56.11927032470703,
+                "face_has_beard": false,
+                "face_beard_confidence": 73.98484802246094,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 94.00715637207031,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 95.33090209960938,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 89.22406768798828,
+                "face_pose_roll": 37.93212127685547,
+                "face_pose_yaw": -4.095370292663574,
+                "face_pose_pitch": -4.4483160972595215,
+                "face_brightness": 97.10910034179688,
+                "face_sharpness": 2.485198736190796,
+                "emotion_type_calm": 95.97866821289062,
+                "emotion_type_surprised": 6.477240562438965,
+                "emotion_type_fear": 5.958484649658203,
+                "emotion_type_sad": 2.3910114765167236,
+                "emotion_type_angry": 1.311356782913208,
+                "emotion_type_confused": 0.9165298938751221,
+                "emotion_type_disgusted": 0.23738993704319,
+                "emotion_type_happy": 0.12109442800283432
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 88.67505645751953,
+                "overall_quality_sharpness": 48.03118896484375,
+                "overall_quality_contrast": 77.76734161376953,
+                "dominant_color_0_hex": "#b0c4de",
+                "dominant_color_0_css": "lightsteelblue",
+                "dominant_color_0_pixelpercent": 56.584659576416016,
+                "dominant_color_1_hex": "#4682b4",
+                "dominant_color_1_css": "steelblue",
+                "dominant_color_1_pixelpercent": 17.36613655090332,
+                "dominant_color_2_hex": "#708090",
+                "dominant_color_2_css": "slategrey",
+                "dominant_color_2_pixelpercent": 15.050651550292969,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 6.9464545249938965,
+                "dominant_color_4_hex": "#778899",
+                "dominant_color_4_css": "lightslategrey",
+                "dominant_color_4_pixelpercent": 2.749638319015503,
+                "dominant_color_5_hex": "#808080",
+                "dominant_color_5_css": "gray",
+                "dominant_color_5_pixelpercent": 1.0130245685577393,
+                "dominant_color_6_hex": "#c0c0c0",
+                "dominant_color_6_css": "silver",
+                "dominant_color_6_pixelpercent": 0.28943559527397156,
+                "foreground_quality_brightness": 90.71501159667969,
+                "foreground_quality_sharpness": 44.528629302978516,
+                "foreground_dominant_color_0_hex": "#b0c4de",
+                "foreground_dominant_color_0_css": "lightsteelblue",
+                "foreground_dominant_color_0_pixelpercent": 91.58878326416016,
+                "foreground_dominant_color_1_hex": "#a9a9a9",
+                "foreground_dominant_color_1_css": "darkgrey",
+                "foreground_dominant_color_1_pixelpercent": 7.476635456085205,
+                "foreground_dominant_color_2_hex": "#778899",
+                "foreground_dominant_color_2_css": "lightslategrey",
+                "foreground_dominant_color_2_pixelpercent": 0.9345794320106506,
+                "background_quality_brightness": 87.57234191894531,
+                "background_quality_sharpness": 48.90403366088867,
+                "background_dominant_color_0_hex": "#b0c4de",
+                "background_dominant_color_0_css": "lightsteelblue",
+                "background_dominant_color_0_pixelpercent": 50.738914489746094,
+                "background_dominant_color_1_hex": "#4682b4",
+                "background_dominant_color_1_css": "steelblue",
+                "background_dominant_color_1_pixelpercent": 20.197044372558594,
+                "background_dominant_color_2_hex": "#708090",
+                "background_dominant_color_2_css": "slategrey",
+                "background_dominant_color_2_pixelpercent": 17.569786071777344,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 6.896551609039307,
+                "background_dominant_color_4_hex": "#778899",
+                "background_dominant_color_4_css": "lightslategrey",
+                "background_dominant_color_4_pixelpercent": 3.119868755340576,
+                "background_dominant_color_5_hex": "#808080",
+                "background_dominant_color_5_css": "gray",
+                "background_dominant_color_5_pixelpercent": 1.1494252681732178,
+                "background_dominant_color_6_hex": "#c0c0c0",
+                "background_dominant_color_6_css": "silver",
+                "background_dominant_color_6_pixelpercent": 0.3284072279930115
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Group Pilgrimage to the Jizo Nun",
+                    "web_entity_confidence": 0.98985004
+                },
+                {
+                    "web_entity_description": "Stock photography",
+                    "web_entity_confidence": 0.7156
+                },
+                {
+                    "web_entity_description": "Image",
+                    "web_entity_confidence": 0.7102
+                },
+                {
+                    "web_entity_description": "Drawing",
+                    "web_entity_confidence": 0.5844
+                },
+                {
+                    "web_entity_description": "Photograph",
+                    "web_entity_confidence": 0.5712
+                },
+                {
+                    "web_entity_description": "Photography",
+                    "web_entity_confidence": 0.5707
+                },
+                {
+                    "web_entity_description": "The Nun",
+                    "web_entity_confidence": 0.485
+                },
+                {
+                    "web_entity_description": "Illustration",
+                    "web_entity_confidence": 0.402
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.3901
+                },
+                {
+                    "web_entity_description": "",
+                    "web_entity_confidence": 0.3858
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [
+                {
+                    "web_partial_matching_image_url": "https://media.gettyimages.com/id/1365696519/photo/group-pilgrimage-to-the-jizo-nun-1755-65-long-scroll-drawing-upper-half-is-script-lower-half.jpg?s=612x612&w=gi&k=20&c=gItg_ld3LZn3qxPdAForIqsEjVBB7gpYhHFkWPLYs1I="
+                },
+                {
+                    "web_partial_matching_image_url": "https://pbs.twimg.com/media/DrITSUOV4AATIT5.jpg:small"
+                },
+                {
+                    "web_partial_matching_image_url": "https://c1.alamy.com/thumbs/2hffh8r/group-pilgrimage-to-the-jizo-nun-175565-long-scroll-drawing-upper-half-is-script-lower-half-depicts-pilgrims-making-offerings-2hffh8r.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://c8.alamy.com/comp/2A2KNXH/group-pilgrimage-to-the-jizo-nun-175565-ike-taiga-japanese-1723-1776-japan-hanging-scroll-ink-on-paper-549-1232-cm-21-58-48-12-in-2A2KNXH.jpg"
+                }
+            ],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/group-pilgrimage-to-the-jizo-nun-175565-ike-taiga-japanese-1723-1776-japan-hanging-scroll-ink-on-paper-549-1232-cm-21-58-48-12-in-image328660601.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/ike-taiga.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/jizo-institute.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.gettyimages.com/photos/the-nun?page=4&sort=oldest"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/123-8-cm.html?page=5"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.gettyimages.com/photos/175565"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.gettyimages.co.uk/photos/man-bowing-drawing"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.gettyimages.co.uk/photos/japanese-temple-drawing"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.gettyimages.ie/photos/175565"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.robles.edu.gt/?m=489-hi-res-stock-photography-and-images-alamy-pp-L3REMvs2"
+                }
+            ],
+            "web_visually_similar_images": [],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "group pilgrimage to the jizo nun"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            3000,
+            1944
+        ]
+    }
+}

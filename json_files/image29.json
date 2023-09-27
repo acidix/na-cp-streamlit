@@ -1,0 +1,891 @@
+{
+    "id": "image_29",
+    "url": "https://media.dv.navigatingart.de/52ab72e7-224d-40c5-9bea-9f9322314801.jpg?signed=true&valid=1695733328&signature=PWB4ahI2bFIdUGlkXrFatwd7fLJNa4gdYz%2FStbnBdwMLEetJvMnOORKCIPyDt3oKw4xfuw2JNQEpPlhgNJOFMg%3D%3D",
+    "json": "development_test_job/image29/image29.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "City",
+                "label_confidence": 99.9933090209961,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Metropolis",
+                "label_confidence": 99.9933090209961,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Urban",
+                "label_confidence": 99.9933090209961,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Street",
+                "label_confidence": 97.2322998046875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 93.52416229248047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Building",
+                "label_confidence": 92.85411834716797,
+                "label_boundings": [
+                    {
+                        "Width": 0.11891992390155792,
+                        "Height": 0.2590266168117523,
+                        "Left": 0.7389584183692932,
+                        "Top": 0.4502178132534027
+                    },
+                    {
+                        "Width": 0.15217261016368866,
+                        "Height": 0.5601277351379395,
+                        "Left": 0.5013504028320312,
+                        "Top": 0.16192860901355743
+                    }
+                ]
+            },
+            {
+                "label_name": "Car",
+                "label_confidence": 92.42394256591797,
+                "label_boundings": [
+                    {
+                        "Width": 0.10282478481531143,
+                        "Height": 0.17278805375099182,
+                        "Left": 0.5411823987960815,
+                        "Top": 0.7156153321266174
+                    },
+                    {
+                        "Width": 0.09134315699338913,
+                        "Height": 0.1677999049425125,
+                        "Left": 0.16741976141929626,
+                        "Top": 0.7257540822029114
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 91.305908203125,
+                "label_boundings": [
+                    {
+                        "Width": 0.020402181893587112,
+                        "Height": 0.045772306621074677,
+                        "Left": 0.22061306238174438,
+                        "Top": 0.6897581219673157
+                    },
+                    {
+                        "Width": 0.016264423727989197,
+                        "Height": 0.07688959687948227,
+                        "Left": 0.27924492955207825,
+                        "Top": 0.6861176490783691
+                    },
+                    {
+                        "Width": 0.02087556943297386,
+                        "Height": 0.11190834641456604,
+                        "Left": 0.7702473998069763,
+                        "Top": 0.7726176977157593
+                    },
+                    {
+                        "Width": 0.017362182959914207,
+                        "Height": 0.07325778156518936,
+                        "Left": 0.6649855375289917,
+                        "Top": 0.6802794933319092
+                    },
+                    {
+                        "Width": 0.020772134885191917,
+                        "Height": 0.11361034214496613,
+                        "Left": 0.3855496942996979,
+                        "Top": 0.7763774394989014
+                    },
+                    {
+                        "Width": 0.01733984425663948,
+                        "Height": 0.04212294891476631,
+                        "Left": 0.607027530670166,
+                        "Top": 0.6853740215301514
+                    },
+                    {
+                        "Width": 0.019382568076252937,
+                        "Height": 0.11298245191574097,
+                        "Left": 0.7890997529029846,
+                        "Top": 0.717453122138977
+                    },
+                    {
+                        "Width": 0.012746866792440414,
+                        "Height": 0.07107525318861008,
+                        "Left": 0.6365909576416016,
+                        "Top": 0.6705536842346191
+                    },
+                    {
+                        "Width": 0.01338716596364975,
+                        "Height": 0.06313683092594147,
+                        "Left": 0.6467764377593994,
+                        "Top": 0.6944024562835693
+                    },
+                    {
+                        "Width": 0.021859293803572655,
+                        "Height": 0.07909993827342987,
+                        "Left": 0.7713797092437744,
+                        "Top": 0.6829044818878174
+                    },
+                    {
+                        "Width": 0.026135539636015892,
+                        "Height": 0.0894906148314476,
+                        "Left": 0.6785315275192261,
+                        "Top": 0.6850630640983582
+                    }
+                ]
+            },
+            {
+                "label_name": "Spire",
+                "label_confidence": 82.79280090332031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Smog",
+                "label_confidence": 74.2408676147461,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 88.70770263671875,
+                "overall_quality_sharpness": 47.110137939453125,
+                "overall_quality_contrast": 76.87623596191406,
+                "dominant_color_0_hex": "#ffd700",
+                "dominant_color_0_css": "gold",
+                "dominant_color_0_pixelpercent": 22.976879119873047,
+                "dominant_color_1_hex": "#deb887",
+                "dominant_color_1_css": "burlywood",
+                "dominant_color_1_pixelpercent": 18.641618728637695,
+                "dominant_color_2_hex": "#cd853f",
+                "dominant_color_2_css": "peru",
+                "dominant_color_2_pixelpercent": 13.58381462097168,
+                "dominant_color_3_hex": "#d2b48c",
+                "dominant_color_3_css": "tan",
+                "dominant_color_3_pixelpercent": 12.427745819091797,
+                "dominant_color_4_hex": "#a0522d",
+                "dominant_color_4_css": "sienna",
+                "dominant_color_4_pixelpercent": 10.260115623474121,
+                "dominant_color_5_hex": "#ffebcd",
+                "dominant_color_5_css": "blanchedalmond",
+                "dominant_color_5_pixelpercent": 8.52601146697998,
+                "dominant_color_6_hex": "#ffffff",
+                "dominant_color_6_css": "white",
+                "dominant_color_6_pixelpercent": 5.780346870422363,
+                "dominant_color_7_hex": "#c0c0c0",
+                "dominant_color_7_css": "silver",
+                "dominant_color_7_pixelpercent": 5.202311992645264,
+                "dominant_color_8_hex": "#daa520",
+                "dominant_color_8_css": "goldenrod",
+                "dominant_color_8_pixelpercent": 2.601155996322632,
+                "foreground_quality_brightness": 86.35811614990234,
+                "foreground_quality_sharpness": 52.4171142578125,
+                "foreground_dominant_color_0_hex": "#deb887",
+                "foreground_dominant_color_0_css": "burlywood",
+                "foreground_dominant_color_0_pixelpercent": 27.13178253173828,
+                "foreground_dominant_color_1_hex": "#d2b48c",
+                "foreground_dominant_color_1_css": "tan",
+                "foreground_dominant_color_1_pixelpercent": 21.188631057739258,
+                "foreground_dominant_color_2_hex": "#cd853f",
+                "foreground_dominant_color_2_css": "peru",
+                "foreground_dominant_color_2_pixelpercent": 15.245477676391602,
+                "foreground_dominant_color_3_hex": "#ffd700",
+                "foreground_dominant_color_3_css": "gold",
+                "foreground_dominant_color_3_pixelpercent": 14.728682518005371,
+                "foreground_dominant_color_4_hex": "#a0522d",
+                "foreground_dominant_color_4_css": "sienna",
+                "foreground_dominant_color_4_pixelpercent": 14.470284461975098,
+                "foreground_dominant_color_5_hex": "#556b2f",
+                "foreground_dominant_color_5_css": "darkolivegreen",
+                "foreground_dominant_color_5_pixelpercent": 4.909560680389404,
+                "foreground_dominant_color_6_hex": "#daa520",
+                "foreground_dominant_color_6_css": "goldenrod",
+                "foreground_dominant_color_6_pixelpercent": 1.5503876209259033,
+                "foreground_dominant_color_7_hex": "#bdb76b",
+                "foreground_dominant_color_7_css": "darkkhaki",
+                "foreground_dominant_color_7_pixelpercent": 0.7751938104629517,
+                "background_quality_brightness": 90.4285659790039,
+                "background_quality_sharpness": 34.772605895996094,
+                "background_dominant_color_0_hex": "#ffd700",
+                "background_dominant_color_0_css": "gold",
+                "background_dominant_color_0_pixelpercent": 40.56224822998047,
+                "background_dominant_color_1_hex": "#ffebcd",
+                "background_dominant_color_1_css": "blanchedalmond",
+                "background_dominant_color_1_pixelpercent": 26.10441780090332,
+                "background_dominant_color_2_hex": "#ffffff",
+                "background_dominant_color_2_css": "white",
+                "background_dominant_color_2_pixelpercent": 18.072288513183594,
+                "background_dominant_color_3_hex": "#c0c0c0",
+                "background_dominant_color_3_css": "silver",
+                "background_dominant_color_3_pixelpercent": 8.03212833404541,
+                "background_dominant_color_4_hex": "#daa520",
+                "background_dominant_color_4_css": "goldenrod",
+                "background_dominant_color_4_pixelpercent": 4.016064167022705,
+                "background_dominant_color_5_hex": "#b8860b",
+                "background_dominant_color_5_css": "darkgoldenrod",
+                "background_dominant_color_5_pixelpercent": 1.2048193216323853,
+                "background_dominant_color_6_hex": "#d2b48c",
+                "background_dominant_color_6_css": "tan",
+                "background_dominant_color_6_pixelpercent": 1.2048193216323853,
+                "background_dominant_color_7_hex": "#deb887",
+                "background_dominant_color_7_css": "burlywood",
+                "background_dominant_color_7_pixelpercent": 0.8032128810882568
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Monument to the Great Fire of London",
+                    "web_entity_confidence": 1.9533757
+                },
+                {
+                    "web_entity_description": "London Bridge",
+                    "web_entity_confidence": 1.0705234
+                },
+                {
+                    "web_entity_description": "Great Fire of London",
+                    "web_entity_confidence": 0.8835
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.72339964
+                },
+                {
+                    "web_entity_description": "Doric order",
+                    "web_entity_confidence": 0.6112
+                },
+                {
+                    "web_entity_description": "History",
+                    "web_entity_confidence": 0.399
+                },
+                {
+                    "web_entity_description": "Culture",
+                    "web_entity_confidence": 0.3959
+                },
+                {
+                    "web_entity_description": "The arts",
+                    "web_entity_confidence": 0.3863
+                },
+                {
+                    "web_entity_description": "Column",
+                    "web_entity_confidence": 0.3437
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.3381
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://lh3.googleusercontent.com/ci/AA1T9HKShZGf65hCLW01Ug_sYshcidLAMX7kleBv_Q7jfwfaxowjEd9-3UwZ1J1PuONsfN2uma3KA7c"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/monument-to-the-great-fire-of-london/m021rfb?hl=en"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/m021rfb?hl=ro"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/m021rfb?hl=eu"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/m021rfb?hl=ar"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/m021rfb?hl=zh"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lincoln_Monument%2C_Metropolitan_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.saatchiart.com/saatchi/1958301/art/10678055/9740541-MIZHMDNG-7.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Conservatory_at_Washington%2C_D.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=425312592941514"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn11.bigcommerce.com/s-oo0gdojvjo/images/stencil/1280x1280/products/11311/21178/international-maritime-signal-flag-o-wrapped-canvas-giclee-art-print-wall-art__25017.1537086938.jpg?c=2"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.thdstatic.com/productImages/067d6651-faa0-4875-94f9-ea8766676e0f/svn/multi-color-greatbigcanvas-art-paintings-2381921-24-18x24-64_1000.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://files.ocula.com/anzax/50/50afa9b8-0ff6-48d8-be28-54bafbab3aa0_487_650.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/416D2C-jKlL._AC_UF1000,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.saatchiart.com/saatchi/1116776/art/5052825/4122647-CLYVGXLP-32.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://ih1.redbubble.net/image.511509121.8412/flat,750x,075,f-pad,750x1000,f8f8f8.u5.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "modern art"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 85.23487091064453,
+                "text": "No. 229. -- The Monument.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.16672417521476746,
+                        "Height": 0.028301699087023735,
+                        "Left": 0.7399801015853882,
+                        "Top": 0.9032512903213501
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7399801015853882,
+                            "Y": 0.904209315776825
+                        },
+                        {
+                            "X": 0.9066924452781677,
+                            "Y": 0.9032512903213501
+                        },
+                        {
+                            "X": 0.9067042469978333,
+                            "Y": 0.9305897355079651
+                        },
+                        {
+                            "X": 0.7399913668632507,
+                            "Y": 0.9315530061721802
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 99.46172332763672,
+                "text": "No.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.022372743114829063,
+                        "Height": 0.024884182959794998,
+                        "Left": 0.7399801015853882,
+                        "Top": 0.9040808081626892
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7399801015853882,
+                            "Y": 0.904209315776825
+                        },
+                        {
+                            "X": 0.7623425722122192,
+                            "Y": 0.9040808081626892
+                        },
+                        {
+                            "X": 0.7623528242111206,
+                            "Y": 0.9288358092308044
+                        },
+                        {
+                            "X": 0.7399902939796448,
+                            "Y": 0.9289649724960327
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 97.0196762084961,
+                "text": "229.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.02580230124294758,
+                        "Height": 0.02316870540380478,
+                        "Left": 0.7667281627655029,
+                        "Top": 0.906229555606842
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7667281627655029,
+                            "Y": 0.9063778519630432
+                        },
+                        {
+                            "X": 0.7925207614898682,
+                            "Y": 0.906229555606842
+                        },
+                        {
+                            "X": 0.7925304174423218,
+                            "Y": 0.9292492866516113
+                        },
+                        {
+                            "X": 0.766737699508667,
+                            "Y": 0.929398238658905
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 31.287464141845703,
+                "text": "--",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.010453672148287296,
+                        "Height": 0.0052816676907241344,
+                        "Left": 0.797251284122467,
+                        "Top": 0.9175230860710144
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.797251284122467,
+                            "Y": 0.9175833463668823
+                        },
+                        {
+                            "X": 0.8077027797698975,
+                            "Y": 0.9175230860710144
+                        },
+                        {
+                            "X": 0.8077049851417542,
+                            "Y": 0.9227444529533386
+                        },
+                        {
+                            "X": 0.7972534894943237,
+                            "Y": 0.9228047728538513
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 99.93046569824219,
+                "text": "The",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.022681184113025665,
+                        "Height": 0.022738168016076088,
+                        "Left": 0.810355007648468,
+                        "Top": 0.9057535529136658
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.810355007648468,
+                            "Y": 0.9058838486671448
+                        },
+                        {
+                            "X": 0.8330265879631042,
+                            "Y": 0.9057535529136658
+                        },
+                        {
+                            "X": 0.8330361843109131,
+                            "Y": 0.9283607602119446
+                        },
+                        {
+                            "X": 0.8103645443916321,
+                            "Y": 0.9284917116165161
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 98.47505187988281,
+                "text": "Monument.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06842421740293503,
+                        "Height": 0.025875385850667953,
+                        "Left": 0.8382800817489624,
+                        "Top": 0.9051096439361572
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8382800817489624,
+                            "Y": 0.9055029153823853
+                        },
+                        {
+                            "X": 0.9066932201385498,
+                            "Y": 0.9051096439361572
+                        },
+                        {
+                            "X": 0.9067042469978333,
+                            "Y": 0.9305897355079651
+                        },
+                        {
+                            "X": 0.8382908701896667,
+                            "Y": 0.9309850335121155
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image29_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "City",
+                "label_confidence": 99.99947357177734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Metropolis",
+                "label_confidence": 99.99351501464844,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Urban",
+                "label_confidence": 99.99351501464844,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Street",
+                "label_confidence": 98.92215728759766,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 91.16960144042969,
+                "label_boundings": [
+                    {
+                        "Width": 0.016797952353954315,
+                        "Height": 0.0804002583026886,
+                        "Left": 0.25769203901290894,
+                        "Top": 0.7026717066764832
+                    },
+                    {
+                        "Width": 0.021796418353915215,
+                        "Height": 0.05124998837709427,
+                        "Left": 0.19584903120994568,
+                        "Top": 0.7062197923660278
+                    },
+                    {
+                        "Width": 0.021084126085042953,
+                        "Height": 0.12504398822784424,
+                        "Left": 0.37060749530792236,
+                        "Top": 0.8016116619110107
+                    },
+                    {
+                        "Width": 0.020711520686745644,
+                        "Height": 0.12116781622171402,
+                        "Left": 0.7768130898475647,
+                        "Top": 0.7979474067687988
+                    },
+                    {
+                        "Width": 0.01877474971115589,
+                        "Height": 0.08963976055383682,
+                        "Left": 0.664479672908783,
+                        "Top": 0.6964448690414429
+                    },
+                    {
+                        "Width": 0.02144686132669449,
+                        "Height": 0.09724247455596924,
+                        "Left": 0.3442588448524475,
+                        "Top": 0.8265217542648315
+                    },
+                    {
+                        "Width": 0.018985925242304802,
+                        "Height": 0.0492999441921711,
+                        "Left": 0.6039167046546936,
+                        "Top": 0.6999693512916565
+                    },
+                    {
+                        "Width": 0.0470350980758667,
+                        "Height": 0.21364861726760864,
+                        "Left": 0.8144777417182922,
+                        "Top": 0.7022808194160461
+                    },
+                    {
+                        "Width": 0.01926564797759056,
+                        "Height": 0.12437345087528229,
+                        "Left": 0.7943998575210571,
+                        "Top": 0.7368395328521729
+                    },
+                    {
+                        "Width": 0.026197215542197227,
+                        "Height": 0.12953774631023407,
+                        "Left": 0.4007819592952728,
+                        "Top": 0.7949523329734802
+                    }
+                ]
+            },
+            {
+                "label_name": "Car",
+                "label_confidence": 89.17559051513672,
+                "label_boundings": [
+                    {
+                        "Width": 0.09904327243566513,
+                        "Height": 0.1809852123260498,
+                        "Left": 0.13677959144115448,
+                        "Top": 0.7501060962677002
+                    },
+                    {
+                        "Width": 0.10729366540908813,
+                        "Height": 0.1808592975139618,
+                        "Left": 0.534831702709198,
+                        "Top": 0.7426766753196716
+                    }
+                ]
+            },
+            {
+                "label_name": "Building",
+                "label_confidence": 86.0596923828125,
+                "label_boundings": [
+                    {
+                        "Width": 0.12601922452449799,
+                        "Height": 0.28377765417099,
+                        "Left": 0.7417146563529968,
+                        "Top": 0.4437294602394104
+                    },
+                    {
+                        "Width": 0.16552719473838806,
+                        "Height": 0.6667866110801697,
+                        "Left": 0.07687249034643173,
+                        "Top": 0.14778070151805878
+                    }
+                ]
+            },
+            {
+                "label_name": "Wheel",
+                "label_confidence": 84.03003692626953,
+                "label_boundings": [
+                    {
+                        "Width": 0.015709256753325462,
+                        "Height": 0.09706562012434006,
+                        "Left": 0.6244418621063232,
+                        "Top": 0.8263847231864929
+                    },
+                    {
+                        "Width": 0.014631505124270916,
+                        "Height": 0.08468877524137497,
+                        "Left": 0.219398632645607,
+                        "Top": 0.8461446762084961
+                    },
+                    {
+                        "Width": 0.011904473416507244,
+                        "Height": 0.07620087265968323,
+                        "Left": 0.6613163948059082,
+                        "Top": 0.7708210349082947
+                    }
+                ]
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 82.51030731201172,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Smog",
+                "label_confidence": 79.65725708007812,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 84.47765350341797,
+                "overall_quality_sharpness": 44.24003219604492,
+                "overall_quality_contrast": 70.58304595947266,
+                "dominant_color_0_hex": "#87ceeb",
+                "dominant_color_0_css": "skyblue",
+                "dominant_color_0_pixelpercent": 35.66666793823242,
+                "dominant_color_1_hex": "#00bfff",
+                "dominant_color_1_css": "deepskyblue",
+                "dominant_color_1_pixelpercent": 21.83333396911621,
+                "dominant_color_2_hex": "#4682b4",
+                "dominant_color_2_css": "steelblue",
+                "dominant_color_2_pixelpercent": 16.33333396911621,
+                "dominant_color_3_hex": "#5f9ea0",
+                "dominant_color_3_css": "cadetblue",
+                "dominant_color_3_pixelpercent": 8.666666984558105,
+                "dominant_color_4_hex": "#708090",
+                "dominant_color_4_css": "slategrey",
+                "dominant_color_4_pixelpercent": 6.666666507720947,
+                "dominant_color_5_hex": "#778899",
+                "dominant_color_5_css": "lightslategrey",
+                "dominant_color_5_pixelpercent": 5.0,
+                "dominant_color_6_hex": "#696969",
+                "dominant_color_6_css": "dimgrey",
+                "dominant_color_6_pixelpercent": 4.0,
+                "dominant_color_7_hex": "#a9a9a9",
+                "dominant_color_7_css": "darkgrey",
+                "dominant_color_7_pixelpercent": 1.8333333730697632,
+                "foreground_quality_brightness": 84.02545928955078,
+                "foreground_quality_sharpness": 46.15772247314453,
+                "foreground_dominant_color_0_hex": "#87ceeb",
+                "foreground_dominant_color_0_css": "skyblue",
+                "foreground_dominant_color_0_pixelpercent": 56.739131927490234,
+                "foreground_dominant_color_1_hex": "#708090",
+                "foreground_dominant_color_1_css": "slategrey",
+                "foreground_dominant_color_1_pixelpercent": 16.521739959716797,
+                "foreground_dominant_color_2_hex": "#5f9ea0",
+                "foreground_dominant_color_2_css": "cadetblue",
+                "foreground_dominant_color_2_pixelpercent": 11.739130020141602,
+                "foreground_dominant_color_3_hex": "#4682b4",
+                "foreground_dominant_color_3_css": "steelblue",
+                "foreground_dominant_color_3_pixelpercent": 8.260869979858398,
+                "foreground_dominant_color_4_hex": "#696969",
+                "foreground_dominant_color_4_css": "dimgrey",
+                "foreground_dominant_color_4_pixelpercent": 5.4347825050354,
+                "foreground_dominant_color_5_hex": "#00bfff",
+                "foreground_dominant_color_5_css": "deepskyblue",
+                "foreground_dominant_color_5_pixelpercent": 1.3043478727340698,
+                "background_quality_brightness": 84.63099670410156,
+                "background_quality_sharpness": 43.460487365722656,
+                "background_dominant_color_0_hex": "#00bfff",
+                "background_dominant_color_0_css": "deepskyblue",
+                "background_dominant_color_0_pixelpercent": 61.88679122924805,
+                "background_dominant_color_1_hex": "#4682b4",
+                "background_dominant_color_1_css": "steelblue",
+                "background_dominant_color_1_pixelpercent": 13.207547187805176,
+                "background_dominant_color_2_hex": "#87ceeb",
+                "background_dominant_color_2_css": "skyblue",
+                "background_dominant_color_2_pixelpercent": 9.811320304870605,
+                "background_dominant_color_3_hex": "#708090",
+                "background_dominant_color_3_css": "slategrey",
+                "background_dominant_color_3_pixelpercent": 8.301886558532715,
+                "background_dominant_color_4_hex": "#a9a9a9",
+                "background_dominant_color_4_css": "darkgrey",
+                "background_dominant_color_4_pixelpercent": 3.7735848426818848,
+                "background_dominant_color_5_hex": "#dcdcdc",
+                "background_dominant_color_5_css": "gainsboro",
+                "background_dominant_color_5_pixelpercent": 3.0188679695129395
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Monument to the Great Fire of London",
+                    "web_entity_confidence": 1.9599642
+                },
+                {
+                    "web_entity_description": "London Bridge",
+                    "web_entity_confidence": 1.0723802
+                },
+                {
+                    "web_entity_description": "Great Fire of London",
+                    "web_entity_confidence": 0.9666
+                },
+                {
+                    "web_entity_description": "Doric order",
+                    "web_entity_confidence": 0.6049
+                },
+                {
+                    "web_entity_description": "Culture",
+                    "web_entity_confidence": 0.4309
+                },
+                {
+                    "web_entity_description": "The arts",
+                    "web_entity_confidence": 0.4243
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.4028
+                },
+                {
+                    "web_entity_description": "Google Arts & Culture",
+                    "web_entity_confidence": 0.3962
+                },
+                {
+                    "web_entity_description": "Structure",
+                    "web_entity_confidence": 0.3731
+                },
+                {
+                    "web_entity_description": "London Bridge",
+                    "web_entity_confidence": 0.10556041
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [
+                {
+                    "web_partial_matching_image_url": "https://lh3.googleusercontent.com/ci/AA1T9HKShZGf65hCLW01Ug_sYshcidLAMX7kleBv_Q7jfwfaxowjEd9-3UwZ1J1PuONsfN2uma3KA7c"
+                }
+            ],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/monument-to-the-great-fire-of-london/m021rfb?hl=en"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/m021rfb?hl=ro"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/m021rfb?hl=eu"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/m021rfb?hl=ar"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://artsandculture.google.com/entity/m021rfb?hl=zh"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i.etsystatic.com/5458248/r/il/d3ab52/2524117884/il_fullxfull.2524117884_kvyf.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.etsystatic.com/10602277/r/il/82f12f/5281936885/il_fullxfull.5281936885_8i9k.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://rlv.zcache.com/boston_skyline_shower_curtain-ra70e298e6ffc48ce98f9a7b189796d64_jupph_307.jpg?rlvnet=1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2023/02/04/63ded903c0ce5029eb638bc2/s_63ded928678c3a8de5e6db56.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://ih1.redbubble.net/image.4092181579.7824/fcp,x_large,wall_texture,product,750x1000.u2.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/c2/c8/51/c2c8515a9650c299a2a803267e437ac7.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as1.ftcdn.net/v2/jpg/01/18/06/38/1000_F_118063842_ruITDr0jYEyjrXpo0UF4jLo3lj1jVlWD.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/search/throw-pillow/images/artworkimages/medium/3/stellar-night-mark-ulriksen.jpg?&targetx=108&targety=60&imagewidth=263&imageheight=359&modelwidth=479&modelheight=479&backgroundcolor=3396C6&orientation=0&producttype=throwpillow-14-14"
+                },
+                {
+                    "web_visually_similar_image_url": "https://ralphbuncheinstitute.org/dev/wp-content/uploads/2021/09/911.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.etsystatic.com/23113453/r/il/d4d9e3/3603298380/il_fullxfull.3603298380_rl53.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "landmark"
+                }
+            ]
+        },
+        "bounding_box": [
+            105,
+            70,
+            2949,
+            1438
+        ]
+    }
+}

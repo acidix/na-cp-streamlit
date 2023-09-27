@@ -1,0 +1,1642 @@
+{
+    "id": "image_26",
+    "url": "https://media.dv.navigatingart.de/acca7012-9287-4fe1-b8c8-bcca731e1f41.jpg?signed=true&valid=1695733328&signature=MtPL346QwNMMCMcB%2FLlSytWgLgs1hZ37BBJUS5myjxq1TJ7r3pURghgvOLlzPifYsdWQdGDJnCiRhENIGmNkZw%3D%3D",
+    "json": "development_test_job/image26/image26.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Face",
+                "label_confidence": 99.99996185302734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.99996185302734,
+                "label_boundings": [
+                    {
+                        "Width": 0.7004542350769043,
+                        "Height": 0.5866960883140564,
+                        "Left": 0.129502534866333,
+                        "Top": 0.17225483059883118
+                    }
+                ]
+            },
+            {
+                "label_name": "Photography",
+                "label_confidence": 99.99996185302734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 99.99996185302734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 99.43549346923828,
+                "label_boundings": [
+                    {
+                        "Width": 0.7004542350769043,
+                        "Height": 0.5866960883140564,
+                        "Left": 0.129502534866333,
+                        "Top": 0.17225483059883118
+                    }
+                ]
+            },
+            {
+                "label_name": "Male",
+                "label_confidence": 99.43549346923828,
+                "label_boundings": [
+                    {
+                        "Width": 0.7004542350769043,
+                        "Height": 0.5866960883140564,
+                        "Left": 0.129502534866333,
+                        "Top": 0.17225483059883118
+                    }
+                ]
+            },
+            {
+                "label_name": "Man",
+                "label_confidence": 99.43549346923828,
+                "label_boundings": [
+                    {
+                        "Width": 0.7004542350769043,
+                        "Height": 0.5866960883140564,
+                        "Left": 0.129502534866333,
+                        "Top": 0.17225483059883118
+                    }
+                ]
+            },
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.17010498046875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.17010498046875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Suit",
+                "label_confidence": 95.05327606201172,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.31055715680122375,
+                    "Height": 0.26982173323631287,
+                    "Left": 0.318313866853714,
+                    "Top": 0.21089787781238556
+                },
+                "face_confidence": 99.99961853027344,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.85052490234375,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.45879364013672,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99662017822266,
+                "face_gender": "Male",
+                "face_gender_confidence": 99.55216217041016,
+                "face_has_beard": false,
+                "face_beard_confidence": 53.9703369140625,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.22506713867188,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 90.0776596069336,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 94.78314208984375,
+                "face_pose_roll": -3.5140435695648193,
+                "face_pose_yaw": -19.030014038085938,
+                "face_pose_pitch": 4.306544303894043,
+                "face_brightness": 96.3475112915039,
+                "face_sharpness": 89.85481262207031,
+                "emotion_type_calm": 99.05096435546875,
+                "emotion_type_surprised": 6.264196395874023,
+                "emotion_type_fear": 5.8917341232299805,
+                "emotion_type_sad": 2.166815757751465,
+                "emotion_type_confused": 0.6036586761474609,
+                "emotion_type_disgusted": 0.10616455972194672,
+                "emotion_type_angry": 0.07061102241277695,
+                "emotion_type_happy": 0.03189418837428093
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.677001953125,
+                "overall_quality_sharpness": 48.80731201171875,
+                "overall_quality_contrast": 77.2843017578125,
+                "dominant_color_0_hex": "#ffebcd",
+                "dominant_color_0_css": "blanchedalmond",
+                "dominant_color_0_pixelpercent": 45.6207160949707,
+                "dominant_color_1_hex": "#cd853f",
+                "dominant_color_1_css": "peru",
+                "dominant_color_1_pixelpercent": 14.699162483215332,
+                "dominant_color_2_hex": "#c0c0c0",
+                "dominant_color_2_css": "silver",
+                "dominant_color_2_pixelpercent": 11.576541900634766,
+                "dominant_color_3_hex": "#a0522d",
+                "dominant_color_3_css": "sienna",
+                "dominant_color_3_pixelpercent": 11.119573593139648,
+                "dominant_color_4_hex": "#d2b48c",
+                "dominant_color_4_css": "tan",
+                "dominant_color_4_pixelpercent": 10.96725082397461,
+                "dominant_color_5_hex": "#deb887",
+                "dominant_color_5_css": "burlywood",
+                "dominant_color_5_pixelpercent": 6.0167555809021,
+                "foreground_quality_brightness": 78.22697448730469,
+                "foreground_quality_sharpness": 76.16146087646484,
+                "foreground_dominant_color_0_hex": "#a0522d",
+                "foreground_dominant_color_0_css": "sienna",
+                "foreground_dominant_color_0_pixelpercent": 40.425533294677734,
+                "foreground_dominant_color_1_hex": "#cd853f",
+                "foreground_dominant_color_1_css": "peru",
+                "foreground_dominant_color_1_pixelpercent": 21.276596069335938,
+                "foreground_dominant_color_2_hex": "#deb887",
+                "foreground_dominant_color_2_css": "burlywood",
+                "foreground_dominant_color_2_pixelpercent": 17.021276473999023,
+                "foreground_dominant_color_3_hex": "#ffebcd",
+                "foreground_dominant_color_3_css": "blanchedalmond",
+                "foreground_dominant_color_3_pixelpercent": 12.765957832336426,
+                "foreground_dominant_color_4_hex": "#d2b48c",
+                "foreground_dominant_color_4_css": "tan",
+                "foreground_dominant_color_4_pixelpercent": 8.510638236999512,
+                "background_quality_brightness": 94.21989440917969,
+                "background_quality_sharpness": 42.402217864990234,
+                "background_dominant_color_0_hex": "#ffebcd",
+                "background_dominant_color_0_css": "blanchedalmond",
+                "background_dominant_color_0_pixelpercent": 61.224491119384766,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 11.73469352722168,
+                "background_dominant_color_2_hex": "#d2b48c",
+                "background_dominant_color_2_css": "tan",
+                "background_dominant_color_2_pixelpercent": 11.22449016571045,
+                "background_dominant_color_3_hex": "#556b2f",
+                "background_dominant_color_3_css": "darkolivegreen",
+                "background_dominant_color_3_pixelpercent": 10.714285850524902,
+                "background_dominant_color_4_hex": "#cd853f",
+                "background_dominant_color_4_css": "peru",
+                "background_dominant_color_4_pixelpercent": 2.551020383834839,
+                "background_dominant_color_5_hex": "#deb887",
+                "background_dominant_color_5_css": "burlywood",
+                "background_dominant_color_5_pixelpercent": 2.551020383834839
+            }
+        ],
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 57.006019592285156,
+                "text": "h: Ferdinand Mager,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.3977711796760559,
+                        "Height": 0.0673726499080658,
+                        "Left": 0.15898819267749786,
+                        "Top": 0.8726410865783691
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.15898819267749786,
+                            "Y": 0.8726410865783691
+                        },
+                        {
+                            "X": 0.5561416745185852,
+                            "Y": 0.8748804330825806
+                        },
+                        {
+                            "X": 0.5567593574523926,
+                            "Y": 0.9400137066841125
+                        },
+                        {
+                            "X": 0.1595008820295334,
+                            "Y": 0.9374359846115112
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 57.11025619506836,
+                "text": "TRUCHELOT",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.17450416088104248,
+                        "Height": 0.011411142535507679,
+                        "Left": 0.3807791769504547,
+                        "Top": 0.08323077112436295
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3807791769504547,
+                            "Y": 0.08404992520809174
+                        },
+                        {
+                            "X": 0.5551823973655701,
+                            "Y": 0.08323077112436295
+                        },
+                        {
+                            "X": 0.5552833080291748,
+                            "Y": 0.093846894800663
+                        },
+                        {
+                            "X": 0.38087257742881775,
+                            "Y": 0.09464190900325775
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 78.08245086669922,
+                "text": ".90",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07345855236053467,
+                        "Height": 0.020979449152946472,
+                        "Left": 0.9145803451538086,
+                        "Top": 0.7447943687438965
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.9145803451538086,
+                            "Y": 0.7447943687438965
+                        },
+                        {
+                            "X": 0.9878072142601013,
+                            "Y": 0.7450815439224243
+                        },
+                        {
+                            "X": 0.9880388975143433,
+                            "Y": 0.7657737731933594
+                        },
+                        {
+                            "X": 0.9148058295249939,
+                            "Y": 0.7654669284820557
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 49.66703414916992,
+                "text": "h:",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06284728646278381,
+                        "Height": 0.048442989587783813,
+                        "Left": 0.15904265642166138,
+                        "Top": 0.879525363445282
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.15904265642166138,
+                            "Y": 0.879525363445282
+                        },
+                        {
+                            "X": 0.22149759531021118,
+                            "Y": 0.8798831701278687
+                        },
+                        {
+                            "X": 0.2218899428844452,
+                            "Y": 0.9279683232307434
+                        },
+                        {
+                            "X": 0.1594228297472,
+                            "Y": 0.9275711178779602
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_4": {
+                "confidence": 91.88436126708984,
+                "text": "Ferdinand",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.19214579463005066,
+                        "Height": 0.04873126372694969,
+                        "Left": 0.23152972757816315,
+                        "Top": 0.8730500936508179
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.23152972757816315,
+                            "Y": 0.8730500936508179
+                        },
+                        {
+                            "X": 0.42324867844581604,
+                            "Y": 0.8741311430931091
+                        },
+                        {
+                            "X": 0.4236755073070526,
+                            "Y": 0.9217813611030579
+                        },
+                        {
+                            "X": 0.23191945254802704,
+                            "Y": 0.9205806255340576
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_5": {
+                "confidence": 29.466659545898438,
+                "text": "Mager,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.11614231020212173,
+                        "Height": 0.05645478516817093,
+                        "Left": 0.44061705470085144,
+                        "Top": 0.8835589289665222
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.44061705470085144,
+                            "Y": 0.8835589289665222
+                        },
+                        {
+                            "X": 0.5562303066253662,
+                            "Y": 0.8842249512672424
+                        },
+                        {
+                            "X": 0.5567593574523926,
+                            "Y": 0.9400137066841125
+                        },
+                        {
+                            "X": 0.44111984968185425,
+                            "Y": 0.9392633438110352
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            }
+        }
+    },
+    "image26_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.9811019897461,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.9811019897461,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Calligraphy",
+                "label_confidence": 88.1664810180664,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 72.8790512084961,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 91.70130920410156,
+                "overall_quality_sharpness": 93.86085510253906,
+                "overall_quality_contrast": 75.4125747680664,
+                "dominant_color_0_hex": "#b0c4de",
+                "dominant_color_0_css": "lightsteelblue",
+                "dominant_color_0_pixelpercent": 76.0806884765625,
+                "dominant_color_1_hex": "#696969",
+                "dominant_color_1_css": "dimgrey",
+                "dominant_color_1_pixelpercent": 8.50144100189209,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 5.043227672576904,
+                "dominant_color_3_hex": "#778899",
+                "dominant_color_3_css": "lightslategrey",
+                "dominant_color_3_pixelpercent": 4.178674221038818,
+                "dominant_color_4_hex": "#87ceeb",
+                "dominant_color_4_css": "skyblue",
+                "dominant_color_4_pixelpercent": 3.6023054122924805,
+                "dominant_color_5_hex": "#2f4f4f",
+                "dominant_color_5_css": "darkslategrey",
+                "dominant_color_5_pixelpercent": 2.3054754734039307,
+                "dominant_color_6_hex": "#e6e6fa",
+                "dominant_color_6_css": "lavender",
+                "dominant_color_6_pixelpercent": 0.28818443417549133
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.65133554
+                },
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.6325755
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.54716456
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.53667074
+                },
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.52128863
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.48155972
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.4298524
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3681
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.35858458
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.3420847
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i0.wp.com/letsgetpublished.com/wp-content/uploads/2019/05/Jack-Kerouac-23-writing-quotes-copy.jpg?resize=1000%2C562&ssl=1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/originals/c8/54/10/c85410ece43db266914cbf147187725b.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://ruinmyweek.com/wp-content/uploads/2016/10/funny-photos-of-bathroom-stall-writing-never-give-up.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.shopify.com/s/files/1/0654/6984/1666/products/blue-personalised-stickers-names-design-3-439322_1024x1024.jpg?v=1675950522"
+                },
+                {
+                    "web_visually_similar_image_url": "https://writechoice.files.wordpress.com/2011/08/all-caps-hand-writing.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as1.ftcdn.net/v2/jpg/01/81/56/66/1000_F_181566685_5Cyi4ZPhAY72AUyRCQNSz7dIBkfoWHMR.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/1200x/96/55/c8/9655c81b634e8fc733ee6588213dad0f.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/41/b9/fc/41b9fc97a634544cd2029fc723b00747.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/474x/bf/0f/30/bf0f3049060b096b13465fce0e3b8b09.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.confettibee.co.uk/cdn/shop/products/blue-personalised-stickers-mr-mrs-design-4-660280.jpg?v=1675950515"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            279,
+            2478,
+            1384,
+            2936
+        ]
+    },
+    "image26_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.93968200683594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.93968200683594,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.02306365966797,
+                "overall_quality_sharpness": 84.54605102539062,
+                "overall_quality_contrast": 77.71337127685547,
+                "dominant_color_0_hex": "#b0c4de",
+                "dominant_color_0_css": "lightsteelblue",
+                "dominant_color_0_pixelpercent": 73.54202270507812,
+                "dominant_color_1_hex": "#e6e6fa",
+                "dominant_color_1_css": "lavender",
+                "dominant_color_1_pixelpercent": 6.132075309753418,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 5.57461404800415,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 4.073756217956543,
+                "dominant_color_4_hex": "#87ceeb",
+                "dominant_color_4_css": "skyblue",
+                "dominant_color_4_pixelpercent": 3.7735848426818848,
+                "dominant_color_5_hex": "#708090",
+                "dominant_color_5_css": "slategrey",
+                "dominant_color_5_pixelpercent": 2.6157803535461426,
+                "dominant_color_6_hex": "#a9a9a9",
+                "dominant_color_6_css": "darkgrey",
+                "dominant_color_6_pixelpercent": 2.3156089782714844,
+                "dominant_color_7_hex": "#778899",
+                "dominant_color_7_css": "lightslategrey",
+                "dominant_color_7_pixelpercent": 1.9725557565689087,
+                "foreground_quality_brightness": 64.91548919677734,
+                "foreground_quality_sharpness": 92.14212036132812,
+                "foreground_dominant_color_0_hex": "#696969",
+                "foreground_dominant_color_0_css": "dimgrey",
+                "foreground_dominant_color_0_pixelpercent": 33.33333206176758,
+                "foreground_dominant_color_1_hex": "#2f4f4f",
+                "foreground_dominant_color_1_css": "darkslategrey",
+                "foreground_dominant_color_1_pixelpercent": 23.33333396911621,
+                "foreground_dominant_color_2_hex": "#708090",
+                "foreground_dominant_color_2_css": "slategrey",
+                "foreground_dominant_color_2_pixelpercent": 16.66666603088379,
+                "foreground_dominant_color_3_hex": "#b0c4de",
+                "foreground_dominant_color_3_css": "lightsteelblue",
+                "foreground_dominant_color_3_pixelpercent": 13.333333015441895,
+                "foreground_dominant_color_4_hex": "#778899",
+                "foreground_dominant_color_4_css": "lightslategrey",
+                "foreground_dominant_color_4_pixelpercent": 6.666666507720947,
+                "foreground_dominant_color_5_hex": "#a9a9a9",
+                "foreground_dominant_color_5_css": "darkgrey",
+                "foreground_dominant_color_5_pixelpercent": 6.666666507720947,
+                "background_quality_brightness": 92.02620697021484,
+                "background_quality_sharpness": 81.984130859375,
+                "background_dominant_color_0_hex": "#b0c4de",
+                "background_dominant_color_0_css": "lightsteelblue",
+                "background_dominant_color_0_pixelpercent": 77.4179458618164,
+                "background_dominant_color_1_hex": "#2f4f4f",
+                "background_dominant_color_1_css": "darkslategrey",
+                "background_dominant_color_1_pixelpercent": 6.87089729309082,
+                "background_dominant_color_2_hex": "#e6e6fa",
+                "background_dominant_color_2_css": "lavender",
+                "background_dominant_color_2_pixelpercent": 6.214441776275635,
+                "background_dominant_color_3_hex": "#87ceeb",
+                "background_dominant_color_3_css": "skyblue",
+                "background_dominant_color_3_pixelpercent": 3.982494592666626,
+                "background_dominant_color_4_hex": "#a9a9a9",
+                "background_dominant_color_4_css": "darkgrey",
+                "background_dominant_color_4_pixelpercent": 2.100656509399414,
+                "background_dominant_color_5_hex": "#708090",
+                "background_dominant_color_5_css": "slategrey",
+                "background_dominant_color_5_pixelpercent": 1.7505470514297485,
+                "background_dominant_color_6_hex": "#778899",
+                "background_dominant_color_6_css": "lightslategrey",
+                "background_dominant_color_6_pixelpercent": 1.6630196571350098
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.5390566
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.5321327
+                },
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.51863456
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.5138939
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.46962205
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.40023214
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3662
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.33509082
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/236x/79/cb/6a/79cb6a12a635ea8a58d849e2f8c404de.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-17uq0qq_df51bfe1.jpeg?region=0,0,300,300"
+                },
+                {
+                    "web_visually_similar_image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/fad94b52839693.591ef1de33db8.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100079678879315"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/clIAAOSwkqJivg3z/s-l400.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://image.spreadshirtmedia.net/image-server/v1/compositions/T812A3PA5886PT17X43Y0D163652865W26060H31272/views/1,width=378,height=378,appearanceId=3,backgroundColor=F2F2F2/jesus-loves-you.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.kimberlygeswein.com/wp-content/uploads/edd/2022/11/KGZeyada.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://image.spreadshirtmedia.net/image-server/v1/mp/products/T812A3PA5886PT17X22Y24D152086604W30193H17461/views/1,width=1200,height=630,appearanceId=3,backgroundColor=F2F2F2,modelId=85,crop=design/vida-loca-tattoo-family-gift-idea-mens-premium-t-shirt.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=442235931007997"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/5654dc87e4b06400b4801b8a/1520633248959-UR4GXURKXR580G5SOVZB/image-asset.png?format=500w"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "calligraphy"
+                }
+            ]
+        },
+        "bounding_box": [
+            1022,
+            2545,
+            1391,
+            2921
+        ]
+    },
+    "image26_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Text",
+                "label_confidence": 98.11688995361328,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Number",
+                "label_confidence": 71.70285034179688,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Symbol",
+                "label_confidence": 71.70285034179688,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 69.98715209960938,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.27289581298828,
+                "overall_quality_sharpness": 86.9320068359375,
+                "overall_quality_contrast": 76.23088836669922,
+                "dominant_color_0_hex": "#b0c4de",
+                "dominant_color_0_css": "lightsteelblue",
+                "dominant_color_0_pixelpercent": 69.8795166015625,
+                "dominant_color_1_hex": "#e6e6fa",
+                "dominant_color_1_css": "lavender",
+                "dominant_color_1_pixelpercent": 13.253011703491211,
+                "dominant_color_2_hex": "#696969",
+                "dominant_color_2_css": "dimgrey",
+                "dominant_color_2_pixelpercent": 10.84337329864502,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 3.614457845687866,
+                "dominant_color_4_hex": "#778899",
+                "dominant_color_4_css": "lightslategrey",
+                "dominant_color_4_pixelpercent": 2.4096386432647705,
+                "foreground_quality_brightness": 64.30351257324219,
+                "foreground_quality_sharpness": 94.12450408935547,
+                "foreground_dominant_color_0_hex": "#696969",
+                "foreground_dominant_color_0_css": "dimgrey",
+                "foreground_dominant_color_0_pixelpercent": 33.33333206176758,
+                "foreground_dominant_color_1_hex": "#2f4f4f",
+                "foreground_dominant_color_1_css": "darkslategrey",
+                "foreground_dominant_color_1_pixelpercent": 25.490196228027344,
+                "foreground_dominant_color_2_hex": "#708090",
+                "foreground_dominant_color_2_css": "slategrey",
+                "foreground_dominant_color_2_pixelpercent": 23.52941131591797,
+                "foreground_dominant_color_3_hex": "#a9a9a9",
+                "foreground_dominant_color_3_css": "darkgrey",
+                "foreground_dominant_color_3_pixelpercent": 9.803921699523926,
+                "foreground_dominant_color_4_hex": "#778899",
+                "foreground_dominant_color_4_css": "lightslategrey",
+                "foreground_dominant_color_4_pixelpercent": 7.843137264251709,
+                "background_quality_brightness": 92.41402435302734,
+                "background_quality_sharpness": 81.05445098876953,
+                "background_dominant_color_0_hex": "#b0c4de",
+                "background_dominant_color_0_css": "lightsteelblue",
+                "background_dominant_color_0_pixelpercent": 76.31578826904297,
+                "background_dominant_color_1_hex": "#e6e6fa",
+                "background_dominant_color_1_css": "lavender",
+                "background_dominant_color_1_pixelpercent": 14.473684310913086,
+                "background_dominant_color_2_hex": "#696969",
+                "background_dominant_color_2_css": "dimgrey",
+                "background_dominant_color_2_pixelpercent": 5.263157844543457,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 2.6315789222717285,
+                "background_dominant_color_4_hex": "#778899",
+                "background_dominant_color_4_css": "lightslategrey",
+                "background_dominant_color_4_pixelpercent": 1.3157894611358643
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 3
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Camel",
+                "logo_confidence": 0.6356718,
+                "logo_vertices": [
+                    {
+                        "x": 29,
+                        "y": 64
+                    },
+                    {
+                        "x": 96,
+                        "y": 64
+                    },
+                    {
+                        "x": 96,
+                        "y": 419
+                    },
+                    {
+                        "x": 29,
+                        "y": 419
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Water",
+                    "web_entity_confidence": 0.54958147
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.49806032
+                },
+                {
+                    "web_entity_description": "Mammal",
+                    "web_entity_confidence": 0.45375
+                },
+                {
+                    "web_entity_description": "Marine mammal",
+                    "web_entity_confidence": 0.45005566
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.43979025
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.4338122
+                },
+                {
+                    "web_entity_description": "Sport M",
+                    "web_entity_confidence": 0.3969
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.3580188
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3562243
+                },
+                {
+                    "web_entity_description": "Number",
+                    "web_entity_confidence": 0.35446963
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://c1.wallpaperflare.com/preview/675/148/850/loon-bird-water-diver.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/black-winged-stilt-water-himantopus-himantopus-wader-bird-stilt_559531-17437.jpg?w=2000"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/black-winged-stilt-water-himantopus-himantopus-wader-bird-stilt_559531-17436.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/black-winged-stilt-water-himantopus-himantopus-wader-bird-stilt_559531-23872.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/black-winged-stilt-water-himantopus-himantopus-wader-bird-stilt_559531-55984.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/black-winged-stilt-water-himantopus-himantopus-wader-bird-stilt_559531-23871.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/black-winged-stilt-water-himantopus-himantopus-wader-bird-stilt_559531-17435.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/thumb_back/fw800/background/20221207/pngtree-two-indian-cormorants-swimming-in-water-phalacrocorax-fuscicollis-indian-cormorant-cormorant-photo-image_2618315.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/black-winged-stilt-shallow-water-himantopus-himantopus_559531-24533.jpg?w=2000"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/snag-lies-edge-dam-calm-water-zone_94065-147.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "ski equipment"
+                }
+            ]
+        },
+        "bounding_box": [
+            96,
+            2424,
+            192,
+            2923
+        ]
+    },
+    "image26_recognized_part_3": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 99.62968444824219,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.12081909179688,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.12081909179688,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Pattern",
+                "label_confidence": 93.19076538085938,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 88.29371643066406,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 74.9479751586914,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 68.0721435546875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Fish",
+                "label_confidence": 68.0721435546875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sea Life",
+                "label_confidence": 68.0721435546875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Shark",
+                "label_confidence": 68.0721435546875,
+                "label_boundings": [
+                    {
+                        "Width": 0.41798150539398193,
+                        "Height": 0.3197600245475769,
+                        "Left": 0.4641666114330292,
+                        "Top": 0.4090177118778229
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 91.81459045410156,
+                "overall_quality_sharpness": 88.44918823242188,
+                "overall_quality_contrast": 77.62835693359375,
+                "dominant_color_0_hex": "#b0c4de",
+                "dominant_color_0_css": "lightsteelblue",
+                "dominant_color_0_pixelpercent": 72.54508972167969,
+                "dominant_color_1_hex": "#e6e6fa",
+                "dominant_color_1_css": "lavender",
+                "dominant_color_1_pixelpercent": 5.511022090911865,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 5.410821437835693,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 4.308617115020752,
+                "dominant_color_4_hex": "#87ceeb",
+                "dominant_color_4_css": "skyblue",
+                "dominant_color_4_pixelpercent": 4.208416938781738,
+                "dominant_color_5_hex": "#a9a9a9",
+                "dominant_color_5_css": "darkgrey",
+                "dominant_color_5_pixelpercent": 3.3066132068634033,
+                "dominant_color_6_hex": "#708090",
+                "dominant_color_6_css": "slategrey",
+                "dominant_color_6_pixelpercent": 2.5050101280212402,
+                "dominant_color_7_hex": "#778899",
+                "dominant_color_7_css": "lightslategrey",
+                "dominant_color_7_pixelpercent": 2.204408884048462
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.5378851
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.52141035
+                },
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.5177874
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.5101952
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.46240297
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3975963
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3662
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.33545485
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://ae01.alicdn.com/kf/HTB10GiDnsnI8KJjSsziq6z8QpXa5/10sheet-lot-4-Feet-Chinese-Rice-Paper-Calligraphy-Chinese-Painting-Paper-Handmade-Fiber-Xuan-Paper-Yunlong.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://moragporteous.files.wordpress.com/2022/02/img_0215-e1644554427678.jpg?w=600&h=600&crop=1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/originals/7a/38/54/7a3854f982c438163b5324b52b216d79.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/6KMAAOSwZntkCorV/s-l1200.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/77/7d/be/777dbe1f02e0079c11c0cafaaac4af55--calligraphy-writing-chinese-calligraphy.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.worthpoint.com/zoom/images2/1/0416/22/chinese-calligraphy-hanging-scroll-li_1_68057def719bc1c5dd5463ba47cca629.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/originals/be/05/19/be0519dbb9d92d399b72e988e74e1810.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://s.yimg.com/cl/api/res/1.2/0VbJhO8ELC0yfeGzPbWgyA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD03MDA7cT04NTtyb3RhdGU9YXV0bzt3PTcwMA--/https://s.yimg.com/ob/image/1fa8772b-adb9-4dae-989b-65682eeb78f3.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=507202879343725"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.adachi-hanga.com/ukiyo-e/items/hiroshige025/hiroshige025_thumb5.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "calligraphy"
+                }
+            ]
+        },
+        "bounding_box": [
+            215,
+            2480,
+            389,
+            2886
+        ]
+    },
+    "image26_recognized_part_4": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Food",
+                "label_confidence": 96.15934753417969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Meal",
+                "label_confidence": 96.15934753417969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 72.17313385009766,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Water",
+                "label_confidence": 70.10297393798828,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow",
+                "label_confidence": 68.63683319091797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snowman",
+                "label_confidence": 68.63683319091797,
+                "label_boundings": [
+                    {
+                        "Width": 0.8801962733268738,
+                        "Height": 0.851207435131073,
+                        "Left": 0.0607542060315609,
+                        "Top": 0.057320088148117065
+                    }
+                ]
+            },
+            {
+                "label_name": "Winter",
+                "label_confidence": 68.63683319091797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Dish",
+                "label_confidence": 67.81745910644531,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Machine",
+                "label_confidence": 66.53239440917969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Spoke",
+                "label_confidence": 66.53239440917969,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 93.42682647705078,
+                "overall_quality_sharpness": 4.429019927978516,
+                "overall_quality_contrast": 39.383148193359375,
+                "dominant_color_0_hex": "#e6e6fa",
+                "dominant_color_0_css": "lavender",
+                "dominant_color_0_pixelpercent": 47.92332458496094,
+                "dominant_color_1_hex": "#b0c4de",
+                "dominant_color_1_css": "lightsteelblue",
+                "dominant_color_1_pixelpercent": 22.683706283569336,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 19.48881721496582,
+                "dominant_color_3_hex": "#778899",
+                "dominant_color_3_css": "lightslategrey",
+                "dominant_color_3_pixelpercent": 6.389776229858398,
+                "dominant_color_4_hex": "#dcdcdc",
+                "dominant_color_4_css": "gainsboro",
+                "dominant_color_4_pixelpercent": 3.5143768787384033
+            }
+        ],
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "bounding_box": [
+            1751,
+            2242,
+            1792,
+            2290
+        ]
+    },
+    "image26_recognized_part_5": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Nature",
+                "label_confidence": 99.93658447265625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 99.93658447265625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Winter",
+                "label_confidence": 97.918701171875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow",
+                "label_confidence": 92.60942077636719,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow Angel",
+                "label_confidence": 78.82411193847656,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Footprint",
+                "label_confidence": 74.72879791259766,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 93.77322387695312,
+                "overall_quality_sharpness": 12.781159400939941,
+                "overall_quality_contrast": 29.147855758666992,
+                "dominant_color_0_hex": "#e6e6fa",
+                "dominant_color_0_css": "lavender",
+                "dominant_color_0_pixelpercent": 56.4051628112793,
+                "dominant_color_1_hex": "#b0c4de",
+                "dominant_color_1_css": "lightsteelblue",
+                "dominant_color_1_pixelpercent": 32.47269058227539,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 8.242303848266602,
+                "dominant_color_3_hex": "#778899",
+                "dominant_color_3_css": "lightslategrey",
+                "dominant_color_3_pixelpercent": 1.7874876260757446,
+                "dominant_color_4_hex": "#dcdcdc",
+                "dominant_color_4_css": "gainsboro",
+                "dominant_color_4_pixelpercent": 1.0923535823822021
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 3,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 3
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Water",
+                    "web_entity_confidence": 0.93912625
+                },
+                {
+                    "web_entity_description": "Polar ice cap",
+                    "web_entity_confidence": 0.6406223
+                },
+                {
+                    "web_entity_description": "Glacial landform",
+                    "web_entity_confidence": 0.53326833
+                },
+                {
+                    "web_entity_description": "Polar regions of Earth",
+                    "web_entity_confidence": 0.44805002
+                },
+                {
+                    "web_entity_description": "Ice",
+                    "web_entity_confidence": 0.4272
+                },
+                {
+                    "web_entity_description": "Snow",
+                    "web_entity_confidence": 0.38930786
+                },
+                {
+                    "web_entity_description": "Glacier",
+                    "web_entity_confidence": 0.3634
+                },
+                {
+                    "web_entity_description": "Winter",
+                    "web_entity_confidence": 0.35808972
+                },
+                {
+                    "web_entity_description": "Freezing",
+                    "web_entity_confidence": 0.3441228
+                },
+                {
+                    "web_entity_description": "Ice cap",
+                    "web_entity_confidence": 0.3424
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/1084833918/photo/minimalistic-background-of-snow-and-ice.jpg?s=612x612&w=gi&k=20&c=HIqxjgOERytP153apmYoSeF1e-PleXvLSOuwwsJ8DWE="
+                },
+                {
+                    "web_visually_similar_image_url": "https://us.123rf.com/450wm/bowonpat/bowonpat1811/bowonpat181100058/113814332-soak-a-cloth-before-washing-white-cloth.jpg?ver=6"
+                },
+                {
+                    "web_visually_similar_image_url": "https://st4.depositphotos.com/14487672/22337/i/450/depositphotos_223376562-stock-photo-soak-cloth-washing-white-cloth.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/spring-snow-melts-ice-melts_362171-1422.jpg?w=360"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/1169780801/photo/full-frame-of-the-textures-formed-of-a-block-of-cracked-ice-on-a-soft-blue-color-background.jpg?s=612x612&w=gi&k=20&c=zgNC1KO1vMlSooo5EjR2x02pOXJNWyle7G9WghLYFRw="
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.natgeofe.com/n/b047e174-e5e1-4dad-80c9-c0b548f5d131/ice-climbing-niagara-3-1024x683_2x3.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static3.depositphotos.com/1003372/161/i/450/depositphotos_1616599-stock-photo-ice-pattern-background.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2012/04/16/f09456ac-64bb-4af4-8b96-d1da5e70effe/thumbnail/1200x630/a4c6e4481ba20f03a52749b6f17f4016/dsc_0278-01r.jpg?v=181d27d1e918a6408b48ea2e220df310"
+                },
+                {
+                    "web_visually_similar_image_url": "http://www.frostyice.co.za/index_htm_files/554@2x.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://staticdelivery.nexusmods.com/mods/110/images/thumbnails/82157-0-1506372079.png"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "water"
+                }
+            ]
+        },
+        "bounding_box": [
+            1565,
+            932,
+            1758,
+            1050
+        ]
+    },
+    "image26_recognized_part_6": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Face",
+                "label_confidence": 100.0,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 100.0,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 100.0,
+                "label_boundings": [
+                    {
+                        "Width": 0.8287577629089355,
+                        "Height": 0.8602740168571472,
+                        "Left": 0.005451850593090057,
+                        "Top": 0.13132473826408386
+                    }
+                ]
+            },
+            {
+                "label_name": "Photography",
+                "label_confidence": 100.0,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 100.0,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Formal Wear",
+                "label_confidence": 99.83343505859375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Suit",
+                "label_confidence": 99.83343505859375,
+                "label_boundings": [
+                    {
+                        "Width": 0.809646487236023,
+                        "Height": 0.5563783049583435,
+                        "Left": 0.010572317987680435,
+                        "Top": 0.43551358580589294
+                    }
+                ]
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 99.77239990234375,
+                "label_boundings": [
+                    {
+                        "Width": 0.8287577629089355,
+                        "Height": 0.8602740168571472,
+                        "Left": 0.005451850593090057,
+                        "Top": 0.13132473826408386
+                    }
+                ]
+            },
+            {
+                "label_name": "Male",
+                "label_confidence": 99.77239990234375,
+                "label_boundings": [
+                    {
+                        "Width": 0.8287577629089355,
+                        "Height": 0.8602740168571472,
+                        "Left": 0.005451850593090057,
+                        "Top": 0.13132473826408386
+                    }
+                ]
+            },
+            {
+                "label_name": "Man",
+                "label_confidence": 99.77239990234375,
+                "label_boundings": [
+                    {
+                        "Width": 0.8287577629089355,
+                        "Height": 0.8602740168571472,
+                        "Left": 0.005451850593090057,
+                        "Top": 0.13132473826408386
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.37066230177879333,
+                    "Height": 0.4243170917034149,
+                    "Left": 0.2241966426372528,
+                    "Top": 0.17804451286792755
+                },
+                "face_confidence": 99.99816131591797,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.98453521728516,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.95463562011719,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.9964370727539,
+                "face_gender": "Male",
+                "face_gender_confidence": 99.9546890258789,
+                "face_has_beard": false,
+                "face_beard_confidence": 61.997310638427734,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.31385040283203,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 95.96493530273438,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 94.80158233642578,
+                "face_pose_roll": -3.0419483184814453,
+                "face_pose_yaw": -18.917428970336914,
+                "face_pose_pitch": 2.9077646732330322,
+                "face_brightness": 94.48107147216797,
+                "face_sharpness": 94.08262634277344,
+                "emotion_type_calm": 99.66290283203125,
+                "emotion_type_surprised": 6.266589641571045,
+                "emotion_type_fear": 5.881353378295898,
+                "emotion_type_sad": 2.1645123958587646,
+                "emotion_type_confused": 0.12232597172260284,
+                "emotion_type_angry": 0.06516245007514954,
+                "emotion_type_disgusted": 0.030582008883357048,
+                "emotion_type_happy": 0.013100527226924896
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 82.04792785644531,
+                "overall_quality_sharpness": 42.11062240600586,
+                "overall_quality_contrast": 78.0479736328125,
+                "dominant_color_0_hex": "#708090",
+                "dominant_color_0_css": "slategrey",
+                "dominant_color_0_pixelpercent": 23.856613159179688,
+                "dominant_color_1_hex": "#a9a9a9",
+                "dominant_color_1_css": "darkgrey",
+                "dominant_color_1_pixelpercent": 19.406675338745117,
+                "dominant_color_2_hex": "#4682b4",
+                "dominant_color_2_css": "steelblue",
+                "dominant_color_2_pixelpercent": 18.9122371673584,
+                "dominant_color_3_hex": "#e6e6fa",
+                "dominant_color_3_css": "lavender",
+                "dominant_color_3_pixelpercent": 15.636588096618652,
+                "dominant_color_4_hex": "#b0c4de",
+                "dominant_color_4_css": "lightsteelblue",
+                "dominant_color_4_pixelpercent": 10.50679874420166,
+                "dominant_color_5_hex": "#778899",
+                "dominant_color_5_css": "lightslategrey",
+                "dominant_color_5_pixelpercent": 9.950555801391602,
+                "dominant_color_6_hex": "#696969",
+                "dominant_color_6_css": "dimgrey",
+                "dominant_color_6_pixelpercent": 1.7305315732955933,
+                "foreground_quality_brightness": 75.75698852539062,
+                "foreground_quality_sharpness": 48.21193313598633,
+                "foreground_dominant_color_0_hex": "#708090",
+                "foreground_dominant_color_0_css": "slategrey",
+                "foreground_dominant_color_0_pixelpercent": 26.960784912109375,
+                "foreground_dominant_color_1_hex": "#4682b4",
+                "foreground_dominant_color_1_css": "steelblue",
+                "foreground_dominant_color_1_pixelpercent": 22.671567916870117,
+                "foreground_dominant_color_2_hex": "#a9a9a9",
+                "foreground_dominant_color_2_css": "darkgrey",
+                "foreground_dominant_color_2_pixelpercent": 18.504901885986328,
+                "foreground_dominant_color_3_hex": "#b0c4de",
+                "foreground_dominant_color_3_css": "lightsteelblue",
+                "foreground_dominant_color_3_pixelpercent": 13.72549057006836,
+                "foreground_dominant_color_4_hex": "#778899",
+                "foreground_dominant_color_4_css": "lightslategrey",
+                "foreground_dominant_color_4_pixelpercent": 12.990196228027344,
+                "foreground_dominant_color_5_hex": "#696969",
+                "foreground_dominant_color_5_css": "dimgrey",
+                "foreground_dominant_color_5_pixelpercent": 2.6960785388946533,
+                "foreground_dominant_color_6_hex": "#483d8b",
+                "foreground_dominant_color_6_css": "darkslateblue",
+                "foreground_dominant_color_6_pixelpercent": 2.4509804248809814,
+                "background_quality_brightness": 84.39030456542969,
+                "background_quality_sharpness": 30.949848175048828,
+                "background_dominant_color_0_hex": "#e6e6fa",
+                "background_dominant_color_0_css": "lavender",
+                "background_dominant_color_0_pixelpercent": 29.69432258605957,
+                "background_dominant_color_1_hex": "#708090",
+                "background_dominant_color_1_css": "slategrey",
+                "background_dominant_color_1_pixelpercent": 24.89082908630371,
+                "background_dominant_color_2_hex": "#a9a9a9",
+                "background_dominant_color_2_css": "darkgrey",
+                "background_dominant_color_2_pixelpercent": 20.08733558654785,
+                "background_dominant_color_3_hex": "#778899",
+                "background_dominant_color_3_css": "lightslategrey",
+                "background_dominant_color_3_pixelpercent": 17.467248916625977,
+                "background_dominant_color_4_hex": "#b0c4de",
+                "background_dominant_color_4_css": "lightsteelblue",
+                "background_dominant_color_4_pixelpercent": 7.860261917114258
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 2,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Facial hair",
+                    "web_entity_confidence": 0.5228254
+                },
+                {
+                    "web_entity_description": "Photograph",
+                    "web_entity_confidence": 0.43716177
+                },
+                {
+                    "web_entity_description": "Vintage clothing",
+                    "web_entity_confidence": 0.4294422
+                },
+                {
+                    "web_entity_description": "Clothing",
+                    "web_entity_confidence": 0.4197
+                },
+                {
+                    "web_entity_description": "Hair",
+                    "web_entity_confidence": 0.4049
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34181374
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "Face",
+                    "web_entity_confidence": 0.2476
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://www.ww2depot.com/wp-content/uploads/2022/07/German-ww2-officers-photo.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/tekAAOSwR8xgxssZ/s-l1600.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://pbs.twimg.com/profile_images/1548125779518562304/gQutACQh_400x400.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://sites.create-cdn.net/siteimages/5/5/8/55872/13/5/4/1354392/218x308.jpg?1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.discogs.com/qkzNZ8up8G3XutCxAidC89BR-zqcY9dxIba3CERQ7rU/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NTc2/NzUtMTM4NDgxMTc4/Ni05NDQ5LmpwZWc.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.custom-insoles.com/wp-content/uploads/2020/08/Little-Zinke.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.tukioswebsites.com/obituary_profile_photo/md/ba534e99-b53c-44a3-90e7-47efb212f268"
+                },
+                {
+                    "web_visually_similar_image_url": "https://savants.network/images/Erwin.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.conferenceharvester.com/uploads/harvester/photos/cropZGKMFAXU-Presenter-AlcindorT.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn-otf-cas.prfct.cc/dfs1/eyJkIjo3MiwieCI6IjUxIiwieSI6IjE1OSIsImN3IjoiOTgxIiwiY2giOiIxMjYyIiwicm8iOiIwIiwiY3IiOiIxIiwidyI6NjAwLCJoIjo2MDAsInVybCI6Imh0dHBzOlwvXC9hZGFzLW9yZWdvbi1jYXMtb2JpdHMuczMuYW1hem9uYXdzLmNvbVwvcGhvdG9zXC9jcmVhdGVfc3RvcnlcLzY0NDgyODIwYmI5OWJcLzMzZTM0YjkyNzU3NDlhNGQ2Yzk2NGQyZGU1YmUuanBnIn0="
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "photograph"
+                }
+            ]
+        },
+        "bounding_box": [
+            230,
+            253,
+            1754,
+            2265
+        ]
+    }
+}

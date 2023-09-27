@@ -1,0 +1,1001 @@
+{
+    "id": "image_32",
+    "url": "https://media.dv.navigatingart.de/5e7a4a99-104b-4f35-9062-c383a777d425.jpg?signed=true&valid=1695733328&signature=NgBsvAXLo3l4nJb%2FbI7qOHNEwJKzrROaY6Pd6hu6E3tVczkQK6TwcpSoK7s9q87BJJ1lH4QXJegfvFJBqOUl0Q%3D%3D",
+    "json": "development_test_job/image32/image32.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Arrow",
+                "label_confidence": 86.30840301513672,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Arrowhead",
+                "label_confidence": 86.30840301513672,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Weapon",
+                "label_confidence": 86.30840301513672,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 73.32064819335938,
+                "overall_quality_sharpness": 24.676239013671875,
+                "overall_quality_contrast": 31.872068405151367,
+                "dominant_color_0_hex": "#808080",
+                "dominant_color_0_css": "gray",
+                "dominant_color_0_pixelpercent": 87.48403930664062,
+                "dominant_color_1_hex": "#696969",
+                "dominant_color_1_css": "dimgrey",
+                "dominant_color_1_pixelpercent": 4.9808430671691895,
+                "dominant_color_2_hex": "#000000",
+                "dominant_color_2_css": "black",
+                "dominant_color_2_pixelpercent": 3.065134048461914,
+                "dominant_color_3_hex": "#bc8f8f",
+                "dominant_color_3_css": "rosybrown",
+                "dominant_color_3_pixelpercent": 1.9795657396316528,
+                "dominant_color_4_hex": "#2f4f4f",
+                "dominant_color_4_css": "darkslategrey",
+                "dominant_color_4_pixelpercent": 1.404853105545044,
+                "dominant_color_5_hex": "#556b2f",
+                "dominant_color_5_css": "darkolivegreen",
+                "dominant_color_5_pixelpercent": 0.9578543901443481,
+                "dominant_color_6_hex": "#dcdcdc",
+                "dominant_color_6_css": "gainsboro",
+                "dominant_color_6_pixelpercent": 0.12771391868591309,
+                "foreground_quality_brightness": 63.0123176574707,
+                "foreground_quality_sharpness": 83.25773620605469,
+                "foreground_dominant_color_0_hex": "#a0522d",
+                "foreground_dominant_color_0_css": "sienna",
+                "foreground_dominant_color_0_pixelpercent": 30.337078094482422,
+                "foreground_dominant_color_1_hex": "#808080",
+                "foreground_dominant_color_1_css": "gray",
+                "foreground_dominant_color_1_pixelpercent": 22.47191047668457,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 19.101123809814453,
+                "foreground_dominant_color_3_hex": "#000000",
+                "foreground_dominant_color_3_css": "black",
+                "foreground_dominant_color_3_pixelpercent": 14.606741905212402,
+                "foreground_dominant_color_4_hex": "#696969",
+                "foreground_dominant_color_4_css": "dimgrey",
+                "foreground_dominant_color_4_pixelpercent": 4.494381904602051,
+                "foreground_dominant_color_5_hex": "#bc8f8f",
+                "foreground_dominant_color_5_css": "rosybrown",
+                "foreground_dominant_color_5_pixelpercent": 4.494381904602051,
+                "foreground_dominant_color_6_hex": "#a9a9a9",
+                "foreground_dominant_color_6_css": "darkgrey",
+                "foreground_dominant_color_6_pixelpercent": 4.494381904602051,
+                "background_quality_brightness": 73.32064819335938,
+                "background_quality_sharpness": 19.534029006958008,
+                "background_dominant_color_0_hex": "#808080",
+                "background_dominant_color_0_css": "gray",
+                "background_dominant_color_0_pixelpercent": 92.70704650878906,
+                "background_dominant_color_1_hex": "#696969",
+                "background_dominant_color_1_css": "dimgrey",
+                "background_dominant_color_1_pixelpercent": 4.4499382972717285,
+                "background_dominant_color_2_hex": "#000000",
+                "background_dominant_color_2_css": "black",
+                "background_dominant_color_2_pixelpercent": 1.0506798028945923,
+                "background_dominant_color_3_hex": "#bc8f8f",
+                "background_dominant_color_3_css": "rosybrown",
+                "background_dominant_color_3_pixelpercent": 0.8034610748291016,
+                "background_dominant_color_4_hex": "#2f4f4f",
+                "background_dominant_color_4_css": "darkslategrey",
+                "background_dominant_color_4_pixelpercent": 0.494437575340271,
+                "background_dominant_color_5_hex": "#a0522d",
+                "background_dominant_color_5_css": "sienna",
+                "background_dominant_color_5_pixelpercent": 0.37082818150520325,
+                "background_dominant_color_6_hex": "#dcdcdc",
+                "background_dominant_color_6_css": "gainsboro",
+                "background_dominant_color_6_pixelpercent": 0.12360939383506775
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.5004894
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.4073
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.4025
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.3752101
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3529112
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2831
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2545
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://play-lh.googleusercontent.com/GjEDPcKbu6S9cBjbmk7sqr3QuzCc4iFAZlLNLD6auzanE6-AjbbZvBs1EpSP2AvxAnw=w526-h296-rw"
+                },
+                {
+                    "web_visually_similar_image_url": "https://miro.medium.com/v2/resize:fit:1400/0*JAgfrKHRLXk6PoSI"
+                },
+                {
+                    "web_visually_similar_image_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0003687021000478-gr8a.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "x-raw-image:///41d4ab8bf3c810b92a891e194fb2d3fe91b72c84c7ab7d988fe602e676f38df2"
+                },
+                {
+                    "web_visually_similar_image_url": "https://salutweb.gencat.cat/web/.content/_departament/ambits-estrategics/img/pla-salut-2021-2025.png_223078711.png"
+                },
+                {
+                    "web_visually_similar_image_url": "x-raw-image:///e87e44e8cc6e8657fb037cdff1b64b356bdce177ea37fc1309ac146e6087f1f5"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.licdn.com/dms/image/D5612AQHkAQOrmgwqsA/article-cover_image-shrink_720_1280/0/1682528584074?e=2147483647&v=beta&t=qJhBOZV0hY34SEff6IyqMYBBXpT6uaUYBgn7EIw4c1I"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.frontiersin.org/files/Articles/323553/fpsyg-09-00145-HTML/image_m/fpsyg-09-00145-g002.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1587748531581894656/pu/img/Y4QlKctBYk652ABN?format=jpg&name=large"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.qualtrics.com/m/assets/blog/wp-content/uploads/2019/09/customer-centric-culture-2-02.png"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": ""
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 79.2043228149414,
+                "text": "D50 Illuminant degree observer",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.057212937623262405,
+                        "Height": 0.007623620796948671,
+                        "Left": 0.29254820942878723,
+                        "Top": 0.9881122708320618
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2926098108291626,
+                            "Y": 0.9881122708320618
+                        },
+                        {
+                            "X": 0.34976112842559814,
+                            "Y": 0.989111065864563
+                        },
+                        {
+                            "X": 0.3497001528739929,
+                            "Y": 0.9957358837127686
+                        },
+                        {
+                            "X": 0.29254820942878723,
+                            "Y": 0.9947376847267151
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 96.4896011352539,
+                "text": "81.AE.206.B.9.A.1",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07596433907747269,
+                        "Height": 0.012473358772695065,
+                        "Left": 0.3924863338470459,
+                        "Top": 0.07102730125188828
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.39258724451065063,
+                            "Y": 0.07102730125188828
+                        },
+                        {
+                            "X": 0.468450665473938,
+                            "Y": 0.07247127592563629
+                        },
+                        {
+                            "X": 0.46835118532180786,
+                            "Y": 0.08350066095590591
+                        },
+                        {
+                            "X": 0.3924863338470459,
+                            "Y": 0.08205807954072952
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 96.97208404541016,
+                "text": "81.AE.206.B.9.E",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0678253099322319,
+                        "Height": 0.012368756346404552,
+                        "Left": 0.5982509255409241,
+                        "Top": 0.3191332221031189
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5983486771583557,
+                            "Y": 0.3191332221031189
+                        },
+                        {
+                            "X": 0.6660761833190918,
+                            "Y": 0.3203943073749542
+                        },
+                        {
+                            "X": 0.6659797430038452,
+                            "Y": 0.3315019905567169
+                        },
+                        {
+                            "X": 0.5982509255409241,
+                            "Y": 0.3302421569824219
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 97.47865295410156,
+                "text": "81.AE.206.B.9.A.2",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07638397812843323,
+                        "Height": 0.012103925459086895,
+                        "Left": 0.3915150761604309,
+                        "Top": 0.5370723009109497
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.39161303639411926,
+                            "Y": 0.5370723009109497
+                        },
+                        {
+                            "X": 0.46789905428886414,
+                            "Y": 0.5384640693664551
+                        },
+                        {
+                            "X": 0.467802494764328,
+                            "Y": 0.5491762161254883
+                        },
+                        {
+                            "X": 0.3915150761604309,
+                            "Y": 0.5477858185768127
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 97.79064178466797,
+                "text": "81.AE.206.B.9.D",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06911006569862366,
+                        "Height": 0.012354220263659954,
+                        "Left": 0.6115347146987915,
+                        "Top": 0.5382207632064819
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6116321086883545,
+                            "Y": 0.5382207632064819
+                        },
+                        {
+                            "X": 0.6806448101997375,
+                            "Y": 0.5394802093505859
+                        },
+                        {
+                            "X": 0.6805487275123596,
+                            "Y": 0.5505750179290771
+                        },
+                        {
+                            "X": 0.6115347146987915,
+                            "Y": 0.5493168830871582
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 96.40877532958984,
+                "text": "81.AE.206.B.10",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06540022790431976,
+                        "Height": 0.012044860050082207,
+                        "Left": 0.8572545647621155,
+                        "Top": 0.5975865721702576
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8573454022407532,
+                            "Y": 0.5975865721702576
+                        },
+                        {
+                            "X": 0.9226548075675964,
+                            "Y": 0.5987723469734192
+                        },
+                        {
+                            "X": 0.922565221786499,
+                            "Y": 0.6096314191818237
+                        },
+                        {
+                            "X": 0.8572545647621155,
+                            "Y": 0.6084468960762024
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 94.9664306640625,
+                "text": "81.AE.206.B.8",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.059879157692193985,
+                        "Height": 0.01163895707577467,
+                        "Left": 0.13388511538505554,
+                        "Top": 0.5977465510368347
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.13398616015911102,
+                            "Y": 0.5977465510368347
+                        },
+                        {
+                            "X": 0.19376426935195923,
+                            "Y": 0.59883052110672
+                        },
+                        {
+                            "X": 0.1936642974615097,
+                            "Y": 0.6093854904174805
+                        },
+                        {
+                            "X": 0.13388511538505554,
+                            "Y": 0.6083025932312012
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_7": {
+                "confidence": 30.67236328125,
+                "text": "GG",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06024160608649254,
+                        "Height": 0.0335657075047493,
+                        "Left": 0.4530980885028839,
+                        "Top": 0.6512702703475952
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4533916711807251,
+                            "Y": 0.6512702703475952
+                        },
+                        {
+                            "X": 0.5133396983146667,
+                            "Y": 0.652352511882782
+                        },
+                        {
+                            "X": 0.5130493640899658,
+                            "Y": 0.6848360300064087
+                        },
+                        {
+                            "X": 0.4530980885028839,
+                            "Y": 0.6837570667266846
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_8": {
+                "confidence": 96.33369445800781,
+                "text": "81.AE.206.B.9.B",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06827250123023987,
+                        "Height": 0.012066858820617199,
+                        "Left": 0.3035256266593933,
+                        "Top": 0.8245589137077332
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3036264479160309,
+                            "Y": 0.8245589137077332
+                        },
+                        {
+                            "X": 0.3717981278896332,
+                            "Y": 0.8257692456245422
+                        },
+                        {
+                            "X": 0.3716985583305359,
+                            "Y": 0.8366258144378662
+                        },
+                        {
+                            "X": 0.3035256266593933,
+                            "Y": 0.8354166746139526
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_9": {
+                "confidence": 96.96556854248047,
+                "text": "81.AE.206.B.9.F",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06732676923274994,
+                        "Height": 0.012119032442569733,
+                        "Left": 0.4513553977012634,
+                        "Top": 0.8242342472076416
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.45145416259765625,
+                            "Y": 0.8242342472076416
+                        },
+                        {
+                            "X": 0.5186821818351746,
+                            "Y": 0.8254281282424927
+                        },
+                        {
+                            "X": 0.518584668636322,
+                            "Y": 0.8363532423973083
+                        },
+                        {
+                            "X": 0.4513553977012634,
+                            "Y": 0.8351605534553528
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_10": {
+                "confidence": 96.78054809570312,
+                "text": "81.AE.206.B.9.C",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06817213445901871,
+                        "Height": 0.012229407206177711,
+                        "Left": 0.6116992235183716,
+                        "Top": 0.8241812586784363
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6117958426475525,
+                            "Y": 0.8241812586784363
+                        },
+                        {
+                            "X": 0.6798713207244873,
+                            "Y": 0.8253905773162842
+                        },
+                        {
+                            "X": 0.6797759532928467,
+                            "Y": 0.8364107012748718
+                        },
+                        {
+                            "X": 0.6116992235183716,
+                            "Y": 0.8352026343345642
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_11": {
+                "confidence": 96.37353515625,
+                "text": "Golden",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.014012644067406654,
+                        "Height": 0.010172954760491848,
+                        "Left": 0.48325425386428833,
+                        "Top": 0.9845213890075684
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4833434224128723,
+                            "Y": 0.9845213890075684
+                        },
+                        {
+                            "X": 0.49726688861846924,
+                            "Y": 0.9847649335861206
+                        },
+                        {
+                            "X": 0.49717792868614197,
+                            "Y": 0.9946943521499634
+                        },
+                        {
+                            "X": 0.48325425386428833,
+                            "Y": 0.994451105594635
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_12": {
+                "confidence": 93.38394927978516,
+                "text": "Color",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0092451898381114,
+                        "Height": 0.006117022596299648,
+                        "Left": 0.6702241897583008,
+                        "Top": 0.9879392981529236
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6702758073806763,
+                            "Y": 0.9879392981529236
+                        },
+                        {
+                            "X": 0.6794693470001221,
+                            "Y": 0.9881001114845276
+                        },
+                        {
+                            "X": 0.6794178485870361,
+                            "Y": 0.9940563440322876
+                        },
+                        {
+                            "X": 0.6702241897583008,
+                            "Y": 0.9938956499099731
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 99.63970184326172,
+                "text": "Services",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.01578056998550892,
+                        "Height": 0.00604870542883873,
+                        "Left": 0.6803756356239319,
+                        "Top": 0.9880327582359314
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6804256439208984,
+                            "Y": 0.9880327582359314
+                        },
+                        {
+                            "X": 0.6961562037467957,
+                            "Y": 0.9883078336715698
+                        },
+                        {
+                            "X": 0.6961064338684082,
+                            "Y": 0.994081437587738
+                        },
+                        {
+                            "X": 0.6803756356239319,
+                            "Y": 0.9938064813613892
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_14": {
+                "confidence": 92.27490997314453,
+                "text": "Lab",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.006773529574275017,
+                        "Height": 0.005482900887727737,
+                        "Left": 0.6961914896965027,
+                        "Top": 0.9883846044540405
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6962378025054932,
+                            "Y": 0.9883846044540405
+                        },
+                        {
+                            "X": 0.7029650211334229,
+                            "Y": 0.9885022640228271
+                        },
+                        {
+                            "X": 0.7029188275337219,
+                            "Y": 0.9938675165176392
+                        },
+                        {
+                            "X": 0.6961914896965027,
+                            "Y": 0.9937499165534973
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_15": {
+                "confidence": 29.621623992919922,
+                "text": "do",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.004675150383263826,
+                        "Height": 0.006726806052029133,
+                        "Left": 0.7046211957931519,
+                        "Top": 0.9855070114135742
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7046784162521362,
+                            "Y": 0.9855070114135742
+                        },
+                        {
+                            "X": 0.7092963457107544,
+                            "Y": 0.9855877757072449
+                        },
+                        {
+                            "X": 0.7092391848564148,
+                            "Y": 0.9922338128089905
+                        },
+                        {
+                            "X": 0.7046211957931519,
+                            "Y": 0.9921530485153198
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_16": {
+                "confidence": 91.01184844970703,
+                "text": "D50",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.007447920739650726,
+                        "Height": 0.006477806717157364,
+                        "Left": 0.29254820942878723,
+                        "Top": 0.9883889555931091
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.29260724782943726,
+                            "Y": 0.9883889555931091
+                        },
+                        {
+                            "X": 0.29999610781669617,
+                            "Y": 0.9885180592536926
+                        },
+                        {
+                            "X": 0.2999371588230133,
+                            "Y": 0.9948667287826538
+                        },
+                        {
+                            "X": 0.29254820942878723,
+                            "Y": 0.9947376847267151
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_17": {
+                "confidence": 48.14403533935547,
+                "text": "Illuminant",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.017328493297100067,
+                        "Height": 0.00633609015494585,
+                        "Left": 0.30061060190200806,
+                        "Top": 0.9887350797653198
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3006666302680969,
+                            "Y": 0.9887350797653198
+                        },
+                        {
+                            "X": 0.31793907284736633,
+                            "Y": 0.9890369176864624
+                        },
+                        {
+                            "X": 0.3178832232952118,
+                            "Y": 0.9950711727142334
+                        },
+                        {
+                            "X": 0.30061060190200806,
+                            "Y": 0.9947695136070251
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_18": {
+                "confidence": 94.1625747680664,
+                "text": "degree",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.01338509377092123,
+                        "Height": 0.00677088275551796,
+                        "Left": 0.32105129957199097,
+                        "Top": 0.9886103868484497
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.321111798286438,
+                            "Y": 0.9886103868484497
+                        },
+                        {
+                            "X": 0.3344363868236542,
+                            "Y": 0.9888432025909424
+                        },
+                        {
+                            "X": 0.3343760371208191,
+                            "Y": 0.995381236076355
+                        },
+                        {
+                            "X": 0.32105129957199097,
+                            "Y": 0.9951485395431519
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_19": {
+                "confidence": 83.49881744384766,
+                "text": "observer",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.01492690946906805,
+                        "Height": 0.00582313584163785,
+                        "Left": 0.3348326086997986,
+                        "Top": 0.9890274405479431
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3348839581012726,
+                            "Y": 0.9890274405479431
+                        },
+                        {
+                            "X": 0.3497595191001892,
+                            "Y": 0.9892873764038086
+                        },
+                        {
+                            "X": 0.34970828890800476,
+                            "Y": 0.9948505759239197
+                        },
+                        {
+                            "X": 0.3348326086997986,
+                            "Y": 0.994590699672699
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image32_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Ct Scan",
+                "label_confidence": 99.98340606689453,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Accessories",
+                "label_confidence": 90.62145233154297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Gemstone",
+                "label_confidence": 90.62145233154297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Jewelry",
+                "label_confidence": 90.62145233154297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 64.55463409423828,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 73.6533432006836,
+                "overall_quality_sharpness": 22.8513240814209,
+                "overall_quality_contrast": 33.14750289916992,
+                "dominant_color_0_hex": "#808080",
+                "dominant_color_0_css": "gray",
+                "dominant_color_0_pixelpercent": 87.33832550048828,
+                "dominant_color_1_hex": "#696969",
+                "dominant_color_1_css": "dimgrey",
+                "dominant_color_1_pixelpercent": 4.9012932777404785,
+                "dominant_color_2_hex": "#000000",
+                "dominant_color_2_css": "black",
+                "dominant_color_2_pixelpercent": 2.7910141944885254,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 2.042205572128296,
+                "dominant_color_4_hex": "#4682b4",
+                "dominant_color_4_css": "steelblue",
+                "dominant_color_4_pixelpercent": 1.7018380165100098,
+                "dominant_color_5_hex": "#708090",
+                "dominant_color_5_css": "slategrey",
+                "dominant_color_5_pixelpercent": 1.0891762971878052,
+                "dominant_color_6_hex": "#c0c0c0",
+                "dominant_color_6_css": "silver",
+                "dominant_color_6_pixelpercent": 0.13614703714847565,
+                "foreground_quality_brightness": 72.18858337402344,
+                "foreground_quality_sharpness": 78.41947937011719,
+                "foreground_dominant_color_0_hex": "#808080",
+                "foreground_dominant_color_0_css": "gray",
+                "foreground_dominant_color_0_pixelpercent": 49.180328369140625,
+                "foreground_dominant_color_1_hex": "#000000",
+                "foreground_dominant_color_1_css": "black",
+                "foreground_dominant_color_1_pixelpercent": 16.393442153930664,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 9.836065292358398,
+                "foreground_dominant_color_3_hex": "#696969",
+                "foreground_dominant_color_3_css": "dimgrey",
+                "foreground_dominant_color_3_pixelpercent": 9.836065292358398,
+                "foreground_dominant_color_4_hex": "#4682b4",
+                "foreground_dominant_color_4_css": "steelblue",
+                "foreground_dominant_color_4_pixelpercent": 8.196721076965332,
+                "foreground_dominant_color_5_hex": "#708090",
+                "foreground_dominant_color_5_css": "slategrey",
+                "foreground_dominant_color_5_pixelpercent": 3.278688430786133,
+                "foreground_dominant_color_6_hex": "#778899",
+                "foreground_dominant_color_6_css": "lightslategrey",
+                "foreground_dominant_color_6_pixelpercent": 3.278688430786133,
+                "background_quality_brightness": 73.6533432006836,
+                "background_quality_sharpness": 18.302886962890625,
+                "background_dominant_color_0_hex": "#808080",
+                "background_dominant_color_0_css": "gray",
+                "background_dominant_color_0_pixelpercent": 93.07568359375,
+                "background_dominant_color_1_hex": "#696969",
+                "background_dominant_color_1_css": "dimgrey",
+                "background_dominant_color_1_pixelpercent": 4.0257649421691895,
+                "background_dominant_color_2_hex": "#000000",
+                "background_dominant_color_2_css": "black",
+                "background_dominant_color_2_pixelpercent": 0.805152952671051,
+                "background_dominant_color_3_hex": "#2f4f4f",
+                "background_dominant_color_3_css": "darkslategrey",
+                "background_dominant_color_3_pixelpercent": 0.805152952671051,
+                "background_dominant_color_4_hex": "#4682b4",
+                "background_dominant_color_4_css": "steelblue",
+                "background_dominant_color_4_pixelpercent": 0.805152952671051,
+                "background_dominant_color_5_hex": "#708090",
+                "background_dominant_color_5_css": "slategrey",
+                "background_dominant_color_5_pixelpercent": 0.3220611810684204,
+                "background_dominant_color_6_hex": "#c0c0c0",
+                "background_dominant_color_6_css": "silver",
+                "background_dominant_color_6_pixelpercent": 0.1610305905342102
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.5265442
+                },
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.50803703
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.4061
+                },
+                {
+                    "web_entity_description": "Cobalt blue",
+                    "web_entity_confidence": 0.38940346
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.37097958
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34570342
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2823
+                },
+                {
+                    "web_entity_description": "Cobalt",
+                    "web_entity_confidence": 0.2581
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2504
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://thumbs.worthpoint.com/zoom/images4/1/0707/09/weimar-kobalt-porcelain-cobalt-blue-cake-server_1_7373a6f37806254b97e6dbef61aef606.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.worthpoint.com/zoom/images4/360/0615/08/kpm-friederike-cobalt-blue-gold_360_58fc17ff196de9a57eec382b7d589ce0.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.worthpoint.com/zoom/images4/1/0113/19/vintage-echt-kobalt-cobalt-blue-plate_1_255a28a7201eb065f82c3409d1a9369b.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.worthpoint.com/zoom/images3/1/0314/28/dinner-plate-queens-china-calico_1_da68e7f893993a38e0157f0386c38a54.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.worthpoint.com/zoom/images4/1/0818/17/toyo-japanese-porcelain-cobalt-blue_1_a6e7089b19ece7920d31291075bf31e0.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/AV0AAOSwn~NiBurB/s-l1200.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.worthpoint.com/zoom/images3/1/1015/03/ashtray-royal-delft-ceramic-dutch_1_08247f5bac8e49b289a05bb517e17b2d.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.proantic.com/galerie/conservatoire-sakura/img/1152982-6492c7ee1789e.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/~x0AAOSwcvNkQvQK/s-l1200.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/zz4AAOSwmf1i5I8y/s-l1600.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "cobalt blue"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            3000,
+            2254
+        ]
+    }
+}

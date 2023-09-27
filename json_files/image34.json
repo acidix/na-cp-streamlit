@@ -1,0 +1,390 @@
+{
+    "id": "image_34",
+    "url": "https://media.dv.navigatingart.de/b8b9a4e9-17d6-40d1-b0ec-637b69ef3254.jpg?signed=true&valid=1695733328&signature=UaqVZcHVGSNs5grtRq5oXzm42sRsWbAsph%2Fn0rfuwQnLvU0dLOuvf1GG5E28Wt2Ms9zWQlknxBSDFNd7vlZt1A%3D%3D",
+    "json": "development_test_job/image34/image34.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Coin",
+                "label_confidence": 97.73225402832031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Money",
+                "label_confidence": 97.73225402832031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 96.30948638916016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 96.30948638916016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 96.30948638916016,
+                "label_boundings": [
+                    {
+                        "Width": 0.7483727931976318,
+                        "Height": 0.7078069448471069,
+                        "Left": 0.13128139078617096,
+                        "Top": 0.14971923828125
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 96.82421112060547,
+                "overall_quality_sharpness": 77.96582794189453,
+                "overall_quality_contrast": 93.93183898925781,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 36.0728759765625,
+                "dominant_color_1_hex": "#ffffff",
+                "dominant_color_1_css": "white",
+                "dominant_color_1_pixelpercent": 23.117408752441406,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 18.218624114990234,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 8.17813777923584,
+                "dominant_color_4_hex": "#808080",
+                "dominant_color_4_css": "gray",
+                "dominant_color_4_pixelpercent": 7.4898786544799805,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 4.939271450042725,
+                "dominant_color_6_hex": "#a9a9a9",
+                "dominant_color_6_css": "darkgrey",
+                "dominant_color_6_pixelpercent": 1.4979757070541382,
+                "dominant_color_7_hex": "#c0c0c0",
+                "dominant_color_7_css": "silver",
+                "dominant_color_7_pixelpercent": 0.4858299493789673,
+                "foreground_quality_brightness": 55.439361572265625,
+                "foreground_quality_sharpness": 84.2659912109375,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 44.8756217956543,
+                "foreground_dominant_color_1_hex": "#696969",
+                "foreground_dominant_color_1_css": "dimgrey",
+                "foreground_dominant_color_1_pixelpercent": 20.0,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 18.507463455200195,
+                "foreground_dominant_color_3_hex": "#000000",
+                "foreground_dominant_color_3_css": "black",
+                "foreground_dominant_color_3_pixelpercent": 12.039800643920898,
+                "foreground_dominant_color_4_hex": "#a9a9a9",
+                "foreground_dominant_color_4_css": "darkgrey",
+                "foreground_dominant_color_4_pixelpercent": 3.383084535598755,
+                "foreground_dominant_color_5_hex": "#c0c0c0",
+                "foreground_dominant_color_5_css": "silver",
+                "foreground_dominant_color_5_pixelpercent": 1.1940298080444336,
+                "background_quality_brightness": 98.68830871582031,
+                "background_quality_sharpness": 3.3556971549987793,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 60.50670623779297,
+                "background_dominant_color_1_hex": "#ffffff",
+                "background_dominant_color_1_css": "white",
+                "background_dominant_color_1_pixelpercent": 39.046199798583984,
+                "background_dominant_color_2_hex": "#c0c0c0",
+                "background_dominant_color_2_css": "silver",
+                "background_dominant_color_2_pixelpercent": 0.29806259274482727,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 0.14903129637241364
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Coin",
+                    "web_entity_confidence": 0.9287958
+                },
+                {
+                    "web_entity_description": "Medal",
+                    "web_entity_confidence": 0.45456588
+                },
+                {
+                    "web_entity_description": "Nickel",
+                    "web_entity_confidence": 0.44757617
+                },
+                {
+                    "web_entity_description": "Nickel",
+                    "web_entity_confidence": 0.3546
+                },
+                {
+                    "web_entity_description": "Bronze",
+                    "web_entity_confidence": 0.3294
+                },
+                {
+                    "web_entity_description": "Chemistry",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Science",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://www.royalmint.com/globalassets/the-royal-mint/images/products/h/hisx142_01_white.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://res.cloudinary.com/the-jewish-museum/image/fetch/q_auto,f_auto/v1/https%3A%2F%2Fthejm.netx.net%2Ffile%2Fasset%2F72884%2Fview%2F88047%2Fview_88047%3Ftoken%3D5d5cdc57-6399-40b5-afb0-93139921700e"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/ancient-roman-silver-denarius-coin-emperor-augustus_138213-1101.jpg?w=2000"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.bullionexchanges.com/cdn-cgi/image/width=550,height=550,quality=50,format=auto/media/catalog/product/m/i/minfro_1_1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://res.cloudinary.com/the-jewish-museum/image/fetch/q_auto,f_auto/v1/https%3A%2F%2Fthejm.netx.net%2Ffile%2Fasset%2F72885%2Fview%2F88051%2Fview_88051%3Ftoken%3D5d5cdc57-6399-40b5-afb0-93139921700e"
+                },
+                {
+                    "web_visually_similar_image_url": "https://britanniacoincompany.com/images/product/M152-002-M.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://coinantix.com/wp-content/uploads/2023/07/CSGDO0005-Decadrachm-Greek-Coin-Akragas-Sicily-obverse.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://rmcoin.com/wp-content/uploads/2022/09/IMG_0004-2.jpg.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.royalmintmuseum.org.uk/siteassets/journal/curators-corner/shilling/henry-vii-testoon-obv.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://res.cloudinary.com/the-jewish-museum/image/fetch/q_auto,f_auto/v1/https%3A%2F%2Fthejm.netx.net%2Ffile%2Fasset%2F72888%2Fview%2F88066%2Fview_88066%3Ftoken%3D5d5cdc57-6399-40b5-afb0-93139921700e"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "coin"
+                }
+            ]
+        },
+        "OCR": {}
+    },
+    "image34_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Coin",
+                "label_confidence": 98.33694458007812,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Money",
+                "label_confidence": 98.33694458007812,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 97.52437591552734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 97.52437591552734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 97.52437591552734,
+                "label_boundings": [
+                    {
+                        "Width": 0.989706814289093,
+                        "Height": 0.9916619062423706,
+                        "Left": 0.004475756082683802,
+                        "Top": 0.003248291090130806
+                    }
+                ]
+            },
+            {
+                "label_name": "Dime",
+                "label_confidence": 61.397369384765625,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 59.19676971435547,
+                "overall_quality_sharpness": 80.5906753540039,
+                "overall_quality_contrast": 91.6329116821289,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 32.336448669433594,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 22.866043090820312,
+                "dominant_color_2_hex": "#000000",
+                "dominant_color_2_css": "black",
+                "dominant_color_2_pixelpercent": 14.704050064086914,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 14.018692016601562,
+                "dominant_color_4_hex": "#708090",
+                "dominant_color_4_css": "slategrey",
+                "dominant_color_4_pixelpercent": 12.4610595703125,
+                "dominant_color_5_hex": "#a9a9a9",
+                "dominant_color_5_css": "darkgrey",
+                "dominant_color_5_pixelpercent": 2.8660435676574707,
+                "dominant_color_6_hex": "#c0c0c0",
+                "dominant_color_6_css": "silver",
+                "dominant_color_6_pixelpercent": 0.7476635575294495,
+                "foreground_quality_brightness": 53.79762268066406,
+                "foreground_quality_sharpness": 81.86507415771484,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 46.84542465209961,
+                "foreground_dominant_color_1_hex": "#696969",
+                "foreground_dominant_color_1_css": "dimgrey",
+                "foreground_dominant_color_1_pixelpercent": 18.21766471862793,
+                "foreground_dominant_color_2_hex": "#708090",
+                "foreground_dominant_color_2_css": "slategrey",
+                "foreground_dominant_color_2_pixelpercent": 15.85173511505127,
+                "foreground_dominant_color_3_hex": "#000000",
+                "foreground_dominant_color_3_css": "black",
+                "foreground_dominant_color_3_pixelpercent": 14.03785514831543,
+                "foreground_dominant_color_4_hex": "#a9a9a9",
+                "foreground_dominant_color_4_css": "darkgrey",
+                "foreground_dominant_color_4_pixelpercent": 4.49526834487915,
+                "foreground_dominant_color_5_hex": "#2e8b57",
+                "foreground_dominant_color_5_css": "seagreen",
+                "foreground_dominant_color_5_pixelpercent": 0.5520504713058472,
+                "background_quality_brightness": 98.68830871582031,
+                "background_quality_sharpness": 8.202462196350098,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 68.19923400878906,
+                "background_dominant_color_1_hex": "#ffffff",
+                "background_dominant_color_1_css": "white",
+                "background_dominant_color_1_pixelpercent": 30.268199920654297,
+                "background_dominant_color_2_hex": "#c0c0c0",
+                "background_dominant_color_2_css": "silver",
+                "background_dominant_color_2_pixelpercent": 0.5747126340866089,
+                "background_dominant_color_3_hex": "#2f4f4f",
+                "background_dominant_color_3_css": "darkslategrey",
+                "background_dominant_color_3_pixelpercent": 0.38314175605773926,
+                "background_dominant_color_4_hex": "#a9a9a9",
+                "background_dominant_color_4_css": "darkgrey",
+                "background_dominant_color_4_pixelpercent": 0.38314175605773926,
+                "background_dominant_color_5_hex": "#808080",
+                "background_dominant_color_5_css": "gray",
+                "background_dominant_color_5_pixelpercent": 0.19157087802886963
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Coin",
+                    "web_entity_confidence": 0.9202362
+                },
+                {
+                    "web_entity_description": "Medal",
+                    "web_entity_confidence": 0.44047415
+                },
+                {
+                    "web_entity_description": "Nickel",
+                    "web_entity_confidence": 0.42893943
+                },
+                {
+                    "web_entity_description": "Nickel",
+                    "web_entity_confidence": 0.35
+                },
+                {
+                    "web_entity_description": "Bronze",
+                    "web_entity_confidence": 0.3282
+                },
+                {
+                    "web_entity_description": "Carving",
+                    "web_entity_confidence": 0.32729062
+                },
+                {
+                    "web_entity_description": "Chemistry",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Science",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://www.powercoin.it/35968-home_default/burning-buffalo-burning-big-five-ii-1-oz-silver-coin-5-rand-south-africa-2023.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.powercoin.it/24391-home_default/tiger-big-five-asia-1-kg-kilo-silver-coin-10000-francs-ivory-coast-2022.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.prehistoricoregon.com/wp-content/uploads/2023/01/img_4560-1-jpg.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.scottsdalemint.com/wp-content/uploads/2022/03/2021-Terracotta-5-oz-Silver-Coin-04.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.leftovercurrency.com/app/uploads/2017/04/2-dirhams-coin-morocco-2002-obverse-1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://res.cloudinary.com/bold-pm/image/upload/t_w_500x500/Silver/coins/chad/2023-1-oz-Chad-AI-Silver-Coin-Obv.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.powercoin.it/24553-superlarge_default/four-horsemen-of-the-apocalypse-5-oz-silver-coin-12-niue-2022.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/71bjbxOnFeL.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.cit.li/wp-content/uploads/2022/11/30051_Spinning-coin_o-910x910.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionimages.npg.org.uk/large/mw01595/Oliver-Cromwell-The-Dunbar-Medal.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "coin"
+                }
+            ]
+        },
+        "bounding_box": [
+            383,
+            453,
+            2646,
+            2572
+        ]
+    }
+}

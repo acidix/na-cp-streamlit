@@ -1,0 +1,1100 @@
+{
+    "id": "image_4",
+    "url": "https://media.st.navigatingart.de/d165d29d-eb91-4f3b-bd93-ab137ed4bcea.jpg?signed=true&valid=1692038900&signature=JqHkZRPS9A%2BNs4hdE1t8f293UhJa0QwfQmAS5dsTGMR9vEecryxMGxCqN8J1j17LSgEtNkm6%2Ff8r8HPC5tIvbQ%3D%3D",
+    "json": "development_test_job/image4/image4.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Countryside",
+                "label_confidence": 99.991455078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Hut",
+                "label_confidence": 99.991455078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 99.991455078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 99.991455078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Rural",
+                "label_confidence": 99.991455078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 99.94806671142578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.94806671142578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Boat",
+                "label_confidence": 92.51800537109375,
+                "label_boundings": [
+                    {
+                        "Width": 0.4779961407184601,
+                        "Height": 0.1716136783361435,
+                        "Left": 0.133501335978508,
+                        "Top": 0.6898278594017029
+                    },
+                    {
+                        "Width": 0.47667789459228516,
+                        "Height": 0.09706437587738037,
+                        "Left": 0.2423246204853058,
+                        "Top": 0.6506370902061462
+                    }
+                ]
+            },
+            {
+                "label_name": "Vehicle",
+                "label_confidence": 92.51800537109375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Shack",
+                "label_confidence": 91.48497009277344,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 89.80535888671875,
+                "overall_quality_sharpness": 81.21492767333984,
+                "overall_quality_contrast": 86.04692840576172,
+                "dominant_color_0_hex": "#ffffff",
+                "dominant_color_0_css": "white",
+                "dominant_color_0_pixelpercent": 42.709598541259766,
+                "dominant_color_1_hex": "#a9a9a9",
+                "dominant_color_1_css": "darkgrey",
+                "dominant_color_1_pixelpercent": 18.772783279418945,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 16.28189468383789,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 9.416768074035645,
+                "dominant_color_4_hex": "#2f4f4f",
+                "dominant_color_4_css": "darkslategrey",
+                "dominant_color_4_pixelpercent": 7.472661018371582,
+                "dominant_color_5_hex": "#696969",
+                "dominant_color_5_css": "dimgrey",
+                "dominant_color_5_pixelpercent": 4.678007125854492,
+                "dominant_color_6_hex": "#dcdcdc",
+                "dominant_color_6_css": "gainsboro",
+                "dominant_color_6_pixelpercent": 0.48602673411369324,
+                "dominant_color_7_hex": "#ffebcd",
+                "dominant_color_7_css": "blanchedalmond",
+                "dominant_color_7_pixelpercent": 0.18226002156734467,
+                "foreground_quality_brightness": 80.2780990600586,
+                "foreground_quality_sharpness": 87.2371597290039,
+                "foreground_dominant_color_0_hex": "#808080",
+                "foreground_dominant_color_0_css": "gray",
+                "foreground_dominant_color_0_pixelpercent": 29.88505744934082,
+                "foreground_dominant_color_1_hex": "#a9a9a9",
+                "foreground_dominant_color_1_css": "darkgrey",
+                "foreground_dominant_color_1_pixelpercent": 27.750410079956055,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 18.88341522216797,
+                "foreground_dominant_color_3_hex": "#696969",
+                "foreground_dominant_color_3_css": "dimgrey",
+                "foreground_dominant_color_3_pixelpercent": 9.35960578918457,
+                "foreground_dominant_color_4_hex": "#ffffff",
+                "foreground_dominant_color_4_css": "white",
+                "foreground_dominant_color_4_pixelpercent": 6.56814432144165,
+                "foreground_dominant_color_5_hex": "#c0c0c0",
+                "foreground_dominant_color_5_css": "silver",
+                "foreground_dominant_color_5_pixelpercent": 6.403940677642822,
+                "foreground_dominant_color_6_hex": "#a0522d",
+                "foreground_dominant_color_6_css": "sienna",
+                "foreground_dominant_color_6_pixelpercent": 1.1494252681732178,
+                "background_quality_brightness": 100.0,
+                "background_quality_sharpness": 38.149757385253906,
+                "background_dominant_color_0_hex": "#ffffff",
+                "background_dominant_color_0_css": "white",
+                "background_dominant_color_0_pixelpercent": 66.96562194824219,
+                "background_dominant_color_1_hex": "#808080",
+                "background_dominant_color_1_css": "gray",
+                "background_dominant_color_1_pixelpercent": 18.68460464477539,
+                "background_dominant_color_2_hex": "#c0c0c0",
+                "background_dominant_color_2_css": "silver",
+                "background_dominant_color_2_pixelpercent": 13.004484176635742,
+                "background_dominant_color_3_hex": "#2f4f4f",
+                "background_dominant_color_3_css": "darkslategrey",
+                "background_dominant_color_3_pixelpercent": 0.597907304763794,
+                "background_dominant_color_4_hex": "#dcdcdc",
+                "background_dominant_color_4_css": "gainsboro",
+                "background_dominant_color_4_pixelpercent": 0.597907304763794,
+                "background_dominant_color_5_hex": "#ffebcd",
+                "background_dominant_color_5_css": "blanchedalmond",
+                "background_dominant_color_5_pixelpercent": 0.1494768261909485
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Fishing Boats on the Beach at Saintes-Maries",
+                    "web_entity_confidence": 1.0552499
+                },
+                {
+                    "web_entity_description": "Van Gogh Museum",
+                    "web_entity_confidence": 1.05105
+                },
+                {
+                    "web_entity_description": "Letters to Emile Bernard",
+                    "web_entity_confidence": 0.8865
+                },
+                {
+                    "web_entity_description": "Drawing",
+                    "web_entity_confidence": 0.73103017
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.7017
+                },
+                {
+                    "web_entity_description": "Weaver Facing Right",
+                    "web_entity_confidence": 0.67215
+                },
+                {
+                    "web_entity_description": "Bridgeman Images",
+                    "web_entity_confidence": 0.6592
+                },
+                {
+                    "web_entity_description": "",
+                    "web_entity_confidence": 0.6592
+                },
+                {
+                    "web_entity_description": "Parsonage Garden",
+                    "web_entity_confidence": 0.63255
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.6302
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [
+                {
+                    "web_partial_matching_image_url": "https://www.pubhist.com/works/05/thumb/vincent_van_gogh_fishing_boats_beach.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "http://4.bp.blogspot.com/-Bgz-qVgX0Xs/VbhqJfQJBUI/AAAAAAAAVXI/VkrxV0VYvgg/s1600/Van%2BGogh.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://images-cdn.bridgemanimages.com/api/1.0/image/150.CH.6689730.7055475/376687.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://d1e4pidl3fu268.cloudfront.net/143b7104-e37f-4b5d-ba11-b9b16b76e082/images1.crop_257x193_2,0.preview.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://imgc.artprintimages.com/img/print/vincent-van-gogh-fishing-boats-on-the-beach-at-saintes-maries-de-la-mer-1888_u-l-q1nhsk10.jpg?background=f3f3f3"
+                },
+                {
+                    "web_partial_matching_image_url": "https://pic4.zhimg.com/086e181339a767f44b9a273208b4fc37_b.jpg"
+                }
+            ],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://www.pubhist.com/w6200"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.art.com/gallery/id--b27368-c24936/boats-post-impressionism-prints.htm"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.pubhist.com/w6708"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.tes.com/teaching-resource/line-vincent-van-gogh-cover-lesson-12909755"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.art.com/gallery/id--b34549/sketches-studies-drawings-posters.htm?page=7"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.tes.com/teaching-resources/hub/secondary/art-and-design/art-history"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.bridgemanimages.com/en-US/english-school/fishing-boat-engraving/engraving/asset/7164003"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.pubhist.com/w6863"
+                },
+                {
+                    "web_page_with_matching_image_url": "http://annagelopoulou.blogspot.com/2015/07/vincent-van-gogh.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "http://annagelopoulou.blogspot.com/2015/07/"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/hdsAAOSw0Ktktk75/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vincent_van_Gogh_-_Sorrow.jpg/1200px-Vincent_van_Gogh_-_Sorrow.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/default/acrylic-print/8/6/hangingwire/break/images-medium/rocky-ground-at-montmajour-vincent-van-gogh.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images-medium-large-5/peasant-digging-up-potatoes-vincent-van-gogh.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/849054/2054431/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/849052/2054433/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/1-peasant-with-sickle-seen-from-behind-vincent-van-gogh.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.mediastorehouse.com/p/747/portrait-joseph-roulin-vincent-van-gogh-24907160.jpg.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "http://www.mcgawgraphics.com/cdn/shop/products/V1713p_grande.jpg?v=1599037729"
+                },
+                {
+                    "web_visually_similar_image_url": "https://chairish-prod.freetls.fastly.net/image/product/sized/1c1b818d-800e-4a31-b0d2-ecad6c6135b5/vincent-van-gogh-vintage-1947-limited-edition-french-fine-art-lithograph-print-tige-fleurie-damandier-1888-8859?aspect=fit&width=640&height=640"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "vincent van gogh"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 99.91332244873047,
+                "text": "37",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.013414151966571808,
+                        "Height": 0.008170448243618011,
+                        "Left": 0.12512929737567902,
+                        "Top": 0.9134611487388611
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.12512929737567902,
+                            "Y": 0.9134611487388611
+                        },
+                        {
+                            "X": 0.13854344189167023,
+                            "Y": 0.9134611487388611
+                        },
+                        {
+                            "X": 0.13854344189167023,
+                            "Y": 0.9216315746307373
+                        },
+                        {
+                            "X": 0.12512929737567902,
+                            "Y": 0.9216315746307373
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 99.8884048461914,
+                "text": "36",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.012950743548572063,
+                        "Height": 0.008077317848801613,
+                        "Left": 0.1263130009174347,
+                        "Top": 0.45333346724510193
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.1263130009174347,
+                            "Y": 0.45333346724510193
+                        },
+                        {
+                            "X": 0.13926374912261963,
+                            "Y": 0.45333346724510193
+                        },
+                        {
+                            "X": 0.13926374912261963,
+                            "Y": 0.461410790681839
+                        },
+                        {
+                            "X": 0.1263130009174347,
+                            "Y": 0.461410790681839
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 29.741493225097656,
+                "text": "Sourcier",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04142910614609718,
+                        "Height": 0.008138861507177353,
+                        "Left": 0.14490917325019836,
+                        "Top": 0.4909802973270416
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.14490917325019836,
+                            "Y": 0.4909802973270416
+                        },
+                        {
+                            "X": 0.18633829057216644,
+                            "Y": 0.4909802973270416
+                        },
+                        {
+                            "X": 0.18633829057216644,
+                            "Y": 0.4991191625595093
+                        },
+                        {
+                            "X": 0.14490917325019836,
+                            "Y": 0.4991191625595093
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 99.23922729492188,
+                "text": "de",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.013200594112277031,
+                        "Height": 0.007052155211567879,
+                        "Left": 0.18890812993049622,
+                        "Top": 0.49180030822753906
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.18890812993049622,
+                            "Y": 0.49180030822753906
+                        },
+                        {
+                            "X": 0.2021087259054184,
+                            "Y": 0.49180030822753906
+                        },
+                        {
+                            "X": 0.2021087259054184,
+                            "Y": 0.4988524615764618
+                        },
+                        {
+                            "X": 0.18890812993049622,
+                            "Y": 0.4988524615764618
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 32.06486129760742,
+                "text": "Star",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.019294138997793198,
+                        "Height": 0.009043337777256966,
+                        "Left": 0.20410536229610443,
+                        "Top": 0.4897344708442688
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.20410536229610443,
+                            "Y": 0.4897344708442688
+                        },
+                        {
+                            "X": 0.22339949011802673,
+                            "Y": 0.4897344708442688
+                        },
+                        {
+                            "X": 0.22339949011802673,
+                            "Y": 0.498777836561203
+                        },
+                        {
+                            "X": 0.20410536229610443,
+                            "Y": 0.498777836561203
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 60.877716064453125,
+                "text": "Mazies",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0302165187895298,
+                        "Height": 0.008470026776194572,
+                        "Left": 0.22573864459991455,
+                        "Top": 0.4900094270706177
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.22573864459991455,
+                            "Y": 0.4900094270706177
+                        },
+                        {
+                            "X": 0.25595515966415405,
+                            "Y": 0.4900094270706177
+                        },
+                        {
+                            "X": 0.25595515966415405,
+                            "Y": 0.4984794557094574
+                        },
+                        {
+                            "X": 0.22573864459991455,
+                            "Y": 0.4984794557094574
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 11.185470581054688,
+                "text": "\"Vincing",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04404507577419281,
+                        "Height": 0.011265555396676064,
+                        "Left": 0.16140110790729523,
+                        "Top": 0.8869687914848328
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.16140110790729523,
+                            "Y": 0.8869687914848328
+                        },
+                        {
+                            "X": 0.20544618368148804,
+                            "Y": 0.8869687914848328
+                        },
+                        {
+                            "X": 0.20544618368148804,
+                            "Y": 0.8982343673706055
+                        },
+                        {
+                            "X": 0.16140110790729523,
+                            "Y": 0.8982343673706055
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_7": {
+                "confidence": 99.91332244873047,
+                "text": "37",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.013414151966571808,
+                        "Height": 0.008170448243618011,
+                        "Left": 0.12512929737567902,
+                        "Top": 0.9134611487388611
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.12512929737567902,
+                            "Y": 0.9134611487388611
+                        },
+                        {
+                            "X": 0.13854344189167023,
+                            "Y": 0.9134611487388611
+                        },
+                        {
+                            "X": 0.13854344189167023,
+                            "Y": 0.9216315746307373
+                        },
+                        {
+                            "X": 0.12512929737567902,
+                            "Y": 0.9216315746307373
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image4_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.98824310302734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Boat",
+                "label_confidence": 99.91242218017578,
+                "label_boundings": [
+                    {
+                        "Width": 0.8613282442092896,
+                        "Height": 0.8928085565567017,
+                        "Left": 0.006115571595728397,
+                        "Top": 0.00540706655010581
+                    }
+                ]
+            },
+            {
+                "label_name": "Sailboat",
+                "label_confidence": 99.91242218017578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Vehicle",
+                "label_confidence": 99.91242218017578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.27758026123047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 94.07398986816406,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Watercraft",
+                "label_confidence": 89.78235626220703,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 66.67176818847656,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Bird",
+                "label_confidence": 66.67176818847656,
+                "label_boundings": [
+                    {
+                        "Width": 0.01884651370346546,
+                        "Height": 0.017288461327552795,
+                        "Left": 0.7622636556625366,
+                        "Top": 0.2741900086402893
+                    }
+                ]
+            },
+            {
+                "label_name": "Dinghy",
+                "label_confidence": 66.29837036132812,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 79.27753448486328,
+                "overall_quality_sharpness": 84.25985717773438,
+                "overall_quality_contrast": 75.60447692871094,
+                "dominant_color_0_hex": "#778899",
+                "dominant_color_0_css": "lightslategrey",
+                "dominant_color_0_pixelpercent": 39.22282791137695,
+                "dominant_color_1_hex": "#a9a9a9",
+                "dominant_color_1_css": "darkgrey",
+                "dominant_color_1_pixelpercent": 26.290224075317383,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 12.811171531677246,
+                "dominant_color_3_hex": "#708090",
+                "dominant_color_3_css": "slategrey",
+                "dominant_color_3_pixelpercent": 12.082574844360352,
+                "dominant_color_4_hex": "#696969",
+                "dominant_color_4_css": "dimgrey",
+                "dominant_color_4_pixelpercent": 7.5288405418396,
+                "dominant_color_5_hex": "#b0c4de",
+                "dominant_color_5_css": "lightsteelblue",
+                "dominant_color_5_pixelpercent": 1.3964784145355225,
+                "dominant_color_6_hex": "#000000",
+                "dominant_color_6_css": "black",
+                "dominant_color_6_pixelpercent": 0.4857316315174103,
+                "dominant_color_7_hex": "#87ceeb",
+                "dominant_color_7_css": "skyblue",
+                "dominant_color_7_pixelpercent": 0.18214936554431915,
+                "foreground_quality_brightness": 60.61842727661133,
+                "foreground_quality_sharpness": 88.06639862060547,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 43.41085433959961,
+                "foreground_dominant_color_1_hex": "#778899",
+                "foreground_dominant_color_1_css": "lightslategrey",
+                "foreground_dominant_color_1_pixelpercent": 15.503875732421875,
+                "foreground_dominant_color_2_hex": "#696969",
+                "foreground_dominant_color_2_css": "dimgrey",
+                "foreground_dominant_color_2_pixelpercent": 14.341085433959961,
+                "foreground_dominant_color_3_hex": "#708090",
+                "foreground_dominant_color_3_css": "slategrey",
+                "foreground_dominant_color_3_pixelpercent": 13.56589126586914,
+                "foreground_dominant_color_4_hex": "#a9a9a9",
+                "foreground_dominant_color_4_css": "darkgrey",
+                "foreground_dominant_color_4_pixelpercent": 10.852713584899902,
+                "foreground_dominant_color_5_hex": "#000000",
+                "foreground_dominant_color_5_css": "black",
+                "foreground_dominant_color_5_pixelpercent": 2.3255813121795654,
+                "background_quality_brightness": 79.82782745361328,
+                "background_quality_sharpness": 83.16163635253906,
+                "background_dominant_color_0_hex": "#778899",
+                "background_dominant_color_0_css": "lightslategrey",
+                "background_dominant_color_0_pixelpercent": 43.754512786865234,
+                "background_dominant_color_1_hex": "#a9a9a9",
+                "background_dominant_color_1_css": "darkgrey",
+                "background_dominant_color_1_pixelpercent": 29.24187660217285,
+                "background_dominant_color_2_hex": "#708090",
+                "background_dominant_color_2_css": "slategrey",
+                "background_dominant_color_2_pixelpercent": 11.768953323364258,
+                "background_dominant_color_3_hex": "#696969",
+                "background_dominant_color_3_css": "dimgrey",
+                "background_dominant_color_3_pixelpercent": 6.209386348724365,
+                "background_dominant_color_4_hex": "#2f4f4f",
+                "background_dominant_color_4_css": "darkslategrey",
+                "background_dominant_color_4_pixelpercent": 5.126353740692139,
+                "background_dominant_color_5_hex": "#000000",
+                "background_dominant_color_5_css": "black",
+                "background_dominant_color_5_pixelpercent": 2.021660566329956,
+                "background_dominant_color_6_hex": "#b0c4de",
+                "background_dominant_color_6_css": "lightsteelblue",
+                "background_dominant_color_6_pixelpercent": 1.2274367809295654,
+                "background_dominant_color_7_hex": "#dcdcdc",
+                "background_dominant_color_7_css": "gainsboro",
+                "background_dominant_color_7_pixelpercent": 0.577617347240448,
+                "background_dominant_color_8_hex": "#87ceeb",
+                "background_dominant_color_8_css": "skyblue",
+                "background_dominant_color_8_pixelpercent": 0.072202168405056
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Ship",
+                    "web_entity_confidence": 0.8046
+                },
+                {
+                    "web_entity_description": "Brigantine",
+                    "web_entity_confidence": 0.7275916
+                },
+                {
+                    "web_entity_description": "Caravel",
+                    "web_entity_confidence": 0.72712976
+                },
+                {
+                    "web_entity_description": "Ship of the line",
+                    "web_entity_confidence": 0.6044009
+                },
+                {
+                    "web_entity_description": "Lugger",
+                    "web_entity_confidence": 0.59977335
+                },
+                {
+                    "web_entity_description": "Steam frigate",
+                    "web_entity_confidence": 0.56224495
+                },
+                {
+                    "web_entity_description": "Schooner",
+                    "web_entity_confidence": 0.55349827
+                },
+                {
+                    "web_entity_description": "Sailboat",
+                    "web_entity_confidence": 0.5485729
+                },
+                {
+                    "web_entity_description": "Slave ship",
+                    "web_entity_confidence": 0.5296781
+                },
+                {
+                    "web_entity_description": "Boat",
+                    "web_entity_confidence": 0.523193
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/van-gogh-fishing-boats-saintes-maries-vincent-van-gogh.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.topofart.com/images/artists/Vincent_van_Gogh/paintings-wm/gogh186.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/91ymPf1C3cL._AC_UF894,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.overstockart.com/optimized/cache/data/product_images/overstockart_2361_17819155003-1000x1000.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://reprodukcijos.lt/28463-large_default/vincent-van-gogh-reproduction-of-the-langlois-bridge.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.meisterdrucke.ie/kunstwerke/500px/Vincent%20van%20Gogh%20%20-%20Seascape%20near%20Les%20Saintes-Maries-de-la-Mer%20-%20%28MeisterDrucke-606169%29.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.hourdetroit.com/wp-content/uploads/sites/20/2021/08/beyond-van-gogh-2.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://galeriemontblanc.com/cdn/shop/products/VanGogh-PaysagemarinpresdesSaintes-Maries-de-la-Mer_900x.png?v=1630727396"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn11.bigcommerce.com/s-vak6ug5w2j/products/22394/images/22791/Vincent_van_Gogh_-_Le_Moulin_de_la_Galette_24x30_ib5cbt__71819.1507580833.500.750.jpg?c=2"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images//2020_10/31/20/202512344/c0c5e15a-e5b2-49c4-b0d5-eab7ed9230d4.Jpeg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "vincent van gogh"
+                }
+            ]
+        },
+        "bounding_box": [
+            357,
+            1739,
+            2410,
+            3244
+        ]
+    },
+    "image4_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 98.08893585205078,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 97.82274627685547,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow",
+                "label_confidence": 77.48191833496094,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sky",
+                "label_confidence": 76.99601745605469,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Ice",
+                "label_confidence": 75.36901092529297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 61.8215217590332,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Invertebrate",
+                "label_confidence": 61.8215217590332,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Spider",
+                "label_confidence": 61.8215217590332,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 88.97879028320312,
+                "overall_quality_sharpness": 3.9874460697174072,
+                "overall_quality_contrast": 13.21982479095459,
+                "dominant_color_0_hex": "#b0c4de",
+                "dominant_color_0_css": "lightsteelblue",
+                "dominant_color_0_pixelpercent": 68.01541137695312,
+                "dominant_color_1_hex": "#87ceeb",
+                "dominant_color_1_css": "skyblue",
+                "dominant_color_1_pixelpercent": 23.892099380493164,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 6.936416149139404,
+                "dominant_color_3_hex": "#4682b4",
+                "dominant_color_3_css": "steelblue",
+                "dominant_color_3_pixelpercent": 1.1560693979263306
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.40013498
+                },
+                {
+                    "web_entity_description": "Textile",
+                    "web_entity_confidence": 0.3891693
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.3793467
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.35449493
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3521808
+                },
+                {
+                    "web_entity_description": "Phenomenon",
+                    "web_entity_confidence": 0.33068055
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.32318568
+                },
+                {
+                    "web_entity_description": "Lavender",
+                    "web_entity_confidence": 0.2923
+                },
+                {
+                    "web_entity_description": "Geology",
+                    "web_entity_confidence": 0.2794
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2561
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/abstract-painted-light-blue-clouds-watercolor-background-abstract-beautiful-light-blue-cloudy-sky-concept-design-template_364465-1905.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/background/20230203/original/pngtree-watercolor-blue-sky-background-for-wedding-invitation-picture-image_2025562.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://t4.ftcdn.net/jpg/05/41/86/35/360_F_541863571_uUsJX0PXBhKBGdX5xsImPWLRr9EDq6LA.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://p.turbosquid.com/ts-thumb/Bt/9OXCxH/Ps/a1/jpg/1625086364/1920x1080/fit_q87/75a23088a702a52f1a9558d826224442b66b0731/a1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/free-vector/cloud-background_91008-382.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/thumbnails/006/767/393/small_2x/sky-blue-background-sky-cloud-clear-photo.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/thumbnails/010/282/148/small/background-of-bright-sky-and-background-of-thin-clouds-sky-clouds-blue-sky-and-white-clouds-float-in-the-sky-on-a-clear-day-free-photo.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.pexels.com/photos/6389722/pexels-photo-6389722.jpeg?cs=srgb&dl=pexels-jess-loiterton-6389722.jpg&fm=jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/464778949/photo/background-of-cloudy-blue-sky.jpg?s=612x612&w=0&k=20&c=IJTTP2v-fcYBsV2P-CDCDQjJ65oSXpPhGg1qiB5jcNU="
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-vector/hand-painted-watercolor-sky-clouds-blue-abstract-watercolor-background-vector-illustration_548264-244.jpg?w=360"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sky"
+                }
+            ]
+        },
+        "bounding_box": [
+            2183,
+            710,
+            2273,
+            781
+        ]
+    },
+    "image4_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.2057113647461,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 92.58820343017578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 87.8848648071289,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 77.75814819335938,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Arch",
+                "label_confidence": 76.43486022949219,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Architecture",
+                "label_confidence": 76.43486022949219,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 68.53961181640625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 62.95058822631836,
+                "label_boundings": [
+                    {
+                        "Width": 0.456498920917511,
+                        "Height": 0.47826051712036133,
+                        "Left": 0.44509953260421753,
+                        "Top": 0.16161665320396423
+                    }
+                ]
+            },
+            {
+                "label_name": "Bridge",
+                "label_confidence": 60.16591262817383,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 83.73509216308594,
+                "overall_quality_sharpness": 89.3829574584961,
+                "overall_quality_contrast": 81.23117065429688,
+                "dominant_color_0_hex": "#b0c4de",
+                "dominant_color_0_css": "lightsteelblue",
+                "dominant_color_0_pixelpercent": 30.193050384521484,
+                "dominant_color_1_hex": "#a9a9a9",
+                "dominant_color_1_css": "darkgrey",
+                "dominant_color_1_pixelpercent": 22.934362411499023,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 15.521235466003418,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 14.749034881591797,
+                "dominant_color_4_hex": "#778899",
+                "dominant_color_4_css": "lightslategrey",
+                "dominant_color_4_pixelpercent": 12.741312980651855,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 2.084942102432251,
+                "dominant_color_6_hex": "#ffffff",
+                "dominant_color_6_css": "white",
+                "dominant_color_6_pixelpercent": 1.776061773300171
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.7101219
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.46998003
+                },
+                {
+                    "web_entity_description": "Sketch",
+                    "web_entity_confidence": 0.4499711
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3945
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3808
+                },
+                {
+                    "web_entity_description": "Saintes-Maries-de-la-Mer",
+                    "web_entity_confidence": 0.35505
+                },
+                {
+                    "web_entity_description": "Tree",
+                    "web_entity_confidence": 0.3470367
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3377629
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "three cottages in saintes-maries"
+                }
+            ]
+        },
+        "bounding_box": [
+            347,
+            277,
+            2408,
+            1592
+        ]
+    }
+}

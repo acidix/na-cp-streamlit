@@ -1,0 +1,1043 @@
+{
+    "id": "image_39",
+    "url": "https://media.dv.navigatingart.de/d846adda-ba22-460f-b2fe-a7d90100a1eb.jpg?signed=true&valid=1695733328&signature=PWV3VqX8cmQ1UNAaeK64yInKb7fCWAj77Maa79pLaoxbZwObmcdkBS7jSd4EVTQLn3Irx4MLN4h8QJzsZnaiAw%3D%3D",
+    "json": "development_test_job/image39/image39.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.97265625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.97265625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 99.65907287597656,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.65907287597656,
+                "label_boundings": [
+                    {
+                        "Width": 0.9222161173820496,
+                        "Height": 0.9126672744750977,
+                        "Left": 0.04348812624812126,
+                        "Top": 0.06100981682538986
+                    }
+                ]
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 99.65907287597656,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 98.5097885131836,
+                "label_boundings": [
+                    {
+                        "Width": 0.9222161173820496,
+                        "Height": 0.9126672744750977,
+                        "Left": 0.04348812624812126,
+                        "Top": 0.06100981682538986
+                    }
+                ]
+            },
+            {
+                "label_name": "Male",
+                "label_confidence": 98.5097885131836,
+                "label_boundings": [
+                    {
+                        "Width": 0.9222161173820496,
+                        "Height": 0.9126672744750977,
+                        "Left": 0.04348812624812126,
+                        "Top": 0.06100981682538986
+                    }
+                ]
+            },
+            {
+                "label_name": "Man",
+                "label_confidence": 98.5097885131836,
+                "label_boundings": [
+                    {
+                        "Width": 0.9222161173820496,
+                        "Height": 0.9126672744750977,
+                        "Left": 0.04348812624812126,
+                        "Top": 0.06100981682538986
+                    }
+                ]
+            },
+            {
+                "label_name": "Smoke Pipe",
+                "label_confidence": 86.84382629394531,
+                "label_boundings": [
+                    {
+                        "Width": 0.20007285475730896,
+                        "Height": 0.16583871841430664,
+                        "Left": 0.19780728220939636,
+                        "Top": 0.3254229426383972
+                    }
+                ]
+            },
+            {
+                "label_name": "Necklace",
+                "label_confidence": 70.17659759521484,
+                "label_boundings": [
+                    {
+                        "Width": 0.30260157585144043,
+                        "Height": 0.3309331238269806,
+                        "Left": 0.20184993743896484,
+                        "Top": 0.3268205225467682
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.21954607963562012,
+                    "Height": 0.23420506715774536,
+                    "Left": 0.2825893461704254,
+                    "Top": 0.15411707758903503
+                },
+                "face_confidence": 99.9995346069336,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.82254028320312,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.59894561767578,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99668884277344,
+                "face_gender": "Male",
+                "face_gender_confidence": 97.4138412475586,
+                "face_has_beard": true,
+                "face_beard_confidence": 55.7993278503418,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.20479583740234,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 94.04314422607422,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 94.08696746826172,
+                "face_pose_roll": -3.4653565883636475,
+                "face_pose_yaw": 15.30958366394043,
+                "face_pose_pitch": 3.609048843383789,
+                "face_brightness": 62.42168426513672,
+                "face_sharpness": 73.32209777832031,
+                "emotion_type_calm": 91.29756164550781,
+                "emotion_type_surprised": 6.435925483703613,
+                "emotion_type_confused": 6.306831359863281,
+                "emotion_type_fear": 5.951753616333008,
+                "emotion_type_sad": 2.396923780441284,
+                "emotion_type_disgusted": 0.4675319492816925,
+                "emotion_type_angry": 0.42891791462898254,
+                "emotion_type_happy": 0.14379559457302094
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 45.1641845703125,
+                "overall_quality_sharpness": 29.316862106323242,
+                "overall_quality_contrast": 76.10010528564453,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 44.056846618652344,
+                "dominant_color_1_hex": "#000000",
+                "dominant_color_1_css": "black",
+                "dominant_color_1_pixelpercent": 29.521963119506836,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 8.656331062316895,
+                "dominant_color_3_hex": "#cd853f",
+                "dominant_color_3_css": "peru",
+                "dominant_color_3_pixelpercent": 6.718346118927002,
+                "dominant_color_4_hex": "#800000",
+                "dominant_color_4_css": "maroon",
+                "dominant_color_4_pixelpercent": 5.4909563064575195,
+                "dominant_color_5_hex": "#8b4513",
+                "dominant_color_5_css": "saddlebrown",
+                "dominant_color_5_pixelpercent": 4.134366989135742,
+                "dominant_color_6_hex": "#a0522d",
+                "dominant_color_6_css": "sienna",
+                "dominant_color_6_pixelpercent": 1.098191261291504,
+                "dominant_color_7_hex": "#e9967a",
+                "dominant_color_7_css": "darksalmon",
+                "dominant_color_7_pixelpercent": 0.32299742102622986,
+                "foreground_quality_brightness": 55.60371017456055,
+                "foreground_quality_sharpness": 33.42557907104492,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 60.42216491699219,
+                "foreground_dominant_color_1_hex": "#a0522d",
+                "foreground_dominant_color_1_css": "sienna",
+                "foreground_dominant_color_1_pixelpercent": 13.060686111450195,
+                "foreground_dominant_color_2_hex": "#000000",
+                "foreground_dominant_color_2_css": "black",
+                "foreground_dominant_color_2_pixelpercent": 12.928759574890137,
+                "foreground_dominant_color_3_hex": "#696969",
+                "foreground_dominant_color_3_css": "dimgrey",
+                "foreground_dominant_color_3_pixelpercent": 5.408970832824707,
+                "foreground_dominant_color_4_hex": "#8b4513",
+                "foreground_dominant_color_4_css": "saddlebrown",
+                "foreground_dominant_color_4_pixelpercent": 4.749340534210205,
+                "foreground_dominant_color_5_hex": "#808080",
+                "foreground_dominant_color_5_css": "gray",
+                "foreground_dominant_color_5_pixelpercent": 2.506596326828003,
+                "foreground_dominant_color_6_hex": "#e9967a",
+                "foreground_dominant_color_6_css": "darksalmon",
+                "foreground_dominant_color_6_pixelpercent": 0.9234828352928162,
+                "background_quality_brightness": 37.26966857910156,
+                "background_quality_sharpness": 23.23889923095703,
+                "background_dominant_color_0_hex": "#000000",
+                "background_dominant_color_0_css": "black",
+                "background_dominant_color_0_pixelpercent": 42.5101203918457,
+                "background_dominant_color_1_hex": "#2f4f4f",
+                "background_dominant_color_1_css": "darkslategrey",
+                "background_dominant_color_1_pixelpercent": 37.854251861572266,
+                "background_dominant_color_2_hex": "#cd853f",
+                "background_dominant_color_2_css": "peru",
+                "background_dominant_color_2_pixelpercent": 9.514169692993164,
+                "background_dominant_color_3_hex": "#a0522d",
+                "background_dominant_color_3_css": "sienna",
+                "background_dominant_color_3_pixelpercent": 6.376518249511719,
+                "background_dominant_color_4_hex": "#d2b48c",
+                "background_dominant_color_4_css": "tan",
+                "background_dominant_color_4_pixelpercent": 2.327935218811035,
+                "background_dominant_color_5_hex": "#800000",
+                "background_dominant_color_5_css": "maroon",
+                "background_dominant_color_5_pixelpercent": 1.4170039892196655
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Henry Inman",
+                    "web_entity_confidence": 10.6935005
+                },
+                {
+                    "web_entity_description": "Sequoyah",
+                    "web_entity_confidence": 1.0815
+                },
+                {
+                    "web_entity_description": "National Portrait Gallery",
+                    "web_entity_confidence": 1.0660499
+                },
+                {
+                    "web_entity_description": "Portrait",
+                    "web_entity_confidence": 0.99105
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.728
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.7083
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.6513
+                },
+                {
+                    "web_entity_description": "Artist",
+                    "web_entity_confidence": 0.6408
+                },
+                {
+                    "web_entity_description": "Image",
+                    "web_entity_confidence": 0.5656
+                },
+                {
+                    "web_entity_description": "Fine Art America",
+                    "web_entity_confidence": 0.5631
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://i.pinimg.com/originals/da/09/9c/da099cc1c9fe6d28cc2cd1bd6c9d84ce.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=683842773786336"
+                },
+                {
+                    "web_full_matching_image_url": "https://ids.si.edu/ids/deliveryService?id=NPG-NPG_79_174Sequoyah_d1"
+                },
+                {
+                    "web_full_matching_image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3170784597214003568"
+                },
+                {
+                    "web_full_matching_image_url": "https://npg.si.edu/sites/default/files/sequoyah.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158596147338869"
+                },
+                {
+                    "web_full_matching_image_url": "https://images.rawpixel.com/image_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3NtaXRoc25ucGducGc3OTE3NHNlcXVveWFoZDEtaW1hZ2UuanBn.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3NtaXRoc25ucGducGc3OTE3NHNlcXVveWFoZDEtaW1hZ2UuanBn.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3NtaXRoc25ucGducGc3OTE3NHNlcXVveWFoZDEtaW1hZ2UuanBn.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://i.pinimg.com/736x/da/09/9c/da099cc1c9fe6d28cc2cd1bd6c9d84ce.jpg"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://npg.si.edu/object/npg_NPG.79.174"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://npg.si.edu/learn/classroom-resource/sequoyah-c-1770%E2%80%93c-1843"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://fineartamerica.com/art/paintings/sequoyah"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://fineartamerica.com/art/sequoyah"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://en.m.wikipedia.org/wiki/File:Henry_Inman_-_Sequoyah_-_Google_Art_Project.jpg"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://fineartamerica.com/shop/prints/sequoyah"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://pixels.com/art/sequoyah"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.wikidata.org/wiki/Q28796190"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://fineartamerica.com/shop/posters/sequoyah"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.instagram.com/p/CwA48vOOltV/"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/sequoyah-henry-inman.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/images-new-artwork/images-medium-5/sequoyah-henry-inman.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/search/metal-print/6.5/8/break/images/artworkimages/medium/2/sequoyah-national-portrait-gallery-smithsonian-institutionscience-photo-library.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.southwestledger.news/sites/southwestledger.etypegoogle7.com/files/styles/article_420/public/2021-04/Untitled-1_56.png?itok=IJfiCgA7"
+                },
+                {
+                    "web_visually_similar_image_url": "https://l450v.alamy.com/450v/rfj2g8/sequoyah-dateperiod-ca-1830-painting-oil-on-canvas-height-768-mm-3023-in-width-641-mm-2523-in-author-henry-inman-rfj2g8.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://c8.alamy.com/comp/RFJ2G8/sequoyah-dateperiod-ca-1830-painting-oil-on-canvas-height-768-mm-3023-in-width-641-mm-2523-in-author-henry-inman-RFJ2G8.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.greatbigcanvas.com/images/singlecanvas_thick_none/world-art-group/masked-sequoyah,2686337.jpg?max=400"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/default/front/spiral-notebook/images-medium-5/sequoyah-henry-inman.jpg?&targetx=-60&targety=0&imagewidth=800&imageheight=961&modelwidth=680&modelheight=961&backgroundcolor=17140E&orientation=0&producttype=spiralnotebook"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.meisterdrucke.uk/kunstwerke/400w/Henry_Inman_-_Tooan_Tuh_(Cherokee)_183233_-_(MeisterDrucke-383062).jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://d2ujpqfu85jxzw.cloudfront.net/website/panth-live/styles/half_width_varied_height/s3/artwork/2015-3/carter_2015-3_o2_15.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sequoyah painting"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 23.060100555419922,
+                "text": "BXYZEA",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.17578363418579102,
+                        "Height": 0.08568456768989563,
+                        "Left": 0.7605515122413635,
+                        "Top": 0.6499596834182739
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.772724449634552,
+                            "Y": 0.6499596834182739
+                        },
+                        {
+                            "X": 0.9363351464271545,
+                            "Y": 0.708363950252533
+                        },
+                        {
+                            "X": 0.9243430495262146,
+                            "Y": 0.7356442809104919
+                        },
+                        {
+                            "X": 0.7605515122413635,
+                            "Y": 0.6770723462104797
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 64.69548797607422,
+                "text": "R.D.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04670511931180954,
+                        "Height": 0.029979683458805084,
+                        "Left": 0.8237380981445312,
+                        "Top": 0.4106172025203705
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8309972286224365,
+                            "Y": 0.4106172025203705
+                        },
+                        {
+                            "X": 0.8704432249069214,
+                            "Y": 0.42449313402175903
+                        },
+                        {
+                            "X": 0.8632102012634277,
+                            "Y": 0.44059687852859497
+                        },
+                        {
+                            "X": 0.8237380981445312,
+                            "Y": 0.4266970455646515
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 72.06831359863281,
+                "text": ":",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.010867114178836346,
+                        "Height": 0.012538987211883068,
+                        "Left": 0.8687793016433716,
+                        "Top": 0.4321981370449066
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.873423159122467,
+                            "Y": 0.4321981370449066
+                        },
+                        {
+                            "X": 0.8796464204788208,
+                            "Y": 0.434388130903244
+                        },
+                        {
+                            "X": 0.8750052452087402,
+                            "Y": 0.44473710656166077
+                        },
+                        {
+                            "X": 0.8687793016433716,
+                            "Y": 0.44254469871520996
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 26.358869552612305,
+                "text": "GYY",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09520385414361954,
+                        "Height": 0.055739570409059525,
+                        "Left": 0.8978366255760193,
+                        "Top": 0.43878820538520813
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.9095894694328308,
+                            "Y": 0.43878820538520813
+                        },
+                        {
+                            "X": 0.9930405020713806,
+                            "Y": 0.4681446850299835
+                        },
+                        {
+                            "X": 0.9813781976699829,
+                            "Y": 0.49452775716781616
+                        },
+                        {
+                            "X": 0.8978366255760193,
+                            "Y": 0.4650886654853821
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 27.654794692993164,
+                "text": "FAPBPAMN",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.18343713879585266,
+                        "Height": 0.08504349738359451,
+                        "Left": 0.8069856762886047,
+                        "Top": 0.4370373785495758
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8178558945655823,
+                            "Y": 0.4370373785495758
+                        },
+                        {
+                            "X": 0.9904228448867798,
+                            "Y": 0.4978484809398651
+                        },
+                        {
+                            "X": 0.9797239899635315,
+                            "Y": 0.5220808982849121
+                        },
+                        {
+                            "X": 0.8069856762886047,
+                            "Y": 0.46111300587654114
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 20.048675537109375,
+                "text": "$D28VBJ8E",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2054605484008789,
+                        "Height": 0.10202524065971375,
+                        "Left": 0.7945394515991211,
+                        "Top": 0.4608357548713684
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8098747730255127,
+                            "Y": 0.4608357548713684
+                        },
+                        {
+                            "X": 1.0,
+                            "Y": 0.5286391377449036
+                        },
+                        {
+                            "X": 0.9869275689125061,
+                            "Y": 0.5628610253334045
+                        },
+                        {
+                            "X": 0.7945394515991211,
+                            "Y": 0.49481111764907837
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 31.97760581970215,
+                "text": "3AFADY4F6",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.22388064861297607,
+                        "Height": 0.11472046375274658,
+                        "Left": 0.7761193513870239,
+                        "Top": 0.4905261695384979
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7945573925971985,
+                            "Y": 0.4905261695384979
+                        },
+                        {
+                            "X": 1.0,
+                            "Y": 0.5640847682952881
+                        },
+                        {
+                            "X": 0.9844815135002136,
+                            "Y": 0.6052466630935669
+                        },
+                        {
+                            "X": 0.7761193513870239,
+                            "Y": 0.5313669443130493
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_7": {
+                "confidence": 25.07217025756836,
+                "text": "VDMXZ00J",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2246844321489334,
+                        "Height": 0.10635335743427277,
+                        "Left": 0.7661216855049133,
+                        "Top": 0.5200804471969604
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7803612947463989,
+                            "Y": 0.5200804471969604
+                        },
+                        {
+                            "X": 0.9908061027526855,
+                            "Y": 0.5946446657180786
+                        },
+                        {
+                            "X": 0.9768390655517578,
+                            "Y": 0.626433789730072
+                        },
+                        {
+                            "X": 0.7661216855049133,
+                            "Y": 0.5516186356544495
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_8": {
+                "confidence": 51.729957580566406,
+                "text": "RHBARJE+",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2293056845664978,
+                        "Height": 0.11414195597171783,
+                        "Left": 0.7500652074813843,
+                        "Top": 0.5487369298934937
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7675036787986755,
+                            "Y": 0.5487369298934937
+                        },
+                        {
+                            "X": 0.9793708920478821,
+                            "Y": 0.6239460706710815
+                        },
+                        {
+                            "X": 0.9622678756713867,
+                            "Y": 0.6628789305686951
+                        },
+                        {
+                            "X": 0.7500652074813843,
+                            "Y": 0.5873603224754333
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_9": {
+                "confidence": 7.580616474151611,
+                "text": "TOCBEIDJ",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.22071529924869537,
+                        "Height": 0.10956573486328125,
+                        "Left": 0.7413605451583862,
+                        "Top": 0.5782928466796875
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7579115629196167,
+                            "Y": 0.5782928466796875
+                        },
+                        {
+                            "X": 0.9620758295059204,
+                            "Y": 0.6509022116661072
+                        },
+                        {
+                            "X": 0.9458310604095459,
+                            "Y": 0.6878585815429688
+                        },
+                        {
+                            "X": 0.7413605451583862,
+                            "Y": 0.6149659752845764
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_10": {
+                "confidence": 57.09543228149414,
+                "text": "MCSCi",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.14190132915973663,
+                        "Height": 0.07068803161382675,
+                        "Left": 0.7740987539291382,
+                        "Top": 0.6266453862190247
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7847833633422852,
+                            "Y": 0.6266453862190247
+                        },
+                        {
+                            "X": 0.9160000681877136,
+                            "Y": 0.6734133958816528
+                        },
+                        {
+                            "X": 0.9054427742958069,
+                            "Y": 0.6973334550857544
+                        },
+                        {
+                            "X": 0.7740987539291382,
+                            "Y": 0.650447428226471
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_11": {
+                "confidence": 23.060100555419922,
+                "text": "BXYZEA",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.17578363418579102,
+                        "Height": 0.08568456768989563,
+                        "Left": 0.7605515122413635,
+                        "Top": 0.6499596834182739
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.772724449634552,
+                            "Y": 0.6499596834182739
+                        },
+                        {
+                            "X": 0.9363351464271545,
+                            "Y": 0.708363950252533
+                        },
+                        {
+                            "X": 0.9243430495262146,
+                            "Y": 0.7356442809104919
+                        },
+                        {
+                            "X": 0.7605515122413635,
+                            "Y": 0.6770723462104797
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image39_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Glove",
+                "label_confidence": 99.87751007080078,
+                "label_boundings": [
+                    {
+                        "Width": 0.20103870332241058,
+                        "Height": 0.2381790727376938,
+                        "Left": 0.604225218296051,
+                        "Top": 0.5913262367248535
+                    }
+                ]
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 99.67001342773438,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.67001342773438,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 99.569580078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.569580078125,
+                "label_boundings": [
+                    {
+                        "Width": 0.9077177047729492,
+                        "Height": 0.9161125421524048,
+                        "Left": 0.04431091621518135,
+                        "Top": 0.05905744433403015
+                    }
+                ]
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 99.569580078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 97.1473617553711,
+                "label_boundings": [
+                    {
+                        "Width": 0.9077177047729492,
+                        "Height": 0.9161125421524048,
+                        "Left": 0.04431091621518135,
+                        "Top": 0.05905744433403015
+                    }
+                ]
+            },
+            {
+                "label_name": "Male",
+                "label_confidence": 97.1473617553711,
+                "label_boundings": [
+                    {
+                        "Width": 0.9077177047729492,
+                        "Height": 0.9161125421524048,
+                        "Left": 0.04431091621518135,
+                        "Top": 0.05905744433403015
+                    }
+                ]
+            },
+            {
+                "label_name": "Man",
+                "label_confidence": 97.1473617553711,
+                "label_boundings": [
+                    {
+                        "Width": 0.9077177047729492,
+                        "Height": 0.9161125421524048,
+                        "Left": 0.04431091621518135,
+                        "Top": 0.05905744433403015
+                    }
+                ]
+            },
+            {
+                "label_name": "Smoke Pipe",
+                "label_confidence": 96.8999252319336,
+                "label_boundings": [
+                    {
+                        "Width": 0.19875922799110413,
+                        "Height": 0.165584534406662,
+                        "Left": 0.19735978543758392,
+                        "Top": 0.32691895961761475
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.2195495069026947,
+                    "Height": 0.2342015504837036,
+                    "Left": 0.2821233868598938,
+                    "Top": 0.155814528465271
+                },
+                "face_confidence": 99.9996337890625,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.35807800292969,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 96.71528625488281,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.9963150024414,
+                "face_gender": "Female",
+                "face_gender_confidence": 75.78421020507812,
+                "face_has_beard": false,
+                "face_beard_confidence": 58.552337646484375,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 94.84502410888672,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 82.72770690917969,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 92.70236206054688,
+                "face_pose_roll": -2.8452727794647217,
+                "face_pose_yaw": 14.549266815185547,
+                "face_pose_pitch": 4.391345500946045,
+                "face_brightness": 50.86050033569336,
+                "face_sharpness": 73.32209777832031,
+                "emotion_type_confused": 50.86867904663086,
+                "emotion_type_calm": 38.206024169921875,
+                "emotion_type_surprised": 6.640248775482178,
+                "emotion_type_fear": 6.111549377441406,
+                "emotion_type_sad": 5.510456085205078,
+                "emotion_type_disgusted": 1.4343465566635132,
+                "emotion_type_angry": 0.8894234895706177,
+                "emotion_type_happy": 0.38363030552864075
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 44.165626525878906,
+                "overall_quality_sharpness": 28.69873809814453,
+                "overall_quality_contrast": 72.68600463867188,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 38.040714263916016,
+                "dominant_color_1_hex": "#000000",
+                "dominant_color_1_css": "black",
+                "dominant_color_1_pixelpercent": 37.404579162597656,
+                "dominant_color_2_hex": "#778899",
+                "dominant_color_2_css": "lightslategrey",
+                "dominant_color_2_pixelpercent": 7.697201251983643,
+                "dominant_color_3_hex": "#191970",
+                "dominant_color_3_css": "midnightblue",
+                "dominant_color_3_pixelpercent": 6.5521626472473145,
+                "dominant_color_4_hex": "#483d8b",
+                "dominant_color_4_css": "darkslateblue",
+                "dominant_color_4_pixelpercent": 6.234096527099609,
+                "dominant_color_5_hex": "#808080",
+                "dominant_color_5_css": "gray",
+                "dominant_color_5_pixelpercent": 2.4809160232543945,
+                "dominant_color_6_hex": "#6495ed",
+                "dominant_color_6_css": "cornflowerblue",
+                "dominant_color_6_pixelpercent": 1.5903308391571045,
+                "foreground_quality_brightness": 54.090538024902344,
+                "foreground_quality_sharpness": 30.348501205444336,
+                "foreground_dominant_color_0_hex": "#696969",
+                "foreground_dominant_color_0_css": "dimgrey",
+                "foreground_dominant_color_0_pixelpercent": 35.35528564453125,
+                "foreground_dominant_color_1_hex": "#2f4f4f",
+                "foreground_dominant_color_1_css": "darkslategrey",
+                "foreground_dominant_color_1_pixelpercent": 20.79722785949707,
+                "foreground_dominant_color_2_hex": "#483d8b",
+                "foreground_dominant_color_2_css": "darkslateblue",
+                "foreground_dominant_color_2_pixelpercent": 16.98440170288086,
+                "foreground_dominant_color_3_hex": "#000000",
+                "foreground_dominant_color_3_css": "black",
+                "foreground_dominant_color_3_pixelpercent": 15.597920417785645,
+                "foreground_dominant_color_4_hex": "#191970",
+                "foreground_dominant_color_4_css": "midnightblue",
+                "foreground_dominant_color_4_pixelpercent": 5.025996685028076,
+                "foreground_dominant_color_5_hex": "#6495ed",
+                "foreground_dominant_color_5_css": "cornflowerblue",
+                "foreground_dominant_color_5_pixelpercent": 3.8128249645233154,
+                "foreground_dominant_color_6_hex": "#808080",
+                "foreground_dominant_color_6_css": "gray",
+                "foreground_dominant_color_6_pixelpercent": 1.5597920417785645,
+                "foreground_dominant_color_7_hex": "#c0c0c0",
+                "foreground_dominant_color_7_css": "silver",
+                "foreground_dominant_color_7_pixelpercent": 0.8665511012077332,
+                "background_quality_brightness": 36.03274917602539,
+                "background_quality_sharpness": 22.546947479248047,
+                "background_dominant_color_0_hex": "#000000",
+                "background_dominant_color_0_css": "black",
+                "background_dominant_color_0_pixelpercent": 47.83037567138672,
+                "background_dominant_color_1_hex": "#2f4f4f",
+                "background_dominant_color_1_css": "darkslategrey",
+                "background_dominant_color_1_pixelpercent": 32.9388542175293,
+                "background_dominant_color_2_hex": "#696969",
+                "background_dominant_color_2_css": "dimgrey",
+                "background_dominant_color_2_pixelpercent": 12.42603588104248,
+                "background_dominant_color_3_hex": "#778899",
+                "background_dominant_color_3_css": "lightslategrey",
+                "background_dominant_color_3_pixelpercent": 6.804733753204346
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.6775901
+                },
+                {
+                    "web_entity_description": "Human",
+                    "web_entity_confidence": 0.56115
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.47398442
+                },
+                {
+                    "web_entity_description": "Human behavior",
+                    "web_entity_confidence": 0.45593542
+                },
+                {
+                    "web_entity_description": "Sequoyah",
+                    "web_entity_confidence": 0.41609997
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3926
+                },
+                {
+                    "web_entity_description": "Behavior",
+                    "web_entity_confidence": 0.3756
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3707
+                },
+                {
+                    "web_entity_description": "Gentleman",
+                    "web_entity_confidence": 0.32511267
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1126455008752646&get_thumbnail=1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://asalvision.com/wp-content/uploads/2022/05/Johnny-Sequoyah-Dexter-New-Blood-Audrey-Bishop-Purple-Hooded-Jacket-113x150.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/492326231/es/foto/believe-collapse-episode-111-pictured-johnny-sequoyah-as-bo-adams-jake-mclaughlin-as-william.jpg?s=612x612&w=gi&k=20&c=mKdkefH8SLJaGkNIm72QqdHkx07X7NVzNG2uPZ3_7Yk="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/492449667/photo/believe-collapse-episode-111-pictured-jake-mclaughlin-as-william-tate-johnny-sequoyah-as-bo.jpg?s=612x612&w=gi&k=20&c=W8YMXWrIPRUqdgHBtShdn3S4-w1XHCRckn2miK2TV24="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.tegna-media.com/assets/KFSM/images/273960ce-501c-4d2e-9b3b-f6207c1f5e7f/273960ce-501c-4d2e-9b3b-f6207c1f5e7f_1140x641.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.wallofcelebrities.com/celebrity/johnny-sequoyah/pictures/lsmall/johnny-sequoyah_673647.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=282673686226814&get_thumbnail=1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://bloximages.newyork1.vip.townnews.com/cherokeephoenix.org/content/tncms/assets/v3/editorial/b/53/b5374fd2-1b06-11ec-9eef-dbae3f4ecf61/614a1f5e770f2.image.jpg?resize=400%2C267"
+                },
+                {
+                    "web_visually_similar_image_url": "https://1.bp.blogspot.com/--y045waEq58/Ya55I-oKviI/AAAAAAABE8Q/2DGf1e9lcvsfgc8hsztsCxlQxf_oKdUzQCNcBGAsYHQ/s1350/263976924_361036162457684_9059778540611226813_n%25281%2529.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://bloximages.newyork1.vip.townnews.com/news-daily.com/content/tncms/assets/v3/editorial/f/8d/f8d1e17c-617f-53a0-a6aa-9cb47e7df185/5b19d89621a15.image.jpg?crop=961%2C536%2C219%2C262&resize=896%2C500&order=crop%2Cresize"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sequoyah"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            3308,
+            4000
+        ]
+    }
+}

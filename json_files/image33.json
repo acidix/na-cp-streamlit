@@ -1,0 +1,931 @@
+{
+    "id": "image_33",
+    "url": "https://media.dv.navigatingart.de/61b7a9c2-f3f6-4208-9a9e-9d6491094172.jpg?signed=true&valid=1695733328&signature=RXAf7smBCyUYPkbqLGTdYBOV%2BqtcyGvQotI31daPjqPl94W%2B6gm8lwD62OiFAfvKQwfainO1Djfav%2BoEqAar1Q%3D%3D",
+    "json": "development_test_job/image33/image33.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.99960327148438,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.99960327148438,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 96.64774322509766,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 96.5629653930664,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Promontory",
+                "label_confidence": 92.27842712402344,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Water",
+                "label_confidence": 92.27842712402344,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 80.24212646484375,
+                "label_boundings": [
+                    {
+                        "Width": 0.012831006199121475,
+                        "Height": 0.040624044835567474,
+                        "Left": 0.5843725800514221,
+                        "Top": 0.5945833325386047
+                    }
+                ]
+            },
+            {
+                "label_name": "Landscape",
+                "label_confidence": 80.09741973876953,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sea",
+                "label_confidence": 77.81269836425781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Shoreline",
+                "label_confidence": 76.68714141845703,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 81.20938110351562,
+                "overall_quality_sharpness": 59.233612060546875,
+                "overall_quality_contrast": 80.37699890136719,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 35.89607620239258,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 15.005302429199219,
+                "dominant_color_2_hex": "#778899",
+                "dominant_color_2_css": "lightslategrey",
+                "dominant_color_2_pixelpercent": 12.195121765136719,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 10.657476425170898,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 9.809120178222656,
+                "dominant_color_5_hex": "#556b2f",
+                "dominant_color_5_css": "darkolivegreen",
+                "dominant_color_5_pixelpercent": 6.150583267211914,
+                "dominant_color_6_hex": "#e9967a",
+                "dominant_color_6_css": "darksalmon",
+                "dominant_color_6_pixelpercent": 4.45387077331543,
+                "dominant_color_7_hex": "#4682b4",
+                "dominant_color_7_css": "steelblue",
+                "dominant_color_7_pixelpercent": 3.976670265197754,
+                "dominant_color_8_hex": "#cd853f",
+                "dominant_color_8_css": "peru",
+                "dominant_color_8_pixelpercent": 1.2195122241973877,
+                "dominant_color_9_hex": "#deb887",
+                "dominant_color_9_css": "burlywood",
+                "dominant_color_9_pixelpercent": 0.6362672448158264
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "La Corniche near Monaco",
+                    "web_entity_confidence": 1.0903499
+                },
+                {
+                    "web_entity_description": "Rijksmuseum",
+                    "web_entity_confidence": 1.07235
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.685
+                },
+                {
+                    "web_entity_description": "Oil painting",
+                    "web_entity_confidence": 0.5977
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.5909
+                },
+                {
+                    "web_entity_description": "KUNSTKOPIE",
+                    "web_entity_confidence": 0.5896
+                },
+                {
+                    "web_entity_description": "Image",
+                    "web_entity_confidence": 0.5553
+                },
+                {
+                    "web_entity_description": "The Night Watch",
+                    "web_entity_confidence": 0.5202
+                },
+                {
+                    "web_entity_description": "Village Street",
+                    "web_entity_confidence": 0.5178
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.3205
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://pbs.twimg.com/media/FuJSEobWwAAzp6H?format=jpg&name=4096x4096"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.huizingainstituut.nl/wp-content/uploads/2021/07/SK-A-1892-scaled.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://pbs.twimg.com/media/FuJSEobWwAAzp6H.jpg:large"
+                },
+                {
+                    "web_full_matching_image_url": "https://i0.wp.com/www.historischbeetsterzwaag.nl/wp-content/uploads/2021/06/SK-A-1892-La-Corniche-bij-Monaco-Claude-Monet-h-75-cm-b-94-cm-MIDDEL.jpg?ssl=1"
+                },
+                {
+                    "web_full_matching_image_url": "https://pbs.twimg.com/media/FuJSEobWwAAzp6H.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.conservatoire-du-littoral.fr/uploads/Image/ec/IMF_CARTE/GAB_LIT/8878_746_079_02_Monet-1884-The-Corniche-of-Monaco.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.de-lage-landen.com/uploads/_detail900/Emma-SK-A-1892.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://pbs.twimg.com/media/ErneYzpW8AMx-GS?format=jpg&name=900x900"
+                },
+                {
+                    "web_full_matching_image_url": "https://media.licdn.com/dms/image/C4E22AQFg7GAcyXh9aQ/feedshare-shrink_800/0/1671103129758?e=2147483647&v=beta&t=uom7ZPW2OkWj3ZirxWxmQ0a85D_tp0pUdGhfGoKJijc"
+                },
+                {
+                    "web_full_matching_image_url": "https://esnaonline.files.wordpress.com/2023/01/monet-2023-winter-seminar-banner.png?w=605"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://twitter.com/rijksmuseum/status/1653384845920288770"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.the-low-countries.com/article/emma-zuiderveen-cobalt-blue"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.art-prints-on-demand.com/a/amsterdam-rijksmuseum.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.myartprints.com/a/amsterdam-rijksmuseum.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.art-prints-on-demand.com/a/warhol-andy/marilyn-1967-aw-925.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.myartprints.co.uk/a/warhol-andy/marilyn-1967-aw-925.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.art-prints-on-demand.com/a/giacometti-giovanni/capolagoimwintermitblickaufpizlagrev.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.art-prints-on-demand.com/a/malewitsch-kasimir-sewerinowitsch/the-woman-with-the-rake.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.myartprints.com/a/englishschool19thcentury/viewofthecrystalpalacecol.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.myartprints.co.uk/a/anderson-william/merchant-ships-under-sail.html"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/999160/4456598/EVCHISL041EC426H__31247.1541927342.jpg?c=2"
+                },
+                {
+                    "web_visually_similar_image_url": "https://pressbooks.openedmb.ca/app/uploads/sites/29/2023/02/Claude-Monet_La-Corniche-near-Monaco.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.creazilla.com/illustrations/6671931/claude-monet-la-corniche-near-monaco-google-art-project-illustration-sm.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.shopify.com/s/files/1/1571/4849/products/La_Corniche_1600x.jpg?v=1585722638"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.arthipo.com/image/cache/catalog/artists-painters/c/claude-monet/cmnt36-claude-monet-la-corniche-of-monaco-2-1000x799.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn-thumbs.freeart.com/la-corniche-near-monaco_fan25870010.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://museumqualityart.com/cdn/shop/files/LaCornicheNearMonaco_20x16_Canvas_Art_Print_Detail_MuseumQualityArt.jpg?v=1694179313&width=320"
+                },
+                {
+                    "web_visually_similar_image_url": "https://a.allegroimg.com/original/11cce2/ef0578914029832f15eec6856180/Skleneny-obraz-La-Corniche-near-Monaco-Monet-140x70-Znacka-Coloray"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.thdstatic.com/productImages/d9413300-9fb9-4a7e-876d-a510e2c7cdd4/svn/multi-colored-design-toscano-art-paintings-da4761-c3_600.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/medium/front/spiral-notebook/images-medium-5/la-corniche-near-monaco-claude-monet.jpg?&targetx=-268&targety=0&imagewidth=1217&imageheight=961&modelwidth=680&modelheight=961&backgroundcolor=CBD4B4&orientation=0&producttype=spiralnotebook"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "la corniche near monaco"
+                }
+            ]
+        },
+        "OCR": {}
+    },
+    "image33_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Canvas",
+                "label_confidence": 99.9996337890625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Texture",
+                "label_confidence": 99.9433364868164,
+                "label_boundings": []
+            },
+            {
+                "label_name": "White Board",
+                "label_confidence": 87.1781005859375,
+                "label_boundings": [
+                    {
+                        "Width": 0.9985288977622986,
+                        "Height": 0.9961057305335999,
+                        "Left": 9.446026524528861e-05,
+                        "Top": 0.003466971218585968
+                    }
+                ]
+            },
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 68.357177734375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Linen",
+                "label_confidence": 68.357177734375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 63.186710357666016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 63.186710357666016,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 91.01408386230469,
+                "overall_quality_sharpness": 15.561416625976562,
+                "overall_quality_contrast": 9.031643867492676,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 97.05882263183594,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 2.8322439193725586,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 0.10893246531486511
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Water",
+                    "web_entity_confidence": 0.7137092
+                },
+                {
+                    "web_entity_description": "Ice",
+                    "web_entity_confidence": 0.36356252
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2569
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://producelikeapro.com/blog/wp-content/uploads/2022/01/Understanding-Texture-in-Music-And-How-to-Utilize-It-in-a-Mix-1080x720.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.katebackdrop.com/cdn/shop/products/BH1038680UKateAbstractRetroBackdropGrayWallTexture.jpg?v=1652066917&width=1000"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/gray-white-plaster-wall-texture-be-used-as-background_1194-471644.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as1.ftcdn.net/v2/jpg/01/34/03/98/1000_F_134039863_HK7yNM86YbfW7EAQvrczMXbvE1XcqfAy.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/close-up-concrete-cement-wall-texture-background-with-space_1627-3777.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1419117748/photo/old-wall-texture-cement-dirty-gray-with-black-background-abstract-grey-and-silver-color.jpg?s=612x612&w=0&k=20&c=CwbvM6doBu9Uo6k4wQ5m8wJzB_9L2q7OtGfTq6NRaVE="
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/white-beige-cement-wall-concrete-texture-background_932556-839.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/free-photo/concrete-background-cement-texture-with-blank-space_53876-108434.jpg?w=360"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/previews/005/587/604/large_2x/seamless-pattern-white-concrete-texture-background-of-natural-cement-or-stone-old-texture-free-photo.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/originals/f2/94/1f/f2941f17b8d009d2db0dec0511133274.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "texture"
+                }
+            ]
+        },
+        "bounding_box": [
+            1320,
+            148,
+            1874,
+            439
+        ]
+    },
+    "image33_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 90.77392578125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Linen",
+                "label_confidence": 86.89886474609375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Accessories",
+                "label_confidence": 75.11198425292969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Formal Wear",
+                "label_confidence": 75.11198425292969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Tie",
+                "label_confidence": 75.11198425292969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Texture",
+                "label_confidence": 64.64815521240234,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 61.93241882324219,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 90.44344329833984,
+                "overall_quality_sharpness": 7.363930702209473,
+                "overall_quality_contrast": 12.142553329467773,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 89.8245620727539,
+                "dominant_color_1_hex": "#b0c4de",
+                "dominant_color_1_css": "lightsteelblue",
+                "dominant_color_1_pixelpercent": 5.029239654541016,
+                "dominant_color_2_hex": "#afeeee",
+                "dominant_color_2_css": "paleturquoise",
+                "dominant_color_2_pixelpercent": 3.859649181365967,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 1.286549687385559
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.40097672
+                },
+                {
+                    "web_entity_description": "Textile",
+                    "web_entity_confidence": 0.39702958
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.35175976
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.34687567
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34096515
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2585
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://img.myloview.com/murals/beautiful-sky-and-clouds-in-soft-color-soft-cloud-in-the-sky-background-blue-tone-400-233384760.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/236x/1a/d1/cf/1ad1cfe95b58306a92a1d1db435abde1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/thumb_back/fh260/back_pic/00/05/66/1356275836021ea.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/7a/39/38/7a393851f015a6bf90afa3a31c8bc4ba.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/previews/020/499/046/non_2x/watercolor-light-cyan-blue-and-white-background-painting-watercolour-bright-sky-blue-stains-on-paper-artistic-backdrop-photo.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://st2.depositphotos.com/2124221/46127/i/450/depositphotos_461277782-stock-photo-abstract-multicolored-background-poly-pattern.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/679748088/vector/light-blue-cloud-sky-abstract-oil-paint-on-canvas-background.jpg?s=170667a&w=0&k=20&c=K36306M1R5jxThmgFINx17rL2S459-yLIlHHkeRznyA="
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.myloview.com/murals/beautiful-clear-blue-sky-400-233384761.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://swall.teahub.io/photos/small/80-806503_water-sky-blue-free-photo-light-blue-water.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://st3.depositphotos.com/26065846/35687/i/450/depositphotos_356879590-stock-photo-abstract-pattern-illustration-seamless-background.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "pattern"
+                }
+            ]
+        },
+        "bounding_box": [
+            275,
+            271,
+            319,
+            366
+        ]
+    },
+    "image33_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Texture",
+                "label_confidence": 97.71993255615234,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 97.4662857055664,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Linen",
+                "label_confidence": 97.4662857055664,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 76.14972686767578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 60.68046569824219,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Invertebrate",
+                "label_confidence": 60.68046569824219,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Spider",
+                "label_confidence": 60.68046569824219,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 91.28756713867188,
+                "overall_quality_sharpness": 7.027922630310059,
+                "overall_quality_contrast": 9.882551193237305,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 92.79881286621094,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 6.978470802307129,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 0.22271715104579926
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 3,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.5320382
+                },
+                {
+                    "web_entity_description": "Textile",
+                    "web_entity_confidence": 0.4833465
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.41305915
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.39794937
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.35929117
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3404543
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2823
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://www.icorkfloor.com/wp-content/uploads/light-grey-oak-design-cork-floating-flooring.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.fibre2fashion.com/ArticleResources/Images/82/8113/glass-fibre_big_Big.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/pastel-textured-background-colorful-abstract-vintage-pattern-background-design-web-banner_861973-2442.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static3.depositphotos.com/1006009/205/i/450/depositphotos_2055479-stock-photo-white-filter-material-texture.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://us.123rf.com/450wm/roystudio/roystudio1211/roystudio121100097/16296280-beige-canvas-background-carpet-texture-with-horizontal-stripes-seamless-pattern.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/639644728/photo/texture-of-light-cream-paper-background-for-design-with-copy.jpg?s=1024x1024&w=is&k=20&c=vdO5pZ6ugTmU5Aw6r6pJK56ibqglt1uSnrF9VxbFcdc="
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/free-vector/vector-damask-seamless-pattern-background-classical-luxury-old-fashioned-damask-ornament-royal-victorian-seamless-texture-wallpapers-textile-wrapping-exquisite-floral-baroque-template_1217-414.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://t4.ftcdn.net/jpg/02/35/66/97/360_F_235669706_pb7eAtgc99Qpevp5kCOIJ25m7oGVPQ05.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/element_our/20190522/ourmid/pngtree-hd-special-paper-texture-material-image_1072205.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1144810976/photo/design-bedroom-wall-or-reception-room-decorated-with-a-wallpaper-texture-background.jpg?s=170667a&w=0&k=20&c=QYIvLwDRXoNlt3qbX7vW8smEAaSXxDh-dsg1SVRQc4Y="
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "pattern"
+                }
+            ]
+        },
+        "bounding_box": [
+            819,
+            202,
+            894,
+            294
+        ]
+    },
+    "image33_recognized_part_3": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.99993133544922,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.99993133544922,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 98.08203125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 98.08203125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sea",
+                "label_confidence": 98.08203125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Water",
+                "label_confidence": 98.08203125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Promontory",
+                "label_confidence": 95.57147979736328,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Shoreline",
+                "label_confidence": 78.09442138671875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Dinosaur",
+                "label_confidence": 71.17814636230469,
+                "label_boundings": [
+                    {
+                        "Width": 0.9960678815841675,
+                        "Height": 0.8196219205856323,
+                        "Left": 0.002526697237044573,
+                        "Top": 0.18037807941436768
+                    }
+                ]
+            },
+            {
+                "label_name": "Reptile",
+                "label_confidence": 71.17814636230469,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 80.74534606933594,
+                "overall_quality_sharpness": 45.60129928588867,
+                "overall_quality_contrast": 80.18858337402344,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 43.10520935058594,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 18.079673767089844,
+                "dominant_color_2_hex": "#696969",
+                "dominant_color_2_css": "dimgrey",
+                "dominant_color_2_pixelpercent": 12.81920337677002,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 11.542389869689941,
+                "dominant_color_4_hex": "#4682b4",
+                "dominant_color_4_css": "steelblue",
+                "dominant_color_4_pixelpercent": 8.580183982849121,
+                "dominant_color_5_hex": "#a9a9a9",
+                "dominant_color_5_css": "darkgrey",
+                "dominant_color_5_pixelpercent": 4.647599697113037,
+                "dominant_color_6_hex": "#d2b48c",
+                "dominant_color_6_css": "tan",
+                "dominant_color_6_pixelpercent": 1.2257405519485474,
+                "foreground_quality_brightness": 78.4593734741211,
+                "foreground_quality_sharpness": 30.410707473754883,
+                "foreground_dominant_color_0_hex": "#808080",
+                "foreground_dominant_color_0_css": "gray",
+                "foreground_dominant_color_0_pixelpercent": 56.83453369140625,
+                "foreground_dominant_color_1_hex": "#cd853f",
+                "foreground_dominant_color_1_css": "peru",
+                "foreground_dominant_color_1_pixelpercent": 28.057554244995117,
+                "foreground_dominant_color_2_hex": "#bc8f8f",
+                "foreground_dominant_color_2_css": "rosybrown",
+                "foreground_dominant_color_2_pixelpercent": 12.949640274047852,
+                "foreground_dominant_color_3_hex": "#a9a9a9",
+                "foreground_dominant_color_3_css": "darkgrey",
+                "foreground_dominant_color_3_pixelpercent": 2.158273458480835,
+                "background_quality_brightness": 87.58316040039062,
+                "background_quality_sharpness": 48.11133575439453,
+                "background_dominant_color_0_hex": "#c0c0c0",
+                "background_dominant_color_0_css": "silver",
+                "background_dominant_color_0_pixelpercent": 49.28315353393555,
+                "background_dominant_color_1_hex": "#696969",
+                "background_dominant_color_1_css": "dimgrey",
+                "background_dominant_color_1_pixelpercent": 18.578256607055664,
+                "background_dominant_color_2_hex": "#2f4f4f",
+                "background_dominant_color_2_css": "darkslategrey",
+                "background_dominant_color_2_pixelpercent": 7.825567722320557,
+                "background_dominant_color_3_hex": "#708090",
+                "background_dominant_color_3_css": "slategrey",
+                "background_dominant_color_3_pixelpercent": 7.407407283782959,
+                "background_dominant_color_4_hex": "#a9a9a9",
+                "background_dominant_color_4_css": "darkgrey",
+                "background_dominant_color_4_pixelpercent": 7.347670078277588,
+                "background_dominant_color_5_hex": "#4682b4",
+                "background_dominant_color_5_css": "steelblue",
+                "background_dominant_color_5_pixelpercent": 4.838709831237793,
+                "background_dominant_color_6_hex": "#483d8b",
+                "background_dominant_color_6_css": "darkslateblue",
+                "background_dominant_color_6_pixelpercent": 2.0310633182525635,
+                "background_dominant_color_7_hex": "#87ceeb",
+                "background_dominant_color_7_css": "skyblue",
+                "background_dominant_color_7_pixelpercent": 1.7921147346496582,
+                "background_dominant_color_8_hex": "#778899",
+                "background_dominant_color_8_css": "lightslategrey",
+                "background_dominant_color_8_pixelpercent": 0.8960573673248291
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.6510027
+                },
+                {
+                    "web_entity_description": "La Corniche near Monaco",
+                    "web_entity_confidence": 0.61574996
+                },
+                {
+                    "web_entity_description": "Acrylic Paint",
+                    "web_entity_confidence": 0.6081241
+                },
+                {
+                    "web_entity_description": "Watercolor painting",
+                    "web_entity_confidence": 0.4489364
+                },
+                {
+                    "web_entity_description": "Impressionism",
+                    "web_entity_confidence": 0.4288
+                },
+                {
+                    "web_entity_description": "Monaco",
+                    "web_entity_confidence": 0.39749998
+                },
+                {
+                    "web_entity_description": "Paint",
+                    "web_entity_confidence": 0.3956
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3806
+                },
+                {
+                    "web_entity_description": "Sea",
+                    "web_entity_confidence": 0.36404547
+                },
+                {
+                    "web_entity_description": "Acrylic resin",
+                    "web_entity_confidence": 0.2648
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://cdn11.bigcommerce.com/s-x49po/images/stencil/1280x1280/products/60878/85981/LaCornichenearMonaco(1884)_ClaudeMonet_450_79-35-696-2161LaCornichenearMonaco(1884)byClaudeMonet_6769X5389_300__87686.1605877147.jpg?c=2"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.artsheaven.com/wp-content/uploads/2019/04/claude-monet-la-corniche-near-monaco-1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://imgc.allpostersimages.com/img/posters/la-corniche-near-monaco-1884_u-L-Q1HSM770.jpg?artHeight=350&artPerspective=n&artWidth=550&background=fbfbfb"
+                },
+                {
+                    "web_visually_similar_image_url": "https://previews.agefotostock.com/previewimage/medibigoff/71f829acb7fdb2bffe0a97f80d516917/zx5-3637969.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://d3k8cp7ga1ip8x.cloudfront.net/media/meural/257/p3gde41867uz25x.optimized.thumb.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.arthipo.com/image/cache/catalog/artists-painters/c/claude-monet/cmnt36-claude-monet-la-corniche-of-monaco-2-1000x799.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://prodiart.com/include/php/render/print/VR/2/image/VHlslbl7wcqG/ver//whiteBorder/0/widthMM/229/heightMM/318/la-corniche-pres-de-monaco-details-claude-monet.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/search/canvas-print/8/6.5/mirror/break/images/artworkimages/medium/2/la-corniche-near-monaco-la-corniche-bij-monaco-claude-monet-canvas-print.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://a.allegroimg.com/original/11cce2/ef0578914029832f15eec6856180/Skleneny-obraz-La-Corniche-near-Monaco-Monet-140x70-Znacka-Coloray"
+                },
+                {
+                    "web_visually_similar_image_url": "https://museumqualityart.com/cdn/shop/files/LaCornicheNearMonaco_20x16_Canvas_Art_Print_Detail_MuseumQualityArt.jpg?v=1694179313&width=320"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "la corniche near monaco"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            2500,
+            1992
+        ]
+    }
+}

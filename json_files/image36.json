@@ -1,0 +1,1560 @@
+{
+    "id": "image_36",
+    "url": "https://media.dv.navigatingart.de/9c972d52-8de1-4987-bb56-5c3da287a087.jpg?signed=true&valid=1695733328&signature=LEXACXCDAT%2F9m6wXWuG7em0jUiGk5%2BvyCykuEQyXIL12NKUfuePHivLRqnFglFPO1OY0oMh3CsTJq%2FPLkKvi%2Fw%3D%3D",
+    "json": "development_test_job/image36/image36.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Advertisement",
+                "label_confidence": 99.48933410644531,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Poster",
+                "label_confidence": 99.48933410644531,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Page",
+                "label_confidence": 94.50442504882812,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 94.50442504882812,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 78.15363311767578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 78.15363311767578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Publication",
+                "label_confidence": 74.7991943359375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Book",
+                "label_confidence": 72.92266845703125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 65.53951263427734,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 94.86202239990234,
+                "overall_quality_sharpness": 57.64776611328125,
+                "overall_quality_contrast": 44.413204193115234,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 75.53459167480469,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 9.811320304870605,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 8.805031776428223,
+                "dominant_color_3_hex": "#808080",
+                "dominant_color_3_css": "gray",
+                "dominant_color_3_pixelpercent": 3.7106919288635254,
+                "dominant_color_4_hex": "#696969",
+                "dominant_color_4_css": "dimgrey",
+                "dominant_color_4_pixelpercent": 2.138364791870117,
+                "foreground_quality_brightness": 87.81980895996094,
+                "foreground_quality_sharpness": 88.07675170898438,
+                "foreground_dominant_color_0_hex": "#c0c0c0",
+                "foreground_dominant_color_0_css": "silver",
+                "foreground_dominant_color_0_pixelpercent": 29.07662010192871,
+                "foreground_dominant_color_1_hex": "#a9a9a9",
+                "foreground_dominant_color_1_css": "darkgrey",
+                "foreground_dominant_color_1_pixelpercent": 27.308448791503906,
+                "foreground_dominant_color_2_hex": "#dcdcdc",
+                "foreground_dominant_color_2_css": "gainsboro",
+                "foreground_dominant_color_2_pixelpercent": 25.736738204956055,
+                "foreground_dominant_color_3_hex": "#808080",
+                "foreground_dominant_color_3_css": "gray",
+                "foreground_dominant_color_3_pixelpercent": 13.359528541564941,
+                "foreground_dominant_color_4_hex": "#696969",
+                "foreground_dominant_color_4_css": "dimgrey",
+                "foreground_dominant_color_4_pixelpercent": 4.5186638832092285,
+                "background_quality_brightness": 95.26457977294922,
+                "background_quality_sharpness": 5.703275680541992,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 99.25926208496094,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 0.7407407164573669
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Belvedere Palace",
+                    "web_entity_confidence": 1.2804825
+                },
+                {
+                    "web_entity_description": "Austrian Gallery Belvedere",
+                    "web_entity_confidence": 1.1731501
+                },
+                {
+                    "web_entity_description": "16 Ansichten tschechischer Landschaften \"Ceska Krajin\u00e1\"",
+                    "web_entity_confidence": 0.7467
+                },
+                {
+                    "web_entity_description": "",
+                    "web_entity_confidence": 0.7055
+                },
+                {
+                    "web_entity_description": "Esparsettenfeld bei Znaim II",
+                    "web_entity_confidence": 0.6906
+                },
+                {
+                    "web_entity_description": "Pod\u0159ipsko (aus der Mappe \u201e16 Ansichten tschechischer Landschaften '\u010ceska Krajin\u00e1'\u201c)",
+                    "web_entity_confidence": 0.56565
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.4593
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.4557
+                },
+                {
+                    "web_entity_description": "Rudi Molacek",
+                    "web_entity_confidence": 0.08487
+                },
+                {
+                    "web_entity_description": "Ferdinand Frantisek Engelm\u00fcller",
+                    "web_entity_confidence": 0.081420004
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://sammlung.belvedere.at/internal/media/dispatcher/16387/full"
+                },
+                {
+                    "web_full_matching_image_url": "https://sammlung.belvedere.at/internal/media/dispatcher/16387/preview"
+                },
+                {
+                    "web_full_matching_image_url": "https://sammlung.belvedere.at/internal/media/dispatcher/16387/thumbnail"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/1976/prager-selbstbildnis"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/207/esparsettenfeld-bei-znaim-ii"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/97/16-ansichten-tschechischer-landschaften-ceska-krajina"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/12355/bohmerwald-aus-der-mappe-16-ansichten-tschechischer-landsc"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/12354/podripsko-aus-der-mappe-16-ansichten-tschechischer-landsch;jsessionid=DEA2985617F5FC26CEEAD44CA123BF6A"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/4157/ansicht-von-prag?ctx=8245f741b14b15d14e911afe1c11483724dee0e7&idx=2"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/9073/prag-im-winter?ctx=3d17e87809aa5bda9e68730a6641612da4574c41&idx=2"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/opencontent/images"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/2176/der-prager-hafen"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://sammlung.belvedere.at/objects/1074/sudetenland?ctx=686d326c93470330e94c9492e90993aa1febfc06&idx=8"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/YQoAAOSwkINhnBUH/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/YQoAAOSwkINhnBUH/s-l400.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://pictures.abebooks.com/inventory/31177176630.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images/2022_10/09/08/081704782/nancy-miller-paper-cut-sculpture-I1NLZ-570.Jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://katzfinemanuscripts.com/cdn/shop/products/0010256_watermark_300x300.png?v=1666210512"
+                },
+                {
+                    "web_visually_similar_image_url": "https://chadbourneantique.com/cdn/shop/products/1930s_lot_Art_Deco_period_paper_items_Julia_Richman_H.S._NYC_RSZ_12_2048x.JPG?v=1547055670"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.earthlygoods.com/media/products/personalized-seed-paper/seed-paper-flyer/PSFLY-seed-paper-flyer.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://fadedchronicle.com/cdn/shop/files/11_909d21ed-5490-45a3-9076-ec5ec5dde8b2_533x.jpg?v=1693889729"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.pmq.org.hk/media/upload/design-extra_takeo_061.gif"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/ppQAAOSwMMtjI48M/s-l1200.webp"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "paper"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 58.165382385253906,
+                "text": "jin CECH.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2681207060813904,
+                        "Height": 0.040125925093889236,
+                        "Left": 0.32035475969314575,
+                        "Top": 0.7299765348434448
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.32035475969314575,
+                            "Y": 0.7299765348434448
+                        },
+                        {
+                            "X": 0.5884754657745361,
+                            "Y": 0.7299765348434448
+                        },
+                        {
+                            "X": 0.5884754657745361,
+                            "Y": 0.7701025009155273
+                        },
+                        {
+                            "X": 0.32035475969314575,
+                            "Y": 0.7701025009155273
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 83.46649169921875,
+                "text": "POVODEN",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.11247269064188004,
+                        "Height": 0.018190471455454826,
+                        "Left": 0.17694394290447235,
+                        "Top": 0.557357668876648
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.17694394290447235,
+                            "Y": 0.557357668876648
+                        },
+                        {
+                            "X": 0.289416640996933,
+                            "Y": 0.557357668876648
+                        },
+                        {
+                            "X": 0.289416640996933,
+                            "Y": 0.5755481123924255
+                        },
+                        {
+                            "X": 0.17694394290447235,
+                            "Y": 0.5755481123924255
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_2": {
+                "confidence": 98.4506607055664,
+                "text": "LABSKE",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09051193296909332,
+                        "Height": 0.016391165554523468,
+                        "Left": 0.33578014373779297,
+                        "Top": 0.561903178691864
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.33578014373779297,
+                            "Y": 0.561903178691864
+                        },
+                        {
+                            "X": 0.4262920916080475,
+                            "Y": 0.561903178691864
+                        },
+                        {
+                            "X": 0.4262920916080475,
+                            "Y": 0.5782943367958069
+                        },
+                        {
+                            "X": 0.33578014373779297,
+                            "Y": 0.5782943367958069
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_3": {
+                "confidence": 46.567691802978516,
+                "text": "NIZINE.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09182438254356384,
+                        "Height": 0.01727549359202385,
+                        "Left": 0.4420241415500641,
+                        "Top": 0.5617080926895142
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4420241415500641,
+                            "Y": 0.5617080926895142
+                        },
+                        {
+                            "X": 0.5338485240936279,
+                            "Y": 0.5617080926895142
+                        },
+                        {
+                            "X": 0.5338485240936279,
+                            "Y": 0.5789836049079895
+                        },
+                        {
+                            "X": 0.4420241415500641,
+                            "Y": 0.5789836049079895
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_4": {
+                "confidence": 93.08922576904297,
+                "text": "NEDOKONCENO.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1468304842710495,
+                        "Height": 0.015233675017952919,
+                        "Left": 0.6854814291000366,
+                        "Top": 0.5656424164772034
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6854814291000366,
+                            "Y": 0.5656424164772034
+                        },
+                        {
+                            "X": 0.8323119282722473,
+                            "Y": 0.5656424164772034
+                        },
+                        {
+                            "X": 0.8323119282722473,
+                            "Y": 0.5808760523796082
+                        },
+                        {
+                            "X": 0.6854814291000366,
+                            "Y": 0.5808760523796082
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_5": {
+                "confidence": 89.69324493408203,
+                "text": "/",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.014375101774930954,
+                        "Height": 0.010194722563028336,
+                        "Left": 0.4128236174583435,
+                        "Top": 0.5907194018363953
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4128236174583435,
+                            "Y": 0.5907194018363953
+                        },
+                        {
+                            "X": 0.42719870805740356,
+                            "Y": 0.5907194018363953
+                        },
+                        {
+                            "X": 0.42719870805740356,
+                            "Y": 0.6009141206741333
+                        },
+                        {
+                            "X": 0.4128236174583435,
+                            "Y": 0.6009141206741333
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_6": {
+                "confidence": 99.8918685913086,
+                "text": "CESKA",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2395140528678894,
+                        "Height": 0.05146156996488571,
+                        "Left": 0.1912069469690323,
+                        "Top": 0.5928044319152832
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.1912069469690323,
+                            "Y": 0.5928044319152832
+                        },
+                        {
+                            "X": 0.4307209849357605,
+                            "Y": 0.5928044319152832
+                        },
+                        {
+                            "X": 0.4307209849357605,
+                            "Y": 0.6442660093307495
+                        },
+                        {
+                            "X": 0.1912069469690323,
+                            "Y": 0.6442660093307495
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_7": {
+                "confidence": 99.73979949951172,
+                "text": "KRAJINA",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2916439473628998,
+                        "Height": 0.03731647506356239,
+                        "Left": 0.47172844409942627,
+                        "Top": 0.6085687279701233
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.47172844409942627,
+                            "Y": 0.6085687279701233
+                        },
+                        {
+                            "X": 0.7633724212646484,
+                            "Y": 0.6085687279701233
+                        },
+                        {
+                            "X": 0.7633724212646484,
+                            "Y": 0.6458852291107178
+                        },
+                        {
+                            "X": 0.47172844409942627,
+                            "Y": 0.6458852291107178
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_8": {
+                "confidence": 99.68540954589844,
+                "text": "SKIZZY",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.15809501707553864,
+                        "Height": 0.0219925194978714,
+                        "Left": 0.3827420175075531,
+                        "Top": 0.6673964262008667
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3827420175075531,
+                            "Y": 0.6673964262008667
+                        },
+                        {
+                            "X": 0.5408370494842529,
+                            "Y": 0.6673964262008667
+                        },
+                        {
+                            "X": 0.5408370494842529,
+                            "Y": 0.6893889904022217
+                        },
+                        {
+                            "X": 0.3827420175075531,
+                            "Y": 0.6893889904022217
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_9": {
+                "confidence": 96.0402603149414,
+                "text": "KCYKLU",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.15980979800224304,
+                        "Height": 0.0230416152626276,
+                        "Left": 0.1893177181482315,
+                        "Top": 0.7000032663345337
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.1893177181482315,
+                            "Y": 0.7000032663345337
+                        },
+                        {
+                            "X": 0.34912750124931335,
+                            "Y": 0.7000032663345337
+                        },
+                        {
+                            "X": 0.34912750124931335,
+                            "Y": 0.7230448722839355
+                        },
+                        {
+                            "X": 0.1893177181482315,
+                            "Y": 0.7230448722839355
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_10": {
+                "confidence": 95.68595886230469,
+                "text": "CHARAKTERISTICKYCH",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.42232006788253784,
+                        "Height": 0.03154200688004494,
+                        "Left": 0.36985301971435547,
+                        "Top": 0.6980658769607544
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.36985301971435547,
+                            "Y": 0.6980658769607544
+                        },
+                        {
+                            "X": 0.7921730875968933,
+                            "Y": 0.6980658769607544
+                        },
+                        {
+                            "X": 0.7921730875968933,
+                            "Y": 0.729607880115509
+                        },
+                        {
+                            "X": 0.36985301971435547,
+                            "Y": 0.729607880115509
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_11": {
+                "confidence": 93.19747924804688,
+                "text": "KRA=",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08666808903217316,
+                        "Height": 0.022507665678858757,
+                        "Left": 0.8198468089103699,
+                        "Top": 0.706950306892395
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8198468089103699,
+                            "Y": 0.706950306892395
+                        },
+                        {
+                            "X": 0.9065148830413818,
+                            "Y": 0.706950306892395
+                        },
+                        {
+                            "X": 0.9065148830413818,
+                            "Y": 0.7294579744338989
+                        },
+                        {
+                            "X": 0.8198468089103699,
+                            "Y": 0.7294579744338989
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_12": {
+                "confidence": 61.303001403808594,
+                "text": "jin",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09832176566123962,
+                        "Height": 0.040125925093889236,
+                        "Left": 0.32035475969314575,
+                        "Top": 0.7299765348434448
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.32035475969314575,
+                            "Y": 0.7299765348434448
+                        },
+                        {
+                            "X": 0.4186765253543854,
+                            "Y": 0.7299765348434448
+                        },
+                        {
+                            "X": 0.4186765253543854,
+                            "Y": 0.7701025009155273
+                        },
+                        {
+                            "X": 0.32035475969314575,
+                            "Y": 0.7701025009155273
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 55.02775955200195,
+                "text": "CECH.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.13432972133159637,
+                        "Height": 0.027609463781118393,
+                        "Left": 0.45414575934410095,
+                        "Top": 0.7356494069099426
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.45414575934410095,
+                            "Y": 0.7356494069099426
+                        },
+                        {
+                            "X": 0.5884754657745361,
+                            "Y": 0.7356494069099426
+                        },
+                        {
+                            "X": 0.5884754657745361,
+                            "Y": 0.7632588744163513
+                        },
+                        {
+                            "X": 0.45414575934410095,
+                            "Y": 0.7632588744163513
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            }
+        }
+    },
+    "image36_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Text",
+                "label_confidence": 99.71001434326172,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 97.1366195678711,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 94.91889953613281,
+                "overall_quality_sharpness": 100.0,
+                "overall_quality_contrast": 79.84882354736328,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 77.77777862548828,
+                "dominant_color_1_hex": "#2f4f4f",
+                "dominant_color_1_css": "darkslategrey",
+                "dominant_color_1_pixelpercent": 8.730158805847168,
+                "dominant_color_2_hex": "#c0c0c0",
+                "dominant_color_2_css": "silver",
+                "dominant_color_2_pixelpercent": 5.55555534362793,
+                "dominant_color_3_hex": "#808080",
+                "dominant_color_3_css": "gray",
+                "dominant_color_3_pixelpercent": 4.761904716491699,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 3.174603223800659
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.640084
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.5414933
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.5038839
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.47722462
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.4334636
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.42072183
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.39983582
+                },
+                {
+                    "web_entity_description": "Number",
+                    "web_entity_confidence": 0.3634009
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2939
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.2913
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/1200x/0a/27/af/0a27af75c594fdd62852db6cef4c0ba0.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ytimg.com/vi/0rrrAQswaKs/maxresdefault.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/995453380/vector/hand-writing-font-alphabets.jpg?s=1024x1024&w=is&k=20&c=xhZbYRKyMhX5CHl6tqf0ldRRZJA5EgOXgXXMYC8TLbk="
+                },
+                {
+                    "web_visually_similar_image_url": "https://previews.agefotostock.com/previewimage/medibigoff/9a526a919f3528ad953c0ecb840e57ab/esy-032573616.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://preview.redd.it/i-picked-this-writing-style-up-from-studying-old-family-v0-eg8lnidkpz891.png?auto=webp&s=bf133f33df1fd83f55f3c144fbd1ab66b404d842"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/thumbnails/007/362/699/small_2x/mercury-venus-earth-mars-jupiter-saturn-uranus-neptune-pluto-hand-written-names-of-solar-system-planet-stock-text-elements-on-white-background-brush-calligraphy-style-lettering-vector.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/7f/7f/49/7f7f49aa473fc2e0c19315a7cfc45118.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as1.ftcdn.net/v2/jpg/01/35/19/08/1000_F_135190871_fG3RNP2jlbe1NoeLw6SO4WaX3T0ZkmMG.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.w600.comps.canstockphoto.com/english-alphabet-rough-handwriting-font-clip-art-vector_csp27539064.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://st2.depositphotos.com/3754979/10912/i/450/depositphotos_109124180-stock-photo-happy-birthday-calligraphy-art-background.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            560,
+            2124,
+            2663,
+            2698
+        ]
+    },
+    "image36_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Text",
+                "label_confidence": 99.69007110595703,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 98.46051788330078,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Blade",
+                "label_confidence": 68.95118713378906,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Dagger",
+                "label_confidence": 68.95118713378906,
+                "label_boundings": [
+                    {
+                        "Width": 0.5642796754837036,
+                        "Height": 0.05974074825644493,
+                        "Left": 0.004274176433682442,
+                        "Top": 0.4687407314777374
+                    }
+                ]
+            },
+            {
+                "label_name": "Knife",
+                "label_confidence": 68.95118713378906,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Weapon",
+                "label_confidence": 68.95118713378906,
+                "label_boundings": []
+            },
+            {
+                "label_name": "White Board",
+                "label_confidence": 66.88854217529297,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.12826538085938,
+                "overall_quality_sharpness": 80.61959075927734,
+                "overall_quality_contrast": 79.35444641113281,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 89.76807403564453,
+                "dominant_color_1_hex": "#2f4f4f",
+                "dominant_color_1_css": "darkslategrey",
+                "dominant_color_1_pixelpercent": 6.412005424499512,
+                "dominant_color_2_hex": "#c0c0c0",
+                "dominant_color_2_css": "silver",
+                "dominant_color_2_pixelpercent": 1.2278308868408203,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 0.9549795389175415,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 0.6821282505989075,
+                "dominant_color_5_hex": "#808080",
+                "dominant_color_5_css": "gray",
+                "dominant_color_5_pixelpercent": 0.5457025766372681,
+                "dominant_color_6_hex": "#ffffff",
+                "dominant_color_6_css": "white",
+                "dominant_color_6_pixelpercent": 0.40927693247795105
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 2,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.53053856
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.49663723
+                },
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.4865135
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.43973434
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.43457368
+                },
+                {
+                    "web_entity_description": "Brand",
+                    "web_entity_confidence": 0.41206998
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.4073
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.39985645
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.39252344
+                },
+                {
+                    "web_entity_description": "Number",
+                    "web_entity_confidence": 0.35797405
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://image.made-in-china.com/2f0j00LamkKwthhHgr/75g-Pastel-Color-Offset-Paper.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.preciouspackaging.co.uk/9930-large_default/printed-paper-gift-card-holder-for-jewellers-ref-artico.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.meer.com/attachments/df00e0f12581bbc4ef756b174c348973f149bb54/store/fill/860/645/11819978f2c17dacb59df7e73c75de807301f73385dc3e99ed64c97c1325/Giuseppe-Chiari-Opera-importante-1990-Ink-on-paper-cm-30-x-42-slash-in-11-dot-8-x-16-dot-5.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2397929640353376"
+                },
+                {
+                    "web_visually_similar_image_url": "https://previews.agefotostock.com/previewimage/medibigoff/2104102ac183c77e6131947ba0773454/esy-043558343.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/41VUW7tv5pL._AC_UF894,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://farm3.staticflickr.com/2704/4090782772_4cf2525898.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.pond5.com/4k-end-being-write-paper-footage-053014108_prevstill.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://surbitonwritersgroup.files.wordpress.com/2015/02/writing-cycle.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/free-vector/merry-xmas-typography-sticker-hand-drawn-ink-lettering-vector_53876-151514.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "writing"
+                }
+            ]
+        },
+        "bounding_box": [
+            2047,
+            2038,
+            2647,
+            2557
+        ]
+    },
+    "image36_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Text",
+                "label_confidence": 99.21410369873047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 72.91702270507812,
+                "label_boundings": []
+            },
+            {
+                "label_name": "White Board",
+                "label_confidence": 69.12580108642578,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 66.35781860351562,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Fish",
+                "label_confidence": 66.35781860351562,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sea Life",
+                "label_confidence": 66.35781860351562,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Shark",
+                "label_confidence": 66.35781860351562,
+                "label_boundings": [
+                    {
+                        "Width": 0.9655902981758118,
+                        "Height": 0.5270608067512512,
+                        "Left": 0.03420846536755562,
+                        "Top": 0.08312239497900009
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.33745574951172,
+                "overall_quality_sharpness": 90.22901916503906,
+                "overall_quality_contrast": 82.98627471923828,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 85.75804138183594,
+                "dominant_color_1_hex": "#2f4f4f",
+                "dominant_color_1_css": "darkslategrey",
+                "dominant_color_1_pixelpercent": 9.64777946472168,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 1.5313935279846191,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 1.3782541751861572,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 0.9188361167907715,
+                "dominant_color_5_hex": "#ffffff",
+                "dominant_color_5_css": "white",
+                "dominant_color_5_pixelpercent": 0.7656967639923096,
+                "foreground_quality_brightness": 42.79413604736328,
+                "foreground_quality_sharpness": 100.0,
+                "foreground_dominant_color_0_hex": "#000000",
+                "foreground_dominant_color_0_css": "black",
+                "foreground_dominant_color_0_pixelpercent": 36.956520080566406,
+                "foreground_dominant_color_1_hex": "#2f4f4f",
+                "foreground_dominant_color_1_css": "darkslategrey",
+                "foreground_dominant_color_1_pixelpercent": 32.60869598388672,
+                "foreground_dominant_color_2_hex": "#dcdcdc",
+                "foreground_dominant_color_2_css": "gainsboro",
+                "foreground_dominant_color_2_pixelpercent": 15.217391014099121,
+                "foreground_dominant_color_3_hex": "#808080",
+                "foreground_dominant_color_3_css": "gray",
+                "foreground_dominant_color_3_pixelpercent": 4.34782600402832,
+                "foreground_dominant_color_4_hex": "#a9a9a9",
+                "foreground_dominant_color_4_css": "darkgrey",
+                "foreground_dominant_color_4_pixelpercent": 4.34782600402832,
+                "foreground_dominant_color_5_hex": "#c0c0c0",
+                "foreground_dominant_color_5_css": "silver",
+                "foreground_dominant_color_5_pixelpercent": 4.34782600402832,
+                "foreground_dominant_color_6_hex": "#ffffff",
+                "foreground_dominant_color_6_css": "white",
+                "foreground_dominant_color_6_pixelpercent": 2.17391300201416,
+                "background_quality_brightness": 95.41080474853516,
+                "background_quality_sharpness": 85.56774139404297,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 89.5114974975586,
+                "background_dominant_color_1_hex": "#2f4f4f",
+                "background_dominant_color_1_css": "darkslategrey",
+                "background_dominant_color_1_pixelpercent": 6.465517044067383,
+                "background_dominant_color_2_hex": "#808080",
+                "background_dominant_color_2_css": "gray",
+                "background_dominant_color_2_pixelpercent": 1.436781644821167,
+                "background_dominant_color_3_hex": "#c0c0c0",
+                "background_dominant_color_3_css": "silver",
+                "background_dominant_color_3_pixelpercent": 1.1494252681732178,
+                "background_dominant_color_4_hex": "#a9a9a9",
+                "background_dominant_color_4_css": "darkgrey",
+                "background_dominant_color_4_pixelpercent": 0.8620689511299133,
+                "background_dominant_color_5_hex": "#ffffff",
+                "background_dominant_color_5_css": "white",
+                "background_dominant_color_5_pixelpercent": 0.5747126340866089
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Keep a Child Alive",
+                "logo_confidence": 0.5763426,
+                "logo_vertices": [
+                    {
+                        "x": 19,
+                        "y": 488
+                    },
+                    {
+                        "x": 329,
+                        "y": 488
+                    },
+                    {
+                        "x": 329,
+                        "y": 566
+                    },
+                    {
+                        "x": 19,
+                        "y": 566
+                    }
+                ]
+            },
+            {
+                "logo_description": "Van Cleef & Arpels",
+                "logo_confidence": 0.56303865,
+                "logo_vertices": [
+                    {
+                        "x": 11,
+                        "y": 13
+                    },
+                    {
+                        "x": 329,
+                        "y": 13
+                    },
+                    {
+                        "x": 329,
+                        "y": 423
+                    },
+                    {
+                        "x": 11,
+                        "y": 423
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.64710015
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.6193188
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.5415593
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.5057992
+                },
+                {
+                    "web_entity_description": "Product design",
+                    "web_entity_confidence": 0.49816647
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.46390453
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.46241027
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.43184358
+                },
+                {
+                    "web_entity_description": "Number",
+                    "web_entity_confidence": 0.43074772
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.38280988
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://us.123rf.com/450wm/pozitiw/pozitiw1210/pozitiw121000094/15802545-vector-set-calligraphic-design-elements-and-page-decoration-lots-elements-to-embellish-your-layout.jpg?ver=6"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/1200x/99/05/22/99052222436f38402c7a3aa1168714e4.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://search-static.byjusweb.com/question-images/byjus/infinitestudent-images/ckeditor_assets/pictures/198822/content_24.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://mathworld.wolfram.com/images/equations/LeviathanNumber/Inline6.svg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://c8.alamy.com/comp/2E4BG0A/pistol-thin-line-icon-revolver-vector-illustration-isolated-on-white-gun-outline-style-design-designed-for-web-and-app-eps-10-2E4BG0A.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjIyNi1uaW5nLTU3LXJlbGlnaW9uLWpvYjEwMV8yLnBuZw.png?s=dc-DXKhqy-b4-gvsTNR04rrpxklJXoq6Qcme_Laz2Oo"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/1351308259/vector/anniversary-logotype-design.jpg?s=612x612&w=gi&k=20&c=BA6SBkke4p4w5m15wbdWVxYBeKD3x_dG8i9QwNEcJKs="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1433651264/vector/cheese-icon-logo-design-vector-template-illustration-sign-and-symbol.jpg?s=612x612&w=is&k=20&c=YP1Vax3ZsxCWBEGNNjek87uHwhpvl41Nxh-QwsLbem0="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1400947508/vector/set-of-chef-hat-restaurant-design-template.jpg?s=612x612&w=is&k=20&c=TNgwv5vH5JEkThcEQwSkYbNJivvEWsvYU9oOQgUHPOg="
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn4.vectorstock.com/i/1000x1000/97/73/hand-draw-design-father-day-celebration-vector-15159773.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            531,
+            1962,
+            860,
+            2530
+        ]
+    },
+    "image36_recognized_part_3": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.98165130615234,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.96992492675781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Land",
+                "label_confidence": 94.9769287109375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 94.9769287109375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 94.9769287109375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 88.52503204345703,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Water",
+                "label_confidence": 80.68925476074219,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 86.9457015991211,
+                "overall_quality_sharpness": 78.92774963378906,
+                "overall_quality_contrast": 46.154319763183594,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 43.59925842285156,
+                "dominant_color_1_hex": "#a9a9a9",
+                "dominant_color_1_css": "darkgrey",
+                "dominant_color_1_pixelpercent": 35.80704879760742,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 16.697587966918945,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 3.7105751037597656,
+                "dominant_color_4_hex": "#778899",
+                "dominant_color_4_css": "lightslategrey",
+                "dominant_color_4_pixelpercent": 0.18552875518798828
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.70674604
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.6719454
+                },
+                {
+                    "web_entity_description": "Water",
+                    "web_entity_confidence": 0.55093783
+                },
+                {
+                    "web_entity_description": "Watercolor painting",
+                    "web_entity_confidence": 0.4665962
+                },
+                {
+                    "web_entity_description": "Swamp",
+                    "web_entity_confidence": 0.45489043
+                },
+                {
+                    "web_entity_description": "Bayou",
+                    "web_entity_confidence": 0.4104847
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3891
+                },
+                {
+                    "web_entity_description": "Winter",
+                    "web_entity_confidence": 0.3769619
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3707
+                },
+                {
+                    "web_entity_description": "Snow",
+                    "web_entity_confidence": 0.3513964
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "http://museumqualityart.com/cdn/shop/products/DeepWinter_WebRes_20x16_MuseumQualityArt.jpg?v=1654439922&width=1024"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.saatchiart.com/saatchi/1719535/art/8791459/7854874-HSC00923-7.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://l-art.kiev.ua/image/catalog/1907.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i0.wp.com/www.lifeonthewall.net/wp-content/uploads/2021/12/Oil-Painting-Cleaning-Restoration-Near-Me-Houston.jpg?ssl=1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FGof6EELY5jakGa7lhNW3XQ%2Fnormalized.jpg&width=792"
+                },
+                {
+                    "web_visually_similar_image_url": "https://originalgallery.com/content/products/29836/29836_25040.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/winter-forest-landscape-tall-trees-snow-cover-january-frosty-day-park_494741-29738.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.artmajeur.com/medias/standard/m/p/mporembskawojtowicz/artwork/9026344_image.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/winter-forest-landscape-tall-trees-snow-cover-january-frosty-day-park_494741-25662.jpg?w=2000"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/winter-forest-landscape-tall-trees-snow-cover-january-frosty-day-park_494741-40957.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "water"
+                }
+            ]
+        },
+        "bounding_box": [
+            518,
+            887,
+            2503,
+            1973
+        ]
+    },
+    "image36_recognized_part_4": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Lighting",
+                "label_confidence": 99.95307922363281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Texture",
+                "label_confidence": 96.79952239990234,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 89.33435821533203,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Linen",
+                "label_confidence": 89.33435821533203,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Aluminium",
+                "label_confidence": 85.41473388671875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 63.967830657958984,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 60.17714309692383,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 84.46434783935547,
+                "overall_quality_sharpness": 78.40030670166016,
+                "overall_quality_contrast": 63.01644515991211,
+                "dominant_color_0_hex": "#808080",
+                "dominant_color_0_css": "gray",
+                "dominant_color_0_pixelpercent": 40.0,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 26.0,
+                "dominant_color_2_hex": "#c0c0c0",
+                "dominant_color_2_css": "silver",
+                "dominant_color_2_pixelpercent": 18.0,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 16.0
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.42641413
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.4076074
+                },
+                {
+                    "web_entity_description": "Wallpaper",
+                    "web_entity_confidence": 0.3822913
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34546784
+                },
+                {
+                    "web_entity_description": "Wallpaper",
+                    "web_entity_confidence": 0.2876
+                },
+                {
+                    "web_entity_description": "Computer",
+                    "web_entity_confidence": 0.2826
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2823
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2649
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2512
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://thumbs.dreamstime.com/b/corrugated-transparent-plastic-texture-9692348.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as2.ftcdn.net/v2/jpg/02/07/14/21/1000_F_207142195_ODIwEri8pcsUojeZww3KNgrzi8jlTEqi.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.sketchuptextureclub.com/public/texture_m/0185-oxford-blue-siding-satin-wood-texture-seamless.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.dreamstime.com/b/metal-sheet-material-texture-background-metal-sheet-material-texture-background-187262118.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.shutterstock.com/image-vector/seng-pattern-decorative-line-vector-250nw-2107631387.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/metal-sheet-material-texture-background_44706-544.jpg?w=360"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-vector/white-curtains-texture_651102-868.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.dreamstime.com/b/corrugated-aluminium-metal-sheet-texture-background-125434485.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.pexels.com/photos/459572/pexels-photo-459572.jpeg?cs=srgb&dl=pexels-pixabay-459572.jpg&fm=jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as1.ftcdn.net/v2/jpg/05/18/21/22/1000_F_518212234_huoRMw4ls6fIfJYSYQcuPer6ubmOg1rz.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sky"
+                }
+            ]
+        },
+        "bounding_box": [
+            730,
+            0,
+            1164,
+            9
+        ]
+    }
+}

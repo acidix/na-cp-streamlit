@@ -1,0 +1,1586 @@
+{
+    "id": "image_6",
+    "url": "https://media.dv.navigatingart.de/d64d6683-d3b3-408a-a5c5-2f22398a0636.jpg?signed=true&valid=1695733328&signature=BY3Ex0WLO0%2FbDr6UqWUjU6YYU6om49Q0lLRGhwJ1Ed5r6YujWgfXT1Ux8R2A8aqKFhhYYqG7zzipKPG94erO5Q%3D%3D",
+    "json": "development_test_job/image6/image6.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Adult",
+                "label_confidence": 98.95169067382812,
+                "label_boundings": [
+                    {
+                        "Width": 0.14051410555839539,
+                        "Height": 0.2030550092458725,
+                        "Left": 0.11529341340065002,
+                        "Top": 0.1291801482439041
+                    }
+                ]
+            },
+            {
+                "label_name": "Bride",
+                "label_confidence": 98.95169067382812,
+                "label_boundings": [
+                    {
+                        "Width": 0.14051410555839539,
+                        "Height": 0.2030550092458725,
+                        "Left": 0.11529341340065002,
+                        "Top": 0.1291801482439041
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 98.95169067382812,
+                "label_boundings": [
+                    {
+                        "Width": 0.14051410555839539,
+                        "Height": 0.2030550092458725,
+                        "Left": 0.11529341340065002,
+                        "Top": 0.1291801482439041
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 98.95169067382812,
+                "label_boundings": [
+                    {
+                        "Width": 0.14051410555839539,
+                        "Height": 0.2030550092458725,
+                        "Left": 0.11529341340065002,
+                        "Top": 0.1291801482439041
+                    },
+                    {
+                        "Width": 0.09460493177175522,
+                        "Height": 0.12492392957210541,
+                        "Left": 0.5823040008544922,
+                        "Top": 0.16202616691589355
+                    },
+                    {
+                        "Width": 0.15881827473640442,
+                        "Height": 0.06481931358575821,
+                        "Left": 0.5825278162956238,
+                        "Top": 0.16184085607528687
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 98.95169067382812,
+                "label_boundings": [
+                    {
+                        "Width": 0.14051410555839539,
+                        "Height": 0.2030550092458725,
+                        "Left": 0.11529341340065002,
+                        "Top": 0.1291801482439041
+                    }
+                ]
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 98.80732727050781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 97.55350494384766,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 89.4176254272461,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Plant",
+                "label_confidence": 74.1213607788086,
+                "label_boundings": [
+                    {
+                        "Width": 0.35491928458213806,
+                        "Height": 0.11878686398267746,
+                        "Left": 0.5665279626846313,
+                        "Top": 0.7566735148429871
+                    }
+                ]
+            },
+            {
+                "label_name": "Plate",
+                "label_confidence": 73.5701904296875,
+                "label_boundings": [
+                    {
+                        "Width": 0.15214885771274567,
+                        "Height": 0.033685751259326935,
+                        "Left": 0.41599711775779724,
+                        "Top": 0.6706821918487549
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.020736131817102432,
+                    "Height": 0.020641297101974487,
+                    "Left": 0.1825704276561737,
+                    "Top": 0.1416461020708084
+                },
+                "face_confidence": 91.44340515136719,
+                "face_has_smile": false,
+                "face_smile_confidence": 93.36592864990234,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.54359436035156,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.9966049194336,
+                "face_gender": "Female",
+                "face_gender_confidence": 92.61392211914062,
+                "face_has_beard": false,
+                "face_beard_confidence": 75.0918960571289,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.02656555175781,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 99.84902954101562,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 70.95271301269531,
+                "face_pose_roll": -3.357647180557251,
+                "face_pose_yaw": 21.65530014038086,
+                "face_pose_pitch": -6.795137882232666,
+                "face_brightness": 96.30874633789062,
+                "face_sharpness": 3.3018569946289062,
+                "emotion_type_disgusted": 48.223304748535156,
+                "emotion_type_calm": 29.896604537963867,
+                "emotion_type_angry": 8.821969032287598,
+                "emotion_type_surprised": 8.187525749206543,
+                "emotion_type_fear": 6.703866958618164,
+                "emotion_type_sad": 4.006890773773193,
+                "emotion_type_confused": 1.9907488822937012,
+                "emotion_type_happy": 1.093422293663025
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 97.50588989257812,
+                "overall_quality_sharpness": 80.0728530883789,
+                "overall_quality_contrast": 76.41791534423828,
+                "dominant_color_0_hex": "#ffebcd",
+                "dominant_color_0_css": "blanchedalmond",
+                "dominant_color_0_pixelpercent": 55.46666717529297,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 19.33333396911621,
+                "dominant_color_2_hex": "#ffffe0",
+                "dominant_color_2_css": "lightyellow",
+                "dominant_color_2_pixelpercent": 13.333333015441895,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 11.866666793823242,
+                "foreground_quality_brightness": 96.8108139038086,
+                "foreground_quality_sharpness": 83.05009460449219,
+                "foreground_dominant_color_0_hex": "#ffebcd",
+                "foreground_dominant_color_0_css": "blanchedalmond",
+                "foreground_dominant_color_0_pixelpercent": 66.19144439697266,
+                "foreground_dominant_color_1_hex": "#c0c0c0",
+                "foreground_dominant_color_1_css": "silver",
+                "foreground_dominant_color_1_pixelpercent": 14.867616653442383,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 12.0162935256958,
+                "foreground_dominant_color_3_hex": "#a9a9a9",
+                "foreground_dominant_color_3_css": "darkgrey",
+                "foreground_dominant_color_3_pixelpercent": 6.720977783203125,
+                "foreground_dominant_color_4_hex": "#ffffe0",
+                "foreground_dominant_color_4_css": "lightyellow",
+                "foreground_dominant_color_4_pixelpercent": 0.20366598665714264,
+                "background_quality_brightness": 98.88642883300781,
+                "background_quality_sharpness": 46.1835823059082,
+                "background_dominant_color_0_hex": "#ffebcd",
+                "background_dominant_color_0_css": "blanchedalmond",
+                "background_dominant_color_0_pixelpercent": 36.73469543457031,
+                "background_dominant_color_1_hex": "#ffffe0",
+                "background_dominant_color_1_css": "lightyellow",
+                "background_dominant_color_1_pixelpercent": 36.224491119384766,
+                "background_dominant_color_2_hex": "#808080",
+                "background_dominant_color_2_css": "gray",
+                "background_dominant_color_2_pixelpercent": 11.22449016571045,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 9.693877220153809,
+                "background_dominant_color_4_hex": "#c0c0c0",
+                "background_dominant_color_4_css": "silver",
+                "background_dominant_color_4_pixelpercent": 6.122448921203613
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Encyclop\u00e9die",
+                    "web_entity_confidence": 1.0731
+                },
+                {
+                    "web_entity_description": "Embroidery",
+                    "web_entity_confidence": 0.6834
+                },
+                {
+                    "web_entity_description": "18th century",
+                    "web_entity_confidence": 0.61215
+                },
+                {
+                    "web_entity_description": "Encyclopedia",
+                    "web_entity_confidence": 0.5511
+                },
+                {
+                    "web_entity_description": "Encyclop\u00e9distes",
+                    "web_entity_confidence": 0.4855
+                },
+                {
+                    "web_entity_description": "Encyclop\u00e9die",
+                    "web_entity_confidence": 0.4788
+                },
+                {
+                    "web_entity_description": "Dictionary",
+                    "web_entity_confidence": 0.4056
+                },
+                {
+                    "web_entity_description": "1751",
+                    "web_entity_confidence": 0.3977
+                },
+                {
+                    "web_entity_description": "Handicraft",
+                    "web_entity_confidence": 0.3903
+                },
+                {
+                    "web_entity_description": "Image",
+                    "web_entity_confidence": 0.3733
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://www.lookandlearn.com/history-images/preview/YCH/YCH039/YCH039366-001_Brodeur-Embroiderer-Section-18-Encyclop%C3%A9die-ou-dictionnaire-raisonn%C3%A9-des-sciences-des-arts-et-des-m%C3%A9tiers.jpg"
+                }
+            ],
+            "web_partial_matching_images": [
+                {
+                    "web_partial_matching_image_url": "https://c8.alamy.com/zoomses/6/516608db958e4f468c623b4cfac9ee07/2bf18b5.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://c8.alamy.com/zoomses/9/516608db958e4f468c623b4cfac9ee07/2bf18b5.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://l450v.alamy.com/450vit/2dmt8w0/brodeur-ricamatore-sezione-18-plate-1-enciclopedie-ou-dictionnaire-raisonne-des-sciences-des-arts-et-des-metiers-enciclopedia-o-dizionario-sistematico-delle-scienze-delle-arti-e-dei-mestieri-vol-19-benoit-louis-prevost-francese-1735-1804-incisione-su-carta-bianca-disegno-diviso-in-due-registri-in-top-register-una-scena-di-due-donne-tessendo-tessuto-in-una-stanza-a-sinistra-una-donna-tesse-un-telaio-e-guarda-verso-l-esterno-lo-spettatore-la-donna-sulla-destra-si-siede-a-un-tavolo-guardando-i-modelli-di-tessuto-nel-registro-inferiore-raffigurazioni-di-attrezzi-e-disegni-di-ricamo-2dmt8w0.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://trc-leiden.nl/trc-needles/media/k2/items/cache/2cb5176437c7f960ffcdb6d8a5d5ff82_XL.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://c8.alamy.com/compes/2pmchnp/impresion-brodeur-bordador-seccion-18-placa-1-encyclopedie-ou-dictionnaire-raisonne-des-sciences-des-arts-et-des-metiers-enciclopedia-o-diccionario-sistematico-de-las-ciencias-artes-y-oficios-vol-19-editado-por-denis-diderot-frances-1713-1784-jean-le-rond-d-alembert-frances-1717-1783-grabado-por-louis-benoit-prevost-1735-1804-francia-grabado-sobre-papel-sobre-blanco-grabado-sobre-papel-35-1-cm-x-22-6-cm-13-13-16-pulg-x-8-7-8-pulg-2pmchnp.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://artflsrv03.uchicago.edu/images/encyclopedie/V19/plate_19_18_1.jpeg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://cdn2.picryl.com/thumbnail/1763/12/31/print-brodeur-the-embroiderers-workshop-diderots-encyclopaedia-1763-ch-18613521-dd557f-200.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://pictura-prints.com/wp-content/uploads/2020/10/bb14159a-3-324x491.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://i.pinimg.com/136x136/c5/39/e8/c539e8fd7c9ea0e503879eaf062d3011--diderot-tambour-beading.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://i.pinimg.com/originals/c5/39/e8/c539e8fd7c9ea0e503879eaf062d3011.jpg"
+                }
+            ],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://quod.lib.umich.edu/d/did/did2222.0001.400/--embroiderer?rgn=main;view=fulltext"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.pinterest.com/pin/185562447124405212/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.pinterest.com/pin/libri-antichi-incisioni--185562447124405212/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://pictura-prints.com/product/2-antique-prints-brodeur-embroidery-handicraft-diderot-prevost-1751/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://pictura-prints.com/product/6-antique-prints-cartier-playing-cards-printing-tools-diderot-defehrt-1751/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://pictura-prints.com/product/6-antique-prints-boutonnier-button-maker-tools-workshop-diderot-prevost-1751/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/diderot-and-encyclopedia.html?page=2"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.pinterest.com/pin/348325352412100391/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/encyclopedie.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/encyclopedia-or-a-systematic-dictionary-of-the-sciences-arts-and-crafts-edited-by-denis-diderot-and-jean-le-rond-dalembert-published-in-france-between-1751-and-1772-location-national-library-of-france-scene-of-tin-foundry-factory-image358813975.html"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://www.modemuze.nl/sites/default/files/styles/wysiwyg/public/wysiwyg/blog_smuk_hasselt_borduurwerk_uit_frankrijk.jpg?itok=t-str3GF"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.etsystatic.com/6207706/r/il/5d2ddc/2624862471/il_fullxfull.2624862471_gxbd.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/5daabfe0ed74f86e8d1fcc3a/1596973203912-0SCAH8WLW3URD2UYRHRH/Diderot+Encyclopedia.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.le-livre.fr/photos/R10/R100001006.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.modemuze.nl/sites/default/files/styles/wysiwyg/public/wysiwyg/blog_smuk_hasselt_borduurwerk.jpg?itok=GRh4HlhJ"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.meisterdrucke.uk/kunstwerke/400w/Benoit-Louis_Prevost_-_Book_2_(Part_1)_Vol_2_Brodeur_Planche_I_(Embroiderer_Plate_1)_from_Encyclopdie_o_-_(MeisterDrucke-899722).jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://t1.thpservices.com/previewimage/gallil/5ea84a8bd770bf4f52d3ab8f419b90ac/dae-a2001680.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.picclickimg.com/n7QAAOSwcN1abkEQ/Stampa-antica-PLOMBERIE-PIOMBO-8-TAV-Encyclopedie-Diderot.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/1200x/4c/3d/59/4c3d593a0e54232c3662717f7279be69.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cloud10.todocoleccion.online/arte-grabados/tc/2023/06/13/16/416488479_tcimg_54F4E1CD.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "broderie diderot"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 42.52933883666992,
+                "text": "Brodeur :",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.14491064846515656,
+                        "Height": 0.023722657933831215,
+                        "Left": 0.422412633895874,
+                        "Top": 0.9135106801986694
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.422412633895874,
+                            "Y": 0.9150463938713074
+                        },
+                        {
+                            "X": 0.5670483708381653,
+                            "Y": 0.9135106801986694
+                        },
+                        {
+                            "X": 0.5673232674598694,
+                            "Y": 0.9356972575187683
+                        },
+                        {
+                            "X": 0.4226774275302887,
+                            "Y": 0.9372333288192749
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 41.480926513671875,
+                "text": "Pl.I",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.044918160885572433,
+                        "Height": 0.011477194726467133,
+                        "Left": 0.8698124885559082,
+                        "Top": 0.05367722362279892
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8698124885559082,
+                            "Y": 0.05414939299225807
+                        },
+                        {
+                            "X": 0.914581835269928,
+                            "Y": 0.05367722362279892
+                        },
+                        {
+                            "X": 0.9147306680679321,
+                            "Y": 0.06468219310045242
+                        },
+                        {
+                            "X": 0.8699597120285034,
+                            "Y": 0.06515441834926605
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 92.04022216796875,
+                "text": "fg.3.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05629607290029526,
+                        "Height": 0.012999934144318104,
+                        "Left": 0.47989705204963684,
+                        "Top": 0.38341107964515686
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.47989705204963684,
+                            "Y": 0.38400471210479736
+                        },
+                        {
+                            "X": 0.5360403656959534,
+                            "Y": 0.38341107964515686
+                        },
+                        {
+                            "X": 0.5361931324005127,
+                            "Y": 0.39581727981567383
+                        },
+                        {
+                            "X": 0.48004764318466187,
+                            "Y": 0.3964110016822815
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 94.58867645263672,
+                "text": "d",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.012662888504564762,
+                        "Height": 0.012128422036767006,
+                        "Left": 0.8738847374916077,
+                        "Top": 0.4003589451313019
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8738847374916077,
+                            "Y": 0.4004911482334137
+                        },
+                        {
+                            "X": 0.8863866925239563,
+                            "Y": 0.4003589451313019
+                        },
+                        {
+                            "X": 0.8865476250648499,
+                            "Y": 0.41235512495040894
+                        },
+                        {
+                            "X": 0.8740452527999878,
+                            "Y": 0.41248735785484314
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_4": {
+                "confidence": 80.9393539428711,
+                "text": "5.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.021618977189064026,
+                        "Height": 0.011342402547597885,
+                        "Left": 0.7105151414871216,
+                        "Top": 0.44052010774612427
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7105151414871216,
+                            "Y": 0.4407472610473633
+                        },
+                        {
+                            "X": 0.731990396976471,
+                            "Y": 0.44052010774612427
+                        },
+                        {
+                            "X": 0.7321341037750244,
+                            "Y": 0.45163530111312866
+                        },
+                        {
+                            "X": 0.710658073425293,
+                            "Y": 0.45186248421669006
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 80.13459777832031,
+                "text": "fg.4.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0699717327952385,
+                        "Height": 0.0162486769258976,
+                        "Left": 0.32915177941322327,
+                        "Top": 0.45729860663414
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.32915177941322327,
+                            "Y": 0.4580369293689728
+                        },
+                        {
+                            "X": 0.39893925189971924,
+                            "Y": 0.45729860663414
+                        },
+                        {
+                            "X": 0.39912348985671997,
+                            "Y": 0.4728088080883026
+                        },
+                        {
+                            "X": 0.3293325901031494,
+                            "Y": 0.4735472798347473
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 90.60792541503906,
+                "text": "a",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.014607153832912445,
+                        "Height": 0.00578380236402154,
+                        "Left": 0.14097203314304352,
+                        "Top": 0.47423404455184937
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.14097203314304352,
+                            "Y": 0.4743879437446594
+                        },
+                        {
+                            "X": 0.1555166393518448,
+                            "Y": 0.47423404455184937
+                        },
+                        {
+                            "X": 0.15557917952537537,
+                            "Y": 0.4798639416694641
+                        },
+                        {
+                            "X": 0.1410343199968338,
+                            "Y": 0.48001784086227417
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_7": {
+                "confidence": 83.65294647216797,
+                "text": "fg.6.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0643545389175415,
+                        "Height": 0.016518156975507736,
+                        "Left": 0.7150242924690247,
+                        "Top": 0.467766672372818
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7150242924690247,
+                            "Y": 0.46844542026519775
+                        },
+                        {
+                            "X": 0.7791717052459717,
+                            "Y": 0.467766672372818
+                        },
+                        {
+                            "X": 0.7793788313865662,
+                            "Y": 0.4836059808731079
+                        },
+                        {
+                            "X": 0.7152281999588013,
+                            "Y": 0.48428481817245483
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_8": {
+                "confidence": 93.07978820800781,
+                "text": "fig",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03317626565694809,
+                        "Height": 0.014162668958306313,
+                        "Left": 0.39050114154815674,
+                        "Top": 0.5056381821632385
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.39050114154815674,
+                            "Y": 0.5059875845909119
+                        },
+                        {
+                            "X": 0.4235122799873352,
+                            "Y": 0.5056381821632385
+                        },
+                        {
+                            "X": 0.4236774146556854,
+                            "Y": 0.5194514393806458
+                        },
+                        {
+                            "X": 0.39066481590270996,
+                            "Y": 0.5198008418083191
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_9": {
+                "confidence": 65.29667663574219,
+                "text": "7.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.02018127031624317,
+                        "Height": 0.011563584208488464,
+                        "Left": 0.435890257358551,
+                        "Top": 0.5081629753112793
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.435890257358551,
+                            "Y": 0.5083751082420349
+                        },
+                        {
+                            "X": 0.45593467354774475,
+                            "Y": 0.5081629753112793
+                        },
+                        {
+                            "X": 0.45607152581214905,
+                            "Y": 0.5195143818855286
+                        },
+                        {
+                            "X": 0.436026394367218,
+                            "Y": 0.519726574420929
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_10": {
+                "confidence": 65.48241424560547,
+                "text": "fg.9.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06300172954797745,
+                        "Height": 0.014421788044273853,
+                        "Left": 0.18932069838047028,
+                        "Top": 0.5562844276428223
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.18932069838047028,
+                            "Y": 0.5569498538970947
+                        },
+                        {
+                            "X": 0.25216543674468994,
+                            "Y": 0.5562844276428223
+                        },
+                        {
+                            "X": 0.2523224353790283,
+                            "Y": 0.570040762424469
+                        },
+                        {
+                            "X": 0.18947497010231018,
+                            "Y": 0.5707062482833862
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_11": {
+                "confidence": 54.55135726928711,
+                "text": "fig.11.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06271810829639435,
+                        "Height": 0.01703473925590515,
+                        "Left": 0.6675974130630493,
+                        "Top": 0.5866715312004089
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6675974130630493,
+                            "Y": 0.5873335599899292
+                        },
+                        {
+                            "X": 0.7301040291786194,
+                            "Y": 0.5866715312004089
+                        },
+                        {
+                            "X": 0.7303155064582825,
+                            "Y": 0.6030441522598267
+                        },
+                        {
+                            "X": 0.6678056716918945,
+                            "Y": 0.6037063002586365
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_12": {
+                "confidence": 20.176822662353516,
+                "text": "Sh.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.041104502975940704,
+                        "Height": 0.020357010886073112,
+                        "Left": 0.8687044978141785,
+                        "Top": 0.5898831486701965
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8687044978141785,
+                            "Y": 0.5903156399726868
+                        },
+                        {
+                            "X": 0.9095403552055359,
+                            "Y": 0.5898831486701965
+                        },
+                        {
+                            "X": 0.9098089933395386,
+                            "Y": 0.609807550907135
+                        },
+                        {
+                            "X": 0.868970513343811,
+                            "Y": 0.6102401614189148
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 26.89008331298828,
+                "text": "000000",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.12549012899398804,
+                        "Height": 0.00991850160062313,
+                        "Left": 0.20729324221611023,
+                        "Top": 0.6406767964363098
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.20729324221611023,
+                            "Y": 0.6420052647590637
+                        },
+                        {
+                            "X": 0.33268317580223083,
+                            "Y": 0.6406767964363098
+                        },
+                        {
+                            "X": 0.33278337121009827,
+                            "Y": 0.6492666602134705
+                        },
+                        {
+                            "X": 0.20739002525806427,
+                            "Y": 0.6505953073501587
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_14": {
+                "confidence": 62.978179931640625,
+                "text": "fig.13.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04458580166101456,
+                        "Height": 0.012648356147110462,
+                        "Left": 0.5960034728050232,
+                        "Top": 0.6335588693618774
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5960034728050232,
+                            "Y": 0.6340295672416687
+                        },
+                        {
+                            "X": 0.6404354572296143,
+                            "Y": 0.6335588693618774
+                        },
+                        {
+                            "X": 0.6405892968177795,
+                            "Y": 0.6457363963127136
+                        },
+                        {
+                            "X": 0.59615558385849,
+                            "Y": 0.6462072134017944
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_15": {
+                "confidence": 37.59550857543945,
+                "text": "fig 14",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05927874147891998,
+                        "Height": 0.015285282395780087,
+                        "Left": 0.1166483610868454,
+                        "Top": 0.6450580358505249
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.1166483610868454,
+                            "Y": 0.6456843614578247
+                        },
+                        {
+                            "X": 0.17576339840888977,
+                            "Y": 0.6450580358505249
+                        },
+                        {
+                            "X": 0.17592710256576538,
+                            "Y": 0.6597169041633606
+                        },
+                        {
+                            "X": 0.11680934578180313,
+                            "Y": 0.6603432893753052
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_16": {
+                "confidence": 32.41725540161133,
+                "text": "fig.10",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06338471919298172,
+                        "Height": 0.013305536471307278,
+                        "Left": 0.7446815967559814,
+                        "Top": 0.6443338394165039
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7446815967559814,
+                            "Y": 0.6450037360191345
+                        },
+                        {
+                            "X": 0.807900071144104,
+                            "Y": 0.6443338394165039
+                        },
+                        {
+                            "X": 0.8080663084983826,
+                            "Y": 0.6569694876670837
+                        },
+                        {
+                            "X": 0.7448453903198242,
+                            "Y": 0.6576393842697144
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_17": {
+                "confidence": 67.57186889648438,
+                "text": "fig.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04015431925654411,
+                        "Height": 0.013549720868468285,
+                        "Left": 0.5552987456321716,
+                        "Top": 0.8191581964492798
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5552987456321716,
+                            "Y": 0.819582462310791
+                        },
+                        {
+                            "X": 0.5952891707420349,
+                            "Y": 0.8191581964492798
+                        },
+                        {
+                            "X": 0.5954530239105225,
+                            "Y": 0.8322835564613342
+                        },
+                        {
+                            "X": 0.5554609298706055,
+                            "Y": 0.8327078819274902
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_18": {
+                "confidence": 83.161376953125,
+                "text": "15.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.023867907002568245,
+                        "Height": 0.009343214333057404,
+                        "Left": 0.5997403264045715,
+                        "Top": 0.8195124268531799
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5997403264045715,
+                            "Y": 0.8197644948959351
+                        },
+                        {
+                            "X": 0.6234939694404602,
+                            "Y": 0.8195124268531799
+                        },
+                        {
+                            "X": 0.6236082315444946,
+                            "Y": 0.8286036252975464
+                        },
+                        {
+                            "X": 0.5998539328575134,
+                            "Y": 0.8288556933403015
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_19": {
+                "confidence": 95.92376708984375,
+                "text": "Prevost",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.046942420303821564,
+                        "Height": 0.008733189664781094,
+                        "Left": 0.8528652191162109,
+                        "Top": 0.9053925275802612
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8528652191162109,
+                            "Y": 0.9058897495269775
+                        },
+                        {
+                            "X": 0.899696946144104,
+                            "Y": 0.9053925275802612
+                        },
+                        {
+                            "X": 0.8998076319694519,
+                            "Y": 0.9136284589767456
+                        },
+                        {
+                            "X": 0.8529746532440186,
+                            "Y": 0.9141257405281067
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_20": {
+                "confidence": 79.67855834960938,
+                "text": "fecit",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.026765070855617523,
+                        "Height": 0.008634701371192932,
+                        "Left": 0.8990239500999451,
+                        "Top": 0.9060154557228088
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8990239500999451,
+                            "Y": 0.9062983989715576
+                        },
+                        {
+                            "X": 0.9256761074066162,
+                            "Y": 0.9060154557228088
+                        },
+                        {
+                            "X": 0.9257890582084656,
+                            "Y": 0.914367139339447
+                        },
+                        {
+                            "X": 0.8991361856460571,
+                            "Y": 0.9146501421928406
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_21": {
+                "confidence": 42.52933883666992,
+                "text": "Brodeur :",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.14491064846515656,
+                        "Height": 0.023722657933831215,
+                        "Left": 0.422412633895874,
+                        "Top": 0.9135106801986694
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.422412633895874,
+                            "Y": 0.9150463938713074
+                        },
+                        {
+                            "X": 0.5670483708381653,
+                            "Y": 0.9135106801986694
+                        },
+                        {
+                            "X": 0.5673232674598694,
+                            "Y": 0.9356972575187683
+                        },
+                        {
+                            "X": 0.4226774275302887,
+                            "Y": 0.9372333288192749
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image6_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Text",
+                "label_confidence": 95.49678802490234,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 94.78764343261719,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Electronics",
+                "label_confidence": 91.66352844238281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Hardware",
+                "label_confidence": 91.66352844238281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Smoke Pipe",
+                "label_confidence": 83.54739379882812,
+                "label_boundings": [
+                    {
+                        "Width": 0.8718245625495911,
+                        "Height": 0.9625555872917175,
+                        "Left": 0.11038875579833984,
+                        "Top": 0.011047984473407269
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 97.36019897460938,
+                "overall_quality_sharpness": 6.110004901885986,
+                "overall_quality_contrast": 81.1783218383789,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 67.03910827636719,
+                "dominant_color_1_hex": "#696969",
+                "dominant_color_1_css": "dimgrey",
+                "dominant_color_1_pixelpercent": 11.173184394836426,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 7.262569904327393,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 5.586592197418213,
+                "dominant_color_4_hex": "#c0c0c0",
+                "dominant_color_4_css": "silver",
+                "dominant_color_4_pixelpercent": 5.027933120727539,
+                "dominant_color_5_hex": "#e6e6fa",
+                "dominant_color_5_css": "lavender",
+                "dominant_color_5_pixelpercent": 2.2346367835998535,
+                "dominant_color_6_hex": "#ffffff",
+                "dominant_color_6_css": "white",
+                "dominant_color_6_pixelpercent": 1.6759777069091797
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Banque de Luxembourg",
+                "logo_confidence": 0.6532042,
+                "logo_vertices": [
+                    {
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "x": 46,
+                        "y": 0
+                    },
+                    {
+                        "x": 46,
+                        "y": 52
+                    },
+                    {
+                        "y": 52,
+                        "x": 0
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Mode of transport",
+                    "web_entity_confidence": 0.48835707
+                },
+                {
+                    "web_entity_description": "Transport",
+                    "web_entity_confidence": 0.4233
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.4013616
+                },
+                {
+                    "web_entity_description": "Car",
+                    "web_entity_confidence": 0.39495
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.37438172
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3493503
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "Computer hardware",
+                    "web_entity_confidence": 0.2455
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/1319059476/es/foto/high-angle-view-of-snow-covered-land-bovec-slovenia.jpg?s=612x612&w=gi&k=20&c=BC0qn-A7v0OLRjxWFRlSWNvCEwqQLpkiOV42frm9hmQ="
+                },
+                {
+                    "web_visually_similar_image_url": "https://brookbush.s3.us-east-2.amazonaws.com/wordpress/wp-content/uploads/2017/11/PI-Angle-Openi-NLM-NIH.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.researchgate.net/publication/277968687/figure/fig2/AS:391868903903237@1470440235612/TEM-of-icosahedral-nanoparticles-with-30-tomography-tilt-angle-With-the-stage-tilt.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://loop.frontiersin.org/images/profile/2339507/24"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.epilightnewskin.co.uk/wp-content/uploads/co2-laser-skin-resurfacing-featured-Image-mid.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.researchgate.net/publication/311975498/figure/fig1/AS:1086732997001218@1636108745685/Segmental-lordotic-angle-a-and-lumbar-lordotic-angle-b_Q320.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/5dd9513b64a67a0989e41486/1585414752719-0XUNDT1VRALTICR7IX3Z/wiberg.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i0.wp.com/www.emdocs.net/wp-content/uploads/2015/04/Bohlers-angle-II.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.14septembre.fr/fr/system/files/styles/media_image_header/private/mercadier_solcouleplus_couleurshadow.jpg?itok=scEhuItB"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.tiktok.com/api/img/?itemId=7259200518977867009&location=0&aid=1988"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "hardware accessory"
+                }
+            ]
+        },
+        "bounding_box": [
+            828,
+            2753,
+            875,
+            2805
+        ]
+    },
+    "image6_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Adult",
+                "label_confidence": 99.15863037109375,
+                "label_boundings": [
+                    {
+                        "Width": 0.16542690992355347,
+                        "Height": 0.23631300032138824,
+                        "Left": 0.04774690046906471,
+                        "Top": 0.07756204158067703
+                    },
+                    {
+                        "Width": 0.11297307908535004,
+                        "Height": 0.14702695608139038,
+                        "Left": 0.5959742069244385,
+                        "Top": 0.1145000234246254
+                    }
+                ]
+            },
+            {
+                "label_name": "Bride",
+                "label_confidence": 99.15863037109375,
+                "label_boundings": [
+                    {
+                        "Width": 0.16542690992355347,
+                        "Height": 0.23631300032138824,
+                        "Left": 0.04774690046906471,
+                        "Top": 0.07756204158067703
+                    },
+                    {
+                        "Width": 0.11297307908535004,
+                        "Height": 0.14702695608139038,
+                        "Left": 0.5959742069244385,
+                        "Top": 0.1145000234246254
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 99.15863037109375,
+                "label_boundings": [
+                    {
+                        "Width": 0.16542690992355347,
+                        "Height": 0.23631300032138824,
+                        "Left": 0.04774690046906471,
+                        "Top": 0.07756204158067703
+                    },
+                    {
+                        "Width": 0.11297307908535004,
+                        "Height": 0.14702695608139038,
+                        "Left": 0.5959742069244385,
+                        "Top": 0.1145000234246254
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.15863037109375,
+                "label_boundings": [
+                    {
+                        "Width": 0.16542690992355347,
+                        "Height": 0.23631300032138824,
+                        "Left": 0.04774690046906471,
+                        "Top": 0.07756204158067703
+                    },
+                    {
+                        "Width": 0.11297307908535004,
+                        "Height": 0.14702695608139038,
+                        "Left": 0.5959742069244385,
+                        "Top": 0.1145000234246254
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 99.15863037109375,
+                "label_boundings": [
+                    {
+                        "Width": 0.16542690992355347,
+                        "Height": 0.23631300032138824,
+                        "Left": 0.04774690046906471,
+                        "Top": 0.07756204158067703
+                    },
+                    {
+                        "Width": 0.11297307908535004,
+                        "Height": 0.14702695608139038,
+                        "Left": 0.5959742069244385,
+                        "Top": 0.1145000234246254
+                    }
+                ]
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 97.62613677978516,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 93.95921325683594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Mortar Shell",
+                "label_confidence": 88.73666381835938,
+                "label_boundings": [
+                    {
+                        "Width": 0.4314342439174652,
+                        "Height": 0.051559608429670334,
+                        "Left": 0.27804964780807495,
+                        "Top": 0.530153214931488
+                    }
+                ]
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 86.734619140625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Gun",
+                "label_confidence": 76.00359344482422,
+                "label_boundings": [
+                    {
+                        "Width": 0.909331202507019,
+                        "Height": 0.039944328367710114,
+                        "Left": 0.03963927924633026,
+                        "Top": 0.34012821316719055
+                    },
+                    {
+                        "Width": 0.8737217783927917,
+                        "Height": 0.07466990500688553,
+                        "Left": 0.05125346779823303,
+                        "Top": 0.3897583484649658
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.030069848522543907,
+                    "Height": 0.02747487649321556,
+                    "Left": 0.12429828196763992,
+                    "Top": 0.08849822729825974
+                },
+                "face_confidence": 98.46394348144531,
+                "face_has_smile": false,
+                "face_smile_confidence": 91.67684936523438,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 94.97360229492188,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99467468261719,
+                "face_gender": "Female",
+                "face_gender_confidence": 69.48197937011719,
+                "face_has_beard": false,
+                "face_beard_confidence": 69.82649230957031,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 95.26551055908203,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 65.48944091796875,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 61.333621978759766,
+                "face_pose_roll": -3.5381321907043457,
+                "face_pose_yaw": 14.094840049743652,
+                "face_pose_pitch": -10.944809913635254,
+                "face_brightness": 95.45342254638672,
+                "face_sharpness": 7.589449882507324,
+                "emotion_type_disgusted": 33.26405715942383,
+                "emotion_type_calm": 19.113094329833984,
+                "emotion_type_fear": 15.148603439331055,
+                "emotion_type_angry": 11.380134582519531,
+                "emotion_type_surprised": 9.566060066223145,
+                "emotion_type_sad": 7.864350318908691,
+                "emotion_type_confused": 3.0498740673065186,
+                "emotion_type_happy": 2.6743576526641846
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 94.41720581054688,
+                "overall_quality_sharpness": 81.60787963867188,
+                "overall_quality_contrast": 77.54696655273438,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 54.26829147338867,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 15.650406837463379,
+                "dominant_color_2_hex": "#778899",
+                "dominant_color_2_css": "lightslategrey",
+                "dominant_color_2_pixelpercent": 12.872629165649414,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 6.910569190979004,
+                "dominant_color_4_hex": "#808080",
+                "dominant_color_4_css": "gray",
+                "dominant_color_4_pixelpercent": 5.4200544357299805,
+                "dominant_color_5_hex": "#2f4f4f",
+                "dominant_color_5_css": "darkslategrey",
+                "dominant_color_5_pixelpercent": 3.726287364959717,
+                "dominant_color_6_hex": "#b0c4de",
+                "dominant_color_6_css": "lightsteelblue",
+                "dominant_color_6_pixelpercent": 1.151761531829834,
+                "foreground_quality_brightness": 95.9210205078125,
+                "foreground_quality_sharpness": 86.80435943603516,
+                "foreground_dominant_color_0_hex": "#dcdcdc",
+                "foreground_dominant_color_0_css": "gainsboro",
+                "foreground_dominant_color_0_pixelpercent": 63.77358627319336,
+                "foreground_dominant_color_1_hex": "#c0c0c0",
+                "foreground_dominant_color_1_css": "silver",
+                "foreground_dominant_color_1_pixelpercent": 18.49056625366211,
+                "foreground_dominant_color_2_hex": "#a9a9a9",
+                "foreground_dominant_color_2_css": "darkgrey",
+                "foreground_dominant_color_2_pixelpercent": 10.94339656829834,
+                "foreground_dominant_color_3_hex": "#808080",
+                "foreground_dominant_color_3_css": "gray",
+                "foreground_dominant_color_3_pixelpercent": 6.792452812194824,
+                "background_quality_brightness": 93.76334381103516,
+                "background_quality_sharpness": 79.9774398803711,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 51.68634033203125,
+                "background_dominant_color_1_hex": "#778899",
+                "background_dominant_color_1_css": "lightslategrey",
+                "background_dominant_color_1_pixelpercent": 15.43001651763916,
+                "background_dominant_color_2_hex": "#c0c0c0",
+                "background_dominant_color_2_css": "silver",
+                "background_dominant_color_2_pixelpercent": 14.839797973632812,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 6.40809440612793,
+                "background_dominant_color_4_hex": "#808080",
+                "background_dominant_color_4_css": "gray",
+                "background_dominant_color_4_pixelpercent": 5.817875385284424,
+                "background_dominant_color_5_hex": "#2f4f4f",
+                "background_dominant_color_5_css": "darkslategrey",
+                "background_dominant_color_5_pixelpercent": 4.4688029289245605,
+                "background_dominant_color_6_hex": "#b0c4de",
+                "background_dominant_color_6_css": "lightsteelblue",
+                "background_dominant_color_6_pixelpercent": 1.3490724563598633
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Cartoon",
+                    "web_entity_confidence": 0.5847954
+                },
+                {
+                    "web_entity_description": "Organism",
+                    "web_entity_confidence": 0.5039709
+                },
+                {
+                    "web_entity_description": "Sketch",
+                    "web_entity_confidence": 0.49238384
+                },
+                {
+                    "web_entity_description": "Comics",
+                    "web_entity_confidence": 0.49091184
+                },
+                {
+                    "web_entity_description": "Vehicle designer",
+                    "web_entity_confidence": 0.4768413
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.46091285
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.4145
+                },
+                {
+                    "web_entity_description": "Diagram",
+                    "web_entity_confidence": 0.40765107
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3833082
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.3750055
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "x-raw-image:///f567e5b1c06028f1cf68e60ce926bd8bbd57f1c41251334aa06e6690e9d30092"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i1.read01.com/HlZ0w6UW69m-6HwbH9XmUGo/0.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.stmichaelashtead.org.uk/img/gallery/3/full/37.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://d3i71xaburhd42.cloudfront.net/39d917b925b9b31dc4d4e2ad9a4c14e8909b59d2/3-Figure4-1.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2789963091276239"
+                },
+                {
+                    "web_visually_similar_image_url": "x-raw-image:///e88c636dfd3775f12c7860c8aaa2e47db986fb6c0a7d4a7db57ea8ebc8c1e28c"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/1lIAAOSwux5YSZvB/s-l1200.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://ae01.alicdn.com/kf/HTB1_ZwuXsfrK1Rjy1Xdq6yemFXaK.jpg_640x640q90.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://67-72chevytrucks.com/gallery/data/1791/medium/image49.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://selectionrs.com/126150-home_default/book-porsche-boxster-the-986-series-1996-2004.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "cartoon"
+                }
+            ]
+        },
+        "bounding_box": [
+            145,
+            195,
+            1816,
+            2738
+        ]
+    }
+}

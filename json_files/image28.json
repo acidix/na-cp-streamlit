@@ -1,0 +1,1197 @@
+{
+    "id": "image_28",
+    "url": "https://media.dv.navigatingart.de/61221506-3075-4556-baf6-54ec26c9de6f.jpg?signed=true&valid=1695733328&signature=qA7%2FNcoT2SE4zpz6y4qu1U8uU4pOcNIhBiRiyRKawimsKDrpphJL5qmowcj6hKfLB8VFei2%2FFYYfqVWoOwRLxw%3D%3D",
+    "json": "development_test_job/image28/image28.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.9994888305664,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.9994888305664,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 98.9076156616211,
+                "label_boundings": [
+                    {
+                        "Width": 0.3432729244232178,
+                        "Height": 0.42187073826789856,
+                        "Left": 0.15998965501785278,
+                        "Top": 0.5407923460006714
+                    },
+                    {
+                        "Width": 0.34788909554481506,
+                        "Height": 0.48134034872055054,
+                        "Left": 0.5884823203086853,
+                        "Top": 0.4149264693260193
+                    },
+                    {
+                        "Width": 0.2614873945713043,
+                        "Height": 0.2555820047855377,
+                        "Left": 0.11892103403806686,
+                        "Top": 0.07681751251220703
+                    },
+                    {
+                        "Width": 0.11069874465465546,
+                        "Height": 0.15601815283298492,
+                        "Left": 0.3642100691795349,
+                        "Top": 0.07637485861778259
+                    },
+                    {
+                        "Width": 0.21789856255054474,
+                        "Height": 0.26401811838150024,
+                        "Left": 0.4412110149860382,
+                        "Top": 0.11026927083730698
+                    },
+                    {
+                        "Width": 0.29108449816703796,
+                        "Height": 0.19793209433555603,
+                        "Left": 0.6521137952804565,
+                        "Top": 0.05323556810617447
+                    },
+                    {
+                        "Width": 0.17487135529518127,
+                        "Height": 0.12396194785833359,
+                        "Left": 0.06948380917310715,
+                        "Top": 0.06242215260863304
+                    },
+                    {
+                        "Width": 0.24726377427577972,
+                        "Height": 0.1548808068037033,
+                        "Left": 0.44931328296661377,
+                        "Top": 0.07121264934539795
+                    },
+                    {
+                        "Width": 0.22810178995132446,
+                        "Height": 0.27803337574005127,
+                        "Left": 0.4988945424556732,
+                        "Top": 0.4237729012966156
+                    }
+                ]
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 88.9271469116211,
+                "label_boundings": [
+                    {
+                        "Width": 0.17487135529518127,
+                        "Height": 0.12396194785833359,
+                        "Left": 0.06948380917310715,
+                        "Top": 0.06242215260863304
+                    },
+                    {
+                        "Width": 0.24726377427577972,
+                        "Height": 0.1548808068037033,
+                        "Left": 0.44931328296661377,
+                        "Top": 0.07121264934539795
+                    },
+                    {
+                        "Width": 0.24726377427577972,
+                        "Height": 0.1548808068037033,
+                        "Left": 0.44931328296661377,
+                        "Top": 0.07121264934539795
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 88.9271469116211,
+                "label_boundings": [
+                    {
+                        "Width": 0.17487135529518127,
+                        "Height": 0.12396194785833359,
+                        "Left": 0.06948380917310715,
+                        "Top": 0.06242215260863304
+                    },
+                    {
+                        "Width": 0.24726377427577972,
+                        "Height": 0.1548808068037033,
+                        "Left": 0.44931328296661377,
+                        "Top": 0.07121264934539795
+                    },
+                    {
+                        "Width": 0.24726377427577972,
+                        "Height": 0.1548808068037033,
+                        "Left": 0.44931328296661377,
+                        "Top": 0.07121264934539795
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 88.9271469116211,
+                "label_boundings": [
+                    {
+                        "Width": 0.17487135529518127,
+                        "Height": 0.12396194785833359,
+                        "Left": 0.06948380917310715,
+                        "Top": 0.06242215260863304
+                    },
+                    {
+                        "Width": 0.24726377427577972,
+                        "Height": 0.1548808068037033,
+                        "Left": 0.44931328296661377,
+                        "Top": 0.07121264934539795
+                    }
+                ]
+            },
+            {
+                "label_name": "Bride",
+                "label_confidence": 86.66818237304688,
+                "label_boundings": [
+                    {
+                        "Width": 0.24726377427577972,
+                        "Height": 0.1548808068037033,
+                        "Left": 0.44931328296661377,
+                        "Top": 0.07121264934539795
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 85.25386047363281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 85.25386047363281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Angel",
+                "label_confidence": 62.28609848022461,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.04833059012889862,
+                    "Height": 0.04476715251803398,
+                    "Left": 0.2734558880329132,
+                    "Top": 0.5564379692077637
+                },
+                "face_confidence": 99.94791412353516,
+                "face_has_smile": false,
+                "face_smile_confidence": 95.1242446899414,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.41452026367188,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99655151367188,
+                "face_gender": "Female",
+                "face_gender_confidence": 89.86343383789062,
+                "face_has_beard": false,
+                "face_beard_confidence": 80.20575714111328,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.14554595947266,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 86.34184265136719,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 91.2948226928711,
+                "face_pose_roll": 18.285293579101562,
+                "face_pose_yaw": 44.44398498535156,
+                "face_pose_pitch": 16.675687789916992,
+                "face_brightness": 84.3159408569336,
+                "face_sharpness": 20.927310943603516,
+                "emotion_type_calm": 98.60791778564453,
+                "emotion_type_surprised": 6.668651103973389,
+                "emotion_type_fear": 5.914516925811768,
+                "emotion_type_sad": 2.177766799926758,
+                "emotion_type_confused": 0.16868527233600616,
+                "emotion_type_angry": 0.11537830531597137,
+                "emotion_type_disgusted": 0.07812424749135971,
+                "emotion_type_happy": 0.0196462944149971
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.035882677882909775,
+                    "Height": 0.03573715314269066,
+                    "Left": 0.6010889410972595,
+                    "Top": 0.43937399983406067
+                },
+                "face_confidence": 85.58355712890625,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.97344207763672,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.72026824951172,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99671936035156,
+                "face_gender": "Female",
+                "face_gender_confidence": 53.536136627197266,
+                "face_has_beard": false,
+                "face_beard_confidence": 82.08743286132812,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.6973876953125,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 99.99466705322266,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 92.2638168334961,
+                "face_pose_roll": -63.008033752441406,
+                "face_pose_yaw": -61.665645599365234,
+                "face_pose_pitch": 32.77560043334961,
+                "face_brightness": 87.19534301757812,
+                "face_sharpness": 12.848764419555664,
+                "emotion_type_calm": 97.87748718261719,
+                "emotion_type_surprised": 6.364823818206787,
+                "emotion_type_fear": 5.898444652557373,
+                "emotion_type_sad": 2.6284291744232178,
+                "emotion_type_disgusted": 0.1330493986606598,
+                "emotion_type_confused": 0.11958327144384384,
+                "emotion_type_angry": 0.096351258456707,
+                "emotion_type_happy": 0.03629644215106964
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.0356421135365963,
+                    "Height": 0.02896842174232006,
+                    "Left": 0.2762397527694702,
+                    "Top": 0.09420176595449448
+                },
+                "face_confidence": 87.17510986328125,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.8779067993164,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.25479125976562,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99637603759766,
+                "face_gender": "Male",
+                "face_gender_confidence": 81.10617065429688,
+                "face_has_beard": false,
+                "face_beard_confidence": 80.081787109375,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.94451904296875,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 51.5578498840332,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 92.93396759033203,
+                "face_pose_roll": 42.204341888427734,
+                "face_pose_yaw": 68.83544158935547,
+                "face_pose_pitch": 4.387142181396484,
+                "face_brightness": 79.00125885009766,
+                "face_sharpness": 5.775668621063232,
+                "emotion_type_calm": 82.31829071044922,
+                "emotion_type_sad": 17.578575134277344,
+                "emotion_type_surprised": 6.35246467590332,
+                "emotion_type_fear": 5.995209217071533,
+                "emotion_type_confused": 0.40209659934043884,
+                "emotion_type_angry": 0.3964412808418274,
+                "emotion_type_disgusted": 0.225859135389328,
+                "emotion_type_happy": 0.21690139174461365
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.03316916525363922,
+                    "Height": 0.027262885123491287,
+                    "Left": 0.40397828817367554,
+                    "Top": 0.09232515096664429
+                },
+                "face_confidence": 99.78945922851562,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.4679946899414,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.56348419189453,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99659729003906,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.89420318603516,
+                "face_has_beard": false,
+                "face_beard_confidence": 88.58515930175781,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 97.53953552246094,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 84.4822998046875,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 87.4381332397461,
+                "face_pose_roll": -12.560593605041504,
+                "face_pose_yaw": 22.865543365478516,
+                "face_pose_pitch": -17.709514617919922,
+                "face_brightness": 82.78246307373047,
+                "face_sharpness": 4.3748369216918945,
+                "emotion_type_calm": 95.37881469726562,
+                "emotion_type_surprised": 6.528347015380859,
+                "emotion_type_fear": 5.910343170166016,
+                "emotion_type_disgusted": 2.852022409439087,
+                "emotion_type_sad": 2.276879072189331,
+                "emotion_type_angry": 0.33858174085617065,
+                "emotion_type_happy": 0.2559424638748169,
+                "emotion_type_confused": 0.12114981561899185
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.03490065038204193,
+                    "Height": 0.02545824460685253,
+                    "Left": 0.8131482005119324,
+                    "Top": 0.0655066967010498
+                },
+                "face_confidence": 67.09274291992188,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.66436767578125,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.23356628417969,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99645233154297,
+                "face_gender": "Female",
+                "face_gender_confidence": 73.68759155273438,
+                "face_has_beard": false,
+                "face_beard_confidence": 82.26126861572266,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.37176513671875,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 99.20066833496094,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 91.10149383544922,
+                "face_pose_roll": -17.176645278930664,
+                "face_pose_yaw": -14.625174522399902,
+                "face_pose_pitch": -15.16115951538086,
+                "face_brightness": 82.78150939941406,
+                "face_sharpness": 4.3748369216918945,
+                "emotion_type_sad": 99.40702056884766,
+                "emotion_type_calm": 34.217742919921875,
+                "emotion_type_surprised": 6.537628173828125,
+                "emotion_type_fear": 6.048489093780518,
+                "emotion_type_confused": 0.8685144782066345,
+                "emotion_type_angry": 0.7003832459449768,
+                "emotion_type_disgusted": 0.4544486403465271,
+                "emotion_type_happy": 0.15062811970710754
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.023912427946925163,
+                    "Height": 0.020749107003211975,
+                    "Left": 0.3301717936992645,
+                    "Top": 0.07493188977241516
+                },
+                "face_confidence": 90.44005584716797,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.71004486083984,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 92.25799560546875,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.991943359375,
+                "face_gender": "Male",
+                "face_gender_confidence": 99.55765533447266,
+                "face_has_beard": false,
+                "face_beard_confidence": 50.37831115722656,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 95.4511489868164,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 97.14613342285156,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 91.33389282226562,
+                "face_pose_roll": 16.076406478881836,
+                "face_pose_yaw": 42.154136657714844,
+                "face_pose_pitch": 20.922956466674805,
+                "face_brightness": 88.45619201660156,
+                "face_sharpness": 2.485198736190796,
+                "emotion_type_calm": 97.41917419433594,
+                "emotion_type_fear": 6.45892858505249,
+                "emotion_type_surprised": 6.316028594970703,
+                "emotion_type_sad": 2.2638816833496094,
+                "emotion_type_disgusted": 0.3244261145591736,
+                "emotion_type_confused": 0.09756011515855789,
+                "emotion_type_angry": 0.07964982092380524,
+                "emotion_type_happy": 0.06767351925373077
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 60.7678108215332,
+                "overall_quality_sharpness": 83.76203155517578,
+                "overall_quality_contrast": 78.90316009521484,
+                "dominant_color_0_hex": "#696969",
+                "dominant_color_0_css": "dimgrey",
+                "dominant_color_0_pixelpercent": 34.98402404785156,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 22.763578414916992,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 21.805110931396484,
+                "dominant_color_3_hex": "#000000",
+                "dominant_color_3_css": "black",
+                "dominant_color_3_pixelpercent": 9.424920082092285,
+                "dominant_color_4_hex": "#c0c0c0",
+                "dominant_color_4_css": "silver",
+                "dominant_color_4_pixelpercent": 3.115015983581543,
+                "dominant_color_5_hex": "#556b2f",
+                "dominant_color_5_css": "darkolivegreen",
+                "dominant_color_5_pixelpercent": 2.6357827186584473,
+                "dominant_color_6_hex": "#a0522d",
+                "dominant_color_6_css": "sienna",
+                "dominant_color_6_pixelpercent": 2.555910587310791,
+                "dominant_color_7_hex": "#bdb76b",
+                "dominant_color_7_css": "darkkhaki",
+                "dominant_color_7_pixelpercent": 2.0766773223876953,
+                "dominant_color_8_hex": "#bc8f8f",
+                "dominant_color_8_css": "rosybrown",
+                "dominant_color_8_pixelpercent": 0.6389776468276978,
+                "foreground_quality_brightness": 63.60260009765625,
+                "foreground_quality_sharpness": 86.17435455322266,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 46.93877410888672,
+                "foreground_dominant_color_1_hex": "#808080",
+                "foreground_dominant_color_1_css": "gray",
+                "foreground_dominant_color_1_pixelpercent": 29.974489212036133,
+                "foreground_dominant_color_2_hex": "#000000",
+                "foreground_dominant_color_2_css": "black",
+                "foreground_dominant_color_2_pixelpercent": 7.780612468719482,
+                "foreground_dominant_color_3_hex": "#556b2f",
+                "foreground_dominant_color_3_css": "darkolivegreen",
+                "foreground_dominant_color_3_pixelpercent": 5.994897842407227,
+                "foreground_dominant_color_4_hex": "#c0c0c0",
+                "foreground_dominant_color_4_css": "silver",
+                "foreground_dominant_color_4_pixelpercent": 5.2295918464660645,
+                "foreground_dominant_color_5_hex": "#d2b48c",
+                "foreground_dominant_color_5_css": "tan",
+                "foreground_dominant_color_5_pixelpercent": 2.423469305038452,
+                "foreground_dominant_color_6_hex": "#a0522d",
+                "foreground_dominant_color_6_css": "sienna",
+                "foreground_dominant_color_6_pixelpercent": 1.65816330909729,
+                "background_quality_brightness": 58.91920852661133,
+                "background_quality_sharpness": 79.18685913085938,
+                "background_dominant_color_0_hex": "#2f4f4f",
+                "background_dominant_color_0_css": "darkslategrey",
+                "background_dominant_color_0_pixelpercent": 44.96527862548828,
+                "background_dominant_color_1_hex": "#696969",
+                "background_dominant_color_1_css": "dimgrey",
+                "background_dominant_color_1_pixelpercent": 21.35416603088379,
+                "background_dominant_color_2_hex": "#808080",
+                "background_dominant_color_2_css": "gray",
+                "background_dominant_color_2_pixelpercent": 13.715277671813965,
+                "background_dominant_color_3_hex": "#000000",
+                "background_dominant_color_3_css": "black",
+                "background_dominant_color_3_pixelpercent": 8.333333015441895,
+                "background_dominant_color_4_hex": "#a9a9a9",
+                "background_dominant_color_4_css": "darkgrey",
+                "background_dominant_color_4_pixelpercent": 4.6875,
+                "background_dominant_color_5_hex": "#556b2f",
+                "background_dominant_color_5_css": "darkolivegreen",
+                "background_dominant_color_5_pixelpercent": 3.819444417953491,
+                "background_dominant_color_6_hex": "#8b4513",
+                "background_dominant_color_6_css": "saddlebrown",
+                "background_dominant_color_6_pixelpercent": 2.430555582046509,
+                "background_dominant_color_7_hex": "#ffebcd",
+                "background_dominant_color_7_css": "blanchedalmond",
+                "background_dominant_color_7_pixelpercent": 0.6944444179534912
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Thyssen-Bornemisza Museum",
+                    "web_entity_confidence": 1.0906501
+                },
+                {
+                    "web_entity_description": "Museo Nacional del Prado",
+                    "web_entity_confidence": 1.0617
+                },
+                {
+                    "web_entity_description": "Annunciation",
+                    "web_entity_confidence": 1.0605
+                },
+                {
+                    "web_entity_description": "Annunciation",
+                    "web_entity_confidence": 0.95879996
+                },
+                {
+                    "web_entity_description": "The Annunciation",
+                    "web_entity_confidence": 0.86160004
+                },
+                {
+                    "web_entity_description": "Annunciation",
+                    "web_entity_confidence": 0.84450006
+                },
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.711
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.7017
+                },
+                {
+                    "web_entity_description": "Artist",
+                    "web_entity_confidence": 0.5957
+                },
+                {
+                    "web_entity_description": "Exhibition",
+                    "web_entity_confidence": 0.5527
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://www.jamesmagazine.it/wp-content/uploads/2023/07/GRECO-El-D.-Theotoko%CC%81poulos_Anunciacion_171-1954.1-FOTOH_DIG.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "http://www.arte.it/foto/orig/8e/142819-Anunciacion.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://observandoelparaiso.files.wordpress.com/2014/12/anunciacic3b3n-del-greco-c-1596-1600.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://i2.wp.com/ic.pics.livejournal.com/philologist/23000738/4643574/4643574_original.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.museothyssen.org/sites/default/files/styles/full_resolution/public/imagen/obras/1954.1_anunciacion.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.museothyssen.org/sites/default/files/imagen/obras/1954.1_anunciacion.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.theartpostblog.com/wp-content/uploads/2023/08/img-El-Greco-Annunciazione.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://images2-wpc.corriereobjects.it/fzqim0aucSOkdB3tBwQihVnIndk=/fit-in/1486x2560/style.corriere.it/assets/uploads/2023/07/GRECO-El-D-TheotokopoulosAnunciacion_171-1954.1-FOTOHDIG.jpg?v=449880"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.artribune.com/wp-content/uploads/2023/07/GRECO-El-D.-Theotokopoulos_Anunciacion_171-1954.1-FOTOHDIG.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.nationalgeographic.com.es/medio/2018/02/28/el-greco-arte-y-oficio__1280x2205.JPG"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://www.museothyssen.org/en/collection/artists/greco-domenikos-theotokopoulos/annunciation"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.escapeauthority.com/author/escape-authority/petite-26/the-annunciation-painting-by-el-greco-pixels-pp-JPvaEWtl"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.myartprints.com/a/el-greco/dieverkndigung-14.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.art-prints-on-demand.com/a/el-greco/dieverkndigung-14.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.museothyssen.org/en/exhibitions/greco"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.conceptualfinearts.com/cfa/2014/01/16/el-greco-tribute-and-restoration-for-an-incorrigible-genius-400-years-after-his-death/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.museothyssen.org/en/activities/diverthyssen"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://bizinfotechnology.com/zeb.php?cid=272&shop=annunciation+el+greco+museo+thyssen+bornemisza&g=2"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.clydefitchreport.com/2018/08/spanish-san-antonio-painting-exhibition/museo-thyssen-bornemisza-3/"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.meisterdrucke.uk/artist/El-Greco/5.html"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://az334033.vo.msecnd.net/images-2/the-annunciation-el-greco-a2a362c4.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/El_Greco_%28Dom%C3%A9nikos_Theotok%C3%B3poulos%29_-_The_Annunciation_-_Google_Art_Project_%28807333%29.jpg/1200px-El_Greco_%28Dom%C3%A9nikos_Theotok%C3%B3poulos%29_-_The_Annunciation_-_Google_Art_Project_%28807333%29.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.mediastorehouse.com/p/164/annunciation-1597-1600-el-greco-14406422.jpg.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://imgc.artprintimages.com/img/print/el-greco-the-annunciation-about-1597-1600_u-l-q1jm1g20.jpg?background=f3f3f3"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Anunciaci%C3%B3n_Greco-Sig%C3%BCenza.JPG"
+                },
+                {
+                    "web_visually_similar_image_url": "https://painting-planet.com/images/4/image349.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg/176px-Domenikos_Theotokopoulos%2C_El_Greco_-_The_Annunciation_-_Google_Art_Project.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/El_Greco_circle_-_Annunciation_2020_CKS_18877_0130.jpg/1200px-El_Greco_circle_-_Annunciation_2020_CKS_18877_0130.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.allartclassic.com/img/works/The_Annunciation_painting_reproduction_El_Greco.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.gallerix.asia/sr/G/442445070/3129.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "el greco annunciation"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 10.522958755493164,
+                "text": "returns",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07430006563663483,
+                        "Height": 0.008785220794379711,
+                        "Left": 0.5320715308189392,
+                        "Top": 0.8994272947311401
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5320723652839661,
+                            "Y": 0.8994272947311401
+                        },
+                        {
+                            "X": 0.6063704490661621,
+                            "Y": 0.900438129901886
+                        },
+                        {
+                            "X": 0.6063715815544128,
+                            "Y": 0.9082124829292297
+                        },
+                        {
+                            "X": 0.5320715308189392,
+                            "Y": 0.9072020053863525
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 10.522958755493164,
+                "text": "returns",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07430006563663483,
+                        "Height": 0.008785220794379711,
+                        "Left": 0.5320715308189392,
+                        "Top": 0.8994272947311401
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5320723652839661,
+                            "Y": 0.8994272947311401
+                        },
+                        {
+                            "X": 0.6063704490661621,
+                            "Y": 0.900438129901886
+                        },
+                        {
+                            "X": 0.6063715815544128,
+                            "Y": 0.9082124829292297
+                        },
+                        {
+                            "X": 0.5320715308189392,
+                            "Y": 0.9072020053863525
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image28_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.99633026123047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.99633026123047,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 98.7050552368164,
+                "label_boundings": [
+                    {
+                        "Width": 0.351319819688797,
+                        "Height": 0.4222574532032013,
+                        "Left": 0.1525537520647049,
+                        "Top": 0.5403939485549927
+                    },
+                    {
+                        "Width": 0.35154590010643005,
+                        "Height": 0.4633806645870209,
+                        "Left": 0.5877612829208374,
+                        "Top": 0.4141938388347626
+                    },
+                    {
+                        "Width": 0.2689821124076843,
+                        "Height": 0.25896620750427246,
+                        "Left": 0.11968400329351425,
+                        "Top": 0.07685686647891998
+                    },
+                    {
+                        "Width": 0.2126648873090744,
+                        "Height": 0.3081086277961731,
+                        "Left": 0.4420578181743622,
+                        "Top": 0.06878571957349777
+                    },
+                    {
+                        "Width": 0.11018133908510208,
+                        "Height": 0.15607576072216034,
+                        "Left": 0.3628850281238556,
+                        "Top": 0.07508398592472076
+                    },
+                    {
+                        "Width": 0.25322970747947693,
+                        "Height": 0.15450051426887512,
+                        "Left": 0.44777387380599976,
+                        "Top": 0.06964600086212158
+                    },
+                    {
+                        "Width": 0.23218609392642975,
+                        "Height": 0.13419772684574127,
+                        "Left": 0.6500192284584045,
+                        "Top": 0.05074574053287506
+                    },
+                    {
+                        "Width": 0.27000343799591064,
+                        "Height": 0.19268600642681122,
+                        "Left": 0.669586181640625,
+                        "Top": 0.06212391331791878
+                    },
+                    {
+                        "Width": 0.506771981716156,
+                        "Height": 0.41180506348609924,
+                        "Left": 0.4180188477039337,
+                        "Top": 0.12611663341522217
+                    },
+                    {
+                        "Width": 0.4606708586215973,
+                        "Height": 0.4799436628818512,
+                        "Left": 0.3816573917865753,
+                        "Top": 0.41687628626823425
+                    }
+                ]
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 96.81452178955078,
+                "label_boundings": [
+                    {
+                        "Width": 0.2689821124076843,
+                        "Height": 0.25896620750427246,
+                        "Left": 0.11968400329351425,
+                        "Top": 0.07685686647891998
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 96.81452178955078,
+                "label_boundings": [
+                    {
+                        "Width": 0.2689821124076843,
+                        "Height": 0.25896620750427246,
+                        "Left": 0.11968400329351425,
+                        "Top": 0.07685686647891998
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 96.81452178955078,
+                "label_boundings": [
+                    {
+                        "Width": 0.2689821124076843,
+                        "Height": 0.25896620750427246,
+                        "Left": 0.11968400329351425,
+                        "Top": 0.07685686647891998
+                    }
+                ]
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 88.6279296875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 88.6279296875,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.048204366117715836,
+                    "Height": 0.043980713933706284,
+                    "Left": 0.27364248037338257,
+                    "Top": 0.5566360354423523
+                },
+                "face_confidence": 99.91677856445312,
+                "face_has_smile": false,
+                "face_smile_confidence": 95.05104064941406,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.03921508789062,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.9963150024414,
+                "face_gender": "Female",
+                "face_gender_confidence": 90.66759490966797,
+                "face_has_beard": false,
+                "face_beard_confidence": 76.64405822753906,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.91111755371094,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 91.67926025390625,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 82.47850036621094,
+                "face_pose_roll": 16.371135711669922,
+                "face_pose_yaw": 42.969913482666016,
+                "face_pose_pitch": 14.746896743774414,
+                "face_brightness": 83.72207641601562,
+                "face_sharpness": 20.927310943603516,
+                "emotion_type_calm": 88.10413360595703,
+                "emotion_type_surprised": 12.551136016845703,
+                "emotion_type_fear": 6.209888458251953,
+                "emotion_type_sad": 2.219679832458496,
+                "emotion_type_angry": 0.9191182255744934,
+                "emotion_type_confused": 0.4555553197860718,
+                "emotion_type_disgusted": 0.417178213596344,
+                "emotion_type_happy": 0.08928544074296951
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.0348949171602726,
+                    "Height": 0.028815163299441338,
+                    "Left": 0.27589914202690125,
+                    "Top": 0.09403081238269806
+                },
+                "face_confidence": 81.3388442993164,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.78491973876953,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.49278259277344,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99655151367188,
+                "face_gender": "Male",
+                "face_gender_confidence": 91.71371459960938,
+                "face_has_beard": false,
+                "face_beard_confidence": 80.49327850341797,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.53148651123047,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 73.2235336303711,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 92.22996520996094,
+                "face_pose_roll": 35.489967346191406,
+                "face_pose_yaw": 71.16535186767578,
+                "face_pose_pitch": -6.553168296813965,
+                "face_brightness": 77.88893127441406,
+                "face_sharpness": 5.775668621063232,
+                "emotion_type_calm": 89.67562866210938,
+                "emotion_type_surprised": 6.400839328765869,
+                "emotion_type_sad": 6.400500297546387,
+                "emotion_type_fear": 6.093588352203369,
+                "emotion_type_confused": 0.6636123657226562,
+                "emotion_type_angry": 0.3375374674797058,
+                "emotion_type_disgusted": 0.2521951496601105,
+                "emotion_type_happy": 0.2413288652896881
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.03516855090856552,
+                    "Height": 0.02591426856815815,
+                    "Left": 0.8119311928749084,
+                    "Top": 0.06543819606304169
+                },
+                "face_confidence": 85.55361938476562,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.28605651855469,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.04707336425781,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99630737304688,
+                "face_gender": "Male",
+                "face_gender_confidence": 79.46070098876953,
+                "face_has_beard": false,
+                "face_beard_confidence": 78.85394287109375,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 95.89744567871094,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 99.25582122802734,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 89.72542572021484,
+                "face_pose_roll": -19.08467674255371,
+                "face_pose_yaw": -16.050647735595703,
+                "face_pose_pitch": -10.376245498657227,
+                "face_brightness": 81.51434326171875,
+                "face_sharpness": 5.775668621063232,
+                "emotion_type_sad": 94.35555267333984,
+                "emotion_type_calm": 50.380279541015625,
+                "emotion_type_surprised": 6.69258451461792,
+                "emotion_type_fear": 6.1323089599609375,
+                "emotion_type_confused": 0.5671768188476562,
+                "emotion_type_disgusted": 0.4372389018535614,
+                "emotion_type_angry": 0.35223090648651123,
+                "emotion_type_happy": 0.2841034233570099
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.032490573823451996,
+                    "Height": 0.02695821411907673,
+                    "Left": 0.40474361181259155,
+                    "Top": 0.09215888381004333
+                },
+                "face_confidence": 99.62757873535156,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.50096130371094,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 97.5915756225586,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99662780761719,
+                "face_gender": "Female",
+                "face_gender_confidence": 99.76356506347656,
+                "face_has_beard": false,
+                "face_beard_confidence": 85.56363677978516,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 96.88642120361328,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 97.06710052490234,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 88.46658325195312,
+                "face_pose_roll": -11.202017784118652,
+                "face_pose_yaw": 22.185941696166992,
+                "face_pose_pitch": -14.940678596496582,
+                "face_brightness": 82.22260284423828,
+                "face_sharpness": 5.775668621063232,
+                "emotion_type_calm": 95.75438690185547,
+                "emotion_type_surprised": 6.556458950042725,
+                "emotion_type_fear": 5.946860313415527,
+                "emotion_type_sad": 2.4778432846069336,
+                "emotion_type_disgusted": 1.6101343631744385,
+                "emotion_type_angry": 0.37068846821784973,
+                "emotion_type_happy": 0.24886761605739594,
+                "emotion_type_confused": 0.20502632856369019
+            },
+            {
+                "face_boundings": {
+                    "Width": 0.024269070476293564,
+                    "Height": 0.02108059637248516,
+                    "Left": 0.3297654390335083,
+                    "Top": 0.07455545663833618
+                },
+                "face_confidence": 88.76285552978516,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.0164794921875,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 92.55602264404297,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99201202392578,
+                "face_gender": "Male",
+                "face_gender_confidence": 99.41097259521484,
+                "face_has_beard": false,
+                "face_beard_confidence": 60.811126708984375,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 95.32499694824219,
+                "face_has_eyes_open": true,
+                "face_eyes_open_confidence": 95.24463653564453,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 90.66421508789062,
+                "face_pose_roll": 19.935861587524414,
+                "face_pose_yaw": 45.610572814941406,
+                "face_pose_pitch": 24.512126922607422,
+                "face_brightness": 86.740478515625,
+                "face_sharpness": 2.485198736190796,
+                "emotion_type_calm": 89.74430847167969,
+                "emotion_type_surprised": 6.407310962677002,
+                "emotion_type_fear": 6.311574459075928,
+                "emotion_type_sad": 3.971991777420044,
+                "emotion_type_disgusted": 3.176300287246704,
+                "emotion_type_happy": 0.4955827593803406,
+                "emotion_type_confused": 0.36301568150520325,
+                "emotion_type_angry": 0.33967819809913635
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 59.778221130371094,
+                "overall_quality_sharpness": 83.3669204711914,
+                "overall_quality_contrast": 78.57548522949219,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 54.68861770629883,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 15.461703300476074,
+                "dominant_color_2_hex": "#000000",
+                "dominant_color_2_css": "black",
+                "dominant_color_2_pixelpercent": 9.019327163696289,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 7.229778289794922,
+                "dominant_color_4_hex": "#008b8b",
+                "dominant_color_4_css": "darkcyan",
+                "dominant_color_4_pixelpercent": 7.158195972442627,
+                "dominant_color_5_hex": "#4682b4",
+                "dominant_color_5_css": "steelblue",
+                "dominant_color_5_pixelpercent": 3.2211883068084717,
+                "dominant_color_6_hex": "#a9a9a9",
+                "dominant_color_6_css": "darkgrey",
+                "dominant_color_6_pixelpercent": 2.0758769512176514,
+                "dominant_color_7_hex": "#87ceeb",
+                "dominant_color_7_css": "skyblue",
+                "dominant_color_7_pixelpercent": 1.1453113555908203,
+                "foreground_quality_brightness": 64.3686752319336,
+                "foreground_quality_sharpness": 84.18961334228516,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 46.12546157836914,
+                "foreground_dominant_color_1_hex": "#808080",
+                "foreground_dominant_color_1_css": "gray",
+                "foreground_dominant_color_1_pixelpercent": 18.081180572509766,
+                "foreground_dominant_color_2_hex": "#c0c0c0",
+                "foreground_dominant_color_2_css": "silver",
+                "foreground_dominant_color_2_pixelpercent": 10.701107025146484,
+                "foreground_dominant_color_3_hex": "#008b8b",
+                "foreground_dominant_color_3_css": "darkcyan",
+                "foreground_dominant_color_3_pixelpercent": 10.147601127624512,
+                "foreground_dominant_color_4_hex": "#000000",
+                "foreground_dominant_color_4_css": "black",
+                "foreground_dominant_color_4_pixelpercent": 6.457564353942871,
+                "foreground_dominant_color_5_hex": "#4682b4",
+                "foreground_dominant_color_5_css": "steelblue",
+                "foreground_dominant_color_5_pixelpercent": 3.505535125732422,
+                "foreground_dominant_color_6_hex": "#a9a9a9",
+                "foreground_dominant_color_6_css": "darkgrey",
+                "foreground_dominant_color_6_pixelpercent": 2.7675275802612305,
+                "foreground_dominant_color_7_hex": "#5f9ea0",
+                "foreground_dominant_color_7_css": "cadetblue",
+                "foreground_dominant_color_7_pixelpercent": 2.214022159576416,
+                "background_quality_brightness": 57.95294189453125,
+                "background_quality_sharpness": 82.80116271972656,
+                "background_dominant_color_0_hex": "#2f4f4f",
+                "background_dominant_color_0_css": "darkslategrey",
+                "background_dominant_color_0_pixelpercent": 37.864078521728516,
+                "background_dominant_color_1_hex": "#808080",
+                "background_dominant_color_1_css": "gray",
+                "background_dominant_color_1_pixelpercent": 20.145631790161133,
+                "background_dominant_color_2_hex": "#696969",
+                "background_dominant_color_2_css": "dimgrey",
+                "background_dominant_color_2_pixelpercent": 16.504854202270508,
+                "background_dominant_color_3_hex": "#000000",
+                "background_dominant_color_3_css": "black",
+                "background_dominant_color_3_pixelpercent": 9.708738327026367,
+                "background_dominant_color_4_hex": "#483d8b",
+                "background_dominant_color_4_css": "darkslateblue",
+                "background_dominant_color_4_pixelpercent": 8.009708404541016,
+                "background_dominant_color_5_hex": "#c0c0c0",
+                "background_dominant_color_5_css": "silver",
+                "background_dominant_color_5_pixelpercent": 7.645630836486816,
+                "background_dominant_color_6_hex": "#4682b4",
+                "background_dominant_color_6_css": "steelblue",
+                "background_dominant_color_6_pixelpercent": 0.12135922163724899
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Painting",
+                    "web_entity_confidence": 0.65673923
+                },
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.6515878
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.4423
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3841
+                },
+                {
+                    "web_entity_description": "Watercolor painting",
+                    "web_entity_confidence": 0.3726846
+                },
+                {
+                    "web_entity_description": "Mythology",
+                    "web_entity_confidence": 0.36215258
+                },
+                {
+                    "web_entity_description": "Paint",
+                    "web_entity_confidence": 0.2903
+                },
+                {
+                    "web_entity_description": "Legendary creature",
+                    "web_entity_confidence": 0.2526
+                },
+                {
+                    "web_entity_description": "El Greco",
+                    "web_entity_confidence": 0.048015002
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://www.paintingmania.com/arts/el-greco/large/annunciation-1596-1600-267_54547.jpg?version=22.10.28"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.mediastorehouse.com/p/164/annunciation-1597-1600-el-greco-14406422.jpg.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/El_Greco_%28Dom%C3%A9nikos_Theotok%C3%B3poulos%29_-_The_Annunciation_-_Google_Art_Project_%28807333%29.jpg/1200px-El_Greco_%28Dom%C3%A9nikos_Theotok%C3%B3poulos%29_-_The_Annunciation_-_Google_Art_Project_%28807333%29.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Anunciaci%C3%B3n_Greco-Sig%C3%BCenza.JPG/270px-Anunciaci%C3%B3n_Greco-Sig%C3%BCenza.JPG"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.icanvas.com/BMN6220?d=2&sh=v&p=1&bg=g"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/default/print/6/8/break/images/artworkimages/medium/3/the-annunciation-1595-1600-el-greco.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.paintingmania.com/arts/el-greco/large/annunciation-4-267_54544.jpg?version=22.10.28"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.allartclassic.com/img/works/The_Annunciation_painting_reproduction_El_Greco.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/El_GRECO_%28Domenikos_Theotokopoulos%29_-_Annunciation_-_Google_Art_Project.jpg/220px-El_GRECO_%28Domenikos_Theotokopoulos%29_-_Annunciation_-_Google_Art_Project.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/16-the-annunciation-el-greco.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "annunciation"
+                }
+            ]
+        },
+        "bounding_box": [
+            0,
+            0,
+            1161,
+            2000
+        ]
+    }
+}

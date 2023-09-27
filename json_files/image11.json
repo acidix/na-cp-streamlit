@@ -1,0 +1,2961 @@
+{
+    "id": "image_11",
+    "url": "https://media.dv.navigatingart.de/e571e307-adb0-4f18-a9fe-c3c4a7658336.jpg?signed=true&valid=1695733328&signature=C0BPVctaVLEu%2F3vKD1Lm3hiKEcxEDxWXIq5tFD5nbpdgR%2BzpepcgiAhKKJZ8NoS24KFNdGDIdc2tcULEg%2FxM6w%3D%3D",
+    "json": "development_test_job/image11/image11.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.99998474121094,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.99998474121094,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 99.58780670166016,
+                "label_boundings": [
+                    {
+                        "Width": 0.5103606581687927,
+                        "Height": 0.6015545129776001,
+                        "Left": 0.25393998622894287,
+                        "Top": 0.1783953458070755
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 99.58780670166016,
+                "label_boundings": [
+                    {
+                        "Width": 0.5103606581687927,
+                        "Height": 0.6015545129776001,
+                        "Left": 0.25393998622894287,
+                        "Top": 0.1783953458070755
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.58780670166016,
+                "label_boundings": [
+                    {
+                        "Width": 0.5103606581687927,
+                        "Height": 0.6015545129776001,
+                        "Left": 0.25393998622894287,
+                        "Top": 0.1783953458070755
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 99.58780670166016,
+                "label_boundings": [
+                    {
+                        "Width": 0.5103606581687927,
+                        "Height": 0.6015545129776001,
+                        "Left": 0.25393998622894287,
+                        "Top": 0.1783953458070755
+                    }
+                ]
+            },
+            {
+                "label_name": "Photography",
+                "label_confidence": 99.41238403320312,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 98.80160522460938,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 98.80160522460938,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 98.80160522460938,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.1346537470817566,
+                    "Height": 0.15385372936725616,
+                    "Left": 0.44124090671539307,
+                    "Top": 0.2749512791633606
+                },
+                "face_confidence": 99.99556732177734,
+                "face_has_smile": false,
+                "face_smile_confidence": 94.02674102783203,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 93.53497314453125,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.99513244628906,
+                "face_gender": "Male",
+                "face_gender_confidence": 99.81298828125,
+                "face_has_beard": true,
+                "face_beard_confidence": 86.65131378173828,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 55.443267822265625,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 73.59593963623047,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 90.85151672363281,
+                "face_pose_roll": -1.3680458068847656,
+                "face_pose_yaw": 14.618383407592773,
+                "face_pose_pitch": 3.7738630771636963,
+                "face_brightness": 74.5169677734375,
+                "face_sharpness": 98.564208984375,
+                "emotion_type_calm": 74.97584533691406,
+                "emotion_type_sad": 16.430051803588867,
+                "emotion_type_fear": 7.414033889770508,
+                "emotion_type_surprised": 6.61323881149292,
+                "emotion_type_confused": 2.124706506729126,
+                "emotion_type_angry": 2.0140745639801025,
+                "emotion_type_disgusted": 0.6745126843452454,
+                "emotion_type_happy": 0.45076608657836914
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 73.48922729492188,
+                "overall_quality_sharpness": 83.77667236328125,
+                "overall_quality_contrast": 88.0689926147461,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 27.9973201751709,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 23.710649490356445,
+                "dominant_color_2_hex": "#ffebcd",
+                "dominant_color_2_css": "blanchedalmond",
+                "dominant_color_2_pixelpercent": 15.137307167053223,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 10.314802169799805,
+                "dominant_color_4_hex": "#000000",
+                "dominant_color_4_css": "black",
+                "dominant_color_4_pixelpercent": 7.6356329917907715,
+                "dominant_color_5_hex": "#696969",
+                "dominant_color_5_css": "dimgrey",
+                "dominant_color_5_pixelpercent": 7.501674652099609,
+                "dominant_color_6_hex": "#a9a9a9",
+                "dominant_color_6_css": "darkgrey",
+                "dominant_color_6_pixelpercent": 7.300736904144287,
+                "dominant_color_7_hex": "#dcdcdc",
+                "dominant_color_7_css": "gainsboro",
+                "dominant_color_7_pixelpercent": 0.40187540650367737,
+                "foreground_quality_brightness": 49.70134353637695,
+                "foreground_quality_sharpness": 83.831787109375,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 52.296451568603516,
+                "foreground_dominant_color_1_hex": "#808080",
+                "foreground_dominant_color_1_css": "gray",
+                "foreground_dominant_color_1_pixelpercent": 18.162839889526367,
+                "foreground_dominant_color_2_hex": "#000000",
+                "foreground_dominant_color_2_css": "black",
+                "foreground_dominant_color_2_pixelpercent": 14.09185791015625,
+                "foreground_dominant_color_3_hex": "#c0c0c0",
+                "foreground_dominant_color_3_css": "silver",
+                "foreground_dominant_color_3_pixelpercent": 7.828810214996338,
+                "foreground_dominant_color_4_hex": "#696969",
+                "foreground_dominant_color_4_css": "dimgrey",
+                "foreground_dominant_color_4_pixelpercent": 6.158663749694824,
+                "foreground_dominant_color_5_hex": "#ffebcd",
+                "foreground_dominant_color_5_css": "blanchedalmond",
+                "foreground_dominant_color_5_pixelpercent": 1.4613778591156006,
+                "background_quality_brightness": 84.58592224121094,
+                "background_quality_sharpness": 83.71080017089844,
+                "background_dominant_color_0_hex": "#808080",
+                "background_dominant_color_0_css": "gray",
+                "background_dominant_color_0_pixelpercent": 39.846744537353516,
+                "background_dominant_color_1_hex": "#ffebcd",
+                "background_dominant_color_1_css": "blanchedalmond",
+                "background_dominant_color_1_pixelpercent": 31.22605323791504,
+                "background_dominant_color_2_hex": "#c0c0c0",
+                "background_dominant_color_2_css": "silver",
+                "background_dominant_color_2_pixelpercent": 13.218390464782715,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 9.38697338104248,
+                "background_dominant_color_4_hex": "#2f4f4f",
+                "background_dominant_color_4_css": "darkslategrey",
+                "background_dominant_color_4_pixelpercent": 5.55555534362793,
+                "background_dominant_color_5_hex": "#dcdcdc",
+                "background_dominant_color_5_css": "gainsboro",
+                "background_dominant_color_5_pixelpercent": 0.7662835121154785
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Portrait",
+                    "web_entity_confidence": 1.2828183
+                },
+                {
+                    "web_entity_description": "Portrait of Catherine II of Russia",
+                    "web_entity_confidence": 0.9477
+                },
+                {
+                    "web_entity_description": "Portrait of Catherine II of Russia",
+                    "web_entity_confidence": 0.80340004
+                },
+                {
+                    "web_entity_description": "Portrait of Catherine II the Legislatress in the Temple of the Goddess of Justice",
+                    "web_entity_confidence": 0.6891
+                },
+                {
+                    "web_entity_description": "Image",
+                    "web_entity_confidence": 0.4849
+                },
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.42805526
+                },
+                {
+                    "web_entity_description": "Writer",
+                    "web_entity_confidence": 0.4264
+                },
+                {
+                    "web_entity_description": "Wikimedia Foundation",
+                    "web_entity_confidence": 0.3943
+                },
+                {
+                    "web_entity_description": "Yevgraf Chemesov",
+                    "web_entity_confidence": 0.106920004
+                },
+                {
+                    "web_entity_description": "Catherine II of Russia",
+                    "web_entity_confidence": 0.10655999
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Portret_van_Paul_Tallemant%2C_RP-P-BI-7404X.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.artic.edu/iiif/2/4943ebd3-26d1-e11e-e4a1-4ace853e5292/full/843,/0/default.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Portret_van_Paul_Tallemant%2C_RP-P-BI-7404X.jpg/800px-Portret_van_Paul_Tallemant%2C_RP-P-BI-7404X.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Anthony_Tuckney.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "http://hmao.kaisa.ru/image/1805464166/1"
+                }
+            ],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://picryl.com/topics/catherine+ii+of+russia+in+engraved+portraits"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://en.wikipedia.org/wiki/File:Anthony_Tuckney.jpg"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.artic.edu/artworks/60/pierre-dupuis-painter-to-the-king"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://en.wikipedia.org/wiki/Anthony_Tuckney"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.wikidata.org/wiki/Q450607"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.wikiwand.com/en/Anthony_Tuckney"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://uk.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Engraved_profile_of_Catherine_II_by_E.Chemesov_after_Rotari_(1762).jpg"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://garystockbridge617.getarchive.net/amp/topics/profile+portraits+of+catherine+ii"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://jenikirbyhistory.getarchive.net/topics/profile+portraits+of+catherine+ii"
+                },
+                {
+                    "web_page_with_matching_image_url": "http://hmao.kaisa.ru/object/1804872160/D_1803401815/17?lc=ru"
+                }
+            ],
+            "web_visually_similar_images": [],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "\u0447\u0435\u043c\u0435\u0441\u043e\u0432 \u043f\u043e\u0440\u0442\u0440\u0435\u0442 \u0435\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u044b 2"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 65.58182525634766,
+                "text": "Lbonneur, Qui Est,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1636928915977478,
+                        "Height": 0.02115580625832081,
+                        "Left": 0.2578316330909729,
+                        "Top": 0.9366598725318909
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.25790584087371826,
+                            "Y": 0.9366598725318909
+                        },
+                        {
+                            "X": 0.4215245246887207,
+                            "Y": 0.9387640357017517
+                        },
+                        {
+                            "X": 0.4214611351490021,
+                            "Y": 0.9578156471252441
+                        },
+                        {
+                            "X": 0.2578316330909729,
+                            "Y": 0.9556989669799805
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 98.74198150634766,
+                "text": "Ant",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.025021160021424294,
+                        "Height": 0.00835250411182642,
+                        "Left": 0.7010149955749512,
+                        "Top": 0.8402231931686401
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7010339498519897,
+                            "Y": 0.8402231931686401
+                        },
+                        {
+                            "X": 0.7260361909866333,
+                            "Y": 0.8405346274375916
+                        },
+                        {
+                            "X": 0.726017951965332,
+                            "Y": 0.8485757112503052
+                        },
+                        {
+                            "X": 0.7010149955749512,
+                            "Y": 0.8482635021209717
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_2": {
+                "confidence": 23.77338218688965,
+                "text": "X.Mignard",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08619547635316849,
+                        "Height": 0.012214363552629948,
+                        "Left": 0.10639799386262894,
+                        "Top": 0.8392512798309326
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.10644728690385818,
+                            "Y": 0.8392512798309326
+                        },
+                        {
+                            "X": 0.19259347021579742,
+                            "Y": 0.8403264880180359
+                        },
+                        {
+                            "X": 0.1925475001335144,
+                            "Y": 0.85146564245224
+                        },
+                        {
+                            "X": 0.10639799386262894,
+                            "Y": 0.8503865599632263
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 48.29550552368164,
+                "text": "Aucnionensis,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08671745657920837,
+                        "Height": 0.010444976389408112,
+                        "Left": 0.20562690496444702,
+                        "Top": 0.8393027782440186
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.20566509664058685,
+                            "Y": 0.8393027782440186
+                        },
+                        {
+                            "X": 0.2923443615436554,
+                            "Y": 0.8403842449188232
+                        },
+                        {
+                            "X": 0.2923089861869812,
+                            "Y": 0.8497477173805237
+                        },
+                        {
+                            "X": 0.20562690496444702,
+                            "Y": 0.8486630320549011
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_4": {
+                "confidence": 58.58470153808594,
+                "text": "Pinxit,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04430596902966499,
+                        "Height": 0.008603902533650398,
+                        "Left": 0.29732567071914673,
+                        "Top": 0.8398813009262085
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2973559498786926,
+                            "Y": 0.8398813009262085
+                        },
+                        {
+                            "X": 0.3416316509246826,
+                            "Y": 0.8404335975646973
+                        },
+                        {
+                            "X": 0.3416025936603546,
+                            "Y": 0.8484851717948914
+                        },
+                        {
+                            "X": 0.29732567071914673,
+                            "Y": 0.847931444644928
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 78.66505432128906,
+                "text": "Mafson",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0519573800265789,
+                        "Height": 0.011956200003623962,
+                        "Left": 0.7418895363807678,
+                        "Top": 0.8393378853797913
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7419145107269287,
+                            "Y": 0.8393378853797913
+                        },
+                        {
+                            "X": 0.7938469052314758,
+                            "Y": 0.8399844765663147
+                        },
+                        {
+                            "X": 0.7938239574432373,
+                            "Y": 0.8512941002845764
+                        },
+                        {
+                            "X": 0.7418895363807678,
+                            "Y": 0.850645124912262
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 61.433963775634766,
+                "text": "Sculpcbat",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05976715683937073,
+                        "Height": 0.014041256159543991,
+                        "Left": 0.7970954775810242,
+                        "Top": 0.838320791721344
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7971222996711731,
+                            "Y": 0.838320791721344
+                        },
+                        {
+                            "X": 0.8568626046180725,
+                            "Y": 0.8390641808509827
+                        },
+                        {
+                            "X": 0.8568385243415833,
+                            "Y": 0.8523620367050171
+                        },
+                        {
+                            "X": 0.7970954775810242,
+                            "Y": 0.8516154885292053
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_7": {
+                "confidence": 98.72322082519531,
+                "text": "1663",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.026111820712685585,
+                        "Height": 0.0089356554672122,
+                        "Left": 0.8604642748832703,
+                        "Top": 0.8418590426445007
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.8604797720909119,
+                            "Y": 0.8418590426445007
+                        },
+                        {
+                            "X": 0.8865761160850525,
+                            "Y": 0.8421840667724609
+                        },
+                        {
+                            "X": 0.886561393737793,
+                            "Y": 0.8507947325706482
+                        },
+                        {
+                            "X": 0.8604642748832703,
+                            "Y": 0.8504688143730164
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_8": {
+                "confidence": 27.517404556274414,
+                "text": "Jc",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.032479044049978256,
+                        "Height": 0.014246948063373566,
+                        "Left": 0.25645431876182556,
+                        "Top": 0.8979158401489258
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.25650832056999207,
+                            "Y": 0.8979158401489258
+                        },
+                        {
+                            "X": 0.2889333665370941,
+                            "Y": 0.8983278274536133
+                        },
+                        {
+                            "X": 0.28888094425201416,
+                            "Y": 0.9121627807617188
+                        },
+                        {
+                            "X": 0.25645431876182556,
+                            "Y": 0.9117489457130432
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_9": {
+                "confidence": 72.37657928466797,
+                "text": "Leins,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05212490260601044,
+                        "Height": 0.014263850636780262,
+                        "Left": 0.29554423689842224,
+                        "Top": 0.8981543183326721
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2955954670906067,
+                            "Y": 0.8981543183326721
+                        },
+                        {
+                            "X": 0.34766915440559387,
+                            "Y": 0.898815929889679
+                        },
+                        {
+                            "X": 0.3476203680038452,
+                            "Y": 0.9124181270599365
+                        },
+                        {
+                            "X": 0.29554423689842224,
+                            "Y": 0.9117537140846252
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_10": {
+                "confidence": 88.4643783569336,
+                "text": "Suis",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03494355082511902,
+                        "Height": 0.014046000316739082,
+                        "Left": 0.4182974100112915,
+                        "Top": 0.8984423875808716
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.41834282875061035,
+                            "Y": 0.8984423875808716
+                        },
+                        {
+                            "X": 0.4532409608364105,
+                            "Y": 0.8988856077194214
+                        },
+                        {
+                            "X": 0.4531972110271454,
+                            "Y": 0.9124884009361267
+                        },
+                        {
+                            "X": 0.4182974100112915,
+                            "Y": 0.9120432734489441
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_11": {
+                "confidence": 61.936492919921875,
+                "text": "Peint",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05125407129526138,
+                        "Height": 0.014940468594431877,
+                        "Left": 0.45494982600212097,
+                        "Top": 0.9006107449531555
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.454995721578598,
+                            "Y": 0.9006107449531555
+                        },
+                        {
+                            "X": 0.5062038898468018,
+                            "Y": 0.9012614488601685
+                        },
+                        {
+                            "X": 0.50616055727005,
+                            "Y": 0.9155511856079102
+                        },
+                        {
+                            "X": 0.45494982600212097,
+                            "Y": 0.9148975610733032
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_12": {
+                "confidence": 77.19747161865234,
+                "text": "Pars",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04534563794732094,
+                        "Height": 0.014275675639510155,
+                        "Left": 0.511428713798523,
+                        "Top": 0.8977269530296326
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5114700198173523,
+                            "Y": 0.8977269530296326
+                        },
+                        {
+                            "X": 0.556774377822876,
+                            "Y": 0.8983020186424255
+                        },
+                        {
+                            "X": 0.5567352771759033,
+                            "Y": 0.9120026230812073
+                        },
+                        {
+                            "X": 0.511428713798523,
+                            "Y": 0.9114251136779785
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 63.203792572021484,
+                "text": "Mes.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.040461767464876175,
+                        "Height": 0.01390064600855112,
+                        "Left": 0.563228964805603,
+                        "Top": 0.8969517350196838
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.563266932964325,
+                            "Y": 0.8969517350196838
+                        },
+                        {
+                            "X": 0.6036907434463501,
+                            "Y": 0.8974646329879761
+                        },
+                        {
+                            "X": 0.6036547422409058,
+                            "Y": 0.9108523726463318
+                        },
+                        {
+                            "X": 0.563228964805603,
+                            "Y": 0.9103373289108276
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_14": {
+                "confidence": 30.181318283081055,
+                "text": "Meillcurs,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07912629842758179,
+                        "Height": 0.014358913525938988,
+                        "Left": 0.612980306148529,
+                        "Top": 0.8973041772842407
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6130158305168152,
+                            "Y": 0.8973041772842407
+                        },
+                        {
+                            "X": 0.6921066045761108,
+                            "Y": 0.8983075022697449
+                        },
+                        {
+                            "X": 0.6920747756958008,
+                            "Y": 0.9116630554199219
+                        },
+                        {
+                            "X": 0.612980306148529,
+                            "Y": 0.9106554388999939
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_15": {
+                "confidence": 63.50114440917969,
+                "text": "c",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.011525824666023254,
+                        "Height": 0.006917587947100401,
+                        "Left": 0.695188581943512,
+                        "Top": 0.9042884111404419
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6952046751976013,
+                            "Y": 0.9042884111404419
+                        },
+                        {
+                            "X": 0.7067144513130188,
+                            "Y": 0.9044347405433655
+                        },
+                        {
+                            "X": 0.7066986560821533,
+                            "Y": 0.9112060070037842
+                        },
+                        {
+                            "X": 0.695188581943512,
+                            "Y": 0.9110594391822815
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_16": {
+                "confidence": 99.0109634399414,
+                "text": "Amis",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04357435181736946,
+                        "Height": 0.012983192689716816,
+                        "Left": 0.7036234736442566,
+                        "Top": 0.897982120513916
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7036526203155518,
+                            "Y": 0.897982120513916
+                        },
+                        {
+                            "X": 0.7471978068351746,
+                            "Y": 0.8985344767570496
+                        },
+                        {
+                            "X": 0.7471705675125122,
+                            "Y": 0.9109653234481812
+                        },
+                        {
+                            "X": 0.7036234736442566,
+                            "Y": 0.9104108214378357
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_17": {
+                "confidence": 52.577274322509766,
+                "text": "Auons,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05815046653151512,
+                        "Height": 0.013779896311461926,
+                        "Left": 0.33154040575027466,
+                        "Top": 0.9105033874511719
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.33158785104751587,
+                            "Y": 0.9105033874511719
+                        },
+                        {
+                            "X": 0.3896908760070801,
+                            "Y": 0.9112443923950195
+                        },
+                        {
+                            "X": 0.3896460235118866,
+                            "Y": 0.9242832660675049
+                        },
+                        {
+                            "X": 0.33154040575027466,
+                            "Y": 0.9235392808914185
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_18": {
+                "confidence": 69.13655090332031,
+                "text": "Tous",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.041933171451091766,
+                        "Height": 0.011960482224822044,
+                        "Left": 0.4755021333694458,
+                        "Top": 0.9122074246406555
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4755379855632782,
+                            "Y": 0.9122074246406555
+                        },
+                        {
+                            "X": 0.5174353122711182,
+                            "Y": 0.9127417206764221
+                        },
+                        {
+                            "X": 0.5174010992050171,
+                            "Y": 0.9241678714752197
+                        },
+                        {
+                            "X": 0.4755021333694458,
+                            "Y": 0.9236316680908203
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_19": {
+                "confidence": 37.94163131713867,
+                "text": "Irois.e",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06112603098154068,
+                        "Height": 0.01300746202468872,
+                        "Left": 0.5220749378204346,
+                        "Top": 0.9110047817230225
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5221112966537476,
+                            "Y": 0.9110047817230225
+                        },
+                        {
+                            "X": 0.5832009315490723,
+                            "Y": 0.9117833971977234
+                        },
+                        {
+                            "X": 0.5831671357154846,
+                            "Y": 0.9240122437477112
+                        },
+                        {
+                            "X": 0.5220749378204346,
+                            "Y": 0.9232306480407715
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_20": {
+                "confidence": 67.65897369384766,
+                "text": "Mesmc",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.06920216232538223,
+                        "Height": 0.013631411828100681,
+                        "Left": 0.5816394090652466,
+                        "Top": 0.9098622798919678
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5816746950149536,
+                            "Y": 0.9098622798919678
+                        },
+                        {
+                            "X": 0.6508415341377258,
+                            "Y": 0.9107432961463928
+                        },
+                        {
+                            "X": 0.6508093476295471,
+                            "Y": 0.9234936833381653
+                        },
+                        {
+                            "X": 0.5816394090652466,
+                            "Y": 0.9226091504096985
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_21": {
+                "confidence": 95.65562438964844,
+                "text": "Aduantage",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09111446142196655,
+                        "Height": 0.01802215538918972,
+                        "Left": 0.6559224128723145,
+                        "Top": 0.9105380773544312
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.655964732170105,
+                            "Y": 0.9105380773544312
+                        },
+                        {
+                            "X": 0.747036874294281,
+                            "Y": 0.911698043346405
+                        },
+                        {
+                            "X": 0.7469999194145203,
+                            "Y": 0.9285602569580078
+                        },
+                        {
+                            "X": 0.6559224128723145,
+                            "Y": 0.9273941516876221
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_22": {
+                "confidence": 96.00880432128906,
+                "text": "Si",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.019849970936775208,
+                        "Height": 0.013308697380125523,
+                        "Left": 0.30646538734436035,
+                        "Top": 0.9241273403167725
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.30651405453681946,
+                            "Y": 0.9241273403167725
+                        },
+                        {
+                            "X": 0.32631534337997437,
+                            "Y": 0.9243809580802917
+                        },
+                        {
+                            "X": 0.3262675702571869,
+                            "Y": 0.937436044216156
+                        },
+                        {
+                            "X": 0.30646538734436035,
+                            "Y": 0.9371813535690308
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_23": {
+                "confidence": 72.18458557128906,
+                "text": "Pour",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04955746978521347,
+                        "Height": 0.013993710279464722,
+                        "Left": 0.33470138907432556,
+                        "Top": 0.9234098196029663
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.33474987745285034,
+                            "Y": 0.9234098196029663
+                        },
+                        {
+                            "X": 0.38425886631011963,
+                            "Y": 0.9240437150001526
+                        },
+                        {
+                            "X": 0.3842126727104187,
+                            "Y": 0.9374035596847534
+                        },
+                        {
+                            "X": 0.33470138907432556,
+                            "Y": 0.9367669820785522
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_24": {
+                "confidence": 80.5599594116211,
+                "text": "Ont",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.032765019685029984,
+                        "Height": 0.013514375314116478,
+                        "Left": 0.5839064717292786,
+                        "Top": 0.9237260818481445
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5839426517486572,
+                            "Y": 0.9237260818481445
+                        },
+                        {
+                            "X": 0.6166715025901794,
+                            "Y": 0.9241447448730469
+                        },
+                        {
+                            "X": 0.6166368126869202,
+                            "Y": 0.9372404217720032
+                        },
+                        {
+                            "X": 0.5839064717292786,
+                            "Y": 0.9368200302124023
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_25": {
+                "confidence": 39.73397445678711,
+                "text": "Rien,Obmis,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.11547129601240158,
+                        "Height": 0.014807155355811119,
+                        "Left": 0.629070520401001,
+                        "Top": 0.9232224822044373
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6291052103042603,
+                            "Y": 0.9232224822044373
+                        },
+                        {
+                            "X": 0.7445418238639832,
+                            "Y": 0.9246986508369446
+                        },
+                        {
+                            "X": 0.7445124983787537,
+                            "Y": 0.9380295872688293
+                        },
+                        {
+                            "X": 0.629070520401001,
+                            "Y": 0.9365472197532654
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_26": {
+                "confidence": 57.79114532470703,
+                "text": "Lbonneur,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.08513722568750381,
+                        "Height": 0.015467096120119095,
+                        "Left": 0.2578444480895996,
+                        "Top": 0.9380447268486023
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2579004466533661,
+                            "Y": 0.9380447268486023
+                        },
+                        {
+                            "X": 0.3429816663265228,
+                            "Y": 0.9391393661499023
+                        },
+                        {
+                            "X": 0.3429299294948578,
+                            "Y": 0.9535117745399475
+                        },
+                        {
+                            "X": 0.2578444480895996,
+                            "Y": 0.9524122476577759
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_27": {
+                "confidence": 99.61407470703125,
+                "text": "Qui",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.030519289895892143,
+                        "Height": 0.019235147163271904,
+                        "Left": 0.3481796681880951,
+                        "Top": 0.938026487827301
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3482471704483032,
+                            "Y": 0.938026487827301
+                        },
+                        {
+                            "X": 0.3786989450454712,
+                            "Y": 0.9384181499481201
+                        },
+                        {
+                            "X": 0.37863343954086304,
+                            "Y": 0.9572616815567017
+                        },
+                        {
+                            "X": 0.3481796681880951,
+                            "Y": 0.9568676948547363
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_28": {
+                "confidence": 39.34025573730469,
+                "text": "Est,",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03724881261587143,
+                        "Height": 0.014645501039922237,
+                        "Left": 0.3842757046222687,
+                        "Top": 0.9382856488227844
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.38432466983795166,
+                            "Y": 0.9382856488227844
+                        },
+                        {
+                            "X": 0.4215245246887207,
+                            "Y": 0.9387640357017517
+                        },
+                        {
+                            "X": 0.42147737741470337,
+                            "Y": 0.9529311060905457
+                        },
+                        {
+                            "X": 0.3842757046222687,
+                            "Y": 0.9524506330490112
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image11_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Urban",
+                "label_confidence": 99.06629180908203,
+                "label_boundings": []
+            },
+            {
+                "label_name": "City",
+                "label_confidence": 98.70690155029297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 97.663330078125,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Architecture",
+                "label_confidence": 95.35572814941406,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Building",
+                "label_confidence": 95.35572814941406,
+                "label_boundings": [
+                    {
+                        "Width": 0.9913114309310913,
+                        "Height": 1.0,
+                        "Left": 0.005427992902696133,
+                        "Top": 0.0
+                    }
+                ]
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 86.80381774902344,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 80.1195297241211,
+                "overall_quality_sharpness": 98.25543975830078,
+                "overall_quality_contrast": 83.2660903930664,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 30.516014099121094,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 22.597864151000977,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 17.97153091430664,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 15.035587310791016,
+                "dominant_color_4_hex": "#696969",
+                "dominant_color_4_css": "dimgrey",
+                "dominant_color_4_pixelpercent": 11.387900352478027,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 1.5124554634094238,
+                "dominant_color_6_hex": "#afeeee",
+                "dominant_color_6_css": "paleturquoise",
+                "dominant_color_6_pixelpercent": 0.9786477088928223,
+                "foreground_quality_brightness": 78.52208709716797,
+                "foreground_quality_sharpness": 99.59976196289062,
+                "foreground_dominant_color_0_hex": "#c0c0c0",
+                "foreground_dominant_color_0_css": "silver",
+                "foreground_dominant_color_0_pixelpercent": 28.91566276550293,
+                "foreground_dominant_color_1_hex": "#2f4f4f",
+                "foreground_dominant_color_1_css": "darkslategrey",
+                "foreground_dominant_color_1_pixelpercent": 21.68674659729004,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 20.4819278717041,
+                "foreground_dominant_color_3_hex": "#a9a9a9",
+                "foreground_dominant_color_3_css": "darkgrey",
+                "foreground_dominant_color_3_pixelpercent": 15.662651062011719,
+                "foreground_dominant_color_4_hex": "#696969",
+                "foreground_dominant_color_4_css": "dimgrey",
+                "foreground_dominant_color_4_pixelpercent": 11.445782661437988,
+                "foreground_dominant_color_5_hex": "#000000",
+                "foreground_dominant_color_5_css": "black",
+                "foreground_dominant_color_5_pixelpercent": 1.807228922843933,
+                "background_quality_brightness": 83.24746704101562,
+                "background_quality_sharpness": 94.43355560302734,
+                "background_dominant_color_0_hex": "#808080",
+                "background_dominant_color_0_css": "gray",
+                "background_dominant_color_0_pixelpercent": 24.29906463623047,
+                "background_dominant_color_1_hex": "#c0c0c0",
+                "background_dominant_color_1_css": "silver",
+                "background_dominant_color_1_pixelpercent": 20.560747146606445,
+                "background_dominant_color_2_hex": "#dcdcdc",
+                "background_dominant_color_2_css": "gainsboro",
+                "background_dominant_color_2_pixelpercent": 18.380062103271484,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 14.641744613647461,
+                "background_dominant_color_4_hex": "#696969",
+                "background_dominant_color_4_css": "dimgrey",
+                "background_dominant_color_4_pixelpercent": 9.657320976257324,
+                "background_dominant_color_5_hex": "#2f4f4f",
+                "background_dominant_color_5_css": "darkslategrey",
+                "background_dominant_color_5_pixelpercent": 5.919003009796143,
+                "background_dominant_color_6_hex": "#5f9ea0",
+                "background_dominant_color_6_css": "cadetblue",
+                "background_dominant_color_6_pixelpercent": 3.7383177280426025,
+                "background_dominant_color_7_hex": "#000000",
+                "background_dominant_color_7_css": "black",
+                "background_dominant_color_7_pixelpercent": 2.8037383556365967
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.57548416
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.5129121
+                },
+                {
+                    "web_entity_description": "Steel",
+                    "web_entity_confidence": 0.4469578
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.40982896
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.37382668
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.36625397
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.33741927
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2981
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.2947
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2827
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/A1kbxuWkxxL.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.bwbcovers.com/050/The-Sources-of-Modern-Architecture-and-Design-9780500200728.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.akademika.no/sites/default/files/styles/product_large/public/product_images/978/0/4/1/2/9/8/9780412983511.jpg?itok=U8Sr-xWK"
+                },
+                {
+                    "web_visually_similar_image_url": "https://coverguydotca.files.wordpress.com/2021/04/chinampplanearrow.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/51BhwXBuJRL._AC_UF350,350_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/68/da/8f/68da8fe72463f6c5839d94c702af953c.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/hm0AAOSwHWhhDbHn/s-l1200.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/4VIAAOSww4Bkb21S/s-l960.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://rukminim2.flixcart.com/image/850/1000/kjlrb0w0-0/book/f/g/y/hlw-125-original-imafz5ffvrv5aajm.jpeg?q=90"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/57246f4286db4345e724887d/1553390586730-G5BBXTV6XSTQK2S0I0KU/59+-++GREEN+BUILDING+DESIGN.jpg?format=2500w"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "monochrome photography"
+                }
+            ]
+        },
+        "bounding_box": [
+            121,
+            1885,
+            569,
+            2872
+        ]
+    },
+    "image11_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.99998474121094,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.99998474121094,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Calligraphy",
+                "label_confidence": 99.99987030029297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Smoke Pipe",
+                "label_confidence": 74.67982482910156,
+                "label_boundings": [
+                    {
+                        "Width": 0.9958413243293762,
+                        "Height": 0.987705647945404,
+                        "Left": 0.0029307047370821238,
+                        "Top": 0.004544754046946764
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.81254577636719,
+                "overall_quality_sharpness": 91.56971740722656,
+                "overall_quality_contrast": 82.459716796875,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 71.7314453125,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 8.539458274841309,
+                "dominant_color_2_hex": "#c0c0c0",
+                "dominant_color_2_css": "silver",
+                "dominant_color_2_pixelpercent": 6.360424041748047,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 5.005889415740967,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 4.063604354858398,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 1.8256772756576538,
+                "dominant_color_6_hex": "#afeeee",
+                "dominant_color_6_css": "paleturquoise",
+                "dominant_color_6_pixelpercent": 1.5901060104370117,
+                "dominant_color_7_hex": "#ffffff",
+                "dominant_color_7_css": "white",
+                "dominant_color_7_pixelpercent": 0.8833922147750854,
+                "foreground_quality_brightness": 95.69652557373047,
+                "foreground_quality_sharpness": 93.68829345703125,
+                "foreground_dominant_color_0_hex": "#dcdcdc",
+                "foreground_dominant_color_0_css": "gainsboro",
+                "foreground_dominant_color_0_pixelpercent": 67.23004913330078,
+                "foreground_dominant_color_1_hex": "#808080",
+                "foreground_dominant_color_1_css": "gray",
+                "foreground_dominant_color_1_pixelpercent": 10.234742164611816,
+                "foreground_dominant_color_2_hex": "#c0c0c0",
+                "foreground_dominant_color_2_css": "silver",
+                "foreground_dominant_color_2_pixelpercent": 7.042253494262695,
+                "foreground_dominant_color_3_hex": "#2f4f4f",
+                "foreground_dominant_color_3_css": "darkslategrey",
+                "foreground_dominant_color_3_pixelpercent": 5.915493011474609,
+                "foreground_dominant_color_4_hex": "#a9a9a9",
+                "foreground_dominant_color_4_css": "darkgrey",
+                "foreground_dominant_color_4_pixelpercent": 4.694835662841797,
+                "foreground_dominant_color_5_hex": "#000000",
+                "foreground_dominant_color_5_css": "black",
+                "foreground_dominant_color_5_pixelpercent": 2.3474178314208984,
+                "foreground_dominant_color_6_hex": "#afeeee",
+                "foreground_dominant_color_6_css": "paleturquoise",
+                "foreground_dominant_color_6_pixelpercent": 1.502347469329834,
+                "foreground_dominant_color_7_hex": "#ffffff",
+                "foreground_dominant_color_7_css": "white",
+                "foreground_dominant_color_7_pixelpercent": 1.0328638553619385,
+                "background_quality_brightness": 95.96263122558594,
+                "background_quality_sharpness": 82.43567657470703,
+                "background_dominant_color_0_hex": "#dcdcdc",
+                "background_dominant_color_0_css": "gainsboro",
+                "background_dominant_color_0_pixelpercent": 81.64794158935547,
+                "background_dominant_color_1_hex": "#2f4f4f",
+                "background_dominant_color_1_css": "darkslategrey",
+                "background_dominant_color_1_pixelpercent": 4.681647777557373,
+                "background_dominant_color_2_hex": "#c0c0c0",
+                "background_dominant_color_2_css": "silver",
+                "background_dominant_color_2_pixelpercent": 4.681647777557373,
+                "background_dominant_color_3_hex": "#808080",
+                "background_dominant_color_3_css": "gray",
+                "background_dominant_color_3_pixelpercent": 4.119850158691406,
+                "background_dominant_color_4_hex": "#a9a9a9",
+                "background_dominant_color_4_css": "darkgrey",
+                "background_dominant_color_4_pixelpercent": 2.4344568252563477,
+                "background_dominant_color_5_hex": "#afeeee",
+                "background_dominant_color_5_css": "paleturquoise",
+                "background_dominant_color_5_pixelpercent": 1.685393214225769,
+                "background_dominant_color_6_hex": "#ffffff",
+                "background_dominant_color_6_css": "white",
+                "background_dominant_color_6_pixelpercent": 0.5617977380752563,
+                "background_dominant_color_7_hex": "#e6e6fa",
+                "background_dominant_color_7_css": "lavender",
+                "background_dominant_color_7_pixelpercent": 0.18726591765880585
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.6410872
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.55565566
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.5294152
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.47944173
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.4347526
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.3995638
+                },
+                {
+                    "web_entity_description": "Number",
+                    "web_entity_confidence": 0.35620293
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.3453963
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2633
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://as2.ftcdn.net/v2/jpg/01/11/95/49/500_F_111954942_OzrWwZTebxxjTYgjluefHxz0L7bNVF2j.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/69/59/f8/6959f82d461e7755bdf40e06fef50784--fonts-download.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.dreamstime.com/z/brush-style-cyrillic-alphabet-calligraphy-russian-ukrainian-belarusian-bulgarian-low-case-letters-cursive-font-68340173.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/596773176/vector/russian-lowercase-calligraphy-alphabet.jpg?s=612x612&w=0&k=20&c=_JYIPv31Qql00MNzL_0Y9LlhkVeJVkt5E-p9j_XiGnI="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/517488566/vector/brush-style-vector-cyrillic-alphabet-calligraphy.jpg?s=1024x1024&w=is&k=20&c=gzU4C2kKiX4bB2bqkREIlcW39cB-muT2N7f9NMGrXmw="
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/7f/7f/49/7f7f49aa473fc2e0c19315a7cfc45118.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.crushpixel.com/static16/preview2/stock-photo-handwritten-brush-style-calligraphy-cursive-font-2487974.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.shutterstock.com/image-vector/lettering-seamless-pattern-kids-words-250nw-1740635738.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.w600.comps.canstockphoto.com/calligraphy-alphabet-typeset-lettering-eps-vectors_csp41248434.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/236x/8d/0d/d7/8d0dd7c850c282a16b75584435499039--beautiful-calligraphy-beautiful-fonts.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            604,
+            2693,
+            847,
+            2873
+        ]
+    },
+    "image11_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.99947357177734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.99947357177734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Calligraphy",
+                "label_confidence": 99.67605590820312,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Smoke Pipe",
+                "label_confidence": 77.077392578125,
+                "label_boundings": [
+                    {
+                        "Width": 0.9880839586257935,
+                        "Height": 0.9944978356361389,
+                        "Left": 0.005423841532319784,
+                        "Top": 0.005486365873366594
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.51301574707031,
+                "overall_quality_sharpness": 80.76019287109375,
+                "overall_quality_contrast": 83.61346435546875,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 67.04035949707031,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 9.753363609313965,
+                "dominant_color_2_hex": "#c0c0c0",
+                "dominant_color_2_css": "silver",
+                "dominant_color_2_pixelpercent": 7.511210918426514,
+                "dominant_color_3_hex": "#2f4f4f",
+                "dominant_color_3_css": "darkslategrey",
+                "dominant_color_3_pixelpercent": 5.493273735046387,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 4.596412658691406,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 2.466367721557617,
+                "dominant_color_6_hex": "#afeeee",
+                "dominant_color_6_css": "paleturquoise",
+                "dominant_color_6_pixelpercent": 2.466367721557617,
+                "dominant_color_7_hex": "#ffffff",
+                "dominant_color_7_css": "white",
+                "dominant_color_7_pixelpercent": 0.6726457476615906
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Silver Cross",
+                "logo_confidence": 0.56518835,
+                "logo_vertices": [
+                    {
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "x": 167,
+                        "y": 0
+                    },
+                    {
+                        "x": 167,
+                        "y": 76
+                    },
+                    {
+                        "y": 76,
+                        "x": 0
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.5841281
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.5417023
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.53677523
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.51525337
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.50640273
+                },
+                {
+                    "web_entity_description": "Logo",
+                    "web_entity_confidence": 0.4664861
+                },
+                {
+                    "web_entity_description": "Number",
+                    "web_entity_confidence": 0.4278672
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.42612073
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.42305458
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.41188896
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://cdn.dribbble.com/users/3835/screenshots/350669/media/d6e13305fc3858df25a36b5ca4e0ba75.jpg?resize=400x300&vertical=center"
+                },
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/BX/HK/BM/SELLER-18819831/premium-number-250x250.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.etsystatic.com/9144522/r/il/42779a/1690849596/il_570xN.1690849596_juej.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.etsystatic.com/6634039/r/il/85a8b3/4065171565/il_340x270.4065171565_6q0m.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-vector/baby-design_676092-2781.jpg?w=360"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.creativefabrica.com/wp-content/uploads/2021/03/04/Choose-Kindness-Inspirational-Design-Graphics-9219681-2-580x387.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://l450v.alamy.com/450v/2bbm166/take-care-of-yourself-vector-calligraphy-lettering-text-coronavirus-covid-19-quarantine-motivational-poster-personal-hygiene-and-disinfection-2bbm166.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-vector/set-new-year-2019-calligraphy-numbers_1095-913.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.citypng.com/public/uploads/preview/hd-black-happy-birthday-calligraphy-text-words-png-31623795372qjtbwwjpa0.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as2.ftcdn.net/v2/jpg/03/48/34/31/1000_F_348343107_65XhRiDSBGVH8S5OFNfpCFzpgWclG2vD.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            1213,
+            2693,
+            1380,
+            2770
+        ]
+    },
+    "image11_recognized_part_3": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 100.0,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Rug",
+                "label_confidence": 100.0,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 82.00287628173828,
+                "overall_quality_sharpness": 100.0,
+                "overall_quality_contrast": 85.69646453857422,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 36.75213623046875,
+                "dominant_color_1_hex": "#2f4f4f",
+                "dominant_color_1_css": "darkslategrey",
+                "dominant_color_1_pixelpercent": 17.94871711730957,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 16.80911636352539,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 11.965811729431152,
+                "dominant_color_4_hex": "#696969",
+                "dominant_color_4_css": "dimgrey",
+                "dominant_color_4_pixelpercent": 8.8319091796875,
+                "dominant_color_5_hex": "#000000",
+                "dominant_color_5_css": "black",
+                "dominant_color_5_pixelpercent": 4.843304634094238,
+                "dominant_color_6_hex": "#dcdcdc",
+                "dominant_color_6_css": "gainsboro",
+                "dominant_color_6_pixelpercent": 2.8490028381347656,
+                "foreground_quality_brightness": 60.961605072021484,
+                "foreground_quality_sharpness": 100.0,
+                "foreground_dominant_color_0_hex": "#000000",
+                "foreground_dominant_color_0_css": "black",
+                "foreground_dominant_color_0_pixelpercent": 22.22222137451172,
+                "foreground_dominant_color_1_hex": "#2f4f4f",
+                "foreground_dominant_color_1_css": "darkslategrey",
+                "foreground_dominant_color_1_pixelpercent": 22.22222137451172,
+                "foreground_dominant_color_2_hex": "#808080",
+                "foreground_dominant_color_2_css": "gray",
+                "foreground_dominant_color_2_pixelpercent": 22.22222137451172,
+                "foreground_dominant_color_3_hex": "#696969",
+                "foreground_dominant_color_3_css": "dimgrey",
+                "foreground_dominant_color_3_pixelpercent": 11.11111068725586,
+                "foreground_dominant_color_4_hex": "#a9a9a9",
+                "foreground_dominant_color_4_css": "darkgrey",
+                "foreground_dominant_color_4_pixelpercent": 11.11111068725586,
+                "foreground_dominant_color_5_hex": "#c0c0c0",
+                "foreground_dominant_color_5_css": "silver",
+                "foreground_dominant_color_5_pixelpercent": 11.11111068725586,
+                "background_quality_brightness": 86.64912414550781,
+                "background_quality_sharpness": 100.0,
+                "background_dominant_color_0_hex": "#c0c0c0",
+                "background_dominant_color_0_css": "silver",
+                "background_dominant_color_0_pixelpercent": 45.3125,
+                "background_dominant_color_1_hex": "#2f4f4f",
+                "background_dominant_color_1_css": "darkslategrey",
+                "background_dominant_color_1_pixelpercent": 22.65625,
+                "background_dominant_color_2_hex": "#808080",
+                "background_dominant_color_2_css": "gray",
+                "background_dominant_color_2_pixelpercent": 15.234375,
+                "background_dominant_color_3_hex": "#a9a9a9",
+                "background_dominant_color_3_css": "darkgrey",
+                "background_dominant_color_3_pixelpercent": 12.890625,
+                "background_dominant_color_4_hex": "#dcdcdc",
+                "background_dominant_color_4_css": "gainsboro",
+                "background_dominant_color_4_pixelpercent": 3.90625
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.57885486
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.5194872
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.4096355
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.38483372
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.3735498
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34470978
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2981
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.2947
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2587
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://en.pimg.jp/096/735/032/1/96735032.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1181649581/vector/colourful-classic-modern-plaid-tartan-seamless-print-pattern-in-vector.jpg?s=612x612&w=is&k=20&c=wHicHP5mitjMMUDh_MPOfSawAc61dAb3N3w5nL8OdOI="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1413748860/vector/tartan-plaid-scottish-pattern-in-dark-blue-and-white-check-the-scottish-cage-traditional.jpg?s=612x612&w=is&k=20&c=oD_8_ayjm5H4pifsyra0jbXxLi_Zc_rrRHFUK4Yq5zc="
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.shutterstock.com/shutterstock/photos/1699495849/display_1500/stock-vector-plaid-pattern-seamless-vector-background-summer-tartan-check-plaid-in-blue-and-white-for-shirt-1699495849.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://st.depositphotos.com/3242107/61640/i/450/depositphotos_616407174-stock-photo-abstract-render-background-design-silver.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1184677592/vector/all-over-plaid-pattern-repeat-in-blue-gray-and-white-country-coastal-clothing-design.jpg?s=612x612&w=is&k=20&c=iNOueGhkm6zVXojGJbRafWau1hwVMG0lk4zueBwe2O4="
+                },
+                {
+                    "web_visually_similar_image_url": "https://a0.anyrgb.com/pngimg/1790/126/skyscraper-design-and-construction-commercial-street-war-plane-commercial-elements-high-rise-building-street-view-skyscrapercity-taipei-101-skyscrapers-commercial-use.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/983200070/vector/blue-tartan-plaid-seamless-pattern-design.jpg?s=170667a&w=0&k=20&c=ZBNd2yuLRIRv4ONWpZ9Aiu_aKPBlcE7zF1m4h66Y_eM="
+                },
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/thumb_back/fh260/background/20220930/pngtree-blue-and-grey-scottish-plaid-seamless-pattern-for-fabriccard-photo-image_36542222.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.shutterstock.com/image-vector/tartan-scotland-seamless-plaid-pattern-600w-1692632920.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "monochrome photography"
+                }
+            ]
+        },
+        "bounding_box": [
+            110,
+            922,
+            261,
+            1878
+        ]
+    },
+    "image11_recognized_part_4": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Water",
+                "label_confidence": 91.60797119140625,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 81.43229675292969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 75.0785140991211,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Paper",
+                "label_confidence": 66.52803039550781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 64.31645202636719,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 61.96854782104492,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 90.39964294433594,
+                "overall_quality_sharpness": 9.731002807617188,
+                "overall_quality_contrast": 12.92298412322998,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 92.85713958740234,
+                "dominant_color_1_hex": "#a9a9a9",
+                "dominant_color_1_css": "darkgrey",
+                "dominant_color_1_pixelpercent": 5.357142925262451,
+                "dominant_color_2_hex": "#dcdcdc",
+                "dominant_color_2_css": "gainsboro",
+                "dominant_color_2_pixelpercent": 1.7857142686843872
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Water",
+                    "web_entity_confidence": 0.5405415
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.40762016
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34492394
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2823
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2601
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://utrading.com.my/wp-content/uploads/2021/04/CONQUEROR-PAPER-A4-100GSM-500-SHEETS-SKY-BLUE-scaled.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.blinds-2go.co.uk/content/product-images/avalon-sky-blue-88-fabric-3.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.wallpaperboulevard.com/Images/product/sky-blue-horizontal-stria-patterned-wal-hhes-l.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.wallpaperboulevard.com/Images/product/sky-blue-faux-grasscloth-wallpaper-iekd-m.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://foys.ie/cdn/shop/products/UNI904-Sky-OPT_580x.jpg?v=1673432764"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/thumbnails/001/291/706/original/water-waves-on-a-sunny-day-background.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.decoratorsbest.com/cdn/shop/products/2072885559363_afa14188-904c-4508-ae6f-4189b7ec9bf2.jpg?v=1671054799"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.romanblindsdirect.co.nz/wp-content/uploads/2019/01/main-luxe-sky.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://shop.vertecchi.com/44709-large_default/artisan-water-dilutable-oil-color-ml-37-series-2-692-veronese-green-winsor-newton-1514692.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img3.wallspic.com/previews/2/2/3/7/0/107322/107322-calm-water-sea-vapor-water_resources-x350.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "water"
+                }
+            ]
+        },
+        "bounding_box": [
+            2221,
+            1048,
+            2242,
+            1216
+        ]
+    },
+    "image11_recognized_part_5": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Home Decor",
+                "label_confidence": 94.95858764648438,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Pattern",
+                "label_confidence": 81.71096801757812,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 60.99686050415039,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 85.02749633789062,
+                "overall_quality_sharpness": 99.83190155029297,
+                "overall_quality_contrast": 91.56363677978516,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 41.543800354003906,
+                "dominant_color_1_hex": "#000000",
+                "dominant_color_1_css": "black",
+                "dominant_color_1_pixelpercent": 19.514310836791992,
+                "dominant_color_2_hex": "#2f4f4f",
+                "dominant_color_2_css": "darkslategrey",
+                "dominant_color_2_pixelpercent": 11.621855735778809,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 9.01994800567627,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 7.892454624176025,
+                "dominant_color_5_hex": "#808080",
+                "dominant_color_5_css": "gray",
+                "dominant_color_5_pixelpercent": 5.550737380981445,
+                "dominant_color_6_hex": "#dcdcdc",
+                "dominant_color_6_css": "gainsboro",
+                "dominant_color_6_pixelpercent": 4.8568949699401855,
+                "foreground_quality_brightness": 52.4455451965332,
+                "foreground_quality_sharpness": 98.07997131347656,
+                "foreground_dominant_color_0_hex": "#000000",
+                "foreground_dominant_color_0_css": "black",
+                "foreground_dominant_color_0_pixelpercent": 38.356163024902344,
+                "foreground_dominant_color_1_hex": "#c0c0c0",
+                "foreground_dominant_color_1_css": "silver",
+                "foreground_dominant_color_1_pixelpercent": 19.178081512451172,
+                "foreground_dominant_color_2_hex": "#2f4f4f",
+                "foreground_dominant_color_2_css": "darkslategrey",
+                "foreground_dominant_color_2_pixelpercent": 15.068492889404297,
+                "foreground_dominant_color_3_hex": "#808080",
+                "foreground_dominant_color_3_css": "gray",
+                "foreground_dominant_color_3_pixelpercent": 11.64383602142334,
+                "foreground_dominant_color_4_hex": "#a9a9a9",
+                "foreground_dominant_color_4_css": "darkgrey",
+                "foreground_dominant_color_4_pixelpercent": 9.589040756225586,
+                "foreground_dominant_color_5_hex": "#696969",
+                "foreground_dominant_color_5_css": "dimgrey",
+                "foreground_dominant_color_5_pixelpercent": 5.479452133178711,
+                "foreground_dominant_color_6_hex": "#dcdcdc",
+                "foreground_dominant_color_6_css": "gainsboro",
+                "foreground_dominant_color_6_pixelpercent": 0.6849315166473389,
+                "background_quality_brightness": 87.41829681396484,
+                "background_quality_sharpness": 100.0,
+                "background_dominant_color_0_hex": "#c0c0c0",
+                "background_dominant_color_0_css": "silver",
+                "background_dominant_color_0_pixelpercent": 45.06437683105469,
+                "background_dominant_color_1_hex": "#000000",
+                "background_dominant_color_1_css": "black",
+                "background_dominant_color_1_pixelpercent": 16.595136642456055,
+                "background_dominant_color_2_hex": "#2f4f4f",
+                "background_dominant_color_2_css": "darkslategrey",
+                "background_dominant_color_2_pixelpercent": 10.944206237792969,
+                "background_dominant_color_3_hex": "#696969",
+                "background_dominant_color_3_css": "dimgrey",
+                "background_dominant_color_3_pixelpercent": 8.655221939086914,
+                "background_dominant_color_4_hex": "#a9a9a9",
+                "background_dominant_color_4_css": "darkgrey",
+                "background_dominant_color_4_pixelpercent": 7.7253217697143555,
+                "background_dominant_color_5_hex": "#808080",
+                "background_dominant_color_5_css": "gray",
+                "background_dominant_color_5_pixelpercent": 5.50786828994751,
+                "background_dominant_color_6_hex": "#dcdcdc",
+                "background_dominant_color_6_css": "gainsboro",
+                "background_dominant_color_6_pixelpercent": 5.50786828994751
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.59430677
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.4145409
+                },
+                {
+                    "web_entity_description": "Building",
+                    "web_entity_confidence": 0.39482692
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.3540515
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.3484106
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.3033
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.2994
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://previews.123rf.com/images/vectora/vectora1602/vectora160200231/51554041-inward-rotating-spirally-squares-abstract-monochrome-background.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://previews.123rf.com/images/vectora/vectora1602/vectora160200024/51553237-inward-rotating-spirally-squares-abstract-monochrome-background.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.xxl.thumbs.canstockphoto.com/complex-geometric-stripes-seamless-pattern-abstract-geometry-lines-repeatable-motif-for-background-clipart-vector_csp57928158.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://monoawards.com/upload/images/1625383141v3anjrickard_dennis_oilseed_factory_4.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.shutterstock.com/image-illustration/abstract-angular-black-white-pattern-260nw-287455082.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn1.vectorstock.com/i/1000x1000/87/95/monochrome-stripy-endless-pattern-art-continuous-vector-5208795.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.shutterstock.com/image-vector/ornamental-wallpaper-pattern-geometric-ornament-260nw-468556334.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.shutterstock.com/image-vector/oblique-diagonal-lines-edgy-pattern-260nw-542508736.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1427951350/vector/whirl-twisting-motion-illusion-in-abstract-op-art-pattern-3d-effect.jpg?s=612x612&w=is&k=20&c=kDmvkVMb8q-ME4UllmNQjE5bzi9WY3Uv1pab5UyEna8="
+                },
+                {
+                    "web_visually_similar_image_url": "https://us.123rf.com/450wm/akrain/akrain1909/akrain190900059/130629923-abstract-seamless-pattern-optical-illusion-of-the-movement-of-geometric-shapes.jpg?ver=6"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "monochrome photography"
+                }
+            ]
+        },
+        "bounding_box": [
+            108,
+            625,
+            318,
+            922
+        ]
+    },
+    "image11_recognized_part_6": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Art",
+                "label_confidence": 99.99996185302734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 99.99996185302734,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Adult",
+                "label_confidence": 99.44524383544922,
+                "label_boundings": [
+                    {
+                        "Width": 0.5634158849716187,
+                        "Height": 0.6384819746017456,
+                        "Left": 0.22402377426624298,
+                        "Top": 0.1604604870080948
+                    }
+                ]
+            },
+            {
+                "label_name": "Female",
+                "label_confidence": 99.44524383544922,
+                "label_boundings": [
+                    {
+                        "Width": 0.5634158849716187,
+                        "Height": 0.6384819746017456,
+                        "Left": 0.22402377426624298,
+                        "Top": 0.1604604870080948
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 99.44524383544922,
+                "label_boundings": [
+                    {
+                        "Width": 0.5634158849716187,
+                        "Height": 0.6384819746017456,
+                        "Left": 0.22402377426624298,
+                        "Top": 0.1604604870080948
+                    }
+                ]
+            },
+            {
+                "label_name": "Woman",
+                "label_confidence": 99.44524383544922,
+                "label_boundings": [
+                    {
+                        "Width": 0.5634158849716187,
+                        "Height": 0.6384819746017456,
+                        "Left": 0.22402377426624298,
+                        "Top": 0.1604604870080948
+                    }
+                ]
+            },
+            {
+                "label_name": "Photography",
+                "label_confidence": 97.78119659423828,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Face",
+                "label_confidence": 97.37495422363281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Head",
+                "label_confidence": 97.37495422363281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Portrait",
+                "label_confidence": 97.37495422363281,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [
+            {
+                "face_boundings": {
+                    "Width": 0.1520218402147293,
+                    "Height": 0.1627400517463684,
+                    "Left": 0.4332684576511383,
+                    "Top": 0.26497477293014526
+                },
+                "face_confidence": 99.99022674560547,
+                "face_has_smile": false,
+                "face_smile_confidence": 93.78750610351562,
+                "face_has_eyeglasses": false,
+                "face_eyeglasses_confidence": 92.12001037597656,
+                "face_has_sunglasses": false,
+                "face_sunglasses_confidence": 99.9945068359375,
+                "face_gender": "Male",
+                "face_gender_confidence": 99.74663543701172,
+                "face_has_beard": true,
+                "face_beard_confidence": 81.97311401367188,
+                "face_has_mustache": false,
+                "face_mustache_confidence": 63.414146423339844,
+                "face_has_eyes_open": false,
+                "face_eyes_open_confidence": 89.0079345703125,
+                "face_has_mouth_open": false,
+                "face_mouth_open_confidence": 90.56346130371094,
+                "face_pose_roll": -1.0694470405578613,
+                "face_pose_yaw": 13.971388816833496,
+                "face_pose_pitch": 3.6874849796295166,
+                "face_brightness": 72.02542877197266,
+                "face_sharpness": 98.9244613647461,
+                "emotion_type_sad": 79.60564422607422,
+                "emotion_type_calm": 52.46714782714844,
+                "emotion_type_fear": 7.001388072967529,
+                "emotion_type_surprised": 6.768876075744629,
+                "emotion_type_angry": 3.4051473140716553,
+                "emotion_type_confused": 2.790775775909424,
+                "emotion_type_disgusted": 0.7606164813041687,
+                "emotion_type_happy": 0.526195228099823
+            }
+        ],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 64.7672348022461,
+                "overall_quality_sharpness": 83.94742584228516,
+                "overall_quality_contrast": 84.09017181396484,
+                "dominant_color_0_hex": "#2f4f4f",
+                "dominant_color_0_css": "darkslategrey",
+                "dominant_color_0_pixelpercent": 34.665225982666016,
+                "dominant_color_1_hex": "#808080",
+                "dominant_color_1_css": "gray",
+                "dominant_color_1_pixelpercent": 27.645788192749023,
+                "dominant_color_2_hex": "#000000",
+                "dominant_color_2_css": "black",
+                "dominant_color_2_pixelpercent": 9.611230850219727,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 9.395248413085938,
+                "dominant_color_4_hex": "#a9a9a9",
+                "dominant_color_4_css": "darkgrey",
+                "dominant_color_4_pixelpercent": 7.991360664367676,
+                "dominant_color_5_hex": "#696969",
+                "dominant_color_5_css": "dimgrey",
+                "dominant_color_5_pixelpercent": 6.803455829620361,
+                "dominant_color_6_hex": "#dcdcdc",
+                "dominant_color_6_css": "gainsboro",
+                "dominant_color_6_pixelpercent": 2.8077752590179443,
+                "dominant_color_7_hex": "#5f9ea0",
+                "dominant_color_7_css": "cadetblue",
+                "dominant_color_7_pixelpercent": 1.07991361618042,
+                "foreground_quality_brightness": 49.40333557128906,
+                "foreground_quality_sharpness": 83.31785583496094,
+                "foreground_dominant_color_0_hex": "#2f4f4f",
+                "foreground_dominant_color_0_css": "darkslategrey",
+                "foreground_dominant_color_0_pixelpercent": 50.434783935546875,
+                "foreground_dominant_color_1_hex": "#808080",
+                "foreground_dominant_color_1_css": "gray",
+                "foreground_dominant_color_1_pixelpercent": 18.2608699798584,
+                "foreground_dominant_color_2_hex": "#000000",
+                "foreground_dominant_color_2_css": "black",
+                "foreground_dominant_color_2_pixelpercent": 15.072463989257812,
+                "foreground_dominant_color_3_hex": "#c0c0c0",
+                "foreground_dominant_color_3_css": "silver",
+                "foreground_dominant_color_3_pixelpercent": 8.115942001342773,
+                "foreground_dominant_color_4_hex": "#696969",
+                "foreground_dominant_color_4_css": "dimgrey",
+                "foreground_dominant_color_4_pixelpercent": 7.536231994628906,
+                "foreground_dominant_color_5_hex": "#dcdcdc",
+                "foreground_dominant_color_5_css": "gainsboro",
+                "foreground_dominant_color_5_pixelpercent": 0.5797101259231567,
+                "background_quality_brightness": 75.60270690917969,
+                "background_quality_sharpness": 85.06192016601562,
+                "background_dominant_color_0_hex": "#808080",
+                "background_dominant_color_0_css": "gray",
+                "background_dominant_color_0_pixelpercent": 54.88599395751953,
+                "background_dominant_color_1_hex": "#a9a9a9",
+                "background_dominant_color_1_css": "darkgrey",
+                "background_dominant_color_1_pixelpercent": 14.169381141662598,
+                "background_dominant_color_2_hex": "#c0c0c0",
+                "background_dominant_color_2_css": "silver",
+                "background_dominant_color_2_pixelpercent": 12.052117347717285,
+                "background_dominant_color_3_hex": "#2f4f4f",
+                "background_dominant_color_3_css": "darkslategrey",
+                "background_dominant_color_3_pixelpercent": 7.166123867034912,
+                "background_dominant_color_4_hex": "#dcdcdc",
+                "background_dominant_color_4_css": "gainsboro",
+                "background_dominant_color_4_pixelpercent": 6.3517913818359375,
+                "background_dominant_color_5_hex": "#696969",
+                "background_dominant_color_5_css": "dimgrey",
+                "background_dominant_color_5_pixelpercent": 5.3745927810668945
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [
+            {
+                "landmark_description": "Ch\u00e2teau De Bussy-Rabutin",
+                "landmark_confidence": 0.3459021,
+                "landmark_vertices": [
+                    {
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "x": 2121,
+                        "y": 0
+                    },
+                    {
+                        "x": 2121,
+                        "y": 2808
+                    },
+                    {
+                        "y": 2808,
+                        "x": 0
+                    }
+                ]
+            }
+        ],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Ch\u00e2teau de Bussy-Rabutin",
+                    "web_entity_confidence": 1.43265
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.5489922
+                },
+                {
+                    "web_entity_description": "History",
+                    "web_entity_confidence": 0.39022428
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.36915272
+                },
+                {
+                    "web_entity_description": "Illustration",
+                    "web_entity_confidence": 0.3577743
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.35545525
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2951
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.2917
+                },
+                {
+                    "web_entity_description": "",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/51242356/vector/duke-of-alba.jpg?s=612x612&w=gi&k=20&c=CsVWbcfzGcbW5sQfvKJTUe6ITX4HO0o2HtxOM-rmE-M="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/90732206/photo/john-flamsteed-english-astronomer-1712.jpg?s=612x612&w=gi&k=20&c=akTBsDyWZQ0VdBYv_gPdGx7_plVvV9MwPcSAS2310zc="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/2661809/photo/william-i-king-of-scotland-who-was-known-as-william-the-lion-and-reigned-for-49-years-from-1165.jpg?s=612x612&w=gi&k=20&c=8V_L-fO5tKkAM7ivlmGKEB7xOX72481bMy8bmgAfIiU="
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/default/print/5/8/break/images-medium-5/roger-de-rabutin-comte-de-bussy-mary-evans-picture-library.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/474x/3a/48/ab/3a48ab937741a81611dde148e5ee2fb0.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/171095128/photo/jonathan-swift-gullivers-travels-engraved-frontispiece-1726.jpg?s=612x612&w=gi&k=20&c=4V5n7DNh8toeQY3M23SvySnYo7KGF4vaF0LFw7pF-Ck="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/929291724/photo/claude-louis-hector-de-villars-marshal-general-of-france-engraving-anonymous-universal-history.jpg?s=612x612&w=gi&k=20&c=zX9RBDAno5of0kgbQ1NmVFV3Phpnk-PEl_S-LpvWulA="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/590649457/photo/gotthold-ephraim-lessing.jpg?s=612x612&w=gi&k=20&c=i401w8C-twsO_xrfVIJIHyvtPc_9SwZrG712FFJWJUo="
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.gettyimages.com/id/171399684/photo/king-karl-xii-of-sweden-17-june-1682-30-november-1718.jpg?s=612x612&w=gi&k=20&c=Zmedb4u0Js7rj-1RugDv4kRPS18jHvx79s_ddCYHTzI="
+                },
+                {
+                    "web_visually_similar_image_url": "https://c8.alamy.com/comp/2JC8G91/portrait-of-roger-de-rabutin-1618-1693-count-of-bussy-lieutenant-general-of-the-royal-forces-depicted-in-oval-frame-including-four-lines-of-latin-with-his-coat-of-arms-in-the-center-portrait-of-roger-de-bussy-rabutin-messire-roger-de-rabutin-print-maker-gerard-edelinck-mentioned-on-object-after-le-febure-mentioned-on-object-lodewijk-xiv-koning-van-frankrijk-mentioned-on-object-print-maker-paris-after-unknown-france-1693-1707-paper-engraving-h-218-mm-w-158-mm-2JC8G91.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "ch\u00e2teau de bussy-rabutin"
+                }
+            ]
+        },
+        "bounding_box": [
+            102,
+            90,
+            2223,
+            2898
+        ]
+    },
+    "image11_recognized_part_7": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Sword",
+                "label_confidence": 98.7546157836914,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Weapon",
+                "label_confidence": 98.7546157836914,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 96.98773956298828,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 96.8593978881836,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow",
+                "label_confidence": 78.0565414428711,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Cutlery",
+                "label_confidence": 70.66004180908203,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Spoon",
+                "label_confidence": 70.38404083251953,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Winter",
+                "label_confidence": 66.25108337402344,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Device",
+                "label_confidence": 62.528099060058594,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sky",
+                "label_confidence": 60.267250061035156,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 94.1108627319336,
+                "overall_quality_sharpness": 37.37440490722656,
+                "overall_quality_contrast": 27.41689682006836,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 57.894737243652344,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 13.1578950881958,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 10.526315689086914,
+                "dominant_color_3_hex": "#afeeee",
+                "dominant_color_3_css": "paleturquoise",
+                "dominant_color_3_pixelpercent": 9.649123191833496,
+                "dominant_color_4_hex": "#87ceeb",
+                "dominant_color_4_css": "skyblue",
+                "dominant_color_4_pixelpercent": 6.140350818634033,
+                "dominant_color_5_hex": "#e6e6fa",
+                "dominant_color_5_css": "lavender",
+                "dominant_color_5_pixelpercent": 2.6315789222717285
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Water",
+                    "web_entity_confidence": 0.5280643
+                },
+                {
+                    "web_entity_description": "Light",
+                    "web_entity_confidence": 0.42574534
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.414378
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.4015373
+                },
+                {
+                    "web_entity_description": "Wallpaper",
+                    "web_entity_confidence": 0.38417563
+                },
+                {
+                    "web_entity_description": "Close-up",
+                    "web_entity_confidence": 0.32012504
+                },
+                {
+                    "web_entity_description": "Wallpaper",
+                    "web_entity_confidence": 0.2894
+                },
+                {
+                    "web_entity_description": "Computer",
+                    "web_entity_confidence": 0.2814
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2656
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2533
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://img.myloview.com/stickers/old-grunge-wood-plank-texture-background-vintage-blue-wooden-board-wall-have-antique-cracking-style-background-objects-for-furniture-design-mint-green-painted-weathered-peeling-table-hardwoods-700-223608402.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/background/20210716/original/pngtree-cyan-simple-wooden-texture-texture-background-picture-image_1331519.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/vertical-white-blue-stripes-gouache-vintage-background-seamless-pattern-light-blue-background_158123-192.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/panoramic-white-blue-wood-board-texture-backgrounds_24076-376.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1404394364/photo/pale-teal-old-wooden-board-large-texture-shabby-wood-wall-pastel-abstract-textured-background.jpg?s=170667a&w=0&k=20&c=bTLpPNKB5FlMyZZA2RQ6FhSePgSRjPaos2iVHyFHRC4="
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-vector/vector-illustration-beauty-wood-wall-floor-texture-pattern-background_34266-2258.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1354469786/photo/background-texture-of-white-transparent-curtains-on-the-window-on-a-sunny-day-blurred.jpg?s=612x612&w=0&k=20&c=Ptaqj5N8NmY3cyTRH_QAR9X0rydmB7Z6fBjLy_BBE1Y="
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.dreamstime.com/b/brushed-blue-metal-texture-polished-background-light-reflection-136956691.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/1270347751/photo/old-grunge-wood-plank-texture-background-vintage-blue-wooden-board-wall-have-antique-cracking.jpg?s=612x612&w=is&k=20&c=p02Son4W0uTIasgERooCgQ0KrOXMaM-zADiTrT3Tcr8="
+                },
+                {
+                    "web_visually_similar_image_url": "https://us.123rf.com/450wm/168season/168season1410/168season141000047/32466934-metal-background-texture.jpg?ver=6"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sky"
+                }
+            ]
+        },
+        "bounding_box": [
+            14,
+            18,
+            540,
+            43
+        ]
+    },
+    "image11_recognized_part_8": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Nature",
+                "label_confidence": 90.95311737060547,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 90.95311737060547,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Cutlery",
+                "label_confidence": 71.95198822021484,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sky",
+                "label_confidence": 69.43162536621094,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.9636001586914,
+                "overall_quality_sharpness": 68.63509368896484,
+                "overall_quality_contrast": 22.35050392150879,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 50.0,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 29.41176414489746,
+                "dominant_color_2_hex": "#b0c4de",
+                "dominant_color_2_css": "lightsteelblue",
+                "dominant_color_2_pixelpercent": 17.647058486938477,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 2.941176414489746
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.4175455
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.40578762
+                },
+                {
+                    "web_entity_description": "Wallpaper",
+                    "web_entity_confidence": 0.39205
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34215593
+                },
+                {
+                    "web_entity_description": "Atmosphere",
+                    "web_entity_confidence": 0.33188027
+                },
+                {
+                    "web_entity_description": "Wallpaper",
+                    "web_entity_confidence": 0.2912
+                },
+                {
+                    "web_entity_description": "Computer",
+                    "web_entity_confidence": 0.2828
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2665
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2534
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://img.myloview.com/stickers/old-grunge-wood-plank-texture-background-vintage-blue-wooden-board-wall-have-antique-cracking-style-background-objects-for-furniture-design-mint-green-painted-weathered-peeling-table-hardwoods-700-223608402.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://previews.123rf.com/images/cgdeaw/cgdeaw1905/cgdeaw190500465/126451834-wood-texture-soft-blue-colors-pastel-for-background-wooden-background-blue-colors-pastel-soft.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.wallpaperdirect.com/asset/img/product/108094/tiled/farrow-and-ball-plain-stripe-sky-blue-wallpaper-tiled-108094.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/panoramic-white-blue-wood-board-texture-backgrounds_24076-376.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/253822ed-e81d-47c7-a64e-b7b815fd496e/dbe6pmc-3f4b3897-2951-4729-83eb-2c1276f56fca.png/v1/fill/w_256,h_256,q_80,strp/free_imvu_hair_texture__blue__by_gluebby_dbe6pmc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvMjUzODIyZWQtZTgxZC00N2M3LWE2NGUtYjdiODE1ZmQ0OTZlXC9kYmU2cG1jLTNmNGIzODk3LTI5NTEtNDcyOS04M2ViLTJjMTI3NmY1NmZjYS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.EWVmX1A3rJduWOQRCQWr33LZsQTziyVgsTnowq2Uw4E"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5639cf3b-30fa-4430-8525-477e07453d4e/df4bged-7fdc25c0-d560-4e6d-8d4b-90cf3fe9d074.png/v1/fill/w_512,h_1024,q_80,strp/vroid_hair_texture_sky_by_smolbananya_df4bged-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzU2MzljZjNiLTMwZmEtNDQzMC04NTI1LTQ3N2UwNzQ1M2Q0ZVwvZGY0YmdlZC03ZmRjMjVjMC1kNTYwLTRlNmQtOGQ0Yi05MGNmM2ZlOWQwNzQucG5nIiwid2lkdGgiOiI8PTUxMiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._CBBAAW4xygyq25cJKsswd7txLStPtmfFqHDe49a3CA"
+                },
+                {
+                    "web_visually_similar_image_url": "https://previews.123rf.com/images/svetlana15/svetlana152106/svetlana15210600419/171490051-light-gray-wood-texture-with-dark-stripes.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/wood-background-beautiful-light-with-texture_34266-414.jpg?w=2000"
+                },
+                {
+                    "web_visually_similar_image_url": "https://thumbs.dreamstime.com/b/brushed-blue-metal-texture-polished-background-light-reflection-136956691.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/previews/002/778/531/large_2x/white-metal-sheet-background-white-zinc-texture-photo.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sky"
+                }
+            ]
+        },
+        "bounding_box": [
+            1135,
+            6,
+            2299,
+            26
+        ]
+    }
+}

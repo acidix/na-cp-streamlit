@@ -1,0 +1,2611 @@
+{
+    "id": "image_37",
+    "url": "https://media.dv.navigatingart.de/b7a4549a-1025-4d20-a775-be5b169e1f8b.jpg?signed=true&valid=1695733328&signature=NBb%2FdmRlHddAd8U78PwQDlOyilYWclggHVIM0patvmdu0l9p7ZCSH%2BUg7abMyvSXplRNvdOApuCocm3dQM%2BntA%3D%3D",
+    "json": "development_test_job/image37/image37.json",
+    "full_image_content": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Adult",
+                "label_confidence": 98.84930419921875,
+                "label_boundings": [
+                    {
+                        "Width": 0.16290238499641418,
+                        "Height": 0.24298091232776642,
+                        "Left": 0.3543485999107361,
+                        "Top": 0.5517066717147827
+                    }
+                ]
+            },
+            {
+                "label_name": "Male",
+                "label_confidence": 98.84930419921875,
+                "label_boundings": [
+                    {
+                        "Width": 0.16290238499641418,
+                        "Height": 0.24298091232776642,
+                        "Left": 0.3543485999107361,
+                        "Top": 0.5517066717147827
+                    }
+                ]
+            },
+            {
+                "label_name": "Man",
+                "label_confidence": 98.84930419921875,
+                "label_boundings": [
+                    {
+                        "Width": 0.16290238499641418,
+                        "Height": 0.24298091232776642,
+                        "Left": 0.3543485999107361,
+                        "Top": 0.5517066717147827
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 98.84930419921875,
+                "label_boundings": [
+                    {
+                        "Width": 0.16290238499641418,
+                        "Height": 0.24298091232776642,
+                        "Left": 0.3543485999107361,
+                        "Top": 0.5517066717147827
+                    }
+                ]
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 98.14619445800781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 98.14619445800781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Page",
+                "label_confidence": 91.4969482421875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 91.4969482421875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Utility Pole",
+                "label_confidence": 81.54434204101562,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Mail",
+                "label_confidence": 80.6549301147461,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 94.7391128540039,
+                "overall_quality_sharpness": 77.00223541259766,
+                "overall_quality_contrast": 60.525489807128906,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 65.15065002441406,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 12.734508514404297,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 9.437180519104004,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 7.447413444519043,
+                "dominant_color_4_hex": "#ffebcd",
+                "dominant_color_4_css": "blanchedalmond",
+                "dominant_color_4_pixelpercent": 5.2302446365356445
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "National Gallery of Art",
+                    "web_entity_confidence": 0.82065
+                },
+                {
+                    "web_entity_description": "Grimaces et mis\u00e8re - Les Saltimbanques",
+                    "web_entity_confidence": 0.76769996
+                },
+                {
+                    "web_entity_description": "Image",
+                    "web_entity_confidence": 0.7161
+                },
+                {
+                    "web_entity_description": "Drawing",
+                    "web_entity_confidence": 0.7007
+                },
+                {
+                    "web_entity_description": "Photography",
+                    "web_entity_confidence": 0.7004
+                },
+                {
+                    "web_entity_description": "Stock photography",
+                    "web_entity_confidence": 0.7002
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.6978
+                },
+                {
+                    "web_entity_description": "Sketch",
+                    "web_entity_confidence": 0.6960343
+                },
+                {
+                    "web_entity_description": "",
+                    "web_entity_confidence": 0.5471
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.5361515
+                }
+            ],
+            "web_full_matching_images": [
+                {
+                    "web_full_matching_image_url": "https://get.pxhere.com/photo/text-sketch-drawing-history-picture-frame-font-artwork-arch-paper-product-tree-1467745.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.artic.edu/iiif/2/5412d41c-5731-4b61-7aee-f8ef3944c229/full/843,/0/default.jpg"
+                },
+                {
+                    "web_full_matching_image_url": "https://www.artic.edu/iiif/2/5412d41c-5731-4b61-7aee-f8ef3944c229/full/200,/0/default.jpg"
+                }
+            ],
+            "web_partial_matching_images": [
+                {
+                    "web_partial_matching_image_url": "https://c8.alamy.com/compfr/rkna9r/les-propos-de-thomas-vireloque-misere-et-corde-premier-discours-alors-1852-53-paul-gavarni-francais-1804-1866-artiste-paul-gavarni-origine-rkna9r.jpg"
+                },
+                {
+                    "web_partial_matching_image_url": "https://c8.alamy.com/compfr/2bjm92e/auteur-paul-gavarni-les-pos-de-thomas-vireloque-misere-et-corde-premier-discours-alors-1852-53-paul-gavarni-francais-1804-1866-lithographie-dans-2bjm92e.jpg"
+                }
+            ],
+            "web_pages_with_matching_images": [
+                {
+                    "web_page_with_matching_image_url": "https://www.artic.edu/artworks/11024/les-propos-de-thomas-vireloque-misere-et-corde-first-speech-then"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/paul-gavarni-french-1804-1866.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/corde.html?page=4"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/author-speech.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/author-paul-gavarni-les-propos-de-thomas-vireloque-ego!-egoego-all-equal-egaux-ego-buth-pronounced-alike-1853-paul-gavarni-french-image355715264.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.com/stock-photo/misere.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://pxhere.com/es/photo/1467745"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.es/imagenes/1804-1866.html?page=4"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.es/imagenes/de-corde.html"
+                },
+                {
+                    "web_page_with_matching_image_url": "https://www.alamy.es/imagenes/misere.html"
+                }
+            ],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://d7hftxdivxxvm.cloudfront.net/?height=486&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F0kz8ex_liI5bp1AVkiskyw%2Flarge.jpg&width=640"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/337494/786246/main-image"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.mutualart.com/Images/2023_08/06/21/212512402/2-wwii-german-adolf-hitler-pencil-sketch-OEAXX-570.Jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.deniskitchen.com/mm5/graphics/00000002/WE_CAPTAIN.AHAB.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.ribapix.com/images/thumbs/029/0292330_RIBA96266_600.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://texashistory.unt.edu/ark:/67531/metapth861210/small/"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.ltmuseum.co.uk/system/files/styles/collection_item_component_600_px_wide/private/collection_item/i0000pf6_0.jpg?itok=eCHEH7yw"
+                },
+                {
+                    "web_visually_similar_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/347433/preview"
+                },
+                {
+                    "web_visually_similar_image_url": "https://render.fineartamerica.com/images/rendered/default/flat/tapestry/images/artworkimages/medium/2/fighter-jet-sketch-northpoint-prints.jpg?&targetx=-97&targety=0&imagewidth=1125&imageheight=794&modelwidth=930&modelheight=794&backgroundcolor=C8B9A1&orientation=1&producttype=tapestry-50-61"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/originals/30/4c/85/304c851e40648b247427645f9f26e382.png"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sketch"
+                }
+            ]
+        },
+        "OCR": {
+            "recognized_word_0": {
+                "confidence": 64.76586151123047,
+                "text": "No",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0675981193780899,
+                        "Height": 0.020162606611847878,
+                        "Left": 0.3253273069858551,
+                        "Top": 0.2185998558998108
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.325591117143631,
+                            "Y": 0.2185998558998108
+                        },
+                        {
+                            "X": 0.3929254114627838,
+                            "Y": 0.2194511443376541
+                        },
+                        {
+                            "X": 0.39265960454940796,
+                            "Y": 0.23876245319843292
+                        },
+                        {
+                            "X": 0.3253273069858551,
+                            "Y": 0.23790282011032104
+                        }
+                    ]
+                },
+                "text_type": ""
+            },
+            "recognized_word_1": {
+                "confidence": 22.195707321166992,
+                "text": "Bonativer",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1461447924375534,
+                        "Height": 0.028631435707211494,
+                        "Left": 0.054424189031124115,
+                        "Top": 0.054755911231040955
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.0547814816236496,
+                            "Y": 0.054755911231040955
+                        },
+                        {
+                            "X": 0.20056898891925812,
+                            "Y": 0.05644826963543892
+                        },
+                        {
+                            "X": 0.2002057135105133,
+                            "Y": 0.0833873450756073
+                        },
+                        {
+                            "X": 0.054424189031124115,
+                            "Y": 0.08166974782943726
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_2": {
+                "confidence": 16.01906394958496,
+                "text": "condition",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09672615677118301,
+                        "Height": 0.02209172025322914,
+                        "Left": 0.059764351695775986,
+                        "Top": 0.08737929910421371
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.060042496770620346,
+                            "Y": 0.08737929910421371
+                        },
+                        {
+                            "X": 0.1564905047416687,
+                            "Y": 0.0885191559791565
+                        },
+                        {
+                            "X": 0.1562092900276184,
+                            "Y": 0.10947101563215256
+                        },
+                        {
+                            "X": 0.059764351695775986,
+                            "Y": 0.10831817239522934
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_3": {
+                "confidence": 35.61899948120117,
+                "text": "express",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09091164916753769,
+                        "Height": 0.021838895976543427,
+                        "Left": 0.16440734267234802,
+                        "Top": 0.09098942577838898
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.1646861433982849,
+                            "Y": 0.09098942577838898
+                        },
+                        {
+                            "X": 0.2553189992904663,
+                            "Y": 0.09206194430589676
+                        },
+                        {
+                            "X": 0.2550373077392578,
+                            "Y": 0.1128283217549324
+                        },
+                        {
+                            "X": 0.16440734267234802,
+                            "Y": 0.11174371838569641
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_4": {
+                "confidence": 21.19325065612793,
+                "text": "I'ecroice",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.09418646991252899,
+                        "Height": 0.029622593894600868,
+                        "Left": 0.26371631026268005,
+                        "Top": 0.07829935103654861
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.2641032934188843,
+                            "Y": 0.07829935103654861
+                        },
+                        {
+                            "X": 0.35790279507637024,
+                            "Y": 0.07940096408128738
+                        },
+                        {
+                            "X": 0.3575117290019989,
+                            "Y": 0.10792194306850433
+                        },
+                        {
+                            "X": 0.26371631026268005,
+                            "Y": 0.10680315643548965
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_5": {
+                "confidence": 99.82124328613281,
+                "text": "de",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04049196466803551,
+                        "Height": 0.026396118104457855,
+                        "Left": 0.36983293294906616,
+                        "Top": 0.08063206821680069
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.37018874287605286,
+                            "Y": 0.08063206821680069
+                        },
+                        {
+                            "X": 0.41032490134239197,
+                            "Y": 0.08110372722148895
+                        },
+                        {
+                            "X": 0.40996748208999634,
+                            "Y": 0.10702818632125854
+                        },
+                        {
+                            "X": 0.36983293294906616,
+                            "Y": 0.10654985904693604
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_6": {
+                "confidence": 92.71334075927734,
+                "text": "is",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.03622157871723175,
+                        "Height": 0.020227670669555664,
+                        "Left": 0.4225477874279022,
+                        "Top": 0.08590084314346313
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4228211045265198,
+                            "Y": 0.08590084314346313
+                        },
+                        {
+                            "X": 0.45876938104629517,
+                            "Y": 0.08632435649633408
+                        },
+                        {
+                            "X": 0.45849496126174927,
+                            "Y": 0.1061285138130188
+                        },
+                        {
+                            "X": 0.4225477874279022,
+                            "Y": 0.10570043325424194
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_7": {
+                "confidence": 99.63529205322266,
+                "text": "non",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.05446099862456322,
+                        "Height": 0.01693125255405903,
+                        "Left": 0.4637892246246338,
+                        "Top": 0.09000937640666962
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.4640149772167206,
+                            "Y": 0.09000937640666962
+                        },
+                        {
+                            "X": 0.5182502269744873,
+                            "Y": 0.09064960479736328
+                        },
+                        {
+                            "X": 0.5180230736732483,
+                            "Y": 0.1069406270980835
+                        },
+                        {
+                            "X": 0.4637892246246338,
+                            "Y": 0.10629474371671677
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_8": {
+                "confidence": 99.6419906616211,
+                "text": "des",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.049012135714292526,
+                        "Height": 0.027285264804959297,
+                        "Left": 0.5224287509918213,
+                        "Top": 0.08052617311477661
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.5228012204170227,
+                            "Y": 0.08052617311477661
+                        },
+                        {
+                            "X": 0.5714408755302429,
+                            "Y": 0.08109716325998306
+                        },
+                        {
+                            "X": 0.5710664391517639,
+                            "Y": 0.10781144350767136
+                        },
+                        {
+                            "X": 0.5224287509918213,
+                            "Y": 0.10723212361335754
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_9": {
+                "confidence": 20.34217643737793,
+                "text": "Every",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.12561199069023132,
+                        "Height": 0.0892314612865448,
+                        "Left": 0.10925143212080002,
+                        "Top": 0.10860680043697357
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.11042243987321854,
+                            "Y": 0.10860680043697357
+                        },
+                        {
+                            "X": 0.23486343026161194,
+                            "Y": 0.11009404063224792
+                        },
+                        {
+                            "X": 0.23367580771446228,
+                            "Y": 0.19783826172351837
+                        },
+                        {
+                            "X": 0.10925143212080002,
+                            "Y": 0.19628089666366577
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_10": {
+                "confidence": 97.89006805419922,
+                "text": "de",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.04267485439777374,
+                        "Height": 0.030650408938527107,
+                        "Left": 0.6763671040534973,
+                        "Top": 0.12935294210910797
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.6767941117286682,
+                            "Y": 0.12935294210910797
+                        },
+                        {
+                            "X": 0.7190419435501099,
+                            "Y": 0.12986165285110474
+                        },
+                        {
+                            "X": 0.7186130285263062,
+                            "Y": 0.16000334918498993
+                        },
+                        {
+                            "X": 0.6763671040534973,
+                            "Y": 0.15948647260665894
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_11": {
+                "confidence": 37.23496627807617,
+                "text": "longeur.",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.14778900146484375,
+                        "Height": 0.049294546246528625,
+                        "Left": 0.7284917831420898,
+                        "Top": 0.12789024412631989
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.7291681170463562,
+                            "Y": 0.12789024412631989
+                        },
+                        {
+                            "X": 0.8762807846069336,
+                            "Y": 0.12965966761112213
+                        },
+                        {
+                            "X": 0.8755937814712524,
+                            "Y": 0.1771847903728485
+                        },
+                        {
+                            "X": 0.7284917831420898,
+                            "Y": 0.17537064850330353
+                        }
+                    ]
+                },
+                "text_type": "HANDWRITING"
+            },
+            "recognized_word_12": {
+                "confidence": 92.2793197631836,
+                "text": "MAGASIN",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.11505420506000519,
+                        "Height": 0.0199397224932909,
+                        "Left": 0.324318528175354,
+                        "Top": 0.15714997053146362
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3245715796947479,
+                            "Y": 0.15714997053146362
+                        },
+                        {
+                            "X": 0.439372718334198,
+                            "Y": 0.1585559844970703
+                        },
+                        {
+                            "X": 0.4391164183616638,
+                            "Y": 0.17708970606327057
+                        },
+                        {
+                            "X": 0.324318528175354,
+                            "Y": 0.17567004263401031
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_13": {
+                "confidence": 97.65974426269531,
+                "text": "CASE",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.07129963487386703,
+                        "Height": 0.019829485565423965,
+                        "Left": 0.3273769021034241,
+                        "Top": 0.18803437054157257
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.3276357650756836,
+                            "Y": 0.18803437054157257
+                        },
+                        {
+                            "X": 0.3986765444278717,
+                            "Y": 0.18891853094100952
+                        },
+                        {
+                            "X": 0.39841562509536743,
+                            "Y": 0.20786385238170624
+                        },
+                        {
+                            "X": 0.3273769021034241,
+                            "Y": 0.20697104930877686
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            },
+            "recognized_word_14": {
+                "confidence": 64.76586151123047,
+                "text": "No",
+                "geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0675981193780899,
+                        "Height": 0.020162606611847878,
+                        "Left": 0.3253273069858551,
+                        "Top": 0.2185998558998108
+                    },
+                    "Polygon": [
+                        {
+                            "X": 0.325591117143631,
+                            "Y": 0.2185998558998108
+                        },
+                        {
+                            "X": 0.3929254114627838,
+                            "Y": 0.2194511443376541
+                        },
+                        {
+                            "X": 0.39265960454940796,
+                            "Y": 0.23876245319843292
+                        },
+                        {
+                            "X": 0.3253273069858551,
+                            "Y": 0.23790282011032104
+                        }
+                    ]
+                },
+                "text_type": "PRINTED"
+            }
+        }
+    },
+    "image37_recognized_part_0": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Nature",
+                "label_confidence": 99.21598815917969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 99.21598815917969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sky",
+                "label_confidence": 99.21598815917969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Ice",
+                "label_confidence": 98.32246398925781,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Weather",
+                "label_confidence": 92.81306457519531,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow",
+                "label_confidence": 81.66566467285156,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Smoke",
+                "label_confidence": 62.40090560913086,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.37181091308594,
+                "overall_quality_sharpness": 4.533137321472168,
+                "overall_quality_contrast": 17.269798278808594,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 60.48237609863281,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 29.87013053894043,
+                "dominant_color_2_hex": "#b0c4de",
+                "dominant_color_2_css": "lightsteelblue",
+                "dominant_color_2_pixelpercent": 7.235621452331543,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 2.4118738174438477
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Mode of transport",
+                    "web_entity_confidence": 0.4829856
+                },
+                {
+                    "web_entity_description": "Transport",
+                    "web_entity_confidence": 0.4161
+                },
+                {
+                    "web_entity_description": "Freezing",
+                    "web_entity_confidence": 0.41383952
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.36907217
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.36266747
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.3492358
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.34242764
+                },
+                {
+                    "web_entity_description": "Cloud computing",
+                    "web_entity_confidence": 0.34
+                },
+                {
+                    "web_entity_description": "Close-up",
+                    "web_entity_confidence": 0.31979793
+                },
+                {
+                    "web_entity_description": "Geology",
+                    "web_entity_confidence": 0.2865
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/background/20210711/original/pngtree-blue-sky-free-illustration-picture-image_1077388.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://as2.ftcdn.net/v2/jpg/05/33/79/59/1000_F_533795988_JhakZaBkFgC3Mg1dIylAEwIadFiOTwX5.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/previews/025/553/391/original/abstract-background-with-a-colorful-watercolor-splatter-design-of-blue-blue-sky-and-clouds-blue-watercolor-stain-background-vector.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://wallpapers.com/images/hd/blurred-office-background-3440-x-1440-m9cjtg8867a80b05.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://img.freepik.com/premium-photo/abstract-background-with-cloud-texture-watercolor-light-grayish-colors-with-space-text-image_735367-55.jpg?w=360"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.agjeans.com/cdn/shop/collections/collection-banner-image-w-ag-cloud-soft-denim-1.jpg?v=1689359916&width=1024"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/previews/000/533/892/non_2x/blurry-sky-vector-background.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/background/20220714/original/pngtree-original-banner-small-fresh-pink-blue-cloud-shading-background-picture-image_1619175.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://image.slidesdocs.com/responsive-images/slides/0-blue-atmosphere-mid-year-work-summary-powerpoint-background_4fd06591f7__960_540.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/previews/015/942/328/non_2x/hand-painted-abstract-watercolor-background-sky-blue-watercolor-illustration-art-free-vector.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "sky"
+                }
+            ]
+        },
+        "bounding_box": [
+            2240,
+            2928,
+            2355,
+            2973
+        ]
+    },
+    "image37_recognized_part_1": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Ice",
+                "label_confidence": 96.71671295166016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 94.37833404541016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Nature",
+                "label_confidence": 91.57807922363281,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Texture",
+                "label_confidence": 86.46788024902344,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Rock",
+                "label_confidence": 86.15814208984375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 73.61116027832031,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snow",
+                "label_confidence": 72.33566284179688,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Snowman",
+                "label_confidence": 70.04619598388672,
+                "label_boundings": [
+                    {
+                        "Width": 0.9472470879554749,
+                        "Height": 0.9566680788993835,
+                        "Left": 0.04048125445842743,
+                        "Top": 0.018344765529036522
+                    }
+                ]
+            },
+            {
+                "label_name": "Winter",
+                "label_confidence": 70.04619598388672,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Shark",
+                "label_confidence": 67.33102416992188,
+                "label_boundings": [
+                    {
+                        "Width": 0.4093468189239502,
+                        "Height": 0.4592601954936981,
+                        "Left": 0.5875721573829651,
+                        "Top": 0.315442830324173
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 92.43174743652344,
+                "overall_quality_sharpness": 40.76554870605469,
+                "overall_quality_contrast": 59.904563903808594,
+                "dominant_color_0_hex": "#c0c0c0",
+                "dominant_color_0_css": "silver",
+                "dominant_color_0_pixelpercent": 41.23711395263672,
+                "dominant_color_1_hex": "#dcdcdc",
+                "dominant_color_1_css": "gainsboro",
+                "dominant_color_1_pixelpercent": 40.20618438720703,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 9.278350830078125,
+                "dominant_color_3_hex": "#696969",
+                "dominant_color_3_css": "dimgrey",
+                "dominant_color_3_pixelpercent": 5.15463924407959,
+                "dominant_color_4_hex": "#808080",
+                "dominant_color_4_css": "gray",
+                "dominant_color_4_pixelpercent": 4.123711109161377
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Jaguar Cars",
+                "logo_confidence": 0.69197315,
+                "logo_vertices": [
+                    {
+                        "x": 1,
+                        "y": 1
+                    },
+                    {
+                        "x": 169,
+                        "y": 1
+                    },
+                    {
+                        "x": 169,
+                        "y": 117
+                    },
+                    {
+                        "x": 1,
+                        "y": 117
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Reptiles",
+                    "web_entity_confidence": 0.70996183
+                },
+                {
+                    "web_entity_description": "Organism",
+                    "web_entity_confidence": 0.5173815
+                },
+                {
+                    "web_entity_description": "Glacial landform",
+                    "web_entity_confidence": 0.47147575
+                },
+                {
+                    "web_entity_description": "Fish",
+                    "web_entity_confidence": 0.38146463
+                },
+                {
+                    "web_entity_description": "Fauna",
+                    "web_entity_confidence": 0.36013082
+                },
+                {
+                    "web_entity_description": "Tree",
+                    "web_entity_confidence": 0.3417308
+                },
+                {
+                    "web_entity_description": "Landform",
+                    "web_entity_confidence": 0.3373
+                },
+                {
+                    "web_entity_description": "Glacier",
+                    "web_entity_confidence": 0.3348
+                },
+                {
+                    "web_entity_description": "Wildlife",
+                    "web_entity_confidence": 0.2912
+                },
+                {
+                    "web_entity_description": "Biology",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://i.etsystatic.com/23242193/r/il/c8368b/3063208252/il_570xN.3063208252_q4ju.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.sassyspirit.co.uk/cdn/shop/products/SSPI23026A.jpg?v=1677605727&width=1946"
+                },
+                {
+                    "web_visually_similar_image_url": "https://live.staticflickr.com/30/39671341_e8f7e18e28_b.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://dekornik.com/wp-content/uploads/2020/05/DEKO.TAP_.rybki_filter-unsmushed.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://johnbusbyartist.co.uk/wp/wp-content/uploads/2018/07/Jay-in-tree-e1636126848546.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/71absEU90-L._UF894,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.etsystatic.com/6572709/r/il/29319f/1667567677/il_fullxfull.1667567677_n3o1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://png.pngtree.com/thumb_back/fw800/background/20221119/pngtree-trout-in-snow-wet-fish-lunch-photo-image_1354134.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/cc/88/7c/cc887c0225713244136f7f625d3469a2.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.shoplightspeed.com/shops/643147/files/44225125/1652x2313x2/tangled-up-in-hue-tote-bag-yarn-tree.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "fauna"
+                }
+            ]
+        },
+        "bounding_box": [
+            1122,
+            2443,
+            1291,
+            2563
+        ]
+    },
+    "image37_recognized_part_10": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.99606323242188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.99606323242188,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Signature",
+                "label_confidence": 85.63390350341797,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 94.64281463623047,
+                "overall_quality_sharpness": 75.44963836669922,
+                "overall_quality_contrast": 43.75910949707031,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 78.78411865234375,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 8.80893325805664,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 7.320099353790283,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 5.086848735809326
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.5927006
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.5280739
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.49585462
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.46227485
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.425498
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.39562201
+                },
+                {
+                    "web_entity_description": "Twig",
+                    "web_entity_confidence": 0.36559924
+                },
+                {
+                    "web_entity_description": "Pattern",
+                    "web_entity_confidence": 0.3221413
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2568
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://preview.redd.it/5-to-10-min-figure-drawing-with-boxes-v0-dov3nsr6yggb1.jpg?width=640&crop=smart&auto=webp&s=b8b1f852947681f18a4a78fbfb298fb4c49d4c87"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.redd.it/5-to-10-min-figure-drawing-with-boxes-v0-dov3nsr6yggb1.jpg?width=2481&format=pjpg&auto=webp&s=5f59c4e601471348130d7fdb0c6ffa0662c27922"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.tiktok.com/api/img/?itemId=7136642382967098666&location=0&aid=1988"
+                },
+                {
+                    "web_visually_similar_image_url": "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F4%2F7%2F3%2F5%2F14735745%5D&call=url%5Bfile%3Aproduct.chain%5D"
+                },
+                {
+                    "web_visually_similar_image_url": "https://preview.redd.it/5-to-10-min-figure-drawing-with-boxes-v0-whmi8np6yggb1.jpg?width=2481&format=pjpg&auto=webp&s=37e5361bb830eeea0a18e9f1aadcfd782985f67b"
+                },
+                {
+                    "web_visually_similar_image_url": "https://preview.redd.it/5-to-10-min-figure-drawing-with-boxes-v0-kvcqbnp6yggb1.jpg?width=640&crop=smart&auto=webp&s=42b1dc85be954138e46a3f3eb974d9da81bc246f"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.vectorstock.com/i/preview-1x/29/87/sailboat-vintage-wooden-ship-sketch-vector-14522987.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.kym-cdn.com/photos/images/original/001/800/672/b89.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.mygov.in/indiancc/2021/07/mygov-9999999991063226250.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.XXX.63834110.7055475/1140657.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            53,
+            11,
+            563,
+            861
+        ]
+    },
+    "image37_recognized_part_2": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "White Board",
+                "label_confidence": 96.76727294921875,
+                "label_boundings": [
+                    {
+                        "Width": 0.9939684867858887,
+                        "Height": 0.9833844304084778,
+                        "Left": 0.005412485916167498,
+                        "Top": 0.01474034320563078
+                    }
+                ]
+            },
+            {
+                "label_name": "Animal",
+                "label_confidence": 70.53870391845703,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Invertebrate",
+                "label_confidence": 68.83365631103516,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Worm",
+                "label_confidence": 68.83365631103516,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 67.47516632080078,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 94.22310638427734,
+                "overall_quality_sharpness": 22.307947158813477,
+                "overall_quality_contrast": 33.58560562133789,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 84.59302520751953,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 6.686046600341797,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 4.941860675811768,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 3.779069662094116
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Land Rover",
+                "logo_confidence": 0.65895873,
+                "logo_vertices": [
+                    {
+                        "x": 5,
+                        "y": 0
+                    },
+                    {
+                        "x": 301,
+                        "y": 0
+                    },
+                    {
+                        "x": 301,
+                        "y": 117
+                    },
+                    {
+                        "x": 5,
+                        "y": 117
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.405185
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.37851706
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34750262
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2831
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2694
+                },
+                {
+                    "web_entity_description": "Computer hardware",
+                    "web_entity_confidence": 0.249
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/a6a1ded2a1ee4ac0b56e7ba39a6fa973~tplv-ejcjvp0zxf-wm-webp.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/479a6a84022e4347acfc1dfea80d4371~tplv-ejcjvp0zxf-wm-webp.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/43f7e8a41a474cd6883716b98993d0e1~tplv-ejcjvp0zxf-webp.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://us-static.z-dn.net/files/db1/685b86541097119e179fd51b95f9c80c.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://haygot.s3.amazonaws.com/questions/868427_296972_ans_d02967f9719b4c4fae44d4849f9f3158.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.coursehero.com/qa/attachment/14021622/"
+                },
+                {
+                    "web_visually_similar_image_url": "https://qph.cf2.quoracdn.net/main-qimg-f7e2440ee27180e34250482805e9ded1-lq"
+                },
+                {
+                    "web_visually_similar_image_url": "https://s3mn.mnimgs.com/img/shared/content_ck_images/ck_5ae0411568684.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://qph.cf2.quoracdn.net/main-qimg-c3632f26502774b247439245824a9607-lq"
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn.numerade.com/ask_images/ed5a45738dbe40f598607518ee353bdf.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "hardware accessory"
+                }
+            ]
+        },
+        "bounding_box": [
+            25,
+            1777,
+            328,
+            1895
+        ]
+    },
+    "image37_recognized_part_3": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "White Board",
+                "label_confidence": 84.27444458007812,
+                "label_boundings": [
+                    {
+                        "Width": 0.9852494597434998,
+                        "Height": 0.9842023253440857,
+                        "Left": 0.008194049820303917,
+                        "Top": 0.00846043974161148
+                    }
+                ]
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 80.96110534667969,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Tomb",
+                "label_confidence": 71.23324584960938,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Plaque",
+                "label_confidence": 66.373291015625,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.927734375,
+                "overall_quality_sharpness": 59.46623611450195,
+                "overall_quality_contrast": 30.083738327026367,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 78.53347778320312,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 13.92136001586914,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 4.463336944580078,
+                "dominant_color_3_hex": "#808080",
+                "dominant_color_3_css": "gray",
+                "dominant_color_3_pixelpercent": 1.9128586053848267,
+                "dominant_color_4_hex": "#ffebcd",
+                "dominant_color_4_css": "blanchedalmond",
+                "dominant_color_4_pixelpercent": 1.1689691543579102
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Baillie Gifford",
+                "logo_confidence": 0.6315497,
+                "logo_vertices": [
+                    {
+                        "x": 1,
+                        "y": 9
+                    },
+                    {
+                        "x": 381,
+                        "y": 9
+                    },
+                    {
+                        "x": 381,
+                        "y": 211
+                    },
+                    {
+                        "x": 1,
+                        "y": 211
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.44101423
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.433096
+                },
+                {
+                    "web_entity_description": "Circle",
+                    "web_entity_confidence": 0.43241206
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.35835928
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2831
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2541
+                },
+                {
+                    "web_entity_description": "Precalculus",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Analytic trigonometry and conic sections",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://static.wixstatic.com/media/fa2c93_5cf41640c33640a2ba5d0d071eebbe2c~mv2.jpg/v1/fill/w_500,h_388,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/CloverCalligraphy_edited_edited_edited.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/5a4cbfe61f318d36bb3cefaa/1600016849233-1OENRMIJGWBY5V164KAO/olivia-hope-calligraphy-wedding-envelope-addressing-gold.jpg?format=2500w"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/5a4cbfe61f318d36bb3cefaa/1600016850818-JERFF8LWVN1YY6N4JB0E/olivia-hope-calligraphy-wedding-invitation-envelope-addressing.jpg?format=2500w"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.squarespace-cdn.com/content/v1/5600a1b6e4b08aeb5c44e106/1677707594140-QZ8GWBBHBJPADDZ3M4BR/0-6.jpg?format=1000w"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/833735612/photo/calligraphy-creation-hobby-concept-italic-letters-of-english-alphabeth-inscribing-on-the-tough.jpg?s=612x612&w=is&k=20&c=jv4j0793elhaq73Ox57Ji9xYOKCsgC1vLP3X1Pjiw-k="
+                },
+                {
+                    "web_visually_similar_image_url": "https://cdn11.bigcommerce.com/s-r6vjsnlxmh/images/stencil/1280x1280/products/3615/3028/ryBB2NbQBGCxzCFt7PP1_modern_suz-35__67209.1677866039.jpg?c=1"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.creativemarket.com/0.1.0/ps/7705110/580/387/m1/fpnw/wm0/0-.jpg?1580894199&s=add092d29c63a4e63f98fb7361dd65e2"
+                },
+                {
+                    "web_visually_similar_image_url": "https://graphicriver.img.customer.envatousercontent.com/files/408099357/prev.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=590&s=c9ade52ec92e557c5100b67c149287d3"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/736x/d0/65/31/d0653111e89ce55e9215e95c19804023.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.redd.it/0n9rpr14not81.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "circle"
+                }
+            ]
+        },
+        "bounding_box": [
+            1104,
+            934,
+            1489,
+            1151
+        ]
+    },
+    "image37_recognized_part_4": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Adult",
+                "label_confidence": 98.5438461303711,
+                "label_boundings": [
+                    {
+                        "Width": 0.26072803139686584,
+                        "Height": 0.36667031049728394,
+                        "Left": 0.2858802378177643,
+                        "Top": 0.40362533926963806
+                    }
+                ]
+            },
+            {
+                "label_name": "Male",
+                "label_confidence": 98.5438461303711,
+                "label_boundings": [
+                    {
+                        "Width": 0.26072803139686584,
+                        "Height": 0.36667031049728394,
+                        "Left": 0.2858802378177643,
+                        "Top": 0.40362533926963806
+                    }
+                ]
+            },
+            {
+                "label_name": "Man",
+                "label_confidence": 98.5438461303711,
+                "label_boundings": [
+                    {
+                        "Width": 0.26072803139686584,
+                        "Height": 0.36667031049728394,
+                        "Left": 0.2858802378177643,
+                        "Top": 0.40362533926963806
+                    }
+                ]
+            },
+            {
+                "label_name": "Person",
+                "label_confidence": 98.5438461303711,
+                "label_boundings": [
+                    {
+                        "Width": 0.26072803139686584,
+                        "Height": 0.36667031049728394,
+                        "Left": 0.2858802378177643,
+                        "Top": 0.40362533926963806
+                    }
+                ]
+            },
+            {
+                "label_name": "Art",
+                "label_confidence": 96.64512634277344,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 96.64512634277344,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Path",
+                "label_confidence": 94.0096206665039,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Street",
+                "label_confidence": 84.59583282470703,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Drawing",
+                "label_confidence": 82.36802673339844,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Shoe",
+                "label_confidence": 80.95378875732422,
+                "label_boundings": [
+                    {
+                        "Width": 0.019644999876618385,
+                        "Height": 0.03394434228539467,
+                        "Left": 0.47359246015548706,
+                        "Top": 0.7172290682792664
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 90.73278045654297,
+                "overall_quality_sharpness": 82.2548828125,
+                "overall_quality_contrast": 77.08453369140625,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 35.387489318847656,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 26.890756607055664,
+                "dominant_color_2_hex": "#808080",
+                "dominant_color_2_css": "gray",
+                "dominant_color_2_pixelpercent": 18.11391258239746,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 14.472455978393555,
+                "dominant_color_4_hex": "#2f4f4f",
+                "dominant_color_4_css": "darkslategrey",
+                "dominant_color_4_pixelpercent": 5.135387420654297
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Visual arts",
+                    "web_entity_confidence": 0.71350074
+                },
+                {
+                    "web_entity_description": "Black-and-white",
+                    "web_entity_confidence": 0.5118188
+                },
+                {
+                    "web_entity_description": "Sketch",
+                    "web_entity_confidence": 0.48656416
+                },
+                {
+                    "web_entity_description": "Cartoon",
+                    "web_entity_confidence": 0.41928348
+                },
+                {
+                    "web_entity_description": "Artwork",
+                    "web_entity_confidence": 0.3938
+                },
+                {
+                    "web_entity_description": "Art",
+                    "web_entity_confidence": 0.3936
+                },
+                {
+                    "web_entity_description": "Tree",
+                    "web_entity_confidence": 0.3630113
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.33985114
+                },
+                {
+                    "web_entity_description": "Black",
+                    "web_entity_confidence": 0.2958
+                },
+                {
+                    "web_entity_description": "White",
+                    "web_entity_confidence": 0.2932
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F2%2F2%2F2%2F2%2F12222237%5D&call=url%5Bfile%3Aproduct.chain%5D"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.pinimg.com/474x/af/d7/b5/afd7b5e72961a1449798b78850305d3b.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://wyecliffe.com/cdn/shop/products/david-renshaw-edinburgh-memories-original-sketch-original-37020454518953.jpg?v=1665156641"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/480768448/vector/arab-city-evening-sketch.jpg?s=612x612&w=is&k=20&c=h49EeUnTHIINu-sa60GqOVNQePB58rGI25Sul5IOB94="
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.artmajeur.com/medias/home/o/r/orlando-marin-lopez/artwork/9399028_femme-au-carrefour-shibuya.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/tree-house-5-jim-hubbard.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://wyecliffe.com/cdn/shop/products/david-renshaw-edinburgh-memories-original-sketch-original-37020454518953_300x.jpg?v=1665156641"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lakeland.edu/perch/resources/student-1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://preview.redd.it/an-old-sketch-i-did-for-a-retail-project-v0-w6zi9mozl2ba1.jpg?width=640&crop=smart&auto=webp&s=e8ac44d8db89651518df948e723842066b7c6ffd"
+                },
+                {
+                    "web_visually_similar_image_url": "https://images.fineartamerica.com/images-medium-large-5/venetian-boats-diane-cardaci.jpg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "tree"
+                }
+            ]
+        },
+        "bounding_box": [
+            444,
+            857,
+            2058,
+            2842
+        ]
+    },
+    "image37_recognized_part_5": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "White Board",
+                "label_confidence": 98.32162475585938,
+                "label_boundings": [
+                    {
+                        "Width": 0.9968076944351196,
+                        "Height": 0.9728186726570129,
+                        "Left": 0.003192273899912834,
+                        "Top": 0.014968795701861382
+                    }
+                ]
+            },
+            {
+                "label_name": "Paper",
+                "label_confidence": 95.72885131835938,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 95.6123046875,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Sticker",
+                "label_confidence": 68.09239959716797,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Airmail",
+                "label_confidence": 68.00235748291016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Envelope",
+                "label_confidence": 68.00235748291016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Mail",
+                "label_confidence": 68.00235748291016,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.88224029541016,
+                "overall_quality_sharpness": 78.57015991210938,
+                "overall_quality_contrast": 68.39079284667969,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 75.9112548828125,
+                "dominant_color_1_hex": "#708090",
+                "dominant_color_1_css": "slategrey",
+                "dominant_color_1_pixelpercent": 7.9239301681518555,
+                "dominant_color_2_hex": "#b0c4de",
+                "dominant_color_2_css": "lightsteelblue",
+                "dominant_color_2_pixelpercent": 5.309033393859863,
+                "dominant_color_3_hex": "#a9a9a9",
+                "dominant_color_3_css": "darkgrey",
+                "dominant_color_3_pixelpercent": 4.9920759201049805,
+                "dominant_color_4_hex": "#c0c0c0",
+                "dominant_color_4_css": "silver",
+                "dominant_color_4_pixelpercent": 2.6148970127105713,
+                "dominant_color_5_hex": "#696969",
+                "dominant_color_5_css": "dimgrey",
+                "dominant_color_5_pixelpercent": 2.3771791458129883,
+                "dominant_color_6_hex": "#808080",
+                "dominant_color_6_css": "gray",
+                "dominant_color_6_pixelpercent": 0.8716323375701904
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 1,
+            "spoof": 1,
+            "violence": 1,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Dash",
+                "logo_confidence": 0.55424637,
+                "logo_vertices": [
+                    {
+                        "x": 14,
+                        "y": 8
+                    },
+                    {
+                        "x": 504,
+                        "y": 8
+                    },
+                    {
+                        "x": 504,
+                        "y": 347
+                    },
+                    {
+                        "x": 14,
+                        "y": 347
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.39571217
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.38775527
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.35814846
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2831
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2651
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/319iU2ZRCUL._AC_UF1000,1000_QL80_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/2fEAAOSw4qFiYZge/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "http://5.imimg.com/data5/SELLER/Default/2022/12/XD/OZ/OX/16335061/3m-espe-vitrebond-dental-filling-material-500x500.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/7DIAAOSwlO1hVeMH/s-l1200.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.researchgate.net/publication/365243106/figure/fig6/AS:11431281095808457@1668027467673/Material-from-the-original-Karl-Schliephacke-collection-one-of-many-syntypes-of-P.png"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/o9QAAOSwtGlZNA~q/s-l1200.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://dentalstall.com/wp-content/uploads/2021/05/Cavit-G-1.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.licdn.com/dms/image/C4E22AQFcjixfZhmpkQ/feedshare-shrink_800/0/1635415799109?e=2147483647&v=beta&t=lEbzhHSy8f4RL9kXSsypvjaqCiuSYE9rPs2gn33fvgk"
+                },
+                {
+                    "web_visually_similar_image_url": "https://image.made-in-china.com/202f0j00zIOUHWZPhrbM/Chemical-Raw-Material-Rutile-Titanium-Dioxide-Rutile-R-888-for-Plastic-and-Master-Batch.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://django-order-files.s3.amazonaws.com/shop/images/WhatsApp_Image_2023-07-05_at_7.32.50_PM.jpeg"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "material"
+                }
+            ]
+        },
+        "bounding_box": [
+            797,
+            415,
+            1369,
+            777
+        ]
+    },
+    "image37_recognized_part_6": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.9995346069336,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.9995346069336,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Signature",
+                "label_confidence": 91.31966400146484,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.212890625,
+                "overall_quality_sharpness": 43.76665496826172,
+                "overall_quality_contrast": 49.808570861816406,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 78.73831939697266,
+                "dominant_color_1_hex": "#778899",
+                "dominant_color_1_css": "lightslategrey",
+                "dominant_color_1_pixelpercent": 10.981307983398438,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 5.373831748962402,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 4.4392523765563965,
+                "dominant_color_4_hex": "#e6e6fa",
+                "dominant_color_4_css": "lavender",
+                "dominant_color_4_pixelpercent": 0.4672897160053253
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Montegrappa",
+                "logo_confidence": 0.7043984,
+                "logo_vertices": [
+                    {
+                        "x": 5,
+                        "y": 0
+                    },
+                    {
+                        "x": 505,
+                        "y": 0
+                    },
+                    {
+                        "x": 505,
+                        "y": 138
+                    },
+                    {
+                        "x": 5,
+                        "y": 138
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.62623054
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.53909934
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.5198127
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.46969393
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.42895558
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.39309505
+                },
+                {
+                    "web_entity_description": "Close-up",
+                    "web_entity_confidence": 0.33210894
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2568
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2416
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            1734,
+            388,
+            2239,
+            526
+        ]
+    },
+    "image37_recognized_part_7": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.9975814819336,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.9975814819336,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Signature",
+                "label_confidence": 81.21780395507812,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.4800796508789,
+                "overall_quality_sharpness": 78.0146484375,
+                "overall_quality_contrast": 44.179344177246094,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 77.31092071533203,
+                "dominant_color_1_hex": "#778899",
+                "dominant_color_1_css": "lightslategrey",
+                "dominant_color_1_pixelpercent": 9.243697166442871,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 6.722689151763916,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 6.302521228790283,
+                "dominant_color_4_hex": "#e6e6fa",
+                "dominant_color_4_css": "lavender",
+                "dominant_color_4_pixelpercent": 0.42016807198524475
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "News Corp Australia",
+                "logo_confidence": 0.69748884,
+                "logo_vertices": [
+                    {
+                        "x": 24,
+                        "y": 0
+                    },
+                    {
+                        "x": 681,
+                        "y": 0
+                    },
+                    {
+                        "x": 681,
+                        "y": 111
+                    },
+                    {
+                        "x": 24,
+                        "y": 111
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.6534337
+                },
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.62805057
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.53787833
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.48480824
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.44478172
+                },
+                {
+                    "web_entity_description": "Document",
+                    "web_entity_confidence": 0.43668628
+                },
+                {
+                    "web_entity_description": "Paper",
+                    "web_entity_confidence": 0.4103814
+                },
+                {
+                    "web_entity_description": "Design",
+                    "web_entity_confidence": 0.36621368
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.3596823
+                },
+                {
+                    "web_entity_description": "Number",
+                    "web_entity_confidence": 0.35771814
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://image.invaluable.com/housePhotos/Setdart/52/748252/H22806-L332698376.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://static.vecteezy.com/system/resources/thumbnails/013/130/857/small/collection-of-winter-nature-landscape-background-with-mountain-and-sky-vector.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "x-raw-image:///996eb58bdd55576cde035ddf38c5efb71c44ffd71e8e66acbcf1fed9198093e3"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.insider.com/636cedb7951bdc00182d75d9?width=1000&format=jpeg&auto=webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://st.depositphotos.com/1518767/57421/v/600/depositphotos_574213576-stock-video-men-women-rotating-sky-background.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.shutterstock.com/shutterstock/photos/2138791993/display_1500/stock-photo-legs-of-parents-and-children-in-socks-and-blue-jeans-close-up-the-concept-of-happy-and-equal-2138791993.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.imago-images.de/bild/st/0085323273/s.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://m.media-amazon.com/images/I/41U2AZoEzdL._UXNaN_FMjpg_QL85_.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/9ade112a8c214aabae19c47d780d6a92~tplv-ejcjvp0zxf-wm-webp.webp"
+                },
+                {
+                    "web_visually_similar_image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=855497214494764"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            778,
+            244,
+            1459,
+            355
+        ]
+    },
+    "image37_recognized_part_8": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Handwriting",
+                "label_confidence": 99.99991607666016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 99.99991607666016,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Signature",
+                "label_confidence": 94.02200317382812,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Smoke Pipe",
+                "label_confidence": 67.93717956542969,
+                "label_boundings": [
+                    {
+                        "Width": 0.9894790649414062,
+                        "Height": 0.9828180074691772,
+                        "Left": 0.006111253518611193,
+                        "Top": 0.011312381364405155
+                    }
+                ]
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 95.03993225097656,
+                "overall_quality_sharpness": 26.46164894104004,
+                "overall_quality_contrast": 55.14987564086914,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 76.89873504638672,
+                "dominant_color_1_hex": "#778899",
+                "dominant_color_1_css": "lightslategrey",
+                "dominant_color_1_pixelpercent": 12.97468376159668,
+                "dominant_color_2_hex": "#a9a9a9",
+                "dominant_color_2_css": "darkgrey",
+                "dominant_color_2_pixelpercent": 5.379746913909912,
+                "dominant_color_3_hex": "#c0c0c0",
+                "dominant_color_3_css": "silver",
+                "dominant_color_3_pixelpercent": 3.902953624725342,
+                "dominant_color_4_hex": "#b0c4de",
+                "dominant_color_4_css": "lightsteelblue",
+                "dominant_color_4_pixelpercent": 0.8438818454742432
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 2,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 1
+        },
+        "LOGO_DETECTION": [
+            {
+                "logo_description": "Sam Ash",
+                "logo_confidence": 0.57365394,
+                "logo_vertices": [
+                    {
+                        "y": 7,
+                        "x": 0
+                    },
+                    {
+                        "x": 254,
+                        "y": 7
+                    },
+                    {
+                        "x": 254,
+                        "y": 133
+                    },
+                    {
+                        "y": 133,
+                        "x": 0
+                    }
+                ]
+            }
+        ],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Writing",
+                    "web_entity_confidence": 0.60705614
+                },
+                {
+                    "web_entity_description": "Handwriting",
+                    "web_entity_confidence": 0.53514856
+                },
+                {
+                    "web_entity_description": "Calligraphy",
+                    "web_entity_confidence": 0.5032771
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.4748702
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.43127212
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.39357263
+                },
+                {
+                    "web_entity_description": "Product",
+                    "web_entity_confidence": 0.38369212
+                },
+                {
+                    "web_entity_description": "Brand",
+                    "web_entity_confidence": 0.360917
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2817
+                },
+                {
+                    "web_entity_description": "M",
+                    "web_entity_confidence": 0.2577
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://www.fountainpennetwork.com/forum/uploads/monthly_2021_06/203054508_224rhclb.jpeg.e00d06e69281aad900114c8704e15379.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.fountainpennetwork.com/forum/uploads/imgs/fpn_1587134300__cl_rh_pel.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.fountainpennetwork.com/forum/uploads/monthly_2021_05/758044063_rhclfm.jpeg.44ccf1b369bf7a33589ba15746e0453d.jpeg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://us.123rf.com/450wm/leonidtit/leonidtit1802/leonidtit180200844/95710324-writing-text-love-you-on-the-snow.jpg?ver=6"
+                },
+                {
+                    "web_visually_similar_image_url": "https://mybranchesblog.files.wordpress.com/2019/06/p1040473-2.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.licdn.com/dms/image/D4D16AQGzvaoTdnJd4Q/profile-displaybackgroundimage-shrink_200_800/0/1665739687520?e=2147483647&v=beta&t=VNoXiOoH3_I3R9MsfFcHcajtewtq6juW466vvqyQhK4"
+                },
+                {
+                    "web_visually_similar_image_url": "https://preview.redd.it/shimmer-in-the-sea-or-in-the-garden-v0-w7f3sz2cx4db1.jpg?width=640&crop=smart&auto=webp&s=c3ea7682b815c9a9ae24721764f3e6d85eaa29d5"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/QmkAAOSwc4xiUD96/s-l1600.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.istockphoto.com/id/524718236/photo/dirty-text-on-a-grubby-dust-covered-window.jpg?s=1024x1024&w=is&k=20&c=IypbdJRuz2Eh12SOUjQpXnraGtBSGpPZJ0PkArfWnAM="
+                },
+                {
+                    "web_visually_similar_image_url": "https://i.ebayimg.com/images/g/ShYAAOSwQJ9kBknq/s-l1600.png"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "handwriting"
+                }
+            ]
+        },
+        "bounding_box": [
+            393,
+            202,
+            653,
+            336
+        ]
+    },
+    "image37_recognized_part_9": {
+        "LABEL_DETECTION": [
+            {
+                "label_name": "Sailboat",
+                "label_confidence": 99.96080780029297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Vehicle",
+                "label_confidence": 99.96080780029297,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Painting",
+                "label_confidence": 96.9525375366211,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Texture",
+                "label_confidence": 93.70296478271484,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Canvas",
+                "label_confidence": 89.6083984375,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Paper",
+                "label_confidence": 82.06311798095703,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Water",
+                "label_confidence": 74.88309478759766,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Outdoors",
+                "label_confidence": 68.2548599243164,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Linen",
+                "label_confidence": 66.97237396240234,
+                "label_boundings": []
+            },
+            {
+                "label_name": "Text",
+                "label_confidence": 66.3784408569336,
+                "label_boundings": []
+            }
+        ],
+        "FACE_DETECTION": [],
+        "IMAGE_PROPERTIES": [
+            {
+                "overall_quality_brightness": 94.0797348022461,
+                "overall_quality_sharpness": 15.481605529785156,
+                "overall_quality_contrast": 12.356295585632324,
+                "dominant_color_0_hex": "#dcdcdc",
+                "dominant_color_0_css": "gainsboro",
+                "dominant_color_0_pixelpercent": 81.50943756103516,
+                "dominant_color_1_hex": "#c0c0c0",
+                "dominant_color_1_css": "silver",
+                "dominant_color_1_pixelpercent": 17.358489990234375,
+                "dominant_color_2_hex": "#87ceeb",
+                "dominant_color_2_css": "skyblue",
+                "dominant_color_2_pixelpercent": 0.7547169923782349,
+                "dominant_color_3_hex": "#b0c4de",
+                "dominant_color_3_css": "lightsteelblue",
+                "dominant_color_3_pixelpercent": 0.37735849618911743
+            }
+        ],
+        "SAFE_SEARCH_DETECTION": {
+            "adult": 1,
+            "medical": 2,
+            "spoof": 1,
+            "violence": 2,
+            "racy": 2
+        },
+        "LOGO_DETECTION": [],
+        "LANDMARK_DETECTION": [],
+        "WEB_DETECTION": {
+            "web_entities": [
+                {
+                    "web_entity_description": "Water",
+                    "web_entity_confidence": 0.75577724
+                },
+                {
+                    "web_entity_description": "Line",
+                    "web_entity_confidence": 0.3928827
+                },
+                {
+                    "web_entity_description": "Ice",
+                    "web_entity_confidence": 0.3709907
+                },
+                {
+                    "web_entity_description": "Font",
+                    "web_entity_confidence": 0.36495548
+                },
+                {
+                    "web_entity_description": "Text",
+                    "web_entity_confidence": 0.34587258
+                },
+                {
+                    "web_entity_description": "Winter",
+                    "web_entity_confidence": 0.3246191
+                },
+                {
+                    "web_entity_description": "Meter",
+                    "web_entity_confidence": 0.2809
+                },
+                {
+                    "web_entity_description": "Microsoft Azure",
+                    "web_entity_confidence": 0.2547
+                },
+                {
+                    "web_entity_description": "Mathematics",
+                    "web_entity_confidence": 0.0
+                },
+                {
+                    "web_entity_description": "Geometry",
+                    "web_entity_confidence": 0.0
+                }
+            ],
+            "web_full_matching_images": [],
+            "web_partial_matching_images": [],
+            "web_pages_with_matching_images": [],
+            "web_visually_similar_images": [
+                {
+                    "web_visually_similar_image_url": "https://images.thdstatic.com/productImages/7e8c9138-ed23-43f2-9402-0bada578e262/svn/sky-blue-ivy-hill-tile-ceramic-tile-ext3rd101870-1f_600.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://i8.amplience.net/i/flooranddecor/100821792_arctic-ice-porcelain-tile_1?fmt=auto&qlt=85"
+                },
+                {
+                    "web_visually_similar_image_url": "https://westerndistributors.com.au/wp-content/uploads/2018/07/geleno-ice-gloss-2.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "http://www.surfacegroup.com/cdn/shop/products/sgi-4500-0738-anatolia-form-ice-glazed-porcelain-field-tile-matte-pressed-square-8x8.png?v=1676664598&width=2048"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.tilezone.co.uk/image/cache/data/Porcelain%20Tiles/Ornate/Ornate%20Onyx%20Ice/Ornate-Onyx-Ice-Polished-Porcelain-Tile%202-60x60-810x810-700x700h.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://www.centuralondon.ca/sites/default/files/styles/large/public/imagesynchro/tiles/prt59249.jpg?itok=NZf6Fcod"
+                },
+                {
+                    "web_visually_similar_image_url": "https://files.ekmcdn.com/reedycdboy/images/ice-white-a4-card-300gsm-select-pack-size-40-a4-sheets-6601-p.jpg?v=1272021-121624"
+                },
+                {
+                    "web_visually_similar_image_url": "https://assets.mitre10.co.nz/sys-master/productimages/h70/h5a/10812599664670/351292xlg.jpg"
+                },
+                {
+                    "web_visually_similar_image_url": "https://media.prod.bunnings.com.au/api/public/content/0f5d017451f749f7b970a6174b2cf81c?v=e890ab23"
+                },
+                {
+                    "web_visually_similar_image_url": "https://halfpriceblinds.com.au/cdn/shop/products/ice-pattern_c6de381a-d39b-4d7c-a945-458aa7b76b28.jpg?v=1669122763&width=1445"
+                }
+            ],
+            "web_best_guess_labels": [
+                {
+                    "web_best_guess_label": "water"
+                }
+            ]
+        },
+        "bounding_box": [
+            2225,
+            12,
+            2559,
+            2903
+        ]
+    }
+}
