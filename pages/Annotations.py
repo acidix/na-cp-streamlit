@@ -8,7 +8,7 @@ import extra_streamlit_components as stx
 import plotly.graph_objects as go
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
-from memory_profiler import profile
+#from memory_profiler import profile
 
 def get_available_file_paths(directory):
     files = os.listdir(directory)
@@ -84,7 +84,7 @@ def create_donut(hex_colors, css_colors, percentages, title):
     )
     return fig
 
-@profile
+#@profile
 def app():
     # ----------------------
     # UI SETUP
