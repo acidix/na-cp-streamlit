@@ -8,6 +8,7 @@ import extra_streamlit_components as stx
 import plotly.graph_objects as go
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
+from memory_profiler import profile
 
 def get_available_file_paths(directory):
     files = os.listdir(directory)
@@ -83,8 +84,8 @@ def create_donut(hex_colors, css_colors, percentages, title):
     )
     return fig
 
-if __name__ == "__main__":
-
+@profile
+def app():
     # ----------------------
     # UI SETUP
     # ----------------------
@@ -128,6 +129,12 @@ if __name__ == "__main__":
     columns[0] = columns[0].empty()
 
     with columns[0].container():
+        # resize image maintaining aspect ratio
+        factor = 700 / image.width
+        if factor < 1:
+            image = image.resize((int(image.width * factor), int(image.height * factor)))
+        else: 
+            factor = 1
         st.image(image, caption='Uploaded Image', use_column_width=True)
 
     with columns[1]:
@@ -169,13 +176,13 @@ if __name__ == "__main__":
                     for recognized_part in recognized_parts:
                         part = data[recognized_part]
                         box = part['bounding_box']
-                        width = box[0]
-                        height = box[1]
-                        left = box[2]
-                        top = box[3]
+                        width = box[0] * factor
+                        height = box[1] * factor
+                        left = box[2] * factor
+                        top = box[3] * factor
                         
                         draw = ImageDraw.Draw(image)
-                        draw.rectangle([(width, height), (left, top)], outline='green', width=20)
+                        draw.rectangle([(width, height), (left, top)], outline='green', width=5)
                     with columns[0].container():
                         st.image(image, caption='Annotated Image', use_column_width=True)
                     image.close()
@@ -391,3 +398,6 @@ if __name__ == "__main__":
                         racy = safe_search['racy']
                         fig = create_line_range_chart(adult, "Contains Adult Content?")
                         st.plotly_chart(fig)
+
+if __name__ == "__main__":
+    app()

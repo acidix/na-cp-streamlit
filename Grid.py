@@ -8,6 +8,7 @@ import extra_streamlit_components as stx
 import plotly.graph_objects as go
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
+from memory_profiler import profile
 
 def get_available_file_paths(directory):
     files = os.listdir(directory)
@@ -83,8 +84,7 @@ def create_donut(hex_colors, css_colors, percentages, title):
     )
     return fig
 
-if __name__ == "__main__":
-
+def app():
     # ----------------------
     # UI SETUP
     # ----------------------
@@ -129,9 +129,12 @@ if __name__ == "__main__":
     st.write("")
 
     num_cols = 4
-    columns = st.columns(spec=num_cols, gap='medium')
+    columns = st.columns(spec=num_cols, gap='large')
     for i, image in enumerate(st.session_state['images']['images']):
         with columns[i % num_cols]:
             with st.container():
                 image = image.resize((200, 300))
-                st.image(image, caption=st.session_state['images']['filenames'][i], use_column_width=False)
+                st.image(image, caption=st.session_state['images']['filenames'][i], use_column_width=True)
+
+if __name__ == "__main__":
+    app()
